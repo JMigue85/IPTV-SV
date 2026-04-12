@@ -191,6 +191,9 @@ https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Entretenimiento", Cosmos TV (Argentina)
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Entretenimiento", MyTime Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
 # ==========================================
 # CATEGORÍA: SONY ONE
 # ==========================================
