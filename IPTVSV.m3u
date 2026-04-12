@@ -194,6 +194,9 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Entretenimiento", MyTime Movie Network (Mexico)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t1FzNKp/ESBC40000248-20250107T024921SQUARE.png" group-title="Entretenimiento", Action Movie Channel
+https://d1si3n1st4nkgb.cloudfront.net/10502/89006000/hls/master.m3u8?ads.xumo_channelId=89006000&ads.xumo_streamId=89006000&ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.sfid=&ads.afid=darkmatterspain&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
 # ==========================================
 # CATEGORÍA: SONY ONE
 # ==========================================
