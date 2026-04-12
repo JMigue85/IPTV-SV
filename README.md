@@ -2,6 +2,10 @@
 
 Este repositorio contiene una recopilación de enlaces de transmisión (M3U8) obtenidos de fuentes de acceso público y sitios web oficiales de libre distribución en Internet.
 
+Lista Estándar: ([IPTV-SV](https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u)) - Máxima compatibilidad.
+
+Lista LG & Runtime (BETA): ([LG_Runtime_HTML5](https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/LG_Runtime_HTML5.m3u)) - Requiere IPTVNator + HTML5 Player.
+
 ## ⚖️ Descargo de Responsabilidad (Disclaimer)
 
 1. **Naturaleza del Contenido:** Este repositorio NO aloja, almacena ni transmite ningún archivo de video o flujo de datos en sus servidores. Se limita exclusivamente a agrupar enlaces que ya están disponibles de forma gratuita y pública en la red.
