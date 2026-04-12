@@ -13,7 +13,7 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
 https://signal.teleon.live/stream/canal6sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="El Salvador - TCS",TCS+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+
 https://signal.teleon.live/stream/canaltcssv.m3u8?token=free
 
 # ==========================================
