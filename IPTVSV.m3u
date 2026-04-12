@@ -206,7 +206,7 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3jNSXBF/canal-con-tv-es.png" group-title="Entretenimiento",COIN TV
 https://canalcoin.garjim.es/hls/directo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNztZk1G/ESBD800001RJ-20250805T005125SQUARE.png" group-title="Entretenimiento"Cine Friki ES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNztZk1G/ESBD800001RJ-20250805T005125SQUARE.png" group-title="Entretenimiento"Cine Friki
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento",Todo Novelas
