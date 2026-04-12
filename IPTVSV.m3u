@@ -1,0 +1,454 @@
+#EXTM3U user-agent="VLC/3.5.4 LibVLC/3.0.23"
+
+# ==========================================
+# CATEGORÍA: EL SALVADOR - TCS
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png" group-title="El Salvador - TCS",Canal 2 TCS
+https://signal.teleon.live/stream/canal2sv.m3u8?token=free
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
+https://signal.teleon.live/stream/canal4sv.m3u8?token=free
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
+https://signal.teleon.live/stream/canal6sv.m3u8?token=free
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="El Salvador - TCS",TCS+
+https://signal.teleon.live/stream/canaltcssv.m3u8?token=free
+
+# ==========================================
+# CATEGORÍA: EL SALVADOR 
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES
+https://streamingcws30.com/tves/videotves/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV
+https://stream.giostreaming.app:19360/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
+https://signal.teleon.live/stream/sv8_canal12.m3u8?token=free
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV
+https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ Santa Ana
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+
+# ==========================================
+# CATEGORÍA: GUATEMALA
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal
+https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_4276517416086298479_hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete
+https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_4276517416086298479_hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J6SnMWp/como-antes.png" group-title="Guatemala",Como Antes TV
+https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8F1DvkY/barbetv-santa-rosa.png" group-title="Guatemala",Barbe TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zv3CmB3D/aurora-media-films.png" group-title="Guatemala",Aurora MF
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxLFq0rq/sil-tv-suchitepequez-en-vivo.png" group-title="Guatemala",SilTV
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02VThwZJ/Canal-Verapaz-TV-en-vivo.png" group-title="Guatemala",Canal Verapaz TV
+https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05FmnWRW/TV-TUN-GT.png" group-title="Guatemala",Canal TV TUN
+https://tvstream.alojawebgt.net:3289/live/tvtunlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKB3x3yh/canal-sol-tv.png" group-title="Guatemala",Canal Sol TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxcmv9Ds/vision-tv-solola.png" group-title="Guatemala",Visión TV (Solola)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvP9r4WP/totovision.png" group-title="Guatemala",Toto Visión
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHpRt6z8/Diseno-sin-titulo.png" group-title="Guatemala",TV Florencia (Chimaltenango)
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgQDv2v/Diseno-sin-titulo(1).png" group-title="Guatemala",SAS TV (Suchitepequez)
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0f0f413f6c58499f91b93187b809edd3~mv2.png" group-title="Guatemala", Más TV (Totonicapan)
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF2v2bmC/Diseno-sin-titulo(2).png" group-title="Guatemala", Luna TV (Quetzaltenango)
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g23Ls8v2/Diseno-sin-titulo(3).png" group-title="Guatemala", GTV (Guatemala)
+https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM3NByDC/Diseno-sin-titulo(4).png" group-title="Guatemala", TVS Retro (Guatemala)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS (SOL)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png" group-title="Guatemala",Canal 26 Cono Sur TV (Jut)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/61
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JsnWj8k/Diseno-sin-titulo(5).png" group-title="Guatemala",Canal 6 (Panajachel)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/528
+
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/27063/logo_256_1720730035.png" group-title="Guatemala",TV5 (Solola)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="Guatemala",Canal 10 (Sololá)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
+
+# ==========================================
+# CATEGORÍA: ANIME
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-toons-png.png" group-title="Anime",Memorias Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+
+#EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Anime",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Anime",Kanade
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
+# ==========================================
+# CATEGORÍA: ENTRETENIMIENTO
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Entretenimiento",Memorias Film
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento",Memorias Series
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DJWBpt/pngwing-com.png" group-title="Entretenimiento",Pánico TV
+https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/playlist/amg27164-amg27164c2-amgplt0181/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento",AMC LATAM
+https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento" ,Telemundo Acción
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/2ca762b4-f887-467d-bca5-5c36b3133583/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV7RRh0d/Diseno-sin-titulo(11).png" group-title="Entretenimiento", Telefórmula (México)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Entretenimiento",Canal LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento",ClickTV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento", Imagen TV Plus
+https://stream.ads.ottera.tv/cl/260411d7da9itq2m1e973i8a90/1280x720_3071200_0_f.m3u8?i=475_13917
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Entretenimiento", FMTV Mundo (Cadena Internacional)
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento", Visión Dorada TV (Colombia)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRwKp8y/Diseno-sin-titulo(8).png" group-title="Entretenimiento", TeleOnce (Puerto Rico)
+https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Entretenimiento", Cosmos TV (Argentina)
+https://canaletaplus.com:3922/hybrid/play.m3u8
+
+# ==========================================
+# CATEGORÍA: SONY ONE
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="Sony One",Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Sony One",Sony One Novelas
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdLSCtD9/sony-one-exitos-es.png" group-title="Sony One",Sony One Exitos
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63pNSfRY/sony-one-hits-accion-es.png" group-title="Sony One",Sony One Hits Acción
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSnptPtZ/sony-one-hits-comedia-es.png" group-title="Sony One",Sony One Hits Comedia
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxF43pCM/sony-one-series-comedia-es.png" group-title="Sony One",Sony One Series Comedia
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDyb0crS/sony-one-series-thriller-es.png" group-title="Sony One",Sony One Series Thriller
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKVdDm0/sone-one-blacklist-es.png" group-title="Sony One",Sony One The Blacklist
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+
+
+# ==========================================
+# CATEGORÍA: CANELA TV
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dab6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c41de72a1af1c56953d51b3851198814ded86c959c8168f6bf015cb93edd98511809b9361fb04b066500a2424c98623e4a332b2df8c603a994e24471052f3a294fb3c58ec25464fa291a1dd6cfc61a6e343a84115ea4dcf15fd5ae06aba1998e35baea9b7da302a53cdc75a6f22ace4ee9eed6f58d705f7affdaf1716fbd835222ba308db2d3b28918fa87ee5934fe6dc4b8cb268222cd98140e9f9d8e1c191d73ff648cbd7e4a72e564171013d934faee809b14bf359f2b1794b495e7bbd885cd287da47421325e98e4bd81f24acc8b493cd072dcb630200a50aba5f0c68be720638e629f8c26e388d7747d56665ae1561d544fdf575a5a5daa8006ee4d89f43ae6de9b052d3ac68c30e385716c191463e157e46ba9f0e878dcaa23f86f1f8a3112b12ededc4f2b22b52650a3622c20f7f850af6bdcf3c091e81722b65661914977eb623bf520168a6ae6f4b9f8ab17eb2778d9f87fbe284026aed11cbf6f7c741a776d0ceb20a2e346653bc2609295474d7e744d037517776518140310ded471275e39bcdea8e932ee0a824fb682c443885c71e4f5f06282312cdc421977ff28311bcaccf5ee7e6995d10d66bed5246de98f744ccc0ad8b0f0399a152594092d02cca3a6de41fc62485d73f89e403484c72100692ce67fe59b8cd93887ec97be31c553ecf7cbcd3b2e7802806a9c10463417c3f7d485b782803afc9953550098b9213a60cb6a505d30d3e5a124edd900f4d89ee636ef5187763b7afd884abde797eef6af370892d43915e032aeedb2ba8e496f6e98c7b5b10d3d4f91d5bc0792d6e78ac70bdb2fa55f94761477ca56c951fc43b/21/1280x720_3849560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV 2
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA874/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cinema LT
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757eb5c6b0537dbea0bb074049382178a7e7f8ab0d5693d7b475d990e54b7a80da6fab70e40d2579b824015d10d71ddb03cb8de3981bd851bde2cc532ae56c8fdb5c98f32b6bca31dd85d8c5e6b51210ff1ea1fbae87fe797cd3374f6122c4f1a27a0c9d7a61f648741410aa0b29ebc33fe5e9a8c74d62d35e3589d028233d339fe59f6b84fa5f4ed853d2b53b1d7647135a9f3a189e24742d709f5b7e5d14c698ac9046a4edf6cdb3b7154fa98c81b94d314e4d549e4e4337752a3954b8fefd1e98ee0d73af64dc3c1f5a7295b5e667666ec3f8cbb37a243b779b8de2c23494340a19f27afecb05d316c4a8a8110c00541ceb1e487da1832c9652456e96ede4e046bc94608168728eaa80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28435acbfd832106585fc5c08ec54f32d37316d20fe22ad1598d1/3/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA880/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Picante
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757b159360633deb85cb074049381178a7e7f8ab08c646874475e9d585ae7f20cf6ffe8094cd2569b824816d10d76ddb342c3f42683d9820af107cf36a436a9a8c2f5a21aa7bcac32e917dd271d573078a6956b9fbb39dcb8b44863f71b4b4a134194c7f99c601ddc382936edecf4af77f605cf8a3cf3115dd40e8d43880f9f789519b5e858a1aea285352b56a0c14d6824a5daac8bf53226bc61fed08db711798aac7a1225c06eaa4a415eb9dce945c9944fdbdc4081bd6d6f7eaad51dcac5b385ede6d507c9269cc6b9cc3813192e065ade58ef9c6e827b8928f9971224051b1ed4f03fc596c961327741828c5ba67871d0d88a8dda023a84740d00840abc580a7cdc351e1f8f4ca9a80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28437ae08ee3ffb21ad3882cbd31442a94e975ed5481204d572d8c964/177/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA938/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Romántico
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757b05a6c0060dab85db074049383178a7e7f8ab0d4633b2e470bca0f09eda50ca3fcb25e4dd2499b8c4d08d54006a3dd009cbb59f9dcf66fa471f807fb28a7a7a3d49350d3a4a2599857b879633b26749df23ff98d05e7829b6f3bca2965131d03e7eec7fb1f6bcb451b04fdb2cdbc3cad479ed87c80656eed5af225e734847fd86acd801efac3d1bd4b424bccae3d480682b4eddda14259d262feb4e0de764395f71a7f52c86add504f52f2f8d84ef4a97d9fb022baa0700d3db2f52ff9b393d990dae75f8f1adad5fd8e3c4157117568e953b79661e43cce47b8dc1a375d4e5df7e33fae87c94e0f605a888452d16170d3b28882d10b37cb2e0f4cb20bb3380961d84608168703d8a80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28436a60659be314b89344ad7092e8b19d5fbd3ce258499d3b058c5/99/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA881/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Acción Mexicana
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757ed5c6a0f3089eb58b074049383178a7e7f8ab08f60382f470bca0b08eca658f1fee05f43d2529b83451bb7177fd1fb33bbd501bc8af161a312c6369e57d9cdb2debc55c0dab3579365cc155315481e9d897de18f37f282cb31389a737e1e5300e5f592b31a39d7100e5ea0a7cef263fc4a9cdd75d03936be59ce15ee5ae96fa41dd58224c1fde1a6282b38b4d4646332aee1ac8f895e59d465faacecd172328de04e082da164de23142c89edce66e0a977b89779eede0a1135d4e321f1ff9ca2b5dce72f9f2adad7f5ea5e282f335e7dec37b78952cb3bd46ea9cd0a532d272ba38f59c8b9cc4d0f725d8f965fd70a41ceb1e487da1832c9652456e96ede4e046bc94608168728eaa80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28437ae0aef3ffb57a63882cb71cd9ffcf467e9752287ddf9365e90f7/156/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA948/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Peli Mex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757ba0a3d0130d4e90cb074049384178a7e7f8ab08c353b7547589d585decf60da3abb75a4dd2499b8c4d08d54006a3dd009cbb59f9dcf66fa471f807fb2aa7a0a9d8f128b8b0e812db56af63532748178c934683db54a0db99704bed1b47480b59ea9c86ed712c944e555dfbe691cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb5061968fcc55d6371f8a8f589ad347ee963aaf5a4df2b249cbb127b1e9b398873723995a49d4ef3a97a92b3358cb76c2234c19f428e9cb5869dd4e728993690ab9efd3e4d5e730570e537c3ca37b143be7ca6da6142362c14f7f13fa78ad44a420625e4ae7f8e6a71d3da9b93e00c2ec464175f9a0bb332066dc231607dab39efa80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28437ae0dee3ffb41a53882cb50d9d73c1a1ac03062d45495eae1c721/127/1920x1080_4403200/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA962/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Seasonal
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-seasonal-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757ec583e0e6bdeec58b074049384178a7e7f8ab0d563307e4757ce545eb7a25ea1a9b75b43d2719b824811c10d53dd964ac8dc4dedd2d2538346d570a00999c7f18cce428a8ec47eff04bb665d087324988520c5932adcb59e6c2f95722d791254e8a486ff4939f423293efdec91d10f9d1acdfb4deb061e9a22c902d36af301c008b7f171a2b8b5db4e444bcfae326226aee0ac8bb52125e71991c8fcce4c6c8bff027944d01fa948443685f1c72b91d02a86a42a93b56a0462abfb269790a6f18bdaef64bd7fa6ad919b32525e627661ec3cf3c007b14ad976bcbc704b3d1d1ed8f038c596c961237640948561c10117cbbfe1e1f12f61ba0a7353ee61e64f1c7cc94608168703d8a80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28437ae0bec3ffb5cbb3882cb3b8970a8108786eedcb7fd23a265051d/145/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Latina
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757b95a3b0360d9b95eb074049385178a7e7f8ab0d5303178470dce5a55b1f208abfcb45543d2459b8b4d08d54017a2dc1695813e80baed08cf1dd32aa00ad9d4fab0e923dedbd5419d6d801a28024c17fb897ae1a137d0f3bb4b68d1267236743defa592c15a2596423138929de59e3f8a79a38835915f24af0f8a4abb259867d86dcd836081f7ccb52d453cb2cd586418ace4ae8dee3434b8149fc88bd86026f59c717b48d97dd9504852f1ad917eeea01198a251e6de084d62bffb2f8e8e8d93fdb99b4b9f3cb8b69ef73357426f3b179562b28864cd28de61f2837942584440dfdc3f80de880631644dd0d81381104db896df868e5976c838435fa566da0257389c65357de074afa80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28436ad0c59be105689344ab56e40684580cfb0d91d6fe3ac6dd7e6/23/1280x720_3849560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Turca
+https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757bb0a3f0533ddeb5eb074049385178a7e7f8ab08c33682b470cce0e0beda75cf6f9e55545d2569b824816d10d76ddb342c3e8268ed38b1bde12a445cb259d98d0b1eb49d4d7fe27e017e7466d324053b8da17f9ab54b5a8f2035fb5500a175302bceef99d4a3582350536bca79ae764f91198d168d46361ba4dcc4ad567c769f251a2ac48a3f4e98b121060a5c102377ddf8fca9fe80a23af6feda3eac4010df3991a6d4bc552cd31142882f4dd1587da4ffddc4089b97d6f5caaf36bbac7eae98ca59f46ee74a088fc8c29525d394b4d855cac9f61da67c96ee7de1f20454856e2995dc588d75b3c2d4189965bd81208f4cf9e91dc0f2890197130e970c9640779c2306079974693f33f6d872306847b29ed0242ea2df8bd3afca4deda0a3abbd9d243f86a9dd160b0f311f318563403a3e2134c51436fd5d1731f3c0ba72f86fdebd34c6371847d704da1295a250b55342e99e3fd7997fcb8437f25e023e8e4e9726dfb37d97ccb08092123cc0cdaaf080ee54c417faecfb73a2bf4a54b747a33806a3d95bb6c1193c50a9b13129c3e003467d0b7c26afc37744e7b488c005eb3dc6d6a6fe58fc0e99581219bd234ea70551d6dc1ff0052497c47235bcbde388c1ed59a13efcf911cd4b9d94905972af95044ce9e8c25b8ca84c44400dff8074837c7827794330bce05d12d87ca3f89e405484c4e3522a8b95df15bb6c889877aca5eca61373ebb28f5cc99f6bc017be88b433f3f082f66595b64290ab7c29529404ce5b223e94af5a9328d4747382b48ce88630fd7be977d52a7dccec31d5fc4942d582e454294426d0cf3e61b/116/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Novelas Brasileras
+https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757b05b380233d4bf50b074049385178a7e7f8ab0d5673b7f470b9d5554b4a55ff6fae55911d24b9b8e481dd37616b2ed1e988a4bfed1830ebc77bc44a45797bdcab19653edc6d33aef06e12d7b2948129795759ff648a5e58a7b308a702b5f44208cce92ee5e0395534c4efdc0dead698d77a4eb0ba03a7ad1639c468042cc01ee51f6b94fa6afed870f143af2c5163522f1b2ed88a36d36f060f8fbbb89232dc0f7112111931db24a223e91c2df0d94c667f2dc41ab95336452aa90558ba2b096e1b4814fee4ea0aef799334742624a169007ccf00fd22aaf10c2a83a007e1c09fac03faee5dd5024102cece10e8e7f71dcd88493cf0f49a90a7a0ab20bb3380961d84608168703d8a80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28437ae06ed3ffb03b83882cbc071581fbf86a825fef0f57036f1cfa3/194/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Narco Drama
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757e90a3f0f62dfbb5eb074049385178a7e7f8ab0d563307e4757ce545eb7a25ea1a9b75b43d2439b8b590bfa6f07bec4139a9d3e9abaeb05db1fda19b457f2d2b2d29541d1cf9b5d9365eb377b30481bb0a15bc2840aecaff004388c6117550a5af4a6aceb5c30f423293ed6de91cf0f971ac8881a957927be72fc25e61eab31dd63c8e54bb6a4b8da7d4d38aac34e6020a597c4e0993020e70c91c1edd3670efa9c75281da507bd21242880fcb977eea245ccdd49e6b864094aa4fb27b5bce8fa85da8c5a8c1ac8d2fa9c31473c086e6b855cac9f61da67c96ef2837942584440dfdc3f80de880631644dd0d81381104db896df868e5976c838435fa566da0257389c65357de074afa80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28437ae0bef3ffb4db83882cbfbd06b0fb2cc0d60543537edc74c27d8/146/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA875/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Clásicos
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757ba503e073088b90ab074049383178a7e7f8ab0d5693d7b475d990e54b7a80da6fab70e40d2499b8c4d08d54006a3dd009cbb59f9dcf66fa471f807fb3da7a8a1cb937fd0c3cf37f502905f6331217c978575928749a080ed035698743e4f1d50d9af92f049298740462e9c95a9ba76a56ca4e330925f27a9098e4e8729f81ac066a9f442ac92aecc7d512badd25a623efaa8cae9ff3c37cf2091e6b18c2b7d9ff442200a9c6e8e23666c95ac9c59869b4d93fb2586ed3b496891c8449ec4e4d981daef439f57a2ad92b11c601f2e5358ea37c79962cb39dc0acba4727106262ece9658d0f4bd34524c6edcea34b71715ada9e8e9be5e61ba0a7353ee61e64f1c7cc94608168703d8a80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28436a90e59be494c89344af535d0b784ac173fcfbf399c6e8f42a1/61/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Thema Vive Kanal Drama
+https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757eb0f3f04638eea0db074049385178a7e7f8ab08c60397b475d99095ceda20ba1f9e00e16d2609b82590ac90d40dd811a8d905cf88acb44cd12d823ad4583d6b694934cd3cfc421b604ea3507562771d6967085cc10bddb946835d17565420c54eba2c981245693547c4ceaf6ddbe66e661bfe34a8f753bb73f8d5cbb209862bc08a4f814d0c7d3d6444006b0dd4b6455c48fc2a4da6f59d705ffacfdaf1016f8a64e0f2da669dd34223b95c2c7158ac40097b126f7d0037f3dd3cb29f1f8b18cffa08c38ff4fab97aef35721426e1070e237c0b44c815cb715a9de031e4f594bbf9f6ad194d52c54082da8a104ad7971b8cb9bbcdd1b35ce6c1e28830ab0580462c9386d32f13ba3f4560e802578ed5f5bd27917d10fab8a179fd6b36fbb88d4a4a560cd2d899718d3ec0ba51f44336080d35c91c1d11faa835502256dcb05c5decff37e0a019697879e921b508f5e66ca3f08271cc4cd2eb909d9a91f3dda45d45a66b709d37bd603484f1dc811ec9c086189091bdd87cd0f7055769fc4bd80c8838414f537e4c6f33d202c4a23930745773e9de6d619ca3145282e06c0173217e6474854b0c49db5d7d0278ebb61a9336d5b3195a14711580222232c92826dd151fadc4cedcb840cbe9ae778728c32a70e078d908d3c8a8aaff30f5ec0e4076322fdb40aca6924cb1bd551f9f479cab55309047c0d08f5875afb50aeccd8a00f9f3fa65b0c6ee01beaccb453b7a3c2453f2c9757ce5abd42c7974d73dac5bfb12b00/107/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Novelísima
+https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757b85b6a57348eb85eb074049386178a7e7f8ab08c613b2f470c990b0ce4a35aa4fbe40945d2459b8b4d08d54017a2dc1695813e80baed08cf1dd32aa00ad9d4fab7e925d1d9d123f875815e68087817f3e37d9ddd2fd5b0fb3963ec1b404f1854d9b78aee4b4ee22d2172d9a586d506fb1acafb63eb246fea5899498666d226ff0af1e003f4a8ea880f4361fcc1166724f9b7f4daaa6c32b83fadf89cb71e7d89e62b6b53c67fdd1d3e2a9c8faf7ee6ed34ccdd49e6b864094aa4fb27b5bce8d785d39858905787adbf9029565e705e4dc95ea39468d728936cbe81032d5d5441bfd556cc87d750356e00888f48d11f12aad28682857151a0750865f872d04d046fd5461d168a23ec9630539c3535952734ed593699188bd243f1a2cdec053e8ad2c64cf87aeeb20fa09268cb682f036cd990255c372417b6c7472f61349477dfb9bb89fdb4b38d8dafdcf2115e252b16480587909f1af9bde159d3925c315c0d471f02820c9648d2055b092dc864b3e66926cd6ea94a973f0cde9f97229e11f8a712759adb83f66fb7480e365c71b43004695dd2b9b269fc2d477140ade165546eb21d534ee69486b0d7d02e86ab6da43c6d037085de230158023d3351dba761d908b6c85da1cd9e078cfd9b4814d16ced5159def7d96ff3e2ce951f5ec0fa064936d7f52ed7762bc80f9b7adc823e88c2206c760b4946c68143ec1fe88fe8a005ae6cfc1f4d2e903dd1fbcebccc6f5aeb90304215004712795d6e6c41f8eddc6a0474fbaf658179e3f85ebd4d44395d16896261c2124ad97a5c0d251ebdaea574b82c283bd620d211/17/1280x720_3071200/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Corazón TV Azteca
+https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757ba5c3805378cef0fb074049386178a7e7f8ab08f623c7b47599d5809b4f25fa3ffe55d46d2499b8c4d08d54006a3dd009cbb59f9dcf66fa471f807fb2aa7a0a9d8f128b8b0e812db56af63533448189a8f6983c82fd5b0fb3963d11b4b42175194e5f9ba166dde46455eaea786ea66a91283dd20d0377ab958c04ac9368932f85df7b017a1a8e289181053c7d1496d55ea8fe882ef2123ae3cb4edeadc7d7995f75a6c51867dd423323d82b2c81c85cd1b93ba6c86bb7b1c22cf9f1fe2f7d882ffa0b248892bcecbf1ea56282760050c8351a3d479cd73a212c2db001e4c5f4dbb9b56ddf4a8345f6c5a8a8c61c10024a9c98295de0d22900a7139ec6ecd296606ad64360c8f45f09c3d539d3f1a804759913a1ba1188bd243f1a2cdec053e8ad2c64cf87aeeb20fa09268cb682f0369d9912052513e19ba8c482c0242a9348c597752167362cec58f98e241391d301b2074e180d451eb4044b47f6cac602975601857b709d37bd603487a4e837e81e461fce277b91e6562c4e90cccefe8753e59b836611535a2eef03c3d325a62f200042951e3b79855f202bb1f106dad007e4ab10b5b0dbfdb99a5d1b767c0986bbd2b223a5785a1470f590933540395c63c8c1efac549e2dbd84a96bed9420bd575e326159ddbd323aabdd0971f5ec0fb173f6e85d621ca6b6296438465d8a005b2da620f12384f5fd1ce05af2ddef1ae877aca62fd3546148d55b486eabfda672c96b74321360f5a0f3f1f361b05b6deda7313398b9822f556f2e445a321056367a7bf5495fc288e1de68b7b0fc6f5c66e143c2b1c9e6735/108/1280x720_3070540/index.m3u8
+
+# ==========================================
+# CATEGORÍA: XTREMA TV - FUNCIONANDO
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Xtrema TV (ENLINEA)",XtremaTV
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Xtrema TV (ENLINEA)",MultiVox Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Xtrema TV (ENLINEA)",MultiVox La India
+https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
+
+# ==========================================
+# CATEGORÍA: MUSICA
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
+https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YLzKw2B/4-2.png" group-title="Música",Mass Musica
+https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFnjJqht/5-2.png" group-title="Música",Chamame TV
+https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brh7qmQP/6-2.png" group-title="Música",Ritmo Universal
+https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SZ7xrsc/9-2.png" group-title="Música",Tropi TV
+https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.populartv.cl/wp-content/uploads/elementor/thumbs/Logo-en-PNG-con-tipografia-polbioybcx24gunnadhprzcqp2wqxwbpofdcvojex8.png" group-title="Música",La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Música",Zioon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-CLASSIC-OK-png-.png" group-title="Música",Memorias Classic
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon.png" group-title="Música",Memorias TV
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/LOGO-MEMORIAS-standard.png" group-title="Música",Memorias Pop Latino
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-tropical-ok-png-.png" group-title="Música",Memorias Tropical
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/noticias/2023/01/canela-tv-musica-720x404.png" group-title="Música",Canela Music Hits
+https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dab6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c41de72a1af1c56953d51e2d04bcb8115e985c959c816d46bf015cb93edda8545d09bc332fc52b3605e0b7524c9d84ba8a32cde5027da58e6130a745c33c4b192e44730f43f293ecbdebb71e16271b4e4168e7523b340b94281228368ab73c7ab2ef2e5d3572530a197479e9a93f645d9aa3f8aedd39ade02a3ac52719ce41d7b46865ed92d140891e8c71bbe6474fcab0e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c66aab943b8f729d60fe9a5a617d5d54a19f62c184f257242d1ad5d71087455bf1f0a3b7f222778a6c1251ed20fe5e0667c37d2c5fed3ff6973923d8725ccb6573ab1665c071fdbe2de7ae94b0556cfb8d9102da6be8fa5b86a04cf9236c1752c1874635724573d4e1711e7028933783fdfea126594ebc8d8294a97e31042b1841038df69519b687c33b1205ce55321a1a3513910196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3cc228d07d3674642267352beddc550da7161b19e939294062/104/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Música",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Música",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/parentesis-tv-2.png" group-title="Música",Paréntesis TV
+https://freya.mivideo.pro/parentesistv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/planetaTV-music.png" group-title="Música",Planeta TV
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjRXJcLY/antena3-icon-orange.png" group-title="Música",Antena Music
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="Música",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bdCkrp/voiceover-radio-costa-rica-0-png.png" group-title="Música",Voice Over Television
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Música", MaxiVision TV
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
+# ==========================================
+# CATEGORÍA: DEPORTES
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYB56CRS/Diseno-sin-titulo(12).png" group-title="Deportes", LaLiga Inside (España)
+https://d3bb58xoj568xi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/97e88fca-65e2-4556-a109-62b3aa265ba6/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PNnH6pjK/Diseno-sin-titulo(13).png" group-title="Deportes", Motorvision TV
+https://d23obwy8cjdxix.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/00ef7f32-c3df-44da-9cc9-318e618c6c38/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/449m1pvd/Diseno-sin-titulo(14).png" group-title="Deportes", MyPadel TV
+https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/8bb03533-3e00-4d2e-8bbd-2a890548447f/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes", Real Madrid TV (España)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (Español)
+https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJXyWhyH/bein-logo-af017869.png" group-title="Deportes", beIN Sports Español
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (Español)
+https://87bb29fc.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/86118751-d7f3-4037-b9ec-a4b3d36aea30/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJGRK3d/ES3400002PY-20250121T012834SQUARE.png" group-title="Deportes",Surf Channel
+https://d3oxrjqn271yyu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s0n4neu74pe7t/live/fast-channel-surfchannel-22ac1747/fast-channel-surfchannel-22ac1747.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EN)
+https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXNPjZb2/pfl-mma-es.png" group-title="Deportes",PFL MMA (EN)
+https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5vX5Fx/redbulltv.png" group-title="Deportes",RedBull TV (EN)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+# ==========================================
+# CATEGORÍA: XTREMA TV - PENDIENTES
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSLjJS2c/15.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Suspenso
+https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43vR7CwD/16.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5FV960/17.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Clásicos
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqV98tYS/18.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Comedia
+https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0cqb8wQ/19.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Familiar
+https://stmv6.voxtvhd.com.br/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf3bkjHT/21.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Asia
+https://stmv6.voxtvhd.com.br/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRZMsjG8/22.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Europa
+https://stmv6.voxtvhd.com.br/cineeuropa/cineeuropa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LNsgq7h/23.pngg" group-title="Xtrema TV (PENDIENTE)",MultiVox Drama
+https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM93ML4p/24.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Latino
+https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gchMDyvG/27.png" group-title="Xtrema TV (PENDIENTE)",Mega Cine
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df1gsvK9/411.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Scena
+https://video.xtrematv.com:19360/multivoxscena/multivoxscena.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5tSSGLN/11.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Series
+https://stmv7.voxtvhd.com.br/xtremaseries/xtremaseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC4Wz0DM/12.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Retro Series
+https://stmv7.voxtvhd.com.br/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnJ4snqj/13.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Anime
+https://stmv7.voxtvhd.com.br/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXpVQwt3/3-2.png" group-title="Xtrema TV (PENDIENTE)",Super Classics TV
+https://stmv7.voxtvhd.com.br/superclassicstv/superclassicstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZm4yb7j/7-2.png" group-title="Xtrema TV (PENDIENTE)",Rock AR TV
+https://stmv3.voxtvhd.com.br/rockarradio/rockarradio/playlist.m3u8
