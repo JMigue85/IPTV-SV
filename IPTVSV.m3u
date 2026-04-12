@@ -200,8 +200,11 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/89006000/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Entretenimiento",Artflix - Películas Clásicas
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine",Bjgtjme Películas Gratis
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Entretenimiento",Bjgtjme Películas Gratis
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3jNSXBF/canal-con-tv-es.png" group-title="Entretenimiento",COIN TV
+https://canalcoin.garjim.es/hls/directo.m3u8
 
 # ==========================================
 # CATEGORÍA: SONY ONE
