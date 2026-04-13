@@ -96,9 +96,6 @@ https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g23Ls8v2/Diseno-sin-titulo(3).png" group-title="Guatemala", GTV (Guatemala)
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM3NByDC/Diseno-sin-titulo(4).png" group-title="Guatemala", TVS Retro (Guatemala)
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS (SOL)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
 
@@ -205,9 +202,6 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3jNSXBF/canal-con-tv-es.png" group-title="Entretenimiento",COIN TV
 https://canalcoin.garjim.es/hls/directo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNztZk1G/ESBD800001RJ-20250805T005125SQUARE.png" group-title="Entretenimiento", Cine Friki (ES)
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
