@@ -5,15 +5,27 @@
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png" group-title="El Salvador - TCS",Canal 2 TCS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
 https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
 https://signal.teleon.live/stream/canal6sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
 https://signal.teleon.live/stream/canaltcssv.m3u8?token=free
 
 # ==========================================
