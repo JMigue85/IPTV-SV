@@ -480,6 +480,9 @@ https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5vX5Fx/redbulltv.png" group-title="Deportes",RedBull TV (EN)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0qngzh/world-billiards-tv-mx.png", World Billiards TV (EN)
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
+
 # ==========================================
 # CATEGORÍA: XTREMA TV - PENDIENTES
 # ==========================================
