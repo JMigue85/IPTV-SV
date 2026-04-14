@@ -215,8 +215,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="Entretenimiento",Águila Roja
 https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nckjwpQT/estrella-tv-mx.png" group-title="Entretenimiento", Estrella TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGt9Wh4M/estrella-tv-mx(1).png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cLKVjV6/las-estrellas-co.png" group-title="Entretenimiento", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 # ==========================================
 # CATEGORÍA: RAKUTEN TV 
