@@ -38,6 +38,9 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfmyyBsj/rtv-canal-57-sv.png" group-title="El Salvador", RTV Canal 57
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
