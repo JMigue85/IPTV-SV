@@ -42,7 +42,7 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mD3mX6Y2/tigo-sports-sv.png" group-title="El Salvador", Tigo Sports El Salvador
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8?type=sv
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
