@@ -442,7 +442,7 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 # CATEGORÍA: DEPORTES
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD3mX6Y2/tigo-sports-sv.png" group-title="Deportes, El Salvador", Tigo Sports El Salvador
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD3mX6Y2/tigo-sports-sv.png" group-title="Deportes;El Salvador", Tigo Sports El Salvador
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfJ34dBP/0-16x9(1).png" group-title="Deportes", Canela.TV Combat
