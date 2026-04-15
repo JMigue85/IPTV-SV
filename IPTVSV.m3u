@@ -463,6 +463,9 @@ https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/449m1pvd/Diseno-sin-titulo(14).png" group-title="Deportes", MyPadel TV
 https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/8bb03533-3e00-4d2e-8bbd-2a890548447f/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD3mX6Y2/tennis-plus.png" group-title="Deportes", Tennis +
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QQz8KdB/top-barca-es.png" group-title="Deportes", TOP Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
@@ -487,14 +490,26 @@ https://87bb29fc.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEct
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJGRK3d/ES3400002PY-20250121T012834SQUARE.png" group-title="Deportes",Surf Channel
 https://d3oxrjqn271yyu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s0n4neu74pe7t/live/fast-channel-surfchannel-22ac1747/fast-channel-surfchannel-22ac1747.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD3mX6Y2/redbull-tv.png" group-title="Deportes", Red Bull TV (Español)
+https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4nqxVKR/fuel-tv-mx.png" group-title="Deportes", FUEL TV (SUB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD3mX6Y2/rally-tv.png" group-title="Deportes", Rally TV FAST
+https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD3mX6Y2/mavtv-racer.png" group-title="Deportes", Racer International (MAVTV)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EN)
 https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXNPjZb2/pfl-mma-es.png" group-title="Deportes",PFL MMA (EN)
 https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg" group-title="Deportes", Hard Knocks MMA (Full Link)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads.appName=RakutenTV&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=092d792c-a5b4-42a4-b326-626c4e7812c8&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883037&ads.xumo_providerName=hard-knocks-fighting-champ-eng-rakutentv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5vX5Fx/redbulltv.png" group-title="Deportes",RedBull TV (EN)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
