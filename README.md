@@ -6,6 +6,45 @@ Lista Estándar: ([IPTV-SV](https://raw.githubusercontent.com/JMigue85/IPTV-SV/r
 
 Lista LG & Runtime (BETA): ([LG_Runtime_HTML5](https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/LG_Runtime_HTML5.m3u)) - Requiere IPTVNator + HTML5 Player.
 
+🛠️ Guía de Optimización y Compatibilidad
+
+Para garantizar la mejor experiencia y estabilidad en las transmisiones, se recomienda seguir estas pautas técnicas:
+🚀 Reproductores Recomendados
+
+    FredTV (PC): Es el reproductor con total compatibilidad para ambas listas. Ofrece el mejor rendimiento con errores mínimos.
+
+    MPV Player (PC/Android): Considerado más estable que VLC. Es la opción ideal como reproductor externo cuando un enlace presenta problemas de carga.
+
+    IPTVnator (PC): Se recomienda la siguiente configuración en los ajustes:
+
+        Motor Principal: JSPlayer.
+
+        Motor Opcional: HTML5 (considerado semi-estable).
+
+    Televizo (Android): Compatible con ambas listas, incluyendo la versión LG + Runtime.
+
+⚙️ Ajustes Técnicos y Soluciones
+
+    Decodificación por Software: Se recomienda activar la decodificación por software tanto en MPV como en VLC. Esto evita errores de visualización y mejora la compatibilidad con distintos códecs de video.
+
+    Solución para canales TCS (Token Free): Si los canales de TCS no abren correctamente en Televizo o VLC, utiliza la función de "Abrir con reproductor externo" siguiendo este orden de prioridad:
+
+        MPV Player (Opción principal por estabilidad).
+
+        VLC (Segunda opción de respaldo).
+
+📺 Compatibilidad de la Lista LG & Runtime (BETA)
+
+Esta lista ha sido testeada y funciona correctamente en las siguientes plataformas:
+
+    FredTV (PC)
+
+    IPTVnator (PC)
+
+    Televizo (Android)
+
+    MPV (Android y PC)
+
 ## ⚖️ Descargo de Responsabilidad (Disclaimer)
 
 1. **Naturaleza del Contenido:** Este repositorio NO aloja, almacena ni transmite ningún archivo de video o flujo de datos en sus servidores. Se limita exclusivamente a agrupar enlaces que ya están disponibles de forma gratuita y pública en la red.
