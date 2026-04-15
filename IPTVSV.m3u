@@ -4,7 +4,7 @@
 # CATEGORÍA: EL SALVADOR - TCS
 # ==========================================
 
-#EXTINF:-1 tvg-logo="..." group-title="El Salvador - TCS",Canal 2 TCS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDqGzc1N/Canal-2-El-Salvador-en-vivo-Online-1536x864.png" group-title="El Salvador - TCS",Canal 2 TCS
 https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
@@ -280,7 +280,7 @@ https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63pNSfRY/sony-one-hits-accion-es.png" group-title="Sony One",Sony One Hits Acción
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSnptPtZ/sony-one-hits-comedia-es.png" group-title="Sony One",Sony One Hits Comedia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzSckFD2/sony-one-hits-comedia-es.png" group-title="Sony One",Sony One Hits Comedia
 https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxF43pCM/sony-one-series-comedia-es.png" group-title="Sony One",Sony One Series Comedia
@@ -333,7 +333,7 @@ https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Narco Drama
 https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757e90a3f0f62dfbb5eb074049385178a7e7f8ab0d563307e4757ce545eb7a25ea1a9b75b43d2439b8b590bfa6f07bec4139a9d3e9abaeb05db1fda19b457f2d2b2d29541d1cf9b5d9365eb377b30481bb0a15bc2840aecaff004388c6117550a5af4a6aceb5c30f423293ed6de91cf0f971ac8881a957927be72fc25e61eab31dd63c8e54bb6a4b8da7d4d38aac34e6020a597c4e0993020e70c91c1edd3670efa9c75281da507bd21242880fcb977eea245ccdd49e6b864094aa4fb27b5bce8fa85da8c5a8c1ac8d2fa9c31473c086e6b855cac9f61da67c96ef2837942584440dfdc3f80de880631644dd0d81381104db896df868e5976c838435fa566da0257389c65357de074afa80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28437ae0bef3ffb4db83882cbfbd06b0fb2cc0d60543537edc74c27d8/146/1920x1080_6423560/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA875/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Clásicos
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L69hMWHg/0-16x9.png" group-title="Canela TV",Canela Clásicos
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/cb563e1e7a6c628984cc3c78d1f662c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d13748498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d16dfb294757ba503e073088b90ab074049383178a7e7f8ab0d5693d7b475d990e54b7a80da6fab70e40d2499b8c4d08d54006a3dd009cbb59f9dcf66fa471f807fb3da7a8a1cb937fd0c3cf37f502905f6331217c978575928749a080ed035698743e4f1d50d9af92f049298740462e9c95a9ba76a56ca4e330925f27a9098e4e8729f81ac066a9f442ac92aecc7d512badd25a623efaa8cae9ff3c37cf2091e6b18c2b7d9ff442200a9c6e8e23666c95ac9c59869b4d93fb2586ed3b496891c8449ec4e4d981daef439f57a2ad92b11c601f2e5358ea37c79962cb39dc0acba4727106262ece9658d0f4bd34524c6edcea34b71715ada9e8e9be5e61ba0a7353ee61e64f1c7cc94608168703d8a80706f84e8038865c813a17b2009a9a3ef4bdd2e97443dfbcf4638fa16b2868a89b31a67828514292ff294d4c4f7caa8e2c6d6231abcd83a252d2f4ccfb58a16d87e09787d957eb77acc193c67d9e9cc92a1c59f252295f4411029a0bec99be6a792d21d317dfa0083bd048716dae9036535e6381dbf1afb3969b14fb2f888fca30216d0d38fd2b53723593a49b03ac6c1b302a14c0286140b6081510bac499b5c8d03f8eba6db83d641b7b8aa143114702011660f1a761d95aed840ef9ca9a2eabc1b95214d572f37b55f4b7f163e2e48dcb4e75e18c5e0b6291dc3f853e6df01eda2f87c5639ad771030f375447d28436a90e59be494c89344af535d0b784ac173fcfbf399c6e8f42a1/61/1920x1080_6423560/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Thema Vive Kanal Drama
@@ -434,6 +434,18 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 # ==========================================
 # CATEGORÍA: DEPORTES
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfJ34dBP/0-16x9(1).png" group-title="Deportes", Canela.TV Combat
+https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channeld-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGPgvvRX/0-16x9(2).png" group-title="Deportes", Canela Deportes
+https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6V94zp/0-16x9(3).png" group-title="Deportes", ITV Deportes
+https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvWL7bkq/0-16x9(4).png" group-title="Deportes", PowerNation en Español
+https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYB56CRS/Diseno-sin-titulo(12).png" group-title="Deportes", LaLiga Inside (España)
 https://d3bb58xoj568xi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/97e88fca-65e2-4556-a109-62b3aa265ba6/0.m3u8
