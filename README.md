@@ -49,11 +49,11 @@ Esta lista ha sido testeada y funciona correctamente en las siguientes plataform
 
 Esta lista es una recopilación personalizada, filtrada y testeada específicamente para garantizar su funcionamiento en El Salvador. Gran parte del contenido proviene del trabajo de los siguientes proyectos:
 
-([iptv-org.github.io](https://iptv-org.github.io/)): Por su inmensa base de datos global de canales abiertos.
+[iptv-org.github.io](https://iptv-org.github.io/): Por su inmensa base de datos global de canales abiertos.
 
-([HelmerLuzo](https://github.com/HelmerLuzo)): Por sus valiosos aportes y mantenimiento de fuentes en GitHub.
+[HelmerLuzo](https://github.com/HelmerLuzo): Por sus valiosos aportes y mantenimiento de fuentes en GitHub.
 
-([Teleon.tv](https://teleon.tv/)): Por proveer acceso a transmisiones oficiales de diversos canales.
+[Teleon.tv](https://teleon.tv/): Por proveer acceso a transmisiones oficiales de diversos canales.
 
 Comunidad Open Source: A todos los que comparten enlaces de libre distribución en la red.
 
