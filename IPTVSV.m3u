@@ -404,16 +404,16 @@ https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/p
 
 
 # ==========================================
-# CATEGORÍA: XTREMA TV - FUNCIONANDO
+# CATEGORÍA: XTREMA TV
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Xtrema TV (ENLINEA)",XtremaTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Xtrema TV",XtremaTV
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Xtrema TV (ENLINEA)",MultiVox Accion
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Xtrema TV",MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Xtrema TV (ENLINEA)",MultiVox La India
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Xtrema TV",MultiVox La India
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 # ==========================================
@@ -571,54 +571,3 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0qngzh/world-billiards-tv-mx.png" group-title="Deportes", World Billiards TV (EN)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
 
-# ==========================================
-# CATEGORÍA: XTREMA TV - PENDIENTES
-# ==========================================
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSLjJS2c/15.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Suspenso
-https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43vR7CwD/16.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Terror
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5FV960/17.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Clásicos
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqV98tYS/18.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Comedia
-https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0cqb8wQ/19.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Familiar
-https://stmv6.voxtvhd.com.br/cinefamiliy/cinefamiliy/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf3bkjHT/21.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Asia
-https://stmv6.voxtvhd.com.br/cineasia/cineasia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRZMsjG8/22.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Europa
-https://stmv6.voxtvhd.com.br/cineeuropa/cineeuropa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LNsgq7h/23.pngg" group-title="Xtrema TV (PENDIENTE)",MultiVox Drama
-https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM93ML4p/24.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Latino
-https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gchMDyvG/27.png" group-title="Xtrema TV (PENDIENTE)",Mega Cine
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df1gsvK9/411.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Scena
-https://video.xtrematv.com:19360/multivoxscena/multivoxscena.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5tSSGLN/11.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Series
-https://stmv7.voxtvhd.com.br/xtremaseries/xtremaseries/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC4Wz0DM/12.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Retro Series
-https://stmv7.voxtvhd.com.br/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnJ4snqj/13.png" group-title="Xtrema TV (PENDIENTE)",MultiVox Anime
-https://stmv7.voxtvhd.com.br/xtremaanime/xtremaanime/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXpVQwt3/3-2.png" group-title="Xtrema TV (PENDIENTE)",Super Classics TV
-https://stmv7.voxtvhd.com.br/superclassicstv/superclassicstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZm4yb7j/7-2.png" group-title="Xtrema TV (PENDIENTE)",Rock AR TV
-https://stmv3.voxtvhd.com.br/rockarradio/rockarradio/playlist.m3u8
