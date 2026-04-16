@@ -314,10 +314,10 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Horror
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Entretenimiento;Música", Next HD (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Entretenimiento", Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento;Serie", Star Channel South (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
 
 # ==========================================
