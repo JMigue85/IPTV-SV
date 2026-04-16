@@ -124,9 +124,6 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-toons-png.png" group-title="Anime",Memorias Toons
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan
-https://cdn.energeek.cl/hls/energeekfan.m3u8
-
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
@@ -151,6 +148,11 @@ https://jmp2.uk/stvp-ES300029LP
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime", Anime Visión Classics
 https://jmp2.uk/stvp-ES3000288I
 
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime", EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Anime",Rakuten VIKI
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
