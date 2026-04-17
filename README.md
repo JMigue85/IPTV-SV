@@ -4,8 +4,6 @@ Este repositorio contiene una recopilación de enlaces de transmisión (M3U8) ob
 
 Lista Estándar: ([IPTV-SV](https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u)) - Máxima compatibilidad.
 
-Lista LG & Runtime (BETA): ([LG_Runtime_HTML5](https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/LG_Runtime_HTML5.m3u)) - Requiere IPTVNator + HTML5 Player.
-
 🛠️ Guía de Optimización y Compatibilidad
 
 Para garantizar la mejor experiencia y estabilidad en las transmisiones, se recomienda seguir estas pautas técnicas:
