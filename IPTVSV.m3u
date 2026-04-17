@@ -188,6 +188,9 @@ https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28DJWBpt/pngwing-com.png" group-title="Entretenimiento",Pánico TV
 https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/playlist/amg27164-amg27164c2-amgplt0181/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Entretenimiento", Cine Terror
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento",AMC LATAM
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
@@ -348,9 +351,6 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Sony Channels", Cine Terror
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="Sony Channels",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
