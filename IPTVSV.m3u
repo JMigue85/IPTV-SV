@@ -239,9 +239,6 @@ https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Entretenimiento",MyTime Movie Network (RuntimeTV)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="Entretenimiento",Águila Roja
-https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGt9Wh4M/estrella-tv-mx(1).png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
@@ -292,12 +289,6 @@ https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Entretenimiento", Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Entretenimiento", Cine Sony 
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Entretenimiento", Cine Terror
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretenimiento", Cinecanal South (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
@@ -352,31 +343,37 @@ https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851&ads_network_name=RakutenTV
 
 # ==========================================
-# CATEGORÍA: SONY ONE
+# CATEGORÍA: SONY CHANNELS
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="Sony One",Sony One Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony 
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Sony Channels", Cine Terror
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="Sony Channels",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Sony One",Sony One Novelas
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Sony Channels",Sony One Novelas
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdLSCtD9/sony-one-exitos-es.png" group-title="Sony One",Sony One Exitos
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdLSCtD9/sony-one-exitos-es.png" group-title="Sony Channels",Sony One Exitos
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63pNSfRY/sony-one-hits-accion-es.png" group-title="Sony One",Sony One Hits Acción
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63pNSfRY/sony-one-hits-accion-es.png" group-title="Sony Channels",Sony One Hits Acción
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzSckFD2/sony-one-hits-comedia-es.png" group-title="Sony One",Sony One Hits Comedia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzSckFD2/sony-one-hits-comedia-es.png" group-title="Sony Channels",Sony One Hits Comedia
 https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxF43pCM/sony-one-series-comedia-es.png" group-title="Sony One",Sony One Series Comedia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxF43pCM/sony-one-series-comedia-es.png" group-title="Sony Channels",Sony One Series Comedia
 https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDyb0crS/sony-one-series-thriller-es.png" group-title="Sony One",Sony One Series Thriller
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDyb0crS/sony-one-series-thriller-es.png" group-title="Sony Channels",Sony One Series Thriller
 https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKVdDm0/sone-one-blacklist-es.png" group-title="Sony One",Sony One The Blacklist
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKVdDm0/sone-one-blacklist-es.png" group-title="Sony Channels",Sony One The Blacklist
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 
 # ==========================================
@@ -425,6 +422,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&
 
 #EXTINF:-1 tvg-logo="" group-title="RUNTIME TV",RUNTIME THRILLER
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="RUNTIME TV",Águila Roja
+https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
 
 
 # ==========================================
