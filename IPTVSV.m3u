@@ -267,13 +267,13 @@ https://jmp2.uk/stvp-ESAJ3800005C5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America 
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Entretenimiento", Atrescine (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Entretenimiento", Atrescine
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South (2160p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Entretenimiento", Cine Adrenalina
@@ -288,19 +288,19 @@ https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Entretenimiento", Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretenimiento", Cinecanal South (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretenimiento", Cinecanal South
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Entretenimiento", Mega Cine TV (1080p)
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Entretenimiento", Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Horror
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Entretenimiento", Next HD (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Entretenimiento", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
 
 
@@ -505,40 +505,37 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantil", Disney Channel Latin America (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantil", Disney Channel Latin America
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantil", Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantil", Disney Jr. Latin America South HD (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Infantil", Mr. Bean Animated (1080p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Infantil", Mr. Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Infantil", Tiguerito TV (720p)
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Infantil", Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Infantil", 13 Kids (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Infantil", 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantil", Chinola TV (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantil", Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Infantil", Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Infantil", Pakapaka (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Infantil", Pakapaka
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Infantil", Clan Internacional Americas (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Infantil", Clan Internacional Americas
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Infantil", Dios Te Ve Kids (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Infantil", Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Infantil", Logos TV Kids (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Infantil", Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png" group-title="Infantil", LooLoo Kids
