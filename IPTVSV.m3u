@@ -425,7 +425,7 @@ https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Pluto TV Cine Terror
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
-tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Acapulco Shore Pluto TV
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Andromeda
@@ -478,50 +478,73 @@ https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine Estelar (ES)
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine Estelar+ (ES)
 https://jmp2.uk/stvp-ESAJ3800001KT?.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Thrillers (ES)
 https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" (ES)",Pluto TV Western (ES)
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Western (ES)
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Horror (ES)
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Runtime (ES)
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",SensaCine TV x Pluto (ES)
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Paramount Network de Pluto TV (ES)
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine de autor (ES)
 https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine Romántico (ES)
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Águila Roja (ES)
 https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Alerta Cobra (ES)
 https://jmp2.uk/plu-664c76d68ea5560008c6c7a4.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Archivos Forenses (ES)
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Curro Jiménez (ES)
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Embrujadas (ES)
 https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",South Park (ES)
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Star Trek: The Next Generation (ES)
 https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",The Good Wife (ES)
 https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Wipeout (ES)
 https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",MTV Originals (ES)
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",BBC Series (ES)
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Series (ES)
 https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Series criminales (ES)
 https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Series Sci-Fi (ES)
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 
