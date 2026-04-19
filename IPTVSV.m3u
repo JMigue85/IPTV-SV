@@ -34,7 +34,7 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfmyyBsj/rtv-canal-57-sv.png" group-title="El Salvador", RTV Canal 57
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador", RTV Canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV
@@ -1027,19 +1027,19 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Network
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6V94zp/0-16x9(3).png" group-title="Deportes", ITV Deportes (LATAM)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVXkn0W4/0-16x9-3.png" group-title="Deportes", ITV Deportes (LATAM)
 https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGPgvvRX/0-16x9(2).png" group-title="Deportes", Canela Deportes (LATAM)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrdkbnVk/0-16x9-2.png.png" group-title="Deportes", Canela Deportes (LATAM)
 https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfJ34dBP/0-16x9(1).png" group-title="Deportes", Canela.TV Combat (LATAM)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMfjPb8V/0-16x9-1.png" group-title="Deportes", Canela.TV Combat (LATAM)
 https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channeld-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Lucha_Libre_AAA_Worldwide_2026_Logo.png" group-title="Deportes",Lucha Libre AAA
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvWL7bkq/0-16x9(4).png" group-title="Deportes", PowerNation (LATAM)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGp2ynmR/0-16x9-4.png" group-title="Deportes", PowerNation (LATAM)
 https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PNnH6pjK/Diseno-sin-titulo(13).png" group-title="Deportes", Motorvision TV (LATAM)
@@ -1075,7 +1075,7 @@ https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça (EN)
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4nqxVKR/fuel-tv-mx.png" group-title="Deportes", FUEL TV (SUB)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qSQMWcF/fuel-tv-mx.png" group-title="Deportes", FUEL TV (SUB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svf7FZ4C/RFTV.png" group-title="Deportes", Rally TV FAST (EN)
@@ -1103,6 +1103,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yF8nfM9c/5-Tennis-Plus-Horizontal-Default-Art-3840x2160px-v4.png" group-title="Deportes", Tennis + (EN)
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0qngzh/world-billiards-tv-mx.png" group-title="Deportes", World Billiards TV (EN)
+#EXTINF:-1 tvg-logo="img src="https://i.ibb.co/6R9LNbwj/world-billiards-tv-mx.png" group-title="Deportes", World Billiards TV (EN)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
 
