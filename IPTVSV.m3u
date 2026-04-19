@@ -398,6 +398,8 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 #EXTINF:-1 group-title="Pluto TV (MX)",Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
+#EXTINF:-1 tvg-id="",Hechiceras
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
 
 
 #EXTINF:-1 group-title="Pluto TV (ES)",Águila Roja (ES)
@@ -406,8 +408,6 @@ https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
 https://jmp2.uk/plu-664c76d68ea5560008c6c7a4.m3u8
 #EXTINF:-1 group-title="Pluto TV (ES)",Archivos Forenses (ES)
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:-1 group-title="Pluto TV (ES)",Cheers (ES)
-https://jmp2.uk/plu-68f103545c876cf7307b4e37.m3u8
 #EXTINF:-1 group-title="Pluto TV (ES)",Curro Jiménez (ES)
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
 #EXTINF:-1 group-title="Pluto TV (ES)",Embrujadas (ES)
@@ -730,8 +730,7 @@ https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
 
-#EXTINF:-1 group-title="Infantil",Avatar (ES)
-https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
+
 #EXTINF:-1 group-title="Infantil",Barbie & Friends (ES)
 https://jmp2.uk/plu-688892172928933015abe479.m3u8
 #EXTINF:-1 group-title="Infantil",Bob Esponja (ES)
@@ -900,8 +899,6 @@ https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 
 #EXTINF:-1 group-title="Deportes",Azteca Deportes Network
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:-1 group-title="Deportes",Claro Sports Mexico
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 group-title="Deportes",FIFA+
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:-1 group-title="Deportes",Lucha Libre AAA
@@ -910,16 +907,6 @@ https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
 #EXTINF:-1 group-title="Deportes",UFC
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
-
-
-#EXTINF:-1 group-title="Deportes",FIFA+ (ES)
-https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
-#EXTINF:-1 group-title="Deportes",Gol Classics (ES)
-https://jmp2.uk/plu-66fd36ca9269330008412b6c.m3u8
-#EXTINF:-1 group-title="Deportes",Realmadrid TV (ES)
-https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
-#EXTINF:-1 group-title="Deportes",UFC (ES)
-https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
 
 
 
