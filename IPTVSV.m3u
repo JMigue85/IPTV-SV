@@ -836,50 +836,69 @@ https://jmp2.uk/stvp-ESAJ38000046O
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Infantil", iCarly
 https://jmp2.uk/stvp-ESBA3300028OE
 
-#EXTINF:-1 group-title="Infantil",Avatar: La Leyenda de Aang
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png/revision/latest?cb=20130219183545&path-prefix=es" group-title="Infantil",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1 group-title="Infantil",Baby Shark TV
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantil",Baby Shark TV
 https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
-#EXTINF:-1 group-title="Infantil",Bob Esponja Pantalones Cuadrados
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png" group-title="Infantil",Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 group-title="Infantil",El Reino Infantil
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/10/23/image9-rr8ztwtw.png" group-title="Infantil",El Reino Infantil
 https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
-#EXTINF:-1 group-title="Infantil",Hey Arnold!
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/447-4479375_hey-arnold-logo-nickelodeon-hey-arnold-logo-hd.png" group-title="Infantil",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 group-title="Infantil",Kenan y Kel
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/7/1/kenan-y-kel-logo-png_seeklogo-77931.png" group-title="Infantil",Kenan y Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:-1 group-title="Infantil",Los Padrinos Mágicos
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iQjlugxGoUlaRn3Vy7v5SsSu9iZ.png" group-title="Infantil",Los Padrinos Mágicos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-#EXTINF:-1 group-title="Infantil",Los Pitufos
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/10/Los-Pitufos.png" group-title="Infantil",Los Pitufos
 https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
-#EXTINF:-1 group-title="Infantil",Nick Jr. Club
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/featuredImage_1747935180468.jpg" group-title="Infantil",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-#EXTINF:-1 group-title="Infantil",Nickelodeon Clásico
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg" group-title="Infantil",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 group-title="Infantil",Pokémon
+
+#EXTINF:-1 tvg-logo="https://nucleovisual.com/wp-content/uploads/2025/10/canal-de-Pokemon-en-Pluto-TV-Latinoamerica-1.jpg" group-title="Infantil",Pokémon
 https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-#EXTINF:-1 group-title="Infantil",Rugrats
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="Infantil",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
 
 
-#EXTINF:-1 group-title="Infantil",Barbie & Friends (ES)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg" group-title="Infantil",Barbie & Friends (ES)
 https://jmp2.uk/plu-688892172928933015abe479.m3u8
-#EXTINF:-1 group-title="Infantil",Bob Esponja (ES)
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png" group-title="Infantil",Bob Esponja (ES)
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-#EXTINF:-1 group-title="Infantil",El Reino Infantil (ES)
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/10/23/image9-rr8ztwtw.png" group-title="Infantil",El Reino Infantil (ES)
 https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
-#EXTINF:-1 group-title="Infantil",Érase una vez... (ES)
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/878f11/erase-una-vez/1024_2000.jpeg" group-title="Infantil",Érase una vez... (ES)
 https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
-#EXTINF:-1 group-title="Infantil",Heidi (ES)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b1b899bc8112e33cf65f8b92ab6cb5db37f2de7d1bcba0ac45b60c6ec6a67a9b.jpg" group-title="Infantil",Heidi (ES)
 https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
-#EXTINF:-1 group-title="Infantil",iCarly (ES)
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Infantil",iCarly (ES)
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
-#EXTINF:-1 group-title="Infantil",Las Tortugas Ninja (ES)
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOSjb3eQkKAspzok8_tkknYc_EFzPxm-wdLuAF0vgT0r71QhzYV4vMc1imT5Iw-VPPqRrO5uY-m5NlYcvaU5Qtc9EbO1MvnXJLZK3CUnmce_VlDPE_oh7ejnEq-pw85boVUGIi0wMktt_Zoe6SeqyA-v6Gw-d20W8dZLqWRKmvxXFrEL4ClL_PMX8mg/s16000-rw/plutotv-abril2023.png" group-title="Infantil",Las Tortugas Ninja (ES)
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
-#EXTINF:-1 group-title="Infantil",Los Pitufos (ES)
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" group-title="Infantil",Los Pitufos (ES)
 https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
-#EXTINF:-1 group-title="Infantil",Winx Club (ES)
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8m_E5mLi3NejpjgWuxSCWTsZQsrIi-Dqiukm95u1HcRIRuXwIy3bI4ENO3n295pgjAMQxhKiSRapCdt_zoWRrPtvhDuVXTB_EPbNw18SEsTkduMvFeNzCe_UovxN75hO_enmjmW0HgZzGYfuXn2mLQcCbsWkirYbM0XTTzaHOflke_29dBtI6NQ7r2w/s1000/Winx%20Club%20France%20Pluto%20TV.png" group-title="Infantil",Winx Club (ES)
 https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8
 
 
