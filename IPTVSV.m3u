@@ -980,27 +980,37 @@ https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Música",Concert Channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
-#EXTINF:-1 group-title="Música",Conciertos por Stingray
+
+#EXTINF:-1 tvg-logo="https://iconcerts.stingray.com/sites/iconcerts/files/images/socials/StingrayiConcerts_MetaImage.png" group-title="Música",Conciertos por Stingray
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
-#EXTINF:-1 group-title="Música",Karaoke por Stingray
+
+#EXTINF:-1 tvg-logo="https://www.stingray.com/wp-content/uploads/2024/11/sk-thumbnail.png" group-title="Música",Karaoke por Stingray
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
-#EXTINF:-1 group-title="Música",MTV Biggest Pop
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2022/09/08/MTV_BiggestPOP_Channel_1080x1080_Square-beg5ce6t.png" group-title="Música",MTV Biggest Pop
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 group-title="Música",MTV Classic
+
+#EXTINF:-1 tvg-logo="https://alemdatela.com/wp-content/uploads/2024/08/mtv-classic-logo-Large-1068x601.jpeg" group-title="Música",MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-#EXTINF:-1 group-title="Música",MTV Flow Latino
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/15/MTV_FlowLatino_Channel_1080x1080_Square-1ooa8hib.png" group-title="Música",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 group-title="Música",MTV Pluto TV
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Música",MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 group-title="Música",MTV Rocks
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/featuredImage.jpg" group-title="Música",MTV Rocks
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-#EXTINF:-1 group-title="Música",TikTok Radio en Español
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/featuredImage_1758309480507.jpg" group-title="Música",TikTok Radio en Español
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
-#EXTINF:-1 group-title="Música",Metal Rocks (ES)
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/10/Metal-Rocks-canal-Pluto-TV-1.png" group-title="Música",Metal Rocks (ES)
 https://jmp2.uk/plu-686cd8bb9d079f48dbbdfecb.m3u8
-#EXTINF:-1 group-title="Música",Al Ritmo del Jaripeo
+
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/al%20ritmo%20del%20jaripeo%202-13.jpeg" group-title="Música",Al Ritmo del Jaripeo
 https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
 
 
@@ -1050,15 +1060,19 @@ https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/449m1pvd/Diseno-sin-titulo(14).png" group-title="Deportes", MyPadel TV (ES)
 https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/8bb03533-3e00-4d2e-8bbd-2a890548447f/0.m3u8
 
-#EXTINF:-1 group-title="Deportes",Azteca Deportes Network
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Network
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:-1 group-title="Deportes",FIFA+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
-#EXTINF:-1 group-title="Deportes",Lucha Libre AAA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Lucha_Libre_AAA_Worldwide_2026_Logo.png" group-title="Deportes",Lucha Libre AAA
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
-#EXTINF:-1 group-title="Deportes",Realmadrid TV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes",Realmadrid TV
 https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
-#EXTINF:-1 group-title="Deportes",UFC
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/featuredImage.jpg" group-title="Deportes",UFC
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 
