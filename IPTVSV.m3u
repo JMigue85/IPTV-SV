@@ -358,7 +358,7 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 #EXTINF:-1 group-title="Pluto TV (MX)",Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
-#EXTINF:-1 tvg-id="",Hechiceras
+#EXTINF:-1 group-title="Pluto TV (MX)",Hechiceras
 https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
 #EXTINF:-1 group-title="Pluto TV (MX)",Azteca Internacional
 https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
