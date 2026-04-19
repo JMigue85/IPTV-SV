@@ -140,7 +140,7 @@ https://cdn.energeek.cl/hls/energeekfan.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Boruto-Logo-PNG.png" group-title="Anime",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.oficinadanet.com.br/media/post/47765/660/pluto-tv-ganha-canal-dedicado-do-anime-captain-tsubasa.jpg" group-title="Anime",Captain Tsubasa
+#EXTINF:-1 tvg-logo="https://www.oficinadanet.com.br/media/post/47765/660/pluto-tv-ganha-canal-dedicado-do-anime-captain-tsubasa.jpg", group-title="Anime",Captain Tsubasa
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/11/Death-Note-Logo.png" group-title="Anime",Death Note
