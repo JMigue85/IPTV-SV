@@ -112,18 +112,11 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
 
 
-
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-toons-png.png" group-title="Anime",Memorias Toons
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Anime",Dreiko TV
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Anime",Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
@@ -622,6 +615,11 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-toons-png.png" group-title="Infantil",Memorias Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Infantil",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantil", Disney Channel Latin America
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
