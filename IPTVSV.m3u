@@ -121,9 +121,6 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 #EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Anime",Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Anime", Anime Zone TV
-http://animezonetv.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
