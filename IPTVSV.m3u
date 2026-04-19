@@ -1024,11 +1024,17 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (LATAM)
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Network
+https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGPgvvRX/0-16x9(2).png" group-title="Deportes", Canela Deportes (LATAM)
 https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfJ34dBP/0-16x9(1).png" group-title="Deportes", Canela.TV Combat (LATAM)
 https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channeld-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Lucha_Libre_AAA_Worldwide_2026_Logo.png" group-title="Deportes",Lucha Libre AAA
+https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6V94zp/0-16x9(3).png" group-title="Deportes", ITV Deportes (LATAM)
 https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8
@@ -1051,6 +1057,9 @@ https://d3bb58xoj568xi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes", Real Madrid TV (ES)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes",Realmadrid TV
+https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJGRK3d/ES3400002PY-20250121T012834SQUARE.png" group-title="Deportes",Surf Channel (ES)
 https://d3oxrjqn271yyu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s0n4neu74pe7t/live/fast-channel-surfchannel-22ac1747/fast-channel-surfchannel-22ac1747.m3u8
 
@@ -1060,22 +1069,8 @@ https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/449m1pvd/Diseno-sin-titulo(14).png" group-title="Deportes", MyPadel TV (ES)
 https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/8bb03533-3e00-4d2e-8bbd-2a890548447f/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Network
-https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Lucha_Libre_AAA_Worldwide_2026_Logo.png" group-title="Deportes",Lucha Libre AAA
-https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes",Realmadrid TV
-https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/featuredImage.jpg" group-title="Deportes",UFC
-https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça (EN)
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
@@ -1088,6 +1083,10 @@ https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mrw1gJPG/racer-og-cover.png" group-title="Deportes", Racer International (EN)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/featuredImage.jpg" group-title="Deportes",UFC
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EN)
 https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
