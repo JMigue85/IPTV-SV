@@ -110,6 +110,9 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
@@ -137,50 +140,104 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan
 https://cdn.energeek.cl/hls/energeekfan.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Boruto-Logo-PNG.png" group-title="Anime",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Boruto-Logo-PNG.png" group-title="Anime",Boruto: Naruto Next Generations (MX)
 https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.oficinadanet.com.br/media/post/47765/660/pluto-tv-ganha-canal-dedicado-do-anime-captain-tsubasa.jpg" ,group-title="Anime",Captain Tsubasa
+#EXTINF:-1 tvg-logo="https://www.oficinadanet.com.br/media/post/47765/660/pluto-tv-ganha-canal-dedicado-do-anime-captain-tsubasa.jpg" group-title="Anime",Captain Tsubasa (MX)
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/11/Death-Note-Logo.png" group-title="Anime",Death Note
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/11/Death-Note-Logo.png" group-title="Anime",Death Note (MX)
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/613-6133575_detective-conan-logo-transparent-hd-png-download.png" group-title="Anime",Detective Conan (ES)
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Hunter-x-Hunter-Emblem.png" group-title="Anime",Hunter x Hunter
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Hunter-x-Hunter-Emblem.png" group-title="Anime",Hunter x Hunter (MX)
 https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/f6/df/12f6dfd8ffe7525d0780d7031738ffa5.jpg" group-title="Anime",Inuyasha
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/f6/df/12f6dfd8ffe7525d0780d7031738ffa5.jpg" group-title="Anime",Inuyasha (MX)
 https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Jojos-Bizarre-Adventure-anime-Logo-2012.png" group-title="Anime",JoJo’s Bizarre Adventure
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Jojos-Bizarre-Adventure-anime-Logo-2012.png" group-title="Anime",JoJo’s Bizarre Adventure (MX)
 https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp1937181.jpg" group-title="Anime",Naruto
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp1937181.jpg" group-title="Anime",Naruto (MX)
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/029/167/295/non_2x/naruto-anime-logo-free-vector.jpg"group-title="Anime",Naruto Shippuden
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/029/167/295/non_2x/naruto-anime-logo-free-vector.jpg" group-title="Anime",Naruto Shippuden (MX)
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/One-Piece-Logo-1999.png" group-title="Anime",One Piece
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/One-Piece-Logo-1999.png" group-title="Anime",One Piece (MX)
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/One-Piece-Logo-1999.png" group-title="Anime",One Piece (ES)
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Anime-en-directo-Online.png" group-title="Anime",Pluto TV Anime
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Anime-en-directo-Online.png" group-title="Anime",Pluto TV Anime (MX)
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Anime-en-directo-Online.png" group-title="Anime",Pluto TV Anime (ES)
 https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png" group-title="Anime",Yu-Gi-Oh!
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png" group-title="Anime",Yu-Gi-Oh! (MX)
 https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png" group-title="Anime",Yu-Gi-Oh! (ES)
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Saint Seiya (MX)
+https://jmp2.uk/plu-6450005ed26e3800084318c4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Inazuma Eleven (ES)
+https://jmp2.uk/plu-627a20c33a921d0008432b43.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Ranma ½ (ES)
+https://jmp2.uk/plu-65ddef164cbd0d60008be4b55.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Robotech (MX)
+https://jmp2.uk/plu-609ad87588075a000787e144.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Pluto TV Anime Acción (MX)
+https://jmp2.uk/plu-5e347f878f5d0a000965e52a.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Slam Dunk (MX)
+https://jmp2.uk/plu-66c7921869e9f300084615ef.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Beyblade Burst (MX)
+https://jmp2.uk/plu-628f8045e7f2af000889ecae.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Bakugan (MX)
+https://jmp2.uk/plu-6092c439169a6c0007267eb4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Reborn! (ES)
+https://jmp2.uk/plu-6617de8b70e065000832349e.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",High School of the Dead (MX)
+https://jmp2.uk/plu-606c4a520f92260007137b01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Yowamushi Pedal (MX)
+https://jmp2.uk/plu-66c793f069e9f30008463768.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Ghost in the Shell (MX)
+https://jmp2.uk/plu-65d911a3d0ef03000835002a.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Assassination Classroom (MX)
+https://jmp2.uk/plu-65cf6830560b3700086c8f94.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Street Fighter II (MX)
+https://jmp2.uk/plu-6092c6999a07150007f90378.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Ninja Hattori (ES)
+https://jmp2.uk/plu-65ddef1ef7f0af0008be4b65.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Kaitou Joker (MX)
+https://jmp2.uk/plu-610168f1f729480007bc4043.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Sherlock Holmes (ES)
+https://jmp2.uk/plu-62629b37fb694f00075f3a0a.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Animes de ayer (MX)
+https://jmp2.uk/plu-6202517173e2710007d4722a.m3u8
 
 
 
