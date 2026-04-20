@@ -299,9 +299,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Entretenimiento", Cines Verdi TV
 https://jmp2.uk/stvp-ESBC2700011AZ
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png" group-title="Entretenimiento", Pluto TV Cine Estelar
-https://jmp2.uk/stvp-ESAJ3800001KT
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Entretenimiento", Cine Feel Good – Verdi TV
 https://jmp2.uk/stvp-ESBC2700012RP
 
@@ -353,9 +350,28 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Entretenimiento",Pluto TV Novelas
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Entretenimiento",Pluto TV Novelas de México
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Entretenimiento",Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Entretenimiento",Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (MX)",Estrellas de Acción
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (MX)",Canal Claro
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (MX)",Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
@@ -381,6 +397,12 @@ https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Pluto TV Cine Suspenso
 https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Pluto TV A La Mexicana
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)"Pluto TV Nuestro Cine
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 
@@ -398,6 +420,9 @@ https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Pluto TV Series de Sci-Fi
 https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)"Pluto TV Series de Otros Continentes
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg"  group-title="Pluto TV (MX)",Pluto TV Series Latinas
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
@@ -473,6 +498,14 @@ https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (MX)",Azteca Internacional
 https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (MX)",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (MX)",Historias de Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+
+
 
 
 
@@ -774,8 +807,14 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantil", Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Nicktoons-Logo-2014.png" group-title="Infantil", Nickelodeon Toons (MX)
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Infantil", Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/featuredImage_1749640823170.jpg" group-title="Infantil", Nickelodeon Teen (MX)
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Infantil", Pakapaka
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
@@ -819,7 +858,7 @@ https://jmp2.uk/stvp-ESBD3200002V5
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png" group-title="Infantil", Rabbids: La invasión
 https://jmp2.uk/stvp-ESBD2300003S5
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="Infantil", Rugrats
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="Infantil", Rugrats (ES)
 https://jmp2.uk/stvp-ESBA33000324U
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png" group-title="Infantil", Bob Esponja
@@ -831,11 +870,17 @@ https://jmp2.uk/stvp-ES2600008NX
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260120T031327SQUARE.png" group-title="Infantil", Las 3 Mellizas
 https://jmp2.uk/stvp-ES4400001N3
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantil", Pluto TV Kids
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantil", Pluto TV Kids (ES)
 https://jmp2.uk/stvp-ESAJ38000046O
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Infantil", iCarly
-https://jmp2.uk/stvp-ESBA3300028OE
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantil"Pluto TV Kids (MX)
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/08/07/NickJrPLUTO_Channel_1080x1080_HeroSquare-o34pm8ps.png" group-title="Infantil",Pluto TV Junior (MX)
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Infantil", iCarly (MX)
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png/revision/latest?cb=20130219183545&path-prefix=es" group-title="Infantil",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
@@ -892,6 +937,9 @@ https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Infantil",iCarly (ES)
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOSjb3eQkKAspzok8_tkknYc_EFzPxm-wdLuAF0vgT0r71QhzYV4vMc1imT5Iw-VPPqRrO5uY-m5NlYcvaU5Qtc9EbO1MvnXJLZK3CUnmce_VlDPE_oh7ejnEq-pw85boVUGIi0wMktt_Zoe6SeqyA-v6Gw-d20W8dZLqWRKmvxXFrEL4ClL_PMX8mg/s16000-rw/plutotv-abril2023.png" group-title="Infantil",Las Tortugas Ninja (MX)
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOSjb3eQkKAspzok8_tkknYc_EFzPxm-wdLuAF0vgT0r71QhzYV4vMc1imT5Iw-VPPqRrO5uY-m5NlYcvaU5Qtc9EbO1MvnXJLZK3CUnmce_VlDPE_oh7ejnEq-pw85boVUGIi0wMktt_Zoe6SeqyA-v6Gw-d20W8dZLqWRKmvxXFrEL4ClL_PMX8mg/s16000-rw/plutotv-abril2023.png" group-title="Infantil",Las Tortugas Ninja (ES)
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
@@ -1012,6 +1060,7 @@ https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (MX)
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
@@ -1021,8 +1070,11 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (LATAM)
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Network
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Network (MX)
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpeg",Pluto TV Deportes (MX)
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVXkn0W4/0-16x9-3.png" group-title="Deportes", ITV Deportes (LATAM)
 https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8
@@ -1033,14 +1085,26 @@ https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMfjPb8V/0-16x9-1.png" group-title="Deportes", Canela.TV Combat (LATAM)
 https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channeld-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Lucha_Libre_AAA_Worldwide_2026_Logo.png" group-title="Deportes",Lucha Libre AAA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Lucha_Libre_AAA_Worldwide_2026_Logo.png" group-title="Deportes",Lucha Libre AAA (MX)
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="Deportes"Pluto TV Peleas (MX)
+https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGp2ynmR/0-16x9-4.png" group-title="Deportes", PowerNation (LATAM)
 https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PNnH6pjK/Diseno-sin-titulo(13).png" group-title="Deportes", Motorvision TV (LATAM)
 https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/featuredImage.jpg" group-title="Deportes", Obsesión por los Autos (MX)
+https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="Deportes", Pluto TV Velocidad
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/featuredImage.jpg" group-title="Deportes", Mi Coche Clásico (MX)
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (LATAM)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
@@ -1054,7 +1118,7 @@ https://d3bb58xoj568xi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes", Real Madrid TV (ES)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes",Realmadrid TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes",Realmadrid TV (Pluto TV)
 https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJGRK3d/ES3400002PY-20250121T012834SQUARE.png" group-title="Deportes",Surf Channel (ES)
@@ -1066,7 +1130,7 @@ https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/449m1pvd/Diseno-sin-titulo(14).png" group-title="Deportes", MyPadel TV (ES)
 https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/8bb03533-3e00-4d2e-8bbd-2a890548447f/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (EN)
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça (EN)
@@ -1082,7 +1146,7 @@ https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/featuredImage.jpg" group-title="Deportes",UFC
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/featuredImage.jpg" group-title="Deportes",UFC (EN)
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EN)
@@ -1093,6 +1157,9 @@ https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg" group-title="Deportes", Hard Knocks MMA (EN)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads.appName=RakutenTV&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=092d792c-a5b4-42a4-b326-626c4e7812c8&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883037&ads.xumo_providerName=hard-knocks-fighting-champ-eng-rakutentv
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/featuredImage.jpg" group-title="Deportes",DAZN Combat (EN)
+https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5vX5Fx/redbulltv.png" group-title="Deportes",RedBull TV (EN)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
