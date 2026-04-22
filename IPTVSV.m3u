@@ -129,11 +129,14 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión (ES)
 https://jmp2.uk/stvp-ES300029LP
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime",Anime Visión Classics
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime",Anime Visión Classics (ES)
 https://jmp2.uk/stvp-ES3000288I
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yc2r75Tg/OIP.jpg" group-title="Anime", Laika Channel (ES)
+https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
@@ -186,7 +189,7 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Yu-Gi-Oh-Duel-Monsters-Logo-2001.png" group-title="Anime",Yu-Gi-Oh! (ES)
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 
-tvg-logo="https://www.pngitem.com/pimgs/m/10-101709_los-caballeros-del-zodiaco-30-aniversario-saint-seiya.png" group-title="Anime",Los caballeros del Zodiaco (ES)
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/10-101709_los-caballeros-del-zodiaco-30-aniversario-saint-seiya.png" group-title="Anime", Los caballeros del Zodiaco (ES)
 https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 
 
@@ -953,6 +956,9 @@ https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="Infantil",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/popeye_logo.png" group-title="Infantil",Popeye
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg" group-title="Infantil",Barbie & Friends (ES)
 https://jmp2.uk/plu-688892172928933015abe479.m3u8
