@@ -1203,7 +1203,7 @@ https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/featuredImage.jpg" group-title="Deportes", Mi Coche Clásico (MX)
 https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Motor-en-directo-Online.png", Pluto TV Motor (ES)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Motor-en-directo-Online.png" group-title="Deportes", Pluto TV Motor (ES)
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (LATAM)
