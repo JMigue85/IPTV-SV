@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS
-https://signal.teleon.live/stream/canal2sv.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
