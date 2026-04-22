@@ -6,13 +6,13 @@
 https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
-https://signal.teleon.live/stream/canal4sv.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
-https://signal.teleon.live/stream/canal6sv.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+
-https://signal.teleon.live/stream/canaltcssv.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
 
 
 
@@ -26,7 +26,7 @@ https://streamingcws30.com/tves/videotves/chunks.m3u8
 https://stream.giostreaming.app:19360/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
-https://signal.teleon.live/stream/sv8_canal12.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
