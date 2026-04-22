@@ -1108,6 +1108,9 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Network (MX)
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TV-Azteca-Deportes-Logo-Vector.svg-.png" group-title="Deportes",Azteca Deportes Premium (MX)
+https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpeg" group-title="Deportes",Pluto TV Deportes (MX)
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
