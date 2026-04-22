@@ -192,6 +192,12 @@ https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/10-101709_los-caballeros-del-zodiaco-30-aniversario-saint-seiya.png" group-title="Anime", Los caballeros del Zodiaco (ES)
 https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg" group-title="Anime",Inazuma Eleven (ES)
+https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+
+#EXTINF:-1 tvg-logo="https://otakuusamagazine.com/wp-content/uploads/2023/01/lupin-pluto-480x360.jpeg" group-title="Anime",Lupin
+https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
+
 
 
 
@@ -547,10 +553,28 @@ https://jmp2.uk/stvp-ESAJ3800001KT?.m3u8
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Paramount Network de Pluto TV (ES)
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine Acción (ES)
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine Comedia (ES)
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine Drama (ES)
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)", Pluto TV Sci-Fi (ES)
+https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Psycho (ES)
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)"Pluto TV Paranormal (ES)
+https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Horror (ES)
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Gore & Slasher
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Thrillers (ES)
@@ -568,8 +592,29 @@ https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",SensaCine TV x Pluto (ES)
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Catástrofes (ES)
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Zombies (ES)
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Cine Clásico (ES)
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Western (ES)
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Comedia a lo bestia de Pluto TV (ES)
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Comedia made in Spain (ES)
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Pluto TV Comedias Románticas (ES)
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)", Poirot & Miss Marple
+https://jmp2.uk/plu-6304f530440dc90007f514d3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Águila Roja (ES)
 https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
@@ -597,9 +642,6 @@ https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",The Good Wife (ES)
 https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",Wipeout (ES)
-https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Pluto TV (ES)",MTV Originals (ES)
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
@@ -960,6 +1002,9 @@ https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/popeye_logo.png" group-title="Infantil",Popeye
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N00bYCMS/PLUTO-TV-TEEN.png" group-title="Infantil", Pluto TV Teen (ES)
+https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg" group-title="Infantil",Barbie & Friends (ES)
 https://jmp2.uk/plu-688892172928933015abe479.m3u8
 
@@ -1158,6 +1203,9 @@ https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/featuredImage.jpg" group-title="Deportes", Mi Coche Clásico (MX)
 https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Motor-en-directo-Online.png", Pluto TV Motor (ES)
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (LATAM)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
 
@@ -1221,6 +1269,9 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6R9LNbwj/world-billiards-tv-mx.png" group-title="Deportes", World Billiards TV (EN)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
+
+#EXTINF:-1 tvg-logo="https://www.digitalfernsehen.de/wp-content/uploads/2025/10/DF-Fotos-2025-10-06T115049.805-696x400.jpg" group-title="Deportes", Pluto TV Snooker 900 (EN)
+https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 
 #EXTINF:-1 tvg-logo="https://igamemedia.com/wp-content/uploads/2025/01/iGM-x-Pluto-MODUS-Darts.jpg" group-title="Deportes", MODUS Super Series Darts (EN)
 https://jmp2.uk/plu-67164414e40c4a00087f450d.m3u8
