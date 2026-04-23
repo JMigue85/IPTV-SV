@@ -376,7 +376,7 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=5000|network-caching=5000|analyzeduration=5000000
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento",Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
