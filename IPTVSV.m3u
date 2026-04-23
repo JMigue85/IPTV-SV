@@ -334,7 +334,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playl
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=5000
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|network-caching=5000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
