@@ -255,9 +255,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento",ClickTV
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Entretenimiento", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
@@ -267,51 +264,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Entretenimiento", Cosmos TV (Argentina)
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Entretenimiento", MyTime Movie Network (Mexico)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Entretenimiento",MyTime Movie Network (RuntimeTV)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Entretenimiento",Artflix - Películas Clásicas
-https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Entretenimiento",Bjgtjme Películas Gratis
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Entretenimiento", Cines Verdi TV
-https://jmp2.uk/stvp-ESBC2700011AZ
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Entretenimiento", Cine Feel Good – Verdi TV
-https://jmp2.uk/stvp-ESBC2700012RP
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png" group-title="Entretenimiento", FreeTV Clásico
-https://jmp2.uk/stvp-ES500008IU
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500009ZJ_20260224T030757SQUARE.png" group-title="Entretenimiento", FreeTV Estelar
 https://jmp2.uk/stvp-ES500009ZJ
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Entretenimiento", Planeta de Cine
-https://jmp2.uk/stvp-ES2800001G7
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento",AMC LATAM
-https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Entretenimiento", Atrescine
-http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77_480.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=2000|network-caching=2000|analyzeduration=1000000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretenimiento", Cinecanal South
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=2000|network-caching=2000|analyzeduration=1000000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=2000|network-caching=2000|analyzeduration=1000000
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
@@ -340,6 +294,31 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento",Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png" group-title="Entretenimiento", FreeTV Clásico
+https://jmp2.uk/stvp-ES500008IU
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Entretenimiento", MyTime Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Entretenimiento",MyTime Movie Network (RuntimeTV)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Entretenimiento", Planeta de Cine
+https://jmp2.uk/stvp-ES2800001G7
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Entretenimiento", Cines Verdi TV
+https://jmp2.uk/stvp-ESBC2700011AZ
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Entretenimiento", Cine Feel Good – Verdi TV
+https://jmp2.uk/stvp-ESBC2700012RP
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Entretenimiento",Bjgtjme Películas Gratis
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Entretenimiento",Artflix - Películas Clásicas
+https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Entretenimiento", Cine Adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 
@@ -357,6 +336,24 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28DJWBpt/pngwing-com.png" group-title="Entretenimiento",Pánico TV
 https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/playlist/amg27164-amg27164c2-amgplt0181/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento",AMC LATAM
+https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Entretenimiento", Atrescine
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77_480.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=2000|network-caching=2000|analyzeduration=1000000
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretenimiento", Cinecanal South
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=2000|network-caching=2000|analyzeduration=1000000
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=2000|network-caching=2000|analyzeduration=1000000
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento" ,Telemundo Acción
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/2ca762b4-f887-467d-bca5-5c36b3133583/4.m3u8
@@ -381,6 +378,9 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Entretenimiento",Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento",ClickTV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzBGcg6j/estrella-tv-mx-1.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
