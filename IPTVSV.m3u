@@ -376,7 +376,7 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=5000|network-caching=5000|analyzeduration=5000000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento",Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
@@ -871,7 +871,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|buffer_size=5000|network-caching=5000|analyzeduration=5000000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantil", Disney Jr. Latin America South
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://tr.live.clarovtrcdn.vtrplay.com/|buffer_size=5000|network-caching=5000|analyzeduration=5000000
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Infantil", Mr. Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
