@@ -341,19 +341,19 @@ https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/playlist/amg27164-a
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76_720.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Entretenimiento", Atrescine
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://181.114.57.246:4000/|cache=yes
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77_480.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretenimiento", Cinecanal South
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62_720.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68_720.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento" ,Telemundo Acción
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/2ca762b4-f887-467d-bca5-5c36b3133583/4.m3u8
