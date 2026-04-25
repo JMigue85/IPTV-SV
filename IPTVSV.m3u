@@ -402,8 +402,9 @@ https://jmp2.uk/stvp-ESAJ3800005C5
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entretenimiento",MTV Latin America
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
+#EXTVLCOPT:network-caching=10000
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
 
