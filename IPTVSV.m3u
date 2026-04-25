@@ -345,7 +345,8 @@ https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/playlist/amg27164-a
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://201.217.246.42:44310/|cache=yes
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Entretenimiento", Atrescine
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD|Referer=http://181.114.57.246:4000/|cache=yes
