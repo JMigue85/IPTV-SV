@@ -28,7 +28,9 @@ https://teleon.tv/stream/cG5wODQ2NjE2M3BucDg0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
 https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="El Salvador", TaberTV
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ1MTYxNnBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
@@ -40,7 +42,9 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador", RTV Canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador", Canal TRV
+EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ1MjAyMHBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="El Salvador", TVC Network 
