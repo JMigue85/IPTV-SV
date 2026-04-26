@@ -338,12 +338,6 @@ https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Entretenimiento", Cine Terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751333788lNZ0MTgbtO-300x300-square.png" group-title="Entretenimiento", Mi Miedo Canal
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/175133329604Wbbc77Ol-300x300-square.png" group-title="Entretenimiento", Gritos TV
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633b4d4ce63892fb061068&AV_CHANNELID=68633b1e76e6443e4209778e&AV_IS_LIVE=1
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento",AMC LATAM
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
@@ -393,12 +387,6 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek/2024/02/pluto-tv-logo-b-1100x825.jpg" group-title="Entretenimiento",Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="Entretenimiento",Mi Raza Canal
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-300x300-square.png" group-title="Entretenimiento",Mi Raza Canal Plus
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
-
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento",ClickTV
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
@@ -423,6 +411,55 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entretenimiento",MTV Latin America
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d79846c9-0e39-4dac-a91a-2e7687a22d5a/FreeTVEstelar_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197&content_channel=FreeTV&content_language=es&livestream=1&id=16532&override_expiration=1500&sign=wNTiETqnxKfL3w7p5jH1c57V7d3EpmeYiw%2B5VjuNgRk%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://www.parsatv.com/index_files/channels/freetvaccion.png", FreeTV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200&content_channel=FreeTV&content_language=es&livestream=1&id=19361&override_expiration=1500&sign=LScGRbwTXFe5HHdK60AZOnGPRJ0nM9nf227gyh%2BoWTI%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c78d6bd6-fac4-4335-9ece-3ef8eebc7059/FreeTVFamily_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196&content_channel=FreeTV&content_language=es&livestream=1&id=19355&override_expiration=1500&sign=EtyPpOg8DftbKYBW2WZrk7tMmvyqQ0eIV%2BBhg01MFRY%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae3965b3-8f25-47e2-b662-d855b45440dc/FreeTVSureno_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Sureño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201&content_channel=FreeTV&content_language=es&livestream=1&id=16417&override_expiration=1500&sign=X7bScZ%2BSnSCegwR670AeJLnIOCZH9SExWaMUW81qhWI%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a55c004-93af-4da6-83e7-b272648ea971/FreeTVDrama_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16198&content_channel=FreeTV&content_language=es&livestream=1&id=19353&override_expiration=1500&sign=YCYIcagQbCkvVJbr48HsjqfQvh9LtKC3pmb%2BY9xhhSU%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9a70547-ded2-4a10-8285-15cfc67382e7/FreeTV_live__1_.jpg", FreeTV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195&content_channel=FreeTV&content_language=es&livestream=1&id=19357&override_expiration=1500&sign=9j0Yz3MdxnxpcLPcRkD4lJl9MrnKRC3b5GMbScmrUY0%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://directorioa1.com/wp-content/uploads/2020/06/logo-freetv-blog-directorioa1.jpg", FreeTV Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199&content_channel=FreeTV&content_language=es&livestream=1&id=16106&override_expiration=1500&sign=1Qw1RENWku%2BRjm37bE3mzrZ%2BzBWvbi7BModLCMEKYmo%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fdee7faf-762e-4e84-89a7-288b1d2e469b/FreeTVSaberMas_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Saber Más
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474&content_channel=FreeTV&content_language=es&livestream=1&id=23364&override_expiration=1500&sign=Gz%2FJK4piTFwcmREl%2Fm9LCENofEyjD211T82AUwh%2Byww%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a114420b-6a40-4d05-af07-b95c95525420/FreeTVHits_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370&content_channel=FreeTV&content_language=es&livestream=1&id=23361&override_expiration=1500&sign=CVhu5F5HqAGcuKg8zsIsz%2BwfdwgqXSclwBxfWh%2FesoM%3D
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f7d6948-9545-49e6-b6bd-9da68c67705e/FreeTVBanda_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Banda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465&content_channel=FreeTV&content_language=es&livestream=1&id=19359&override_expiration=1500&sign=rjEv%2F4KAnwYBZRvq3bQ68W6QY7Vx9fMrvF8muMtahoc%3D
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="FreeTV",Mi Raza Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-300x300-square.png" group-title="FreeTV",Mi Raza Canal Plus
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F16a5a06f-8a9e-4364-bce5-56f228f88c17%2FFreeTVHorror_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="FreeTV", FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194&content_channel=FreeTV&content_language=es&livestream=1&id=19363&override_expiration=1500&sign=nuDhD0xKiIbaVvsPwKPlDn5YD47Q8wBJwsY%2FLpMEYGQ%3D
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751333788lNZ0MTgbtO-300x300-square.png" group-title="FreeTV", Mi Miedo Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/175133329604Wbbc77Ol-300x300-square.png" group-title="FreeTV", Gritos TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633b4d4ce63892fb061068&AV_CHANNELID=68633b1e76e6443e4209778e&AV_IS_LIVE=1
+
 
 
 
