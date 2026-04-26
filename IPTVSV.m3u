@@ -28,11 +28,6 @@ https://teleon.tv/stream/cG5wODQ2NjE2M3BucDg0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
 https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="El Salvador", TaberTV
-#EXTVLCOPT:http-referrer=https://teleon.tv/stream/
-https://teleon.tv/stream/cG5wODQ1MTYxNnBucDg0.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
@@ -44,8 +39,7 @@ https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador", Canal TRV
-#EXTVLCOPT:http-referrer=https://teleon.tv/stream/
-https://teleon.tv/stream/cG5wODQ1MjAyMHBucDg0.m3u8
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="El Salvador", TVC Network 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
@@ -56,6 +50,38 @@ https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ Santa Ana
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="El Salvador (Religioso)", TaberTV
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="El Salvador (Religioso)", Josue TV 
+https://teleon.tv/stream/cG5wODQzNTY2NnBucDg0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvpXk0Mn/el-camino-tv.png" group-title="El Salvador (Religioso)", El Camino TV 
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="El Salvador (Religioso)", El Sembrador TV 
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="El Salvador (Religioso)", Enlace TBN
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y8vN381/tv-getsemani.png" group-title="El Salvador (Religioso)", TV Getsemani 
+https://teleon.tv/stream/cG5wODQzNTY2MHBucDg0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m7Ny9gk/tv-leon-de-juda.png" group-title="El Salvador (Religioso)", TV Leon de Juda 
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="El Salvador (Religioso)", TV Mana Español
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+
+
+
 
 
 
