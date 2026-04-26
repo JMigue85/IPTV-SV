@@ -245,12 +245,6 @@ https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/841/569/png-clipart-america-s-next-top-model-season-21-america-s-next-top-model-season-12-america-s-next-top-model-season-3-reality-television-model.png" group-title="Doramas & Asia",America's Next Top Model (ES)
 https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Doramas & Asia",Rakuten VIKI
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png" group-title="Doramas & Asia",New K-Movies
-https://jmp2.uk/stvp-ES170000433
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png" group-title="Doramas & Asia",Series K-Drama
 https://jmp2.uk/stvp-ES200040YF
 
@@ -269,12 +263,17 @@ https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/featuredImage_1765467438253.jpg" group-title="Doramas & Asia",Pluto TV Dramas Coreanos Teen
 https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGZ3CyrZ/Tokusato.png" group-title="Doramas & Asia",Tokusato (ES)
-https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
-
 #EXTINF:-1 tvg-logo="https://revistayume.com/wp-content/uploads/2023/06/Pluto-TV-K-Drama.jpg" group-title="Doramas & Asia",Pluto TV K-Drama (ES)
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGZ3CyrZ/Tokusato.png" group-title="Doramas & Asia",Tokusato (ES)
+https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Doramas & Asia",Rakuten VIKI (SUB)
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png" group-title="Doramas & Asia",New K-Movies (SUB)
+https://jmp2.uk/stvp-ES170000433
 
 
 
