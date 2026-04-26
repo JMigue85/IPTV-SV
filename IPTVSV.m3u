@@ -44,7 +44,7 @@ https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador", Canal TRV
-EXTVLCOPT:http-referrer=https://teleon.tv/
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ1MjAyMHBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="El Salvador", TVC Network 
