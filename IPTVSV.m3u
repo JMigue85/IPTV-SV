@@ -17,16 +17,19 @@ https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante
-https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+https://teleon.tv/stream/cG5wODQ2NTgyMXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES
-https://streamingcws30.com/tves/videotves/chunks.m3u8
+https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV
 https://teleon.tv/stream/cG5wODQ2NjE2M3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
 https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="El Salvador", TaberTV
+https://teleon.tv/stream/cG5wODQ1MTYxNnBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
@@ -36,6 +39,9 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador", RTV Canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador", Canal TRV
+https://teleon.tv/stream/cG5wODQ1MjAyMHBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="El Salvador", TVC Network 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
