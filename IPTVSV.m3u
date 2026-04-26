@@ -950,6 +950,15 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo-2008-500x281.png" group-title="Infantil",Babyfirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="Infantil", duckTV
+https://jmp2.uk/stvp-ESBC4700001GR
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantil", BABY SHARK TV
+https://jmp2.uk/stvp-ES17000065P
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantil",Baby Shark TV
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/08/07/NickJrPLUTO_Channel_1080x1080_HeroSquare-o34pm8ps.png" group-title="Infantil",Pluto TV Junior (MX)
 https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
 
@@ -972,23 +981,6 @@ https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png" group-title="Infantil", LooLoo Kids
 https://jmp2.uk/stvp-ES5000001CS
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantil", BABY SHARK TV
-https://jmp2.uk/stvp-ES17000065P
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantil",Baby Shark TV
-https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png" group-title="Infantil", Caillou
-https://jmp2.uk/stvp-ES4800002OZ
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="Infantil", duckTV
-https://jmp2.uk/stvp-ESBC4700001GR
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400005EJ_20251209T004308SQUARE.png" group-title="Infantil", Cry Babies
-https://jmp2.uk/stvp-ES4400005EJ
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png" group-title="Infantil", SuperToons TV
-https://jmp2.uk/stvp-ESBD5100001G0
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png" group-title="Infantil", Rabbids: La invasión
 https://jmp2.uk/stvp-ESBD2300003S5
@@ -1073,6 +1065,12 @@ https://jmp2.uk/stvp-ESAJ38000046O
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/Mattel-Junior.png" group-title="Infantil", Mattel Junior (ES)
 https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png" group-title="Infantil", Caillou (ES)
+https://jmp2.uk/stvp-ES4800002OZ
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400005EJ_20251209T004308SQUARE.png" group-title="Infantil", Cry Babies (ES)
+https://jmp2.uk/stvp-ES4400005EJ
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png" group-title="Infantil", Pocoyó (ES)
 https://jmp2.uk/stvp-ESBC3900004ED
 
@@ -1081,6 +1079,9 @@ https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/10/23/image9-rr8ztwtw.png" group-title="Infantil",El Reino Infantil (ES)
 https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png" group-title="Infantil", SuperToons TV (ES)
+https://jmp2.uk/stvp-ESBD5100001G0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yc2r75Tg/OIP.jpg" group-title="Infantil", Laika Channel (ES)
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/index.m3u8
