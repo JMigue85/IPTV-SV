@@ -994,6 +994,9 @@ https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/10/Los-Pitufos.png" group-title="Infantil",Los Pitufos
 https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" group-title="Infantil", Pitufo TV
+https://jmp2.uk/stvp-ESBD130000205
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg" group-title="Infantil",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 
@@ -1020,10 +1023,6 @@ https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/popeye_logo.png" group-title="Infantil",Popeye
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" group-title="Infantil", Pitufo TV
-https://jmp2.uk/stvp-ESBD130000205
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOSjb3eQkKAspzok8_tkknYc_EFzPxm-wdLuAF0vgT0r71QhzYV4vMc1imT5Iw-VPPqRrO5uY-m5NlYcvaU5Qtc9EbO1MvnXJLZK3CUnmce_VlDPE_oh7ejnEq-pw85boVUGIi0wMktt_Zoe6SeqyA-v6Gw-d20W8dZLqWRKmvxXFrEL4ClL_PMX8mg/s16000-rw/plutotv-abril2023.png" group-title="Infantil",Las Tortugas Ninja (MX)
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
@@ -1097,9 +1096,6 @@ https://jmp2.uk/stvp-ESBA33000324U
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png" group-title="Infantil", Bob Esponja (ES)
 https://jmp2.uk/stvp-ESBA33000262Z
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png" group-title="Infantil",Bob Esponja (ES)
-https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/878f11/erase-una-vez/1024_2000.jpeg" group-title="Infantil",Érase una vez... (ES)
 https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
