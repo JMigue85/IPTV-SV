@@ -508,7 +508,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370&content_channel=Free
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465&content_channel=FreeTV&content_language=es&livestream=1&id=19359&override_expiration=1500&sign=rjEv%2F4KAnwYBZRvq3bQ68W6QY7Vx9fMrvF8muMtahoc%3D
 
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png", Box Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="FreeTV",Mi Raza Canal
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
