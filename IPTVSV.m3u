@@ -488,6 +488,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201&content_channel=Free
 #EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a55c004-93af-4da6-83e7-b272648ea971/FreeTVDrama_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16198&content_channel=FreeTV&content_language=es&livestream=1&id=19353&override_expiration=1500&sign=YCYIcagQbCkvVJbr48HsjqfQvh9LtKC3pmb%2BY9xhhSU%3D
 
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F16a5a06f-8a9e-4364-bce5-56f228f88c17%2FFreeTVHorror_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="FreeTV", FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194&content_channel=FreeTV&content_language=es&livestream=1&id=19363&override_expiration=1500&sign=nuDhD0xKiIbaVvsPwKPlDn5YD47Q8wBJwsY%2FLpMEYGQ%3D
+
 #EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9a70547-ded2-4a10-8285-15cfc67382e7/FreeTV_live__1_.jpg", FreeTV Live
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195&content_channel=FreeTV&content_language=es&livestream=1&id=19357&override_expiration=1500&sign=9j0Yz3MdxnxpcLPcRkD4lJl9MrnKRC3b5GMbScmrUY0%3D
 
@@ -508,9 +511,6 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-300x300-square.png" group-title="FreeTV",Mi Raza Canal Plus
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F16a5a06f-8a9e-4364-bce5-56f228f88c17%2FFreeTVHorror_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="FreeTV", FreeTV Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194&content_channel=FreeTV&content_language=es&livestream=1&id=19363&override_expiration=1500&sign=nuDhD0xKiIbaVvsPwKPlDn5YD47Q8wBJwsY%2FLpMEYGQ%3D
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751333788lNZ0MTgbtO-300x300-square.png" group-title="FreeTV", Mi Miedo Canal
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
