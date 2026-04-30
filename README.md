@@ -34,13 +34,13 @@ Para garantizar la mejor experiencia y estabilidad en las transmisiones, se reco
 
 Esta lista es una curaduría personalizada, filtrada y testeada específicamente para garantizar su funcionamiento en El Salvador. Gran parte del contenido proviene del esfuerzo de los siguientes proyectos:
 
-    [iptv-org.github.io](https://iptv-org.github.io/): Base de datos global de canales abiertos.
+[iptv-org.github.io](https://iptv-org.github.io/): Base de datos global de canales abiertos.
 
-    [HelmerLuzo](https://github.com/HelmerLuzo): Aportes y mantenimiento de fuentes en GitHub.
+[HelmerLuzo](https://github.com/HelmerLuzo): Aportes y mantenimiento de fuentes en GitHub.
 
-    [Teleon.tv](https://teleon.tv/): Acceso a transmisiones oficiales.
+[Teleon.tv](https://teleon.tv/): Acceso a transmisiones oficiales.
 
-    [Comunidad Open Source](https://www.ecosia.org/search?method=index&q=list+iptv+free+open+source): A todos los que comparten enlaces de libre distribución.
+[Comunidad Open Source](https://www.ecosia.org/search?method=index&q=list+iptv+free+open+source): A todos los que comparten enlaces de libre distribución.
 
     [!NOTE]
     Mi labor consiste en la curaduría y testeo técnico de estos enlaces, asegurando que estén disponibles sin bloqueo geográfico en nuestro país y optimizando su carga en los reproductores recomendados.
@@ -88,13 +88,13 @@ To ensure the best experience and stream stability, we recommend following these
 
 This list is a personalized curation, filtered and technically tested specifically to guarantee functionality within El Salvador. A large part of the content is made possible by the work of the following projects:
 
-    [iptv-org.github.io](https://iptv-org.github.io/): Global database of open-air channels.
+[iptv-org.github.io](https://iptv-org.github.io/): Global database of open-air channels.
 
-    [HelmerLuzo](https://github.com/HelmerLuzo): Valuable contributions and source maintenance on GitHub.
+[HelmerLuzo](https://github.com/HelmerLuzo): Valuable contributions and source maintenance on GitHub.
 
-    [Teleon.tv](https://teleon.tv/): Official broadcast access for various channels.
+[Teleon.tv](https://teleon.tv/): Official broadcast access for various channels.
 
-    [Open Source Community](https://www.ecosia.org/search?method=index&q=list+iptv+free+open+source): To everyone sharing freely distributable links on the web.
+[Open Source Community](https://www.ecosia.org/search?method=index&q=list+iptv+free+open+source): To everyone sharing freely distributable links on the web.
 
     [!NOTE]
     My work consists of technical curation and testing of these links, ensuring they are available without geo-blocking in our country and optimizing their loading across recommended players.
