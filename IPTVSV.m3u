@@ -56,6 +56,9 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/m
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="General",Agape TV
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="El Salvador (Religioso)", TaberTV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
