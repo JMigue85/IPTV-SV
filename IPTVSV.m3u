@@ -1364,10 +1364,10 @@ https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/frol/frol.github.io/master/logos/fox.png" group-title="DEPORTES",Fox en Tubi Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/frol/frol.github.io/master/logos/fox.png" group-title="Deportes",Fox en Tubi Xtra
 https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/frol/frol.github.io/master/logos/fox.png" group-title="NOTICIAS",FOX (Tubi SV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/frol/frol.github.io/master/logos/fox.png" group-title="Deportes",FOX (Tubi SV)
 https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports Guatemala (No 24/7)
