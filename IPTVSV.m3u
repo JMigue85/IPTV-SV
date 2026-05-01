@@ -236,6 +236,9 @@ https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://magickids.site/wp-content/uploads/2022/07/logo-magic-kids-1.png" group-title="ANIME",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
@@ -1274,6 +1277,8 @@ https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://v2.tustreaming.cl/fantasiatv/fantasiatv.png" group-title="Música",Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
