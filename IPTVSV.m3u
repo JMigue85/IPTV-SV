@@ -392,6 +392,9 @@ https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine y Peliculas", Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
+#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Cine y Peliculas",MiTVpy
+https://edge.enhdtv.com/8120/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Cine y Peliculas", MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
@@ -416,6 +419,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Cine y Peliculas", MyTime Movie Network (RuntimeTV)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine y Peliculas",Mi Televisión (ES)
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine y Peliculas", Planeta de Cine
 https://jmp2.uk/stvp-ES2800001G7
