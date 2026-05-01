@@ -236,7 +236,7 @@ https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://magickids.site/wp-content/uploads/2022/07/logo-magic-kids-1.png" group-title="ANIME",Magic Kids
+#EXTINF:-1 tvg-logo="https://magickids.site/wp-content/uploads/2022/07/logo-magic-kids-1.png" group-title="Anime",Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired
