@@ -1,4 +1,4 @@
-#EXTM3U user-agent="VLC/4.0.0.0"
+#EXTM3U user-agent="VLC/4.0.0"
 
 
 
@@ -514,7 +514,10 @@ https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento",ClickTV
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzBGcg6j/estrella-tv-mx-1.png" group-title="Entretenimiento", Estrella TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento",Estrella TV Games
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="Entretenimiento", Las Estrellas
