@@ -414,28 +414,28 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine y Peliculas", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Peliculas", MyTime Movie Network (Mexico)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Peliculas", MyTime Movie Network (Mexico)(ES)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Cine y Peliculas", MyTime Movie Network (RuntimeTV)
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Cine y Peliculas", MyTime Movie Network (RuntimeTV)(ES)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine y Peliculas",Mi Televisión (ES)
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine y Peliculas", Planeta de Cine
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine y Peliculas", Planeta de Cine (ES)
 https://jmp2.uk/stvp-ES2800001G7
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine y Peliculas", Cines Verdi TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine y Peliculas", Cines Verdi TV (ES)
 https://jmp2.uk/stvp-ESBC2700011AZ
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine y Peliculas", Cine Feel Good – Verdi TV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine y Peliculas", Cine Feel Good – Verdi TV (ES)
 https://jmp2.uk/stvp-ESBC2700012RP
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine y Peliculas", Bjgtjme Películas Gratis
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine y Peliculas", Artflix - Películas Clásicas
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine y Peliculas", Artflix - Películas Clásicas (ES)
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Cine y Peliculas", Cine Adrenalina
@@ -460,14 +460,14 @@ https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Cine y Peliculas", Atrescine
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Cine y Peliculas", Atrescine (ES)
 #EXTVLCOPT:http-referrer=http://181.114.57.246:4000/
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine y Peliculas", MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine y Peliculas", MultiVox La India
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine y Peliculas", MultiVox La India (SUB/IA DUB)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
