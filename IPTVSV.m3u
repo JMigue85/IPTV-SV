@@ -236,9 +236,6 @@ https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Anime",Magic Kids
-https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
@@ -1144,10 +1141,11 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Infantil",Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Infantil", Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantil",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Infantil", Nickelodeon (MX)
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
