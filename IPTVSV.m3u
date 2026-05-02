@@ -134,6 +134,15 @@ https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g23Ls8v2/Diseno-sin-titulo(3).png" group-title="Guatemala", GTV (Guatemala)
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala", Canal 13 (Esquipulas)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="Guatemala", Multivisión Canal 3 
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+
+#EXTINF:-1 tvg-id="NimTV.gt@SD" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Guatemala", Nim TV 
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS (SOL)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
 
