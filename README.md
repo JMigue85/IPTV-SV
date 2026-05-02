@@ -30,7 +30,7 @@ Descarga directa: https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u
 - Pluto TV ES/MX → 40+ canales combinados
 - Rakuten / LG / RUN:TIME / Sony / Canela → 80+ canales combinados
 
-Total real: 485+ canales### 
+Total real: 485+ canales
 
 🚀 Reproductores Recomendados
 
