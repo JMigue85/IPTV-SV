@@ -1288,10 +1288,20 @@ https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://v2.tustreaming.cl/fantasiatv/fantasiatv.png" group-title="Música",Fantasia TV
-https://v2.tustreaming.cl/fantasiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Música",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Música",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
@@ -1331,21 +1341,6 @@ https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/t
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Música", GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Música",Totalmusic 2000s
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Música",Totalmusic Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/parentesis-tv-2.png" group-title="Música",Paréntesis TV
 https://freya.mivideo.pro/parentesistv/index.m3u8
@@ -1398,6 +1393,9 @@ https://jmp2.uk/plu-686cd8bb9d079f48dbbdfecb.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/al%20ritmo%20del%20jaripeo%202-13.jpeg" group-title="Música",Al Ritmo del Jaripeo
 https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
+
+#EXTINF:-1 tvg-logo="https://v2.tustreaming.cl/fantasiatv/fantasiatv.png" group-title="Música",Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
 
 
 
