@@ -140,7 +140,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="Guatemala", Multivisión Canal 3 
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 
-#EXTINF:-1 tvg-id="NimTV.gt@SD" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Guatemala", Nim TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Guatemala", Nim TV 
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS (SOL)
@@ -597,7 +597,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playl
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Música",MTV Pluto TV
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Entretenimiento",MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
 
