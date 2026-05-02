@@ -426,6 +426,9 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine y Peliculas", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Peliculas", Retrox TV (720p) [Not 24/7]
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Peliculas", MyTime Movie Network (Mexico)(ES)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
