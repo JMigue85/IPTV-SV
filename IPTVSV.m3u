@@ -1414,6 +1414,9 @@ https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/inde
 #EXTVLCOPT:http-referrer=http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes", Multivisión Sports (GT)
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (MX)
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
