@@ -597,6 +597,10 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playl
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Música",MTV Pluto TV
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+
 
 
 
@@ -1339,9 +1343,6 @@ https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/noticias/2023/01/canela-tv-musica-720x404.png" group-title="Música",Canela Music Hits
 https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dab6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c41de72a1af1c56953d51e2d04bcb8115e985c959c816d46bf015cb93edda8545d09bc332fc52b3605e0b7524c9d84ba8a32cde5027da58e6130a745c33c4b192e44730f43f293ecbdebb71e16271b4e4168e7523b340b94281228368ab73c7ab2ef2e5d3572530a197479e9a93f645d9aa3f8aedd39ade02a3ac52719ce41d7b46865ed92d140891e8c71bbe6474fcab0e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c66aab943b8f729d60fe9a5a617d5d54a19f62c184f257242d1ad5d71087455bf1f0a3b7f222778a6c1251ed20fe5e0667c37d2c5fed3ff6973923d8725ccb6573ab1665c071fdbe2de7ae94b0556cfb8d9102da6be8fa5b86a04cf9236c1752c1874635724573d4e1711e7028933783fdfea126594ebc8d8294a97e31042b1841038df69519b687c33b1205ce55321a1a3513910196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3cc228d07d3674642267352beddc550da7161b19e939294062/104/1920x1080_6423560/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Música", GikTVMX
-https://pistream.ddns.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/parentesis-tv-2.png" group-title="Música",Paréntesis TV
 https://freya.mivideo.pro/parentesistv/index.m3u8
 
@@ -1356,10 +1357,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bdCkrp/voiceover-radio-costa-rica-0-png.png" group-title="Música",Voice Over Television
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Música", MaxiVision TV
-https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
@@ -1379,9 +1376,6 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/15/MTV_FlowLatino_Channel_1080x1080_Square-1ooa8hib.png" group-title="Música",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Música",MTV Pluto TV
-https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/featuredImage.jpg" group-title="Música",MTV Rocks
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
@@ -1394,8 +1388,16 @@ https://jmp2.uk/plu-686cd8bb9d079f48dbbdfecb.m3u8
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/al%20ritmo%20del%20jaripeo%202-13.jpeg" group-title="Música",Al Ritmo del Jaripeo
 https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Música", GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Música", MaxiVision TV
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://v2.tustreaming.cl/fantasiatv/fantasiatv.png" group-title="Música",Fantasia TV
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
+
+
 
 
 
