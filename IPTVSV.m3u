@@ -152,6 +152,9 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras", HCH (GeoBlocked)
+https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Honduras", Lenca Television Canal 40
 https://lencatelevision.com/hls/stream.m3u8
 
