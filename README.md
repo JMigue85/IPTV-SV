@@ -29,20 +29,32 @@ Descarga directa: https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u
 - FreeTV → 15+ canales
 - Pluto TV ES/MX → 40+ canales combinados
 - Rakuten / LG / RUN:TIME / Sony / Canela → 80+ canales combinados
+**Total real: 485+ canales**
 
-Total real: 485+ canales
+### 🚀 Reproductores Recomendados
 
-🚀 Reproductores Recomendados
+- **Android** (Recomendación principal): Televizo + MPV como reproductor externo (la mejor combinación probada)
+- **PC**: FredTV (mejor opción), MPV Player o IPTVnator
+- **macOS**: IPTVnator (Recomendado, Posible Alternativa, No Probado Personalmente)
+- **iPhone / iPad**: GSE Smart IPTV + VLC como reproductor externo (Recomendado, Posible Alternativa, No Probado Personalmente)
+- **Smart TV**: Android TV → Televizo | Samsung, LG y otras → IPTV Smarters Pro (Cargar Archivo IPTVSV.M3U Descargado - Actualización Manual)
 
-- PC → FredTV (mejor opción general)
-- PC → MPV Player (máxima estabilidad)
-- PC → IPTVnator (motor JSPlayer)
-- Android → Televizo (excelente + reproductor externo)
-
-Tip importante para canales TCS (2, 4, 6 y SV+): Usa reproductor externo (MPV primero, luego VLC).
+**Tip importante para canales TCS (2, 4, 6 y SV+):** Usa reproductor externo (MPV primero, luego VLC).
 
 ### ⚙️ Ajustes recomendados
 - Activa Decodificación por Software en MPV y VLC.
+
+Para mantener la transparencia y el reconocimiento sin saturar el README con demasiados enlaces externos, lo ideal es un bloque de Créditos o Fuentes al final, justo antes de la licencia.
+
+Mencionar que son sitios de transmisiones públicas refuerza tu Disclaimer de que no alojas contenido ilegal. Aquí tienes una propuesta de bloque elegante y profesional:
+🤝 Créditos y Fuentes
+
+Este proyecto es posible gracias a la recopilación de enlaces de fuentes públicas y colaborativas:
+
+- Teleon.tv: Por el acceso a señales regionales.
+- IPTV-org: Por su extensa base de datos de canales globales.
+- Fuentes de Transmisión Pública: Diversos sitios web oficiales y plataformas de libre acceso que emiten su señal en internet.
+- Agradecimiento especial a todos los colaboradores y mantenedores de listas abiertas que permiten mantener este repositorio actualizado.
 
 ### ⚖️ Disclaimer
 Este repositorio solo recopila enlaces públicos disponibles en internet. No hospeda ni transmite contenido. El uso es responsabilidad del usuario.
