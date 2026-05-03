@@ -44,9 +44,6 @@ Descarga directa: https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u
 ### ⚙️ Ajustes recomendados
 - Activa Decodificación por Software en MPV y VLC.
 
-Para mantener la transparencia y el reconocimiento sin saturar el README con demasiados enlaces externos, lo ideal es un bloque de Créditos o Fuentes al final, justo antes de la licencia.
-
-Mencionar que son sitios de transmisiones públicas refuerza tu Disclaimer de que no alojas contenido ilegal. Aquí tienes una propuesta de bloque elegante y profesional:
 🤝 Créditos y Fuentes
 
 Este proyecto es posible gracias a la recopilación de enlaces de fuentes públicas y colaborativas:
