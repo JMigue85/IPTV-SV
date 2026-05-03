@@ -3,29 +3,37 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ2NTgyMXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ2NjE2M3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
+#EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
