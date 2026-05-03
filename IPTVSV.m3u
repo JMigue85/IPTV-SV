@@ -109,6 +109,9 @@ https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete
 https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_4276517416086298479_hls.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.2)
+https://d3r1d0jzdq322.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J6SnMWp/como-antes.png" group-title="Guatemala",Como Antes TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
