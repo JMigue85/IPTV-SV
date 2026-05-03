@@ -76,6 +76,9 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="El Salvador (Religioso)", TaberTV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="El Salvador (Religioso)",Canal+ Uruguay (Cine y Valores)
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="El Salvador (Religioso)", Josue TV 
 https://teleon.tv/stream/cG5wODQzNTY2NnBucDg0.m3u8
 
