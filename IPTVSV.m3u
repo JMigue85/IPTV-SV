@@ -1370,13 +1370,16 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Musica",Retro Plus TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCvqMrB1/79161d88661c0c2386c2366ddd2f8e13.png" group-title="Música",Box Playlist
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Música",Retro Plus TV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Musica",VClassic TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Música",VClassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="Musica",PortalFoxMix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="Música",PortalFoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
@@ -1457,7 +1460,7 @@ https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/10/Metal-Rocks-canal-Pluto-TV-1.png" group-title="Música",Metal Rocks (ES)
 https://jmp2.uk/plu-686cd8bb9d079f48dbbdfecb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LDtKp86t/951029551eab1d4e6331addcb41c5ba0.png" group-title="Musica",Hits Mexicanos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDtKp86t/951029551eab1d4e6331addcb41c5ba0.png" group-title="Música",Hits Mexicanos
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/al%20ritmo%20del%20jaripeo%202-13.jpeg" group-title="Música",Al Ritmo del Jaripeo
