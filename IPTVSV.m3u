@@ -1533,6 +1533,9 @@ https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMfjPb8V/0-16x9-1.png" group-title="Deportes", Canela.TV Combat (LATAM)
 https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channeld-canelatvinternational/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HD1vwSR2/aab84e3a60f3c340d20f688f4d796069.png" group-title="Deportes",Lucha Plus
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/Nc7K060.png", Lucha Libre AAA 
 https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
 
