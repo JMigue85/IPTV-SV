@@ -419,16 +419,16 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine y Peliculas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Películas",FilmRise Películas Gratis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Peliculas",FilmRise Películas Gratis
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine y Películas",Popcorn Central
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine y Peliculas",Popcorn Central
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine y Series",Cindie Lite
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine y Peliculas",Cindie Lite
 https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine y Películas",Zee Mundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine y Peliculas",Zee Mundo
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine y Peliculas", Visión Dorada TV (Colombia)
