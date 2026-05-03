@@ -39,6 +39,9 @@ https://teleon.tv/stream/cG5wODQ2NjE2M3BucDg0.m3u8
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 (Opc.2)
+https://cors-proxy.cooks.fyi/https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
