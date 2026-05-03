@@ -419,6 +419,9 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Películas",FilmRise Películas Gratis
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine y Películas",Popcorn Central
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine y Peliculas", Visión Dorada TV (Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
@@ -540,6 +543,9 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Entretenimiento",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento", Telemundo Acción
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/2ca762b4-f887-467d-bca5-5c36b3133583/4.m3u8
