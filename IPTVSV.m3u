@@ -109,6 +109,9 @@ https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal
 https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_4276517416086298479_hls.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (Opc.2)
+https://dge88l7454gi1.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete
 https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_4276517416086298479_hls.m3u8
 
@@ -431,6 +434,9 @@ https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine y Peliculas",Zee Mundo
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="Cine y Peliculas",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine y Peliculas", Visión Dorada TV (Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
@@ -543,6 +549,9 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="Entretenimiento",Clic TV (TV Azteca)
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
