@@ -477,6 +477,9 @@ https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Peliculas", Retrox TV
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine y Peliculas",Runtime Español
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Peliculas", MyTime Movie Network (Mexico)(ES)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
