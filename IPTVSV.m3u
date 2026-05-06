@@ -23,6 +23,8 @@ https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://teleon.tv/stream/cG5wODQ2NTgyMXBucDg0.m3u8
@@ -69,7 +71,6 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/m
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="El Salvador (Religioso)",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
@@ -99,8 +100,6 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="El Salvador (Religioso)", TV Maná Español
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-
-
 
 
 
@@ -187,6 +186,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras", HCH
 https://live.streamhch.com/live/streams/hch1.m3u8
 
@@ -267,11 +267,6 @@ https://www.idealfm104-7.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg" group-title="Honduras", Radio Imagen 105.1 FM
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
-
-
-
-
-
 
 
 
@@ -413,141 +408,141 @@ https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine y Peliculas", ENT Channel
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine y Películas", ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine y Peliculas", ENT Family
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine y Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine y Peliculas", FMTV Mundo (Cadena Internacional)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine y Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Peliculas",FilmRise Películas Gratis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Películas",FilmRise Películas Gratis
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine y Peliculas",Popcorn Central
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine y Películas",Popcorn Central
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine y Peliculas",Cindie Lite
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine y Películas",Cindie Lite
 https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine y Peliculas",Zee Mundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine y Películas",Zee Mundo
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="Cine y Peliculas",Valle Nuevo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="Cine y Películas",Valle Nuevo TV
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine y Peliculas", Visión Dorada TV (Colombia)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine y Películas", Visión Dorada TV (Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine y Peliculas", Cosmos TV (Argentina)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine y Películas", Cosmos TV (Argentina)
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine y Peliculas", Next HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine y Películas", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Cine y Peliculas", Canal Pulpo TV
+#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Cine y Películas", Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine y Peliculas", Metro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine y Películas", Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Cine y Peliculas",MiTVpy
+#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Cine y Películas",MiTVpy
 https://edge.enhdtv.com/8120/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Cine y Peliculas", MiTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Cine y Películas", MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Cine y Peliculas", Nitida TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Cine y Películas", Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Cine y Peliculas", Vision NDV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Cine y Películas", Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine y Peliculas", Box Cinema
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine y Películas", Box Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine y Peliculas", Mega Cine TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine y Películas", Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine y Peliculas", Memorias Film
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine y Películas", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Peliculas", Retrox TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Películas", Retrox TV
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine y Peliculas",Runtime Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine y Películas",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine y Peliculas",Cine en Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine y Películas",Cine en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=s-LCv6BwD-9AmtyXYc67
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine y Peliculas",Todo Cine
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine y Películas",Todo Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472b186783f359e.m3u8?X-Plex-Token=ZM-hxdz1yNmR9tokPfyJ
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine y Peliculas",Oro TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine y Películas",Oro TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64f0db77c2bc9b9001d46eaa.m3u8?X-Plex-Token=VxmMXSQVcfo9G5eXyKfd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Peliculas", MyTime Movie Network (Mexico)(ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Películas", MyTime Movie Network (Mexico)(ES)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Cine y Peliculas", MyTime Movie Network (RuntimeTV)(ES)
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Cine y Películas", MyTime Movie Network (RuntimeTV)(ES)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine y Peliculas",Mi Televisión (ES)
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine y Películas",Mi Televisión (ES)
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine y Peliculas", Planeta de Cine (ES)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine y Películas", Planeta de Cine (ES)
 https://jmp2.uk/stvp-ES2800001G7
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine y Peliculas", Cines Verdi TV (ES)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine y Películas", Cines Verdi TV (ES)
 https://jmp2.uk/stvp-ESBC2700011AZ
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine y Peliculas", Cine Feel Good – Verdi TV (ES)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine y Películas", Cine Feel Good – Verdi TV (ES)
 https://jmp2.uk/stvp-ESBC2700012RP
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine y Peliculas", Bjgtjme Películas Gratis
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine y Películas", Bjgtjme Películas Gratis
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine y Peliculas", Artflix - Películas Clásicas (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine y Películas", Artflix - Películas Clásicas (ES)
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Cine y Peliculas", Cine Adrenalina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Cine y Películas", Cine Adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Cine y Peliculas", Cine Clásico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Cine y Películas", Cine Clásico
 https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="Cine y Peliculas", Cine Comedia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="Cine y Películas", Cine Comedia
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Cine y Peliculas", Cine Premiere
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Cine y Películas", Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Cine y Peliculas", Cine Terror
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Cine y Películas", Cine Terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine y Peliculas",Cine de Horror
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine y Películas",Cine de Horror
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=b1EtektCx21hyn2XexED
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Cine y Peliculas", AMC LATAM (Hispanoamérica)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Cine y Películas", AMC LATAM (Hispanoamérica)
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine y Peliculas", Cinecanal South
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine y Películas", Cinecanal South
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Cine y Peliculas", Atrescine (ES)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Cine y Películas", Atrescine (ES)
 #EXTVLCOPT:http-referrer=http://181.114.57.246:4000/
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine y Peliculas", MultiVox Accion
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine y Películas", MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine y Peliculas", MultiVox La India (SUB/IA DUB)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine y Películas", MultiVox La India (SUB/IA DUB)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
-
 
 
 
@@ -677,7 +672,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playl
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Entretenimiento",MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-
 
 
 
@@ -868,7 +862,6 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Pluto TV (ES)",Pluto TV Cine Estelar (ES)
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
 
@@ -1024,7 +1017,6 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
@@ -1056,8 +1048,6 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTDG6LgN/lg1-es.png" group-title="LG Channels",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 
@@ -1069,8 +1059,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rnd6BfP/lg1-spotlight-es.png" group-title="LG Channels",LG 1: SPOTLIGHT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-
 
 
 
@@ -1105,7 +1093,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864&avod=1&coppa=0&td=6&
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="RUN:TIME TV",Águila Roja
 https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
-
 
 
 
@@ -1164,9 +1151,6 @@ https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Canela TV",Azteca Internacional
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
-
-
-
 
 
 
@@ -1503,8 +1487,6 @@ https://v2.tustreaming.cl/fantasiatv/index.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/0Wqdtb7VjWAc4Q==/c01bd1fb-966f-47e7-b382-fbbf9889e620/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes",FOX (Tubi SV)
 https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
 
@@ -1677,5 +1659,7 @@ https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 
 #EXTINF:-1 tvg-logo="https://igamemedia.com/wp-content/uploads/2025/01/iGM-x-Pluto-MODUS-Darts.jpg" group-title="Deportes", MODUS Super Series Darts (EN)
 https://jmp2.uk/plu-67164414e40c4a00087f450d.m3u8
+
+
 
 
