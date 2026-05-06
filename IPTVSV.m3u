@@ -480,6 +480,9 @@ https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine y Peliculas",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine y Peliculas",Cine en Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=duDqjs5dAsAsbGrKCv6m
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Peliculas", MyTime Movie Network (Mexico)(ES)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
