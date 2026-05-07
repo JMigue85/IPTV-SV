@@ -285,9 +285,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://kanade.cl/wp-content/uploads/2024/12/CO_WHITE@4x-e1733253803860.png" group-title="Anime",Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
-
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
