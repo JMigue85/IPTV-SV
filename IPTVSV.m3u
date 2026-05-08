@@ -641,9 +641,6 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Entretenimiento", FTV
-https://master.tucableip.com/ftvhd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento", XtremaTV
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
@@ -683,6 +680,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Informativos", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Foro_TV_logo.svg/1200px-Foro_TV_logo.svg.png" group-title="Informativos", Foro TV (FTV)
+https://master.tucableip.com/ftvhd/index.m3u8
 
 
 
