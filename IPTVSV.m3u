@@ -217,6 +217,9 @@ https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="Honduras", Omega TV
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="PONER_AQUI_EL_LOGO" group-title="Honduras", Choluteca TV
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="Honduras", Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 
@@ -674,6 +677,14 @@ https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento", Fuego TV (Rep. Dominicana)
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="Entretenimiento", TN8 (Nicaragua)
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Entretenimiento", Global TV (Perú)
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento", Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
 
@@ -757,6 +768,23 @@ https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="Informativos", CERTV Canal 4 (Rep. Dominicana)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Informativos", Ready TV (La Vega, Rep. Dominicana)
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Informativos", Willax TV (Perú)
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú)
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Informativos", Agro TV (Cusco, Perú)
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640_640_360.png" group-title="Informativos", TV Norte (Perú)
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
+
+
 
 
 
