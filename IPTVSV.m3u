@@ -1811,6 +1811,9 @@ https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça (EN)
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMhWB50y/OIP.png" group-title="Deportes", Women's Sports Network (EN)
+https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qSQMWcF/fuel-tv-mx.png" group-title="Deportes", FUEL TV (SUB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
 
