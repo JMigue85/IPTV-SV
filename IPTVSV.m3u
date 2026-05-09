@@ -801,7 +801,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 https://nomvauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Informativos", N+ Monterrey
-https://nomvauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel09secure-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrimbhT.png" group-title="Informativos", N+ Guadalajara
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index.m3u8&redirect=true
