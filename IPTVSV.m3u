@@ -4,22 +4,22 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
+https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV)
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
+https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (Estable)
 https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/MF443wxa/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
+https://signal.teleon.live/stream/canal6sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://teleon.tv/stream/cG5wODQ3ODEzNXBucDg0.m3u8
+https://signal.teleon.live/stream/canaltcssv.m3u8?token=free
 
 
 
