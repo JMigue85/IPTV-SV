@@ -695,6 +695,27 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Entretenimiento", Mega (Chile)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Entretenimiento", La Red (Chile)
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento", Bravo TV (Argentina)
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Entretenimiento", Ciudad Magazine (Argentina)
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento", SNT (Paraguay)
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Entretenimiento", Trece TV (Paraguay)
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Entretenimiento", Global TV (Perú)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
