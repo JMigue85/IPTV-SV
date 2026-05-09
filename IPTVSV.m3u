@@ -811,6 +811,9 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrimbhT.png" group-title="Informativos", N+ Guadalajara
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index.m3u8&redirect=true
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Informativos", Canal 1 (Costa Rica)
+https://vid.canal1cr.com:3424/multi_live/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Informativos", TV Sur Pérez Zeledón (Costa Rica)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
