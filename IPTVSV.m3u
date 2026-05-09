@@ -188,6 +188,9 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="Guatemala",Canal 10 (Sololá)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMdyLVv.png" group-title="Guatemala", Zoe Visión (Religioso)
+https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
+
 
 
 
