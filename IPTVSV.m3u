@@ -134,9 +134,6 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxLFq0rq/sil-tv-suchitepequez-en-vivo.png" group-title="Guatemala",SilTV
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05FmnWRW/TV-TUN-GT.png" group-title="Guatemala",Canal TV TUN
-https://tvstream.alojawebgt.net:3289/live/tvtunlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKB3x3yh/canal-sol-tv.png" group-title="Guatemala",Canal Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
@@ -172,6 +169,9 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13Kb6Lp.png" group-title="Guatemala",Cariñosa TV
 https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBgjytr2/Canal-Verapaz-TV-en-vivo.png" group-title="Informativos", Verapaz TV (Inestable)
+https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS (SOL)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
