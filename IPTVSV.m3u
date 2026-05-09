@@ -686,6 +686,15 @@ https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Entretenimiento", Oromar TV (Manta, Ecuador)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento", RCN Mas + (Colombia)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento", TVES (Venezuela)
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Entretenimiento", Mega (Chile)
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Entretenimiento", Global TV (Perú)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
@@ -775,6 +784,9 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Informativos", Multicanal (Loja, Ecuador)
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Informativos", Cali TV (Colombia)
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPqlChI.png" group-title="Informativos", WIPR (Puerto Rico)
 https://streamwipr.pr/hls/stream/index.m3u8
