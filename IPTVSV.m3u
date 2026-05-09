@@ -86,9 +86,6 @@ https://teleon.tv/stream/cG5wODQzNTY2NnBucDg0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvpXk0Mn/el-camino-tv.png" group-title="El Salvador (Religioso)", El Camino TV 
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="El Salvador (Religioso)", El Sembrador TV 
-https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="El Salvador (Religioso)", Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
@@ -101,6 +98,8 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="El Salvador (Religioso)", TV Maná Español
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="El Salvador (Religioso)", El Sembrador TV 
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
 
 
