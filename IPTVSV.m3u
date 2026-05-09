@@ -119,6 +119,9 @@ https://d3r1d0jzdq322.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
 https://d4bee8qaav6x0.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Guatemala", Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J6SnMWp/como-antes.png" group-title="Guatemala",Como Antes TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
