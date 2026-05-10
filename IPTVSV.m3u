@@ -740,28 +740,28 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento", Folklore TV (Perú)
 https://play.folkloretv.pe/StreamSD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento", Comedia Made in Spain
-https://jmp2.uk/stvp-ESAJ3800005C5
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Entretenimiento", Comedy Central en español
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQWWfyW.png" group-title="Entretenimiento", MTV en español
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central Latin America (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central Latin America (Inestable)
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entretenimiento", MTV Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entretenimiento", MTV Latin America (Inestable)
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fuengirolatv.com/wp-content/uploads/2021/04/logo-ftv-fuengirola-tv.png" group-title="Entretenimiento", FTV Fuengirola (España)
-https://streaming004.gestec-video.com/hls/FTV.m3u8
-
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Entretenimiento",MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento", Comedia Made in Spain
+https://jmp2.uk/stvp-ESAJ3800005C5
+
+#EXTINF:-1 tvg-logo="https://fuengirolatv.com/wp-content/uploads/2021/04/logo-ftv-fuengirola-tv.png" group-title="Entretenimiento", FTV Fuengirola (España)
+https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 
 
