@@ -734,8 +734,11 @@ https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento", Canal 4 Jujuy (Argentina)
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Informativos", Canal 4 Posadas (Argentina)
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Entretenimiento", 5TV Corrientes (Argentina)
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Entretenimiento", Canal 5 Del Pueblo (Argentina)
+https://stmv4.voxtvhd.com.ar/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -883,6 +886,9 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Informativos", Canal 3 Las Heras (Argentina)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Informativos", Canal 4 Posadas (Argentina)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
