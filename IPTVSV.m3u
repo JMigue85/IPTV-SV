@@ -71,41 +71,44 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/m
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="El Salvador (Religioso)",Agape TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="El Salvador (Religioso)", TaberTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos", TaberTV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="El Salvador (Religioso)",Canal+ Uruguay (Cine y Valores)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="Religiosos",Canal+ Uruguay (Cine y Valores)
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="El Salvador (Religioso)", Josue TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="Religiosos", Josue TV 
 https://teleon.tv/stream/cG5wODQzNTY2NnBucDg0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PvpXk0Mn/el-camino-tv.png" group-title="El Salvador (Religioso)", El Camino TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvpXk0Mn/el-camino-tv.png" group-title="Religiosos", El Camino TV 
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="El Salvador (Religioso)", Enlace TBN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="Religiosos", Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0y8vN381/tv-getsemani.png" group-title="El Salvador (Religioso)", TV Getsemani 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y8vN381/tv-getsemani.png" group-title="Religiosos", TV Getsemani 
 https://teleon.tv/stream/cG5wODQzNTY2MHBucDg0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9m7Ny9gk/tv-leon-de-juda.png" group-title="El Salvador (Religioso)", TV Leon de Juda 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m7Ny9gk/tv-leon-de-juda.png" group-title="Religiosos", TV Leon de Juda 
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="El Salvador (Religioso)", TV Maná Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="Religiosos", TV Maná Español
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="El Salvador (Religioso)", El Sembrador TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="El Salvador (Religioso)", Canal 13 Jujuy (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religiosos", Canal 13 Jujuy (Argentina)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="El Salvador (Religioso)", Canal 4 San Juan (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Religiosos", Canal 4 San Juan (Argentina)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos", Canal Orbe 21 (Argentina)
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 
 
