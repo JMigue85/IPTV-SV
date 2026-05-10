@@ -902,6 +902,21 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Informativos", Canal 7 Neuquén (Argentina)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Informativos", Canal 7 Salta (Argentina)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Informativos", Canal 7 Santiago del Estero (Argentina)
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Informativos", Canal 79 La Costa (Argentina)
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Informativos", Canal 79 Puan (Argentina)
+https://streamconex.com:19360/puan/puan.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Informativos", Canal 79 Santa Clara del Mar (Argentina)
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
