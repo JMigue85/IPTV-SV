@@ -698,13 +698,10 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento", TVES (Venezuela)
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
-https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento",Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="Entretenimiento", Tiva TV (PR)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="Entretenimiento", Tiva TV (Puerto Rico)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Entretenimiento", Mega (Chile)
@@ -835,6 +832,12 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Informativos", Cali TV (Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Informativos", Aire de Santa Fe (Argentina)
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
+https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPqlChI.png" group-title="Informativos", WIPR (Puerto Rico)
 https://streamwipr.pr/hls/stream/index.m3u8
