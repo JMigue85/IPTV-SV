@@ -104,6 +104,9 @@ https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="El Salvador (Religioso)", Canal 13 Jujuy (Argentina)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="El Salvador (Religioso)", Canal 4 San Juan (Argentina)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
 
 
 
@@ -727,6 +730,12 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento", Canal 34 San Juan (Argentina)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento", Canal 4 Jujuy (Argentina)
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Informativos", Canal 4 Posadas (Argentina)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
