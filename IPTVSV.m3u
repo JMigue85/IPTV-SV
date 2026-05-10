@@ -917,6 +917,15 @@ https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Informativos", Canal 79 Santa Clara del Mar (Argentina)
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Informativos", Canal 9 Resistencia (Argentina)
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Informativos", Canal 9 Litoral (Argentina)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZYLfzDF/canal-e-ar.png" group-title="Informativos", Canal E (Argentina)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
