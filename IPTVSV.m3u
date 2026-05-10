@@ -426,6 +426,13 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine y Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Cine y Películas", AMC LATAM (Hispanoamérica)
+https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine y Películas", Cinecanal South (Inestable)
+#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine y Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
@@ -487,6 +494,9 @@ https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine y Películas",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine y Películas", Bjgtjme Películas Gratis
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine y Películas",Cine en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=s-LCv6BwD-9AmtyXYc67
 
@@ -496,32 +506,8 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine y Películas",Oro TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64f0db77c2bc9b9001d46eaa.m3u8?X-Plex-Token=VxmMXSQVcfo9G5eXyKfd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Películas", MyTime Movie Network (Mexico)(ES)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Cine y Películas", MyTime Movie Network (RuntimeTV)(ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine y Películas",Mi Televisión (ES)
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine y Películas",Mi Televisión
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine y Películas", Planeta de Cine (ES)
-https://jmp2.uk/stvp-ES2800001G7
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine y Películas", Cines Verdi TV (ES)
-https://jmp2.uk/stvp-ESBC2700011AZ
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine y Películas", Cine Feel Good – Verdi TV (ES)
-https://jmp2.uk/stvp-ESBC2700012RP
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine y Películas", Bjgtjme Películas Gratis
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine y Películas", Artflix - Películas Clásicas (ES)
-https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="Cine y Películas", The Spanish Family Channel
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/5ZVSPT4VKTGB7IPEEXY3/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Cine y Películas", Cine Adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
@@ -541,12 +527,27 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine y Películas",Cine de Horror
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=b1EtektCx21hyn2XexED
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Cine y Películas", AMC LATAM (Hispanoamérica)
-https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Películas", MyTime Movie Network (Mexico)(ES)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine y Películas", Cinecanal South
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Cine y Películas", MyTime Movie Network (RuntimeTV)(ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine y Películas", Planeta de Cine (ES)
+https://jmp2.uk/stvp-ES2800001G7
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine y Películas", Cines Verdi TV (ES)
+https://jmp2.uk/stvp-ESBC2700011AZ
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine y Películas", Cine Feel Good – Verdi TV (ES)
+https://jmp2.uk/stvp-ESBC2700012RP
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine y Películas", Artflix - Películas Clásicas (ES)
+https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="Cine y Peliculas", The Spanish Family Channel (ES)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/5ZVSPT4VKTGB7IPEEXY3/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Cine y Películas", Atrescine (ES)
 #EXTVLCOPT:http-referrer=http://181.114.57.246:4000/
