@@ -661,6 +661,9 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Entretenimiento", Canal 26 VA+ TV (México)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Entretenimiento", TV Cuatro 4.2 (México)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento", Imagen TV Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
 
