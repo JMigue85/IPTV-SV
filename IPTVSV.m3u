@@ -25,8 +25,7 @@ https://signal.teleon.live/stream/canaltcssv.m3u8?token=free
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante
-#EXTVLCOPT:http-referrer=https://teleon.tv/
-https://teleon.tv/stream/cG5wODQ2NTgyMXBucDg0.m3u8
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES
 #EXTVLCOPT:http-referrer=https://teleon.tv/
