@@ -79,6 +79,9 @@ https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="Religiosos",Canal+ Uruguay (Cine y Valores)
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religiosos", Unife TV (Argentina)
+https://teleon.tv/stream/cG5wODQ3NzgxMXBucDg0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="Religiosos", Josue TV 
 https://teleon.tv/stream/cG5wODQzNTY2NnBucDg0.m3u8
 
@@ -106,11 +109,18 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos", Canal Orbe 21 (Argentina)
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Religiosos", TV Solidaria (Argentina)
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religiosos", EWTN Español
 https://cdn3.wowza.com/1/VGlwZDhmZXl3N0Rw/YmxuTER1/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Religiosos", Sophia TV Español
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
@@ -754,6 +764,15 @@ https://stmv4.voxtvhd.com.ar/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Entretenimiento", Canal 5 Pico Truncado (Argentina)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Entretenimiento", Quántica TV (Argentina)
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Entretenimiento", TeleCinco Trelew (Argentina)
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Entretenimiento", Telenord Corrientes (Argentina)
+https://signal.teleon.live/stream/telenordcorrientesar.m3u8?token=free
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
@@ -809,6 +828,12 @@ https://teleon.tv/stream/cG5wODQ4Mzk1N3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Informativos",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Informativos", Telesur (Latinoamérica)
+https://teleon.tv/stream/cG5wODQ2NjAyNXBucDg0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Informativos", TV BRICS (Internacional)
+https://teleon.tv/stream/cG5wODQ3ODkyMHBucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV7RRh0d/Diseno-sin-titulo(11).png" group-title="Informativos", Telefórmula (México)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -956,6 +981,18 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Informativos", Litus TV (Argentina)
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Informativos", Misiones Cuatro (Argentina)
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Informativos", NG Federal TV (Argentina)
+https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Informativos", Power Max 104.5 (Argentina)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Informativos", Sicardi TV La Plata (Argentina)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
