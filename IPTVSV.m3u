@@ -121,6 +121,9 @@ https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Religiosos", TBN España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Religiosos", UMVirtual (México)
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
@@ -667,6 +670,12 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Entretenimiento", TV Lobo Durango (México)
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Entretenimiento", TV Mar La Paz (México)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Entretenimiento", Unison TV Canal 8 (México)
+https://stream.unison.mx/hls/unisontvatem.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento", Imagen TV Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
 
@@ -705,6 +714,9 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndOGVXI.png" group-title="Entretenimiento", Vibe TV (México)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Entretenimiento", Ultra TV Puebla (México)
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Entretenimiento", Drone TV (AirVuz)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -917,6 +929,9 @@ https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Informativos", Tele Yucatan (México)
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="Informativos", Canal 28 Nuevo Leon (México)
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Foro_TV_logo.svg/1200px-Foro_TV_logo.svg.png" group-title="Informativos", FTV HD
 https://master.tucableip.com/ftvhd/index.m3u8
@@ -1783,6 +1798,9 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCvqMrB1/79161d88661c0c2386c2366ddd2f8e13.png" group-title="Música",Box Playlist
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Musica", VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Música",Retro Plus TV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
