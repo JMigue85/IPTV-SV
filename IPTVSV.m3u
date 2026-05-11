@@ -115,9 +115,6 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religiosos", EWTN Español
-https://cdn3.wowza.com/1/VGlwZDhmZXl3N0Rw/YmxuTER1/hls/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Religiosos", Sophia TV Español
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 
