@@ -172,13 +172,13 @@ https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHpRt6z8/Diseno-sin-titulo.png" group-title="Guatemala",TV Florencia (Chimaltenango)
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgQDv2v/Diseno-sin-titulo(1).png" group-title="Guatemala",SAS TV (Suchitepequez)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgQDv2v/Diseno-sin-titulo(1).png" group-title="Guatemala",SAS TV -No 27/7- (Suchitepequez)
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0f0f413f6c58499f91b93187b809edd3~mv2.png" group-title="Guatemala", Más TV (Totonicapan)
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF2v2bmC/Diseno-sin-titulo(2).png" group-title="Guatemala", Luna TV (Quetzaltenango)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF2v2bmC/Diseno-sin-titulo(2).png" group-title="Guatemala", Luna TV -No 27/7- (Quetzaltenango)
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g23Ls8v2/Diseno-sin-titulo(3).png" group-title="Guatemala", GTV (Guatemala)
