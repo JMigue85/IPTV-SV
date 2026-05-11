@@ -653,6 +653,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Entretenimiento", Multimedios Canal 6 (CDMX)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TWk8JT.png" group-title="Entretenimiento", Canal 15 ILCE (México)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Entretenimiento", Canal 26 VA+ TV (México)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento", Imagen TV Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
 
@@ -867,6 +873,18 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Informativos", TVP Mazatlán
 https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JCt1Nbn.png" group-title="Informativos", Canal 33 Tijuana (México)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Informativos", Canal 44 Chihuahua (México)
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Informativos", Canal Catorce SPR (México)
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Informativos", Canal Parlamento Jalisco (México)
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Foro_TV_logo.svg/1200px-Foro_TV_logo.svg.png" group-title="Informativos", FTV HD
 https://master.tucableip.com/ftvhd/index.m3u8
