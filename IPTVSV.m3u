@@ -994,6 +994,9 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Informativos", Sicardi TV La Plata (Argentina)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Informativos", Uniteve Villa Maria (Argentina)
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
