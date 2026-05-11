@@ -110,6 +110,9 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religiosos", EWTN Español
+https://cdn3.wowza.com/1/VGlwZDhmZXl3N0Rw/YmxuTER1/hls/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
@@ -795,11 +798,16 @@ https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Informativos",CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Informativos", CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Informativos", DW Español
+https://teleon.tv/stream/cG5wODQ4Mzk1N3BucDg0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Informativos",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV7RRh0d/Diseno-sin-titulo(11).png" group-title="Informativos", Telefórmula (México)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -876,6 +884,9 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Informativos", Canal 11 de la Costa (Argentina)
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Informativos", Lapacho Canal 11 Formosa (Argentina)
+https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Informativos", Canal 12 Puerto Madryn (Argentina)
 https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 
@@ -941,6 +952,9 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Informativos", Celta TV (Argentina)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Informativos", Litus TV (Argentina)
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
@@ -1693,6 +1707,9 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Música", Cumbia Mix (Argentina)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Música", Mas FM 95.9 
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
