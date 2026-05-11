@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal2sv.m3u8?token=free
@@ -480,7 +479,9 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine y Películas", Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Cine y Películas",MiTVpy
 https://edge.enhdtv.com/8120/index.m3u8
