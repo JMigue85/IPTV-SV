@@ -1088,6 +1088,12 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640_640_360.png" group-title="Informativos", TV Norte (Perú)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Informativos", 28 Kanala (España) [HD]
+https://streaming.28kanala.eus/hls/z_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Informativos", 28 Kanala (España) [SD]
+https://streaming.28kanala.eus/hls/z_sd/index.m3u8
+
 
 
 
