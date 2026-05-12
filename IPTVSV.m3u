@@ -194,7 +194,7 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13Kb6Lp.png" group-title="Guatemala",Cariñosa TV
 https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBgjytr2/Canal-Verapaz-TV-en-vivo.png" group-title="Guatemala", Verapaz TV (Inestable)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBgjytr2/Canal-Verapaz-TV-en-vivo.png" group-title="Guatemala", Verapaz TV -No 24/7- (Inestable)
 https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS (SOL)
