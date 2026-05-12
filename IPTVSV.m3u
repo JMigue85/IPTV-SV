@@ -67,67 +67,6 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/m
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Agape TV
-https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos", TaberTV
-https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="Religiosos",Canal+ Uruguay (Cine y Valores)
-https://tv.canalmasuruguay.com/hls/canalmas.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religiosos", Unife TV (Argentina)
-https://teleon.tv/stream/cG5wODQ3NzgxMXBucDg0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="Religiosos", Josue TV 
-https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PvpXk0Mn/el-camino-tv.png" group-title="Religiosos", El Camino TV 
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="Religiosos", Enlace TBN
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0y8vN381/tv-getsemani.png" group-title="Religiosos", TV Getsemani 
-https://serversv.com:8080/hls/tvgetsemani.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9m7Ny9gk/tv-leon-de-juda.png" group-title="Religiosos", TV Leon de Juda 
-https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="Religiosos", TV Maná Español
-https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religiosos", Canal 13 Jujuy (Argentina)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Religiosos", Canal 4 San Juan (Argentina)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos", Canal Orbe 21 (Argentina)
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Religiosos", TV Solidaria (Argentina)
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
-https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Religiosos", Sophia TV Español
-https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Religiosos", TBN España
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Religiosos", UMVirtual (México)
-https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
-https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal
 https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_4276517416086298479_hls.m3u8
 
@@ -209,11 +148,10 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/528
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/27063/logo_256_1720730035.png" group-title="Guatemala",TV5 (Solola)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="Guatemala",Canal 10 (Sololá)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="Guatemala",Canal 10 -No 24/7- (Sololá)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMdyLVv.png" group-title="Guatemala", Zoe Visión (Religioso)
-https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
+
 
 
 
@@ -302,6 +240,70 @@ https://www.idealfm104-7.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg" group-title="Honduras", Radio Imagen 105.1 FM
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Agape TV
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos", TaberTV
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="Religiosos",Canal+ Uruguay (Cine y Valores)
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religiosos", Unife TV (Argentina)
+https://teleon.tv/stream/cG5wODQ3NzgxMXBucDg0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="Religiosos", Josue TV 
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvpXk0Mn/el-camino-tv.png" group-title="Religiosos", El Camino TV 
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="Religiosos", Enlace TBN
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y8vN381/tv-getsemani.png" group-title="Religiosos", TV Getsemani 
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m7Ny9gk/tv-leon-de-juda.png" group-title="Religiosos", TV Leon de Juda 
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="Religiosos", TV Maná Español
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religiosos", Canal 13 Jujuy (Argentina)
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Religiosos", Canal 4 San Juan (Argentina)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos", Canal Orbe 21 (Argentina)
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Religiosos", TV Solidaria (Argentina)
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
+https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Religiosos", Sophia TV Español
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Religiosos", TBN España
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Religiosos", UMVirtual (México)
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMdyLVv.png" group-title="Religiosos", Zoe Visión (Religioso)
+https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
 
 
