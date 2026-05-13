@@ -669,6 +669,9 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="Entretenimiento", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento", Canal 5 (México)
+https://1nyaler.screenistream.xyz/stream/52/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Entretenimiento", Multimedios Canal 6 (CDMX)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
