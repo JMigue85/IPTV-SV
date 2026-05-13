@@ -609,9 +609,6 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento", Canal 5 (México)
 http://185.56.109.253/Canal5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento", Canal 5 opc.2 (México)
-https://1nyaler.screenistream.xyz/stream/52/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Entretenimiento", Multimedios Canal 6 (CDMX)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
