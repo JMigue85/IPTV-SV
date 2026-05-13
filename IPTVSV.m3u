@@ -736,7 +736,7 @@ https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Entretenimiento", Canal 2 Repretel (Costa Rica)
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+https://cors-proxy.cooks.fyi/https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Entretenimiento", Canal 2 Repretel (Costa Rica) [Opc. 2]
 https://cors-proxy.cooks.fyi/https://d2qsan2ut81n2k.cloudfront.net/live/735ddeea-3626-4c57-b09f-39e81eb1671d/ts:abr.m3u8
