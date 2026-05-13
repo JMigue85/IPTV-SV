@@ -552,9 +552,6 @@ https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine y Películas", TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gJFwaEh.png" group-title="Cine y Películas", Retro TV (Señal 2)
-https://rpn3.bozztv.com/dvrfl07/ushba-t9/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Cine y Películas", Cine Adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 
