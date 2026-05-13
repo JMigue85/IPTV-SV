@@ -768,6 +768,12 @@ https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento", Fuego TV (Rep. Dominicana)
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Entretenimiento", Ready TV (La Vega, Rep. Dominicana)
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento", Multicanal (Loja, Ecuador)
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento", Ecuavisa (Ecuador)
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8
 
@@ -983,9 +989,6 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Informativos", Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Informativos", Multicanal (Loja, Ecuador)
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Informativos", Cali TV (Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 
@@ -1094,8 +1097,6 @@ https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="Informativos", CERTV Canal 4 (Rep. Dominicana)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Informativos", Ready TV (La Vega, Rep. Dominicana)
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Informativos", Willax TV (Perú)
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
