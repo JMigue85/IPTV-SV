@@ -666,6 +666,9 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Entretenimiento", Multimedios Canal 6 (CDMX)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vcY5uHe.png" group-title="Entretenimiento", Canal 11 Internacional (México)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TWk8JT.png" group-title="Entretenimiento", Canal 15 ILCE (México)
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
