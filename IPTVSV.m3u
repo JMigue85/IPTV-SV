@@ -606,69 +606,6 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="Entretenimiento",Clic TV (TV Azteca)
-https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal
-https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento", Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
-https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dsv7JVx3/99bcff8c6beafba1b9bb9959647663e6.png" group-title="Entretenimiento",ZAZ TV
-https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento", Telemundo Acción
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/2ca762b4-f887-467d-bca5-5c36b3133583/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
-https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
-https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R44LypS.png" group-title="Entretenimiento", Pluto TV Novelas
-https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/featuredImage.jpg" group-title="Entretenimiento", Pluto TV Novelas de México
-https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/featuredImage_1765466599084.jpg" group-title="Entretenimiento", Pluto TV Novelas de Otros Continentes
-https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/featuredImage.jpg" group-title="Entretenimiento", Pluto TV Novelas de Venezuela
-https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="Entretenimiento", Sin Tetas No Hay Paraíso
-https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento", ClickTV
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento", Estrella TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="Entretenimiento", Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento", Canal 5 (México)
 https://1nyaler.screenistream.xyz/stream/52/index.m3u8
 
@@ -699,36 +636,6 @@ https://stream.unison.mx/hls/unisontvatem.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="Entretenimiento", XHFGL ON TV Canal 15 (México)
 https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento", Imagen TV Plus
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento",VE Plus 
-https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento",FilmRise Crímenes Verdaderos
-https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f571ad30faa8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/y4kaoqWciYmkng==/2d21c4c1-c88d-4869-b75a-712da0dfad67/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento",FilmRise Series Gratis
-https://live-manifest.production-public.tubi.io/live/5b66e78a-fc9e-4ffb-bbb0-00d4d2af2c53/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento",Cheaters en Español
-https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Entretenimiento", Latina
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento", Latina Clasicos
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento", XtremaTV
-https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Entretenimiento", XHUNES Señal España (México)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
@@ -740,6 +647,33 @@ https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Entretenimiento", Ultra TV Puebla (México)
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="Entretenimiento", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento", Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento", Imagen TV Plus
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America (Inestable)
+#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South (Inestable)
+#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South (Inestable)
+#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="Entretenimiento",Clic TV (TV Azteca)
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Entretenimiento", Drone TV (AirVuz)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -855,6 +789,49 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento", Folklore TV (Perú)
 https://play.folkloretv.pe/StreamSD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Entretenimiento", Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento", Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento", XtremaTV
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal
+https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsv7JVx3/99bcff8c6beafba1b9bb9959647663e6.png" group-title="Entretenimiento",ZAZ TV
+https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento", ClickTV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento",VE Plus 
+https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento",FilmRise Crímenes Verdaderos
+https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f571ad30faa8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/y4kaoqWciYmkng==/2d21c4c1-c88d-4869-b75a-712da0dfad67/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento",FilmRise Series Gratis
+https://live-manifest.production-public.tubi.io/live/5b66e78a-fc9e-4ffb-bbb0-00d4d2af2c53/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento",Cheaters en Español
+https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Entretenimiento", Comedy Central en español
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 
@@ -871,6 +848,30 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playl
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Entretenimiento",MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento", Telemundo Acción
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/2ca762b4-f887-467d-bca5-5c36b3133583/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
+https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R44LypS.png" group-title="Entretenimiento", Pluto TV Novelas
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/featuredImage.jpg" group-title="Entretenimiento", Pluto TV Novelas de México
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/featuredImage_1765466599084.jpg" group-title="Entretenimiento", Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/featuredImage.jpg" group-title="Entretenimiento", Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="Entretenimiento", Sin Tetas No Hay Paraíso
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento", Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
