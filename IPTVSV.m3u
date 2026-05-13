@@ -310,6 +310,12 @@ https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
@@ -320,17 +326,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan
-https://cdn.energeek.cl/hls/energeekfan.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Anime-en-directo-Online.png" group-title="Anime",Pluto TV Anime (MX)
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
@@ -365,6 +362,8 @@ https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/One-Piece-Logo-1999.png" group-title="Anime",One Piece (MX)
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión (ES)
 https://jmp2.uk/stvp-ES300029LP
