@@ -607,6 +607,7 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento", Canal 5 (México)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://1nyaler.screenistream.xyz/stream/52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Entretenimiento", Multimedios Canal 6 (CDMX)
