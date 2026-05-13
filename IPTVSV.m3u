@@ -455,6 +455,9 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Cine y Películas", AMC LATAM (Hispanoamérica)
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Cine y Películas", NEO TV Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine y Películas", Cinecanal South (Inestable)
 #EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
