@@ -802,7 +802,7 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Entretenimiento", Canal 5 Del Pueblo (Argentina)
-https://stmv4.voxtvhd.com.ar/canal5pueblo/canal5pueblo/playlist.m3u8
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Entretenimiento", Canal 5 Pico Truncado (Argentina)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
