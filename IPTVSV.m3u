@@ -1078,7 +1078,7 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Informativos", NG Federal TV (Argentina)
 https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Informativos", Power Max 104.5 (Argentina)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Informativos", Power Max 104.5 -No 24/7- (Argentina)
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Informativos", Sicardi TV La Plata (Argentina)
