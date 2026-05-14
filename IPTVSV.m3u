@@ -227,7 +227,7 @@ https://viewhn.com/chtv/live/playlist.m3u8
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="Honduras",Q'Hubo TV (Honduras)
-https://catv.oniptv.pro/QhuboTv/tracks-v1a1/index.fmp4.m3u8
+https://amixtv.com:8081/qhubotv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqwLPag.jpg" group-title="Honduras", La Top 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
