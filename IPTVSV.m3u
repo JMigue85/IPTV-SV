@@ -883,6 +883,8 @@ https://streaming004.gestec-video.com/hls/FTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Entretenimiento", Alacantí TV (España)
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Entretenimiento", Alcarria TV (España)
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 
 
 
