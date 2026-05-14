@@ -744,7 +744,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento", Canal 34 San Juan (Argentina)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento", Canal 4 Jujuy (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento", Canal 4 Jujuy -No 24/7- (Argentina)
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Entretenimiento", 5TV Corrientes (Argentina)
