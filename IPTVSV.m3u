@@ -597,6 +597,9 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/5ZVSPT4VKTGB7IPEEXY3/hls3/now
 #EXTVLCOPT:http-referrer=http://181.114.57.246:4000/
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmnsUpd.png" group-title="Cine y Peliculas", Action Movie Channel (SUB)
+https://d1si3n1st4nkgb.cloudfront.net/10502/89006000/hls/master.m3u8?ads.xumo_channelId=89006000
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine y Películas", MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
