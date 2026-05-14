@@ -738,9 +738,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento", Bravo TV (Argentina)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Entretenimiento", Ciudad Magazine (Argentina)
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Entretenimiento", Argentinisima Satelital (Argentina)
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
