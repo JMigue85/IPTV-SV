@@ -880,6 +880,9 @@ https://jmp2.uk/stvp-ESAJ3800005C5
 #EXTINF:-1 tvg-logo="https://fuengirolatv.com/wp-content/uploads/2021/04/logo-ftv-fuengirola-tv.png" group-title="Entretenimiento", FTV Fuengirola (España)
 https://streaming004.gestec-video.com/hls/FTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Entretenimiento", Alacantí TV (España)
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+
 
 
 
