@@ -894,9 +894,6 @@ https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento", Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
 
-#EXTINF:-1 tvg-logo="https://fuengirolatv.com/wp-content/uploads/2021/04/logo-ftv-fuengirola-tv.png" group-title="Entretenimiento", FTV Fuengirola (España)
-https://streaming004.gestec-video.com/hls/FTV.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Entretenimiento", Alacantí TV (España)
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
@@ -1145,6 +1142,10 @@ https://streaming.28kanala.eus/hls/z_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Informativos", 28 Kanala (España) [SD]
 https://streaming.28kanala.eus/hls/z_sd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fuengirolatv.com/wp-content/uploads/2021/04/logo-ftv-fuengirola-tv.png" group-title="Informativo", FTV Fuengirola (España)
+https://streaming004.gestec-video.com/hls/FTV.m3u8
+
 
 
 
