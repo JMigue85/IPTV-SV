@@ -853,7 +853,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playl
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento", Telemundo Acción
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/2ca762b4-f887-467d-bca5-5c36b3133583/4.m3u8
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
