@@ -894,6 +894,12 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="Entretenimiento", Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyaWpAx.png" group-title="Entretenimiento", Nesting TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13172
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento", People Are Awesome (EN)
+https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
+
 
 
 
@@ -985,8 +991,22 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="Entretenimiento (ES)", Mijas 3.40TV (España)
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GvqbLZB.png" group-title="Entretenimiento", Moconomy Economía y Finanzas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvqbLZB.png" group-title="Entretenimiento (ES)", Moconomy Economía y Finanzas
 https://05121b0bfc74401283b3f3848ab06336.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_MoconomyEconomiayFinanzas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="Entretenimiento (ES)", Negocios TV (España)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="Entretenimiento (ES)", Onda 15 TV Alicante (España)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="Entretenimiento (ES)", Onda Algeciras TV Cádiz (España)
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Entretenimiento (ES)", Onda Valencia TV (España)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+
+
 
 
 
@@ -1754,6 +1774,9 @@ https://d3shyymv55gv9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYcLtqT.png" group-title="Música", Molahits TV 
 https://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Música", POP World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
