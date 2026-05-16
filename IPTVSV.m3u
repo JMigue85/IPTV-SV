@@ -903,6 +903,17 @@ https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/09/Arabi-TV-Yecla-en-DIRECTO-Online-768x432.png" group-title="Entretenimiento", Arabí TV Yecla (España)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="Entretenimiento", Bon Dia TV (España)
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Entretenimiento", Cadena Élite (España)
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="Entretenimiento", Canal 1 Mar Menor (España)
+https://directo.tuwebtv.es/canal1.m3u8
+
+
+
 
 
 
@@ -1150,6 +1161,9 @@ https://streaming.28kanala.eus/hls/z_sd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fuengirolatv.com/wp-content/uploads/2021/04/logo-ftv-fuengirola-tv.png" group-title="Informativos", FTV Fuengirola (España)
 https://streaming004.gestec-video.com/hls/FTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana (España)
+https://signal.teleon.live/segments/canal2000es?path=canal2000.m3u8&token=free
 
 
 
