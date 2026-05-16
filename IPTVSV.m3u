@@ -1630,6 +1630,9 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Música", Trace Urban
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Música", Activa TV (España)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
 
