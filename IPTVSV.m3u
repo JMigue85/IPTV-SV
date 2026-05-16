@@ -1006,7 +1006,17 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Entretenimiento (ES)", Onda Valencia TV (España)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="Entretenimiento (ES)", Popular TV Cantabria (España)
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="Entretenimiento (ES)", Popular TV Melilla (España)
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jFg9dGO.png" group-title="Entretenimiento (ES)", Popular TV Murcia (España)
+https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="Entretenimiento (ES)", Punt 3 Televisión (España)
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
 
 
@@ -1830,7 +1840,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel
-https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
 
 #EXTINF:-1 tvg-logo="https://iconcerts.stingray.com/sites/iconcerts/files/images/socials/StingrayiConcerts_MetaImage.png" group-title="Música",Conciertos por Stingray
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
