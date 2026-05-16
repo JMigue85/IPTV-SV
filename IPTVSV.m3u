@@ -894,62 +894,80 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="Entretenimiento", Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento", Comedia Made in Spain
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento (ES)", Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Entretenimiento", Alacantí TV (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Entretenimiento (ES)", Alacantí TV (España)
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Entretenimiento", Alcarria TV (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Entretenimiento (ES)", Alcarria TV (España)
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/09/Arabi-TV-Yecla-en-DIRECTO-Online-768x432.png" group-title="Entretenimiento", Arabí TV Yecla (España)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/09/Arabi-TV-Yecla-en-DIRECTO-Online-768x432.png" group-title="Entretenimiento (ES)", Arabí TV Yecla (España)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="Entretenimiento", Bon Dia TV (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="Entretenimiento (ES)", Bon Dia TV (España)
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Entretenimiento", Cadena Élite (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Entretenimiento (ES)", Cadena Élite (España)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="Entretenimiento", Canal 1 Mar Menor (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="Entretenimiento (ES)", Canal 1 Mar Menor (España)
 https://directo.tuwebtv.es/canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="Entretenimiento", Canal 3 TV Biar (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="Entretenimiento (ES)", Canal 3 TV Biar (España)
 https://avantstreaming.es/hls/canal3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="Entretenimiento", Canal 4 Mancha Centro (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="Entretenimiento (ES)", Canal 4 Mancha Centro (España)
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="Entretenimiento", Canal 45 Jaén (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="Entretenimiento (ES)", Canal 45 Jaén (España)
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Entretenimiento", Canal 7 TeleValencia (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Entretenimiento (ES)", Canal 7 TeleValencia (España)
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3QPJIpa.png" group-title="Entretenimiento", Canal Coín TV Málaga (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QPJIpa.png" group-title="Entretenimiento (ES)", Canal Coín TV Málaga (España)
 https://canalcoin.garjim.es/hls/directo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="Entretenimiento", Canal Extremadura (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="Entretenimiento (ES)", Canal Extremadura (España)
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="Entretenimiento", Canal Málaga (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="Entretenimiento (ES)", Canal Málaga (España)
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="Entretenimiento", Canal Sierra de Cádiz (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="Entretenimiento (ES)", Canal Sierra de Cádiz (España)
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entretenimiento", Ciudades del Ocio TV (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entretenimiento (ES)", Ciudades del Ocio TV (España)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlrazec.png" group-title="Entretenimiento", Condavisión Huelva (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlrazec.png" group-title="Entretenimiento (ES)", Condavisión Huelva (España)
 https://5f71743aa95e4.streamlock.net:1936/Condavision/_definst_/endirecto/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nf_3.jpg" group-title="Entretenimiento (ES)", Cuéntame cómo pasó (España)
+https://d20rtuj9lomnbi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j8rzuh15ncdea/Cuentamecomopaso_GB.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vortgm7.png" group-title="Entretenimiento (ES)", Déjate de Historias TV (España)
+https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="Entretenimiento (ES)", Diez TV Las Villas (España)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="Entretenimiento (ES)", Durangaldeko Telebista dotb (España)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMAB720.png" group-title="Entretenimiento (ES)", Estepona Televisión (España)
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="Entretenimiento (ES)", EsTuTele Madrid (España)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
 
 
@@ -1190,6 +1208,9 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640_640_360.png" group-title="Informativos", TV Norte (Perú)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.netlife.ec/wp-content/uploads/2024/11/Ingles-Tv.png" group-title="Informativos", English TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Informativos", 28 Kanala (España) [HD]
 https://streaming.28kanala.eus/hls/z_hd/index.m3u8
 
@@ -1207,6 +1228,12 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="Informativos", Canal Sur Más Noticias (España)
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="Informativos", Distrito TV (España)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="Informativos", El Toro TV (España)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
 
