@@ -306,6 +306,9 @@ https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religiosos", EWTN Spain & Latin America
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Religiosos", Canal Diocesano Toledo (España)
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
@@ -911,6 +914,23 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="Entretenimiento", Canal 1 Mar Menor (España)
 https://directo.tuwebtv.es/canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="Entretenimiento", Canal 3 TV Biar (España)
+https://avantstreaming.es/hls/canal3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="Entretenimiento", Canal 4 Mancha Centro (España)
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="Entretenimiento", Canal 45 Jaén (España)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Entretenimiento", Canal 7 TeleValencia (España)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QPJIpa.png" group-title="Entretenimiento", Canal Coín TV Málaga (España)
+https://canalcoin.garjim.es/hls/directo.m3u8
+
+
 
 
 
