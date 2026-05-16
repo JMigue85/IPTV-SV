@@ -982,6 +982,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="Entretenimiento (ES)", Lancelot Televisión Lanzarote (España)
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="Entretenimiento (ES)", Mijas 3.40TV (España)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvqbLZB.png" group-title="Entretenimiento", Moconomy Economía y Finanzas
+https://05121b0bfc74401283b3f3848ab06336.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_MoconomyEconomiayFinanzas/playlist.m3u8
+
+
+
 
 
 
@@ -1744,6 +1752,9 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zappit.gr/wp-content/uploads/2024/07/cool98.png" group-title="Música", Cool Summer Channel
 https://d3shyymv55gv9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ztctwwz7lr9nt/csts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYcLtqT.png" group-title="Música", Molahits TV 
+https://ventdelnord.tv:8080/mola/directe.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
 
@@ -1958,6 +1969,9 @@ https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Motor-en-directo-Online.png" group-title="Deportes", Pluto TV Motor (ES)
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/08/mtrspt1.png" group-title="Deportes", MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (LATAM)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
