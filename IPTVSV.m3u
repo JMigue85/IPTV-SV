@@ -810,7 +810,10 @@ https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Entretenimiento", Pucón TV (Chile)
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Entretenimiento", Retro Play TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Entretenimiento", Tevex TV (Chile)
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Entretenimiento", Retro Play TV (Chile)
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
