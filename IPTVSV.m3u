@@ -813,9 +813,6 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento", Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento", XtremaTV
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
@@ -839,6 +836,15 @@ https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (720p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento",FilmRise Crímenes Verdaderos
 https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f571ad30faa8/playlist.m3u8
@@ -899,6 +905,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13172
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento", People Are Awesome (EN)
 https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsGt5iH.png" group-title="Entretenimiento", TravelXP (ES)
+https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8
+
 
 
 
@@ -1062,6 +1072,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/3/canal-reus-tv-logo-png_seeklogo-510873.png" group-title="Entretenimiento (ES)", Canal Reus TV (España)
 https://eu1.servers10.com:8081/8166/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TjpjoOu.png" group-title="Entretenimiento (ES)", TV Ferrol Galicia (España)
+https://directo.tvferrol.es/tv.m3u8
+
 
 
 
