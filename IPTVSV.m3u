@@ -303,6 +303,9 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmNA8hq.png" group-title="Religiosos", Televida Chillán (Chile)
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Religiosos", TNE TV Evangélica (Chile)
+https://v2.tustreaming.cl/tnetv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
@@ -759,6 +762,9 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento",VE Plus (Venezuela)
 https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="Entretenimiento", Torococo TV (Venezuela)
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento",Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
@@ -812,6 +818,12 @@ https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Entretenimiento", Tevex TV (Chile)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Entretenimiento", Tevex TV (Chile)
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Entretenimiento", Thema TV Coquimbo (Chile)
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Entretenimiento", Retro Play TV (Chile)
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
@@ -2194,6 +2206,9 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes", Teletrak TV (Chile)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="Deportes", Turf Móvil (Chile)
+https://tvturf4.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (EN)
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
