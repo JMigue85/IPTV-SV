@@ -288,6 +288,9 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Religiosos", TV Solidaria (Argentina)
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="Religiosos", Canal ISB San Bernardo (Chile)
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
@@ -1346,6 +1349,9 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="Informativos", Atacama Noticias (Chile)
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="Informativos", Canal 9 Bío Bío TV (Chile)
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640_640_360.png" group-title="Informativos", TV Norte (Perú)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
