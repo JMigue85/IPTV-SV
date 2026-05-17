@@ -744,6 +744,9 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento", TVES -No 24/7- (Venezuela)
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento",VE Plus (Venezuela)
+https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento",Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
@@ -779,6 +782,12 @@ https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="Entretenimiento", Canal 1 Ñuble (Chile)
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Entretenimiento", Chile Channel TV (Chile)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento", ClickTV (Coronel Chile)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -834,10 +843,10 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento", Folklore TV (Perú)
 https://play.folkloretv.pe/StreamSD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Entretenimiento", Latina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Entretenimiento", Latina (Peru)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento", Latina Clasicos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento", Latina Clasicos (Peru)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento", XtremaTV
@@ -854,12 +863,6 @@ https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsv7JVx3/99bcff8c6beafba1b9bb9959647663e6.png" group-title="Entretenimiento",ZAZ TV
 https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento", ClickTV
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento",VE Plus 
-https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
