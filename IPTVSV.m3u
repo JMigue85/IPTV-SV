@@ -1642,11 +1642,6 @@ https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png/revision/latest?cb=20130219183545&path-prefix=es" group-title="Infantil",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantil", Disney Channel Latin America
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Infantil", Mr. Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
@@ -1915,10 +1910,6 @@ https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/aHl8rpkmcY7D4g==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes",Fox en tubi Xtra (NO 24/7)
 https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports SV -No 24/7-(Inestable)
-#EXTVLCOPT:http-referrer=https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports GT -No 24/7-(Inestable)
 #EXTVLCOPT:http-referrer=http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/
