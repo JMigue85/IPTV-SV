@@ -300,6 +300,9 @@ https://live.mtna.tv/hls/mtna/mtna.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Religiosos", NCTV San Joaquín (Chile)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmNA8hq.png" group-title="Religiosos", Televida Chillán (Chile)
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
@@ -1383,6 +1386,9 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Informativos", Holvoet TV (Chile)
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VrqjFUf.png" group-title="Informativos", TV Usach (Chile)
+https://stv4.janus.cl/playlist/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png" group-title="Informativos", ITV Patagonia (Chile)
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 
@@ -2182,6 +2188,9 @@ https://d1zpoa0s0okzmu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5gwvKf6/1247f877b029d332e7b9d9231fb14ace.png" group-title="Deportes",Box Gamers (ES)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes", Teletrak TV (Chile)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (EN)
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
