@@ -1076,6 +1076,9 @@ https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TjpjoOu.png" group-title="Entretenimiento (ES)", TV Ferrol Galicia (España)
 https://directo.tvferrol.es/tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Entretenimiento (ES)", Univers TV Valencia (España)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
 
 
 
@@ -1828,6 +1831,15 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Música", Trace Urban
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Música", VEVO Latino
+https://d2xijrr4wx5ch6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6t0qpfdg3pp0p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Música", VEVO Pop
+https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Música", VEVO Retro
+https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Música", Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
@@ -1839,6 +1851,9 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Música", POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música", Verbena TV
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
