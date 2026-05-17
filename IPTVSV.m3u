@@ -753,6 +753,18 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Entretenimiento", La Red (Chile)
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Entretenimiento", 13 Humor (Chile)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Entretenimiento", 13 Realidades (Chile)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Entretenimiento", 13 Teleseries (Chile)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Entretenimiento", 13C Cultura (Chile)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -1857,6 +1869,9 @@ https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música", Verbena TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música", AE Radio TV (Chile)
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
