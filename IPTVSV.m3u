@@ -771,6 +771,9 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Entretenimiento", Aysén TV (Chile)
 https://v1.tustreaming.cl/aysentv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Entretenimiento", UTalca TV (Campus TV - Chile)
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
