@@ -1042,6 +1042,26 @@ https://video3.lhdserver.es/teleribera/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ewYJ4Y.jpg" group-title="Entretenimiento (ES)", Sal Televisión Cádiz (España)
 https://play.agenciastreaming.com:8081/saltv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Entretenimiento (ES)", STZ Telebista (España)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Entretenimiento (ES)", Tele 7 Vizcaya (España)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="Entretenimiento (ES)", Tele Elx Alicante (España)
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="Entretenimiento (ES)", Teleganés Madrid (España)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="Entretenimiento (ES)", Teleonuba Huelva (España)
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iVmlFa.png" group-title="Entretenimiento (ES)", TeleVigo Galicia (España)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/3/canal-reus-tv-logo-png_seeklogo-510873.png" group-title="Entretenimiento (ES)", Canal Reus TV (España)
+https://eu1.servers10.com:8081/8166/index.m3u8
 
 
 
