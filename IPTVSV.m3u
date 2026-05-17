@@ -703,22 +703,22 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Entretenimiento", Canal 1 (Costa Rica)
-https://cors-proxy.cooks.fyi/https://vid.canal1cr.com:3424/multi_live/play.m3u8
+https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Entretenimiento", Canal 2 Repretel (Costa Rica)
-https://cors-proxy.cooks.fyi/https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Entretenimiento", Canal 2 Repretel (Costa Rica) [Opc. 2]
-https://cors-proxy.cooks.fyi/https://d2qsan2ut81n2k.cloudfront.net/live/735ddeea-3626-4c57-b09f-39e81eb1671d/ts:abr.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/735ddeea-3626-4c57-b09f-39e81eb1671d/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Entretenimiento", Canal 4 (Repretel Costa Rica)
-https://cors-proxy.cooks.fyi/https://d2qsan2ut81n2k.cloudfront.net/live/5b4b1702-52f9-4e48-a4c7-79ca7f34ece6/ts:abr.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/5b4b1702-52f9-4e48-a4c7-79ca7f34ece6/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Entretenimiento", Canal 6 (Repretel Costa Rica)
-https://cors-proxy.cooks.fyi/https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/ts:abr.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/600px-Repretel_11_logo.png" group-title="Entretenimiento", Canal 11 (Repretel Costa Rica)
-https://cors-proxy.cooks.fyi/https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Entretenimiento", Telesistema 11 (Rep. Dominicana)
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
