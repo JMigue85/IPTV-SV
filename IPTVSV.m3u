@@ -1018,10 +1018,14 @@ https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="Entretenimiento (ES)", Punt 3 Televisión (España)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="Entretenimiento (ES)", RTV Marbella (España)
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="Entretenimiento (ES)", Ribera TV Valencia (España)
+https://video3.lhdserver.es/teleribera/live.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ewYJ4Y.jpg" group-title="Entretenimiento (ES)", Sal Televisión Cádiz (España)
+https://play.agenciastreaming.com:8081/saltv/index.m3u8
 
 
 
@@ -1838,6 +1842,9 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bdCkrp/voiceover-radio-costa-rica-0-png.png" group-title="Música",Voice Over Television
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Música", Sol Música 
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
