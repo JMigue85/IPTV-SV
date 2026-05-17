@@ -1392,6 +1392,12 @@ https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="Informativos", Puranoticia TV (Chile)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SnbGpoK.png" group-title="Informativos", Santa María TV (Chile)
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwUZBU9.png" group-title="Informativos", Sextavisión (Chile)
+https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640_640_360.png" group-title="Informativos", TV Norte (Perú)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
