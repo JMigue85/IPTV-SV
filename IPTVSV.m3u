@@ -907,6 +907,12 @@ https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Entretenimiento (ES)", La 1 de TVE (España)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Entretenimiento (ES)", La 1 Canarias (España)
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Entretenimiento (ES)", La 1 Cataluya (España)
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Entretenimiento (ES)", La 2 (España)
 http://92.176.119.180:2095/play/a16y
 
