@@ -291,6 +291,12 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="Religiosos", Canal ISB San Bernardo (Chile)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNs1Xz6B/299614369-426056002888660-5252932446607294666-n-removebg-preview.png" group-title="Religiosos", Gracia TV (Chile)
+https://v4.tustreaming.cl/graciatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="Religiosos", MTNA TV (Chile)
+https://live.mtna.tv/hls/mtna/mtna.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
@@ -1364,6 +1370,12 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Informativos", Contivisión (Chile)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Informativos", Holvoet TV (Chile)
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png" group-title="Informativos", ITV Patagonia (Chile)
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/26/23/1743006694468/5c48beb66640_640_360.png" group-title="Informativos", TV Norte (Perú)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
