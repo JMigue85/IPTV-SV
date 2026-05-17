@@ -789,6 +789,12 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento", ClickTV (Coronel Chile)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="Entretenimiento", Décima TV Chiloé (Chile)
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Entretenimiento", Girovisual TV (Chile)
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -1905,6 +1911,9 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="Música", Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Música", EGM Channel (Chile)
+https://vdochile.com:3922/live/egm20live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NhbpWfh/2.png" group-title="Música",Xpectra Groove Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
