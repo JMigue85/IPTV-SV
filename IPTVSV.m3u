@@ -935,6 +935,9 @@ https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/La_2_Catalunya_2026.svg" group-title="Entretenimiento (ES)", La 2 Catalunya (España)
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="Entretenimiento (ES)", ¡HOLA! Play (España)
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento (ES)", Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
 
