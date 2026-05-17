@@ -905,13 +905,19 @@ https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Entretenimiento (ES)", La 1 de TVE (España)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Entretenimiento (ES)", La 2 (España)
+http://92.176.119.180:2095/play/a16y
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Entretenimiento (ES)", La 2 opc.2 (España)
+http://92.176.119.180:2095/play/a1fb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" group-title="Entretenimiento (ES)", La 2 Canarias (España)
-https://ztnr.rtve.es/ztnr/5468585.m3u8
+https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/La_2_Catalunya_2026.svg" group-title="Entretenimiento (ES)", La 2 Catalunya (España)
-https://ztnr.rtve.es/ztnr/3987218.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Entretenimiento (ES)", Comedia Made in Spain
 https://jmp2.uk/stvp-ESAJ3800005C5
