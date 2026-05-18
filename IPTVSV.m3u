@@ -646,13 +646,6 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento", AMC Latin America (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN Latin America South (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
@@ -683,10 +676,6 @@ https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Entretenimiento", Comedy Central en español
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central Latin America (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Entretenimiento", Drone TV (AirVuz)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -724,9 +713,6 @@ https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQWWfyW.png" group-title="Entretenimiento", MTV en español
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entretenimiento", MTV Latin America (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Entretenimiento", MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
@@ -766,10 +752,6 @@ https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento", SNT (Paraguay)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South (Inestable)
-#EXTVLCOPT:http-referrer=http://201.217.246.42:44310/
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
