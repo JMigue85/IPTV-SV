@@ -306,6 +306,9 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Religiosos", TNE TV Evangélica (Chile)
 https://v2.tustreaming.cl/tnetv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Religiosos", VC Online (Chile)
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos", CBN Español
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 
@@ -831,8 +834,32 @@ https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Entretenimiento", TVN3 (Chile)
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Entretenimiento", TVO San Vicente (Chile)
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Entretenimiento", TVR Televisión Regional (Chile)
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Entretenimiento", Retro Play TV (Chile)
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="Entretenimiento", TVU Concepción (Chile)
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Entretenimiento", U Los Lagos TV (Chile)
+https://tv.ulagos.cl/web/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Entretenimiento", UCV TV Valparaíso (Chile)
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Entretenimiento", UTV Universidad Autónoma (Chile)
+https://v2.tustreaming.cl/utv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="Entretenimiento", Vision Plus TV Melipilla (Chile)
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Entretenimiento", VTV Valle Televisión (Chile)
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
