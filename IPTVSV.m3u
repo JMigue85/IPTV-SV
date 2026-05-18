@@ -998,7 +998,8 @@ https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Entretenimiento (CL)", U Los Lagos TV (Chile)
-https://cors-proxy.cooks.fyi/https://tv.ulagos.cl/web/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://tv.ulagos.cl/web/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Entretenimiento (CL)", UCV TV Valparaíso (Chile)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
