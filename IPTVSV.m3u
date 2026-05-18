@@ -773,41 +773,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="Entretenimiento", Tiva TV (Puerto Rico)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento", Net TV (Argentina)
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento", Bravo TV (Argentina)
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Entretenimiento", Argentinisima Satelital (Argentina)
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento", Canal 34 San Juan (Argentina)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento", Canal 4 Jujuy -No 24/7- (Argentina)
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Entretenimiento", 5TV Corrientes (Argentina)
-https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Entretenimiento", Canal 5 Del Pueblo (Argentina)
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Entretenimiento", Canal 5 Pico Truncado (Argentina)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Entretenimiento", Quántica TV (Argentina)
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Entretenimiento", TeleCinco Trelew (Argentina)
-https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Entretenimiento", Telenord Corrientes (Argentina)
-https://signal.teleon.live/stream/telenordcorrientesar.m3u8?token=free
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Entretenimiento", Ciudad Magazine (Argentina)
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -923,6 +888,46 @@ https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsGt5iH.png" group-title="Entretenimiento", TravelXP (ES)
 https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Entretenimiento (AR)", 5TV Corrientes (Argentina)
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Entretenimiento (AR)", Argentinisima Satelital (Argentina)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento (AR)", Bravo TV (Argentina)
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento (AR)", Canal 34 San Juan (Argentina)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento (AR)", Canal 4 Jujuy -No 24/7- (Argentina)
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Entretenimiento (AR)", Canal 5 Del Pueblo (Argentina)
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Entretenimiento (AR)", Canal 5 Pico Truncado (Argentina)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Entretenimiento (AR)", Ciudad Magazine (Argentina)
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Entretenimiento (AR)", Net TV (Argentina)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Entretenimiento (AR)", Quántica TV (Argentina)
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Entretenimiento (AR)", TeleCinco Trelew (Argentina)
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Entretenimiento (AR)", Telenord Corrientes (Argentina)
+https://signal.teleon.live/stream/telenordcorrientesar.m3u8?token=free
 
 
 
