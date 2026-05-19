@@ -909,7 +909,7 @@ https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Entretenimiento", Trece TV (Paraguay)
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento", TVE Star HD (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (720p)
@@ -918,7 +918,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento", TVES -No 24/7- (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento", TVES -No 24/7- (Venezuela)
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
