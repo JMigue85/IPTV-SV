@@ -288,6 +288,15 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Religiosos", TV Solidaria (Argentina)
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="Religiosos", Asomavisión
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="Religiosos", IeanJesus Ecuador
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religiosos", TV Universal Ecuador
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="Religiosos", Avivamiento TV (Colombia)
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 
@@ -1099,6 +1108,126 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Entretenimiento (EC)", Antena Uno RadioVideo
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Entretenimiento (EC)", Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Entretenimiento (EC)", Bacán Te Veo
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Entretenimiento (EC)", Capricho TV (Not 24/7)
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Entretenimiento (EC)", Ciracu TV (Not 24/7)
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="Entretenimiento (EC)", Curiquingue TV
+https://video2.lhdserver.es/pjtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Entretenimiento (EC)", Ecuador TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento (EC)", Ecuavisa Guayaquil (Not 24/7)
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento (EC)", Ecuavisa Quito (Not 24/7)
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Entretenimiento (EC)", Educa TV (Not 24/7)
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Entretenimiento (EC)", KCHTV
+http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento (EC)", La Nueva Radio TV 97.7
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Entretenimiento (EC)", Latacunga TV
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="Entretenimiento (EC)", Loreto TV
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Entretenimiento (EC)", Majestad Televisión
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Entretenimiento (EC)", MakroDigital Television
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Entretenimiento (EC)", Manavisión
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Entretenimiento (EC)", Marca TV
+http://200.7.219.221:8088/live/livetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Entretenimiento (EC)", Mel Radio TV
+https://eu1.servers10.com:8081/8334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Entretenimiento (EC)", Ñuka TV (Not 24/7)
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Entretenimiento (EC)", Ondas Quevedeñas TV (Not 24/7)
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Entretenimiento (EC)", Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Entretenimiento (EC)", Plus TV (Not 24/7)
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Entretenimiento (EC)", Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Entretenimiento (EC)", Red TVE Ventanas
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Entretenimiento (EC)", RTRTV
+https://tv3ecuador.site/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Entretenimiento (EC)", RTS
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Entretenimiento (EC)", Señal Positiva TV
+https://eu1.servers10.com:8081/8108/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Entretenimiento (EC)", Sono Onda TV
+https://live.obslivestream.com/sonoondatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Entretenimiento (EC)", Telemar
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Entretenimiento (EC)", Telepremier Plus
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Entretenimiento (EC)", Telerama (Not 24/7)
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIuFSnx.png" group-title="Entretenimiento (EC)", TV Cisne
+https://video2.lhdserver.es/tvcisne/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Entretenimiento (EC)", TV Color Canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Entretenimiento (EC)", TVC
+https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Entretenimiento (EC)", UNIANDES TV (Not 24/7)
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Entretenimiento (EC)", Unsion TV
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Entretenimiento (EC)", VitoTVO
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Entretenimiento (EC)", Zaracay TV (Not 24/7)
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Entretenimiento (CO)", Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
@@ -1612,6 +1741,15 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="Informativos", Atacama Noticias (Chile)
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Informativos", Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="Informativos", RTU (Not 24/7)
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Informativos", RTV Riobamba (Not 24/7)
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Informativos", Cali TV (Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
@@ -2351,6 +2489,30 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3wDEX5.png" group-title="Música", La Morada Radio TV
 https://movil.ejeserver.com/live/lamoradatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Música", El Sol Network TV
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Música", FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8wDMgmB.jpg" group-title="Música", La Perla Radio TV (Not 24/7)
+https://eu1.servers10.com:8081/8068/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Música", Metropoli Medios TV
+https://eu1.servers10.com:8081/8214/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="Música", Radio Cuenca Estéreo
+https://eu1.servers10.com:8081/8074/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpcIbrH.jpg" group-title="Música", Radio Fantástica 98.9 FM
+http://190.107.232.9:8082/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a97MaV2.png" group-title="Música", Radio Monumental TV (Not 24/7)
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Música", Vos y TV (Not 24/7)
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música", MasMusica FM
 https://movil.ejeserver.com/live/masmusica.m3u8
