@@ -1928,19 +1928,19 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="Informativos", El Toro TV (España)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.netlife.ec/wp-content/uploads/2024/11/Ingles-Tv.png" group-title="Informativos", English TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYdrxbD2/Ingles-Tv.png" group-title="Informativos", English TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Estrella_News_logo.png" group-title="Informativos", Estrella News (USA/México)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Informativos", Estrella News (USA/México)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8" group-title="Informativos", Exitosa TV (Perú)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Foro_TV_logo.svg/1200px-Foro_TV_logo.svg.png" group-title="Informativos", FTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Informativos", FTV (Bolivia)
 https://master.tucableip.com/ftvhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fuengirolatv.com/wp-content/uploads/2021/04/logo-ftv-fuengirola-tv.png" group-title="Informativos", FTV Fuengirola (España)
+#EXTINF:-1 tvg-logo="https://fuengirolatv.com/newftv/wp-content/uploads/2024/10/logos-ftv.png" group-title="Informativos", FTV Fuengirola (España)
 https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Informativos", Holvoet TV (Chile)
@@ -2000,7 +2000,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Informativos", TV BRICS (Internacional)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8" group-title="Informativos", TV Norte (Perú)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fg6m2L.png" group-title="Informativos", TV Norte (Perú)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Informativos", TV Senado (Chile)
