@@ -697,9 +697,6 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
@@ -733,11 +730,8 @@ https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Entretenimiento", Drone TV (AirVuz)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento", Ecuavisa (Ecuador)
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento", FilmRise Crímenes Verdaderos
-https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f571ad30faa8 a8/playlist.m3u8
+https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f571ad30faa8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/y4kaoqWciYmkng==/2d21c4c1-c88d-4869-b75a-712da0dfad67/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento", FilmRise Series Gratis
 https://live-manifest.production-public.tubi.io/live/5b66e78a-fc9e-4ffb-bbb0-00d4d2af2c53/playlist.m3u8
@@ -745,39 +739,17 @@ https://live-manifest.production-public.tubi.io/live/5b66e78a-fc9e-4ffb-bbb0-00d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento", Fuego TV (Rep. Dominicana)
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Entretenimiento", Global TV (Perú)
-https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Entretenimiento", Latina (Peru)
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento", Latina Clasicos (Peru)
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="Entretenimiento", Like TV (Perú)
-https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento", Like TV Folkclore (Perú)
-https://play.folkloretv.pe/StreamSD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQWWfyW.png" group-title="Entretenimiento", MTV en español
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Entretenimiento", MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento", Multicanal (Loja, Ecuador)
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyaWpAx.png" group-title="Entretenimiento", Nesting TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13172
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Entretenimiento", Oromar TV (Manta, Ecuador)
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento", People Are Awesome (EN)
 https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
@@ -868,8 +840,6 @@ https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsv7JVx3/99bcff8c6beafba1b9bb9959647663e6.png" group-title="Entretenimiento", ZAZ TV
 https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
-
-
 
 
 
@@ -1107,6 +1077,15 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento (EC)", Ecuavisa (Ecuador)
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento (EC)", Multicanal (Loja, Ecuador)
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Entretenimiento (EC)", Oromar TV (Manta, Ecuador)
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Entretenimiento (EC)", Antena Uno RadioVideo
 https://tvdatta.com:3578/live/antenaunolive.m3u8
@@ -1446,6 +1425,25 @@ https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Entretenimiento (PE)", Global TV (Perú)
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Entretenimiento (PE)", Latina (Peru)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento (PE)", Latina Clasicos (Peru)
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="Entretenimiento (PE)", Like TV (Perú)
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento (PE)", Like TV Folkclore (Perú)
+https://play.folkloretv.pe/StreamSD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aHrD2l.jpeg" group-title="Entretenimiento (PE)", Antena SUR
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
