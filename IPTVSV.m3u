@@ -2545,7 +2545,7 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música", AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="Música", Dance FM
+#EXTINF:-1 tvg-logo="https://www.radiodancefm.es/wp-content/uploads/2023/09/PLAY-FM-logo-new-05-2026.pngg" group-title="Música", Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Música", EGM Channel (Chile)
@@ -2767,7 +2767,7 @@ https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Música", MaxiVision TV
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://v2.tustreaming.cl/fantasiatv/fantasiatv.png" group-title="Música",Fantasia TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XnX1pw2/logo-fantasia-tv-dos-1024x1024.png" group-title="Música",Fantasia TV
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
 
 
