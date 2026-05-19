@@ -371,6 +371,13 @@ https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religiosos", Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Religiosos", Red ADvenir TV (Not 24/7)
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="Religiosos", XTOTV (Not 24/7)
+#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
+http://190.104.15.135/0.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
@@ -1045,6 +1052,50 @@ https://signal.teleon.live/stream/telenordcorrientesar.m3u8?token=free
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Entretenimiento (AR)", Uniteve Villa Maria (Argentina)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento (BO)", Bolivisión LPZ
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Entretenimiento (BO)", Cadena A (Not 24/7)
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento (BO)", CEACOM TV (Not 24/7)
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Entretenimiento (BO)", CTV
+https://live.ctvbolivia.com/hls/ctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento (BO)", F10 HD (Geo-blocked)
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento (BO)", Red TV Shop
+https://master.tucableip.com/redtvshop/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento (BO)", RTP
+https://rtp.noxun.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Entretenimiento (BO)", UMSA TVU Internacional
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Entretenimiento (BO)", UMSA TVU LP
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Entretenimiento (BO)", Unifranz
+https://live.enhdtv.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento (BO)", Univalle Televisión
+https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento (BO)", UPEA TV
+#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento (BO)", UPP TV/Bolivisión SCZ (Not 24/7)
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 
 
