@@ -297,9 +297,6 @@ https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religiosos", Canal Telefamilia (Not 24/7)
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" group-title="Religiosos", Canal Telefamilia [Opc. 2]
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Religiosos", Canal Oración Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 
@@ -364,6 +361,15 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Religiosos", Canal Diocesano Toledo (España)
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Religiosos", Bethel TV
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religiosos", JN19 (Not 24/7)
+https://servilive.com:3028/live/jntv19live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religiosos", Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
@@ -1261,6 +1267,105 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aHrD2l.jpeg" group-title="Entretenimiento (PE)", Antena SUR
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Entretenimiento (PE)", AsiriTV (Not 24/7)
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Entretenimiento (PE)", ATV (Not 24/7)
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Entretenimiento (PE)", ATV Sur (Not 24/7)
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="Entretenimiento (PE)", BHTV
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Entretenimiento (PE)", Cadena TV (Not 24/7)
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Entretenimiento (PE)", Canal 8 Catacaos (Not 24/7)
+https://live.obslivestream.com/canal8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kfdkm06.png" group-title="Entretenimiento (PE)", Canal 21 Huancayo
+https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Entretenimiento (PE)", Controversia TV (Not 24/7)
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Entretenimiento (PE)", CR Televisión Moyobamba (Not 24/7)
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1KU6w.png" group-title="Entretenimiento (PE)", ECO Television
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Entretenimiento (PE)", Intuitiva TV
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Entretenimiento (PE)", Mega TV Jaen (Not 24/7)
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="Entretenimiento (PE)", Milenial TV
+https://www.milenial.news/salida/milenial.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Entretenimiento (PE)", Nativa (Not 24/7)
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="Entretenimiento (PE)", Nativa TV Satipo (Not 24/7)
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Entretenimiento (PE)", ONDA DIGITAL
+https://tv.ondadigital.pe/ondadigital/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Entretenimiento (PE)", RadioTV Oriente
+https://live.obslivestream.com/tvoriente/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Entretenimiento (PE)", RN Televisión (Not 24/7)
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Entretenimiento (PE)", Señal Perú TV (Not 24/7)
+https://livestream.perucast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="Entretenimiento (PE)", Telecolor Yurimaguas (Not 24/7)
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Entretenimiento (PE)", Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="Entretenimiento (PE)", Televisión Tarapoto (Not 24/7)
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Entretenimiento (PE)", Top FM TV (Not 24/7)
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Entretenimiento (PE)", Trivu (Not 24/7)
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Entretenimiento (PE)", Unitel
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Entretenimiento (PE)", Uranio TV (Yurimaguas) (Not 24/7)
+https://live.obslivestream.com/uraniotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Entretenimiento (PE)", USMPTV
+#EXTVLCOPT:http-referrer=https://usmptv.pe/
+https://streamusmptv.ddns.net/live/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Entretenimiento (PE)", Vía Altomayo (Not 24/7)
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Entretenimiento (PE)", Vía Televisión (Not 24/7)
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="Entretenimiento (PE)", Visión Sur TV (Not 24/7)
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="Entretenimiento (PE)", Viva TV Yurimaguas
+https://live.obslivestream.com/vivatv/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Entretenimiento (ES)", La 1 de TVE (España)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
@@ -1639,6 +1744,18 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Informativos", Willax TV (Perú)
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Informativos", ATV+
+https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos", RPP TV
+https://cdn-ssai.smartbit.co/rpp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="Informativos", RSelvaTV
+https://live.obslivestream.com/selvatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Informativos", VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPqlChI.png" group-title="Informativos", WIPR (Puerto Rico)
 https://streamwipr.pr/hls/stream/index.m3u8
@@ -2202,6 +2319,21 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Música", Vallenato Internacional (Not 24/7)
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Música", Miel TV (Not 24/7)
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Música", Radio Master
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Música", Radio Tropical Tarapoto (Not 24/7)
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Música", Turbo Mix Radio TV (Not 24/7)
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Música", TVUNO
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YLzKw2B/4-2.png" group-title="Música",Mass Musica
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
 
@@ -2327,7 +2459,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox Sports en Espanol (TUBI)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png", Fox Sports tubi (AR)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png", Fox Sports (AR)
 #EXTVLCOPT:http-referrer=https://foxsports.com.ar/
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
@@ -2439,6 +2571,12 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="Deportes", Turf Móvil (Chile)
 https://tvturf4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Deportes", Monterrico TV (Not 24/7)
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes", Ovacion TV (Not 24/7)
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (EN)
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
