@@ -387,6 +387,12 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
 http://190.104.15.135/0.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gt6UvG8.png" group-title="Religiosos",Escúchame Radio TV (Nicaragua) [Not 24/7]
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" group-title="Religiosos",Olam Metro TV (Nicaragua)
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos", El Sembrador TV 
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 
@@ -792,6 +798,9 @@ https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="Entretenimiento", TN8 (Nicaragua)
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento",WTV Canal 20 (Nicaragua)
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
@@ -2505,6 +2514,12 @@ https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Música", Vos y TV (Not 24/7)
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="Música",MegaBox (Nicaragua) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=megabox
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Música",TVONE (Nicaragua) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=tvone
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música", MasMusica FM
 https://movil.ejeserver.com/live/masmusica.m3u8
