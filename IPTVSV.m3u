@@ -2046,233 +2046,6 @@ https://streamwipr.pr/hls/stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
-https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV 2
-https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA874/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cinema LT
-https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA880/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Picante
-https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA938/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Romántico
-https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA881/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Acción Mexicana
-https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA948/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Peli Mex
-https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA962/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Seasonal
-https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonal-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Latina
-https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Turca
-https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Novelas Brasileras
-https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Narco Drama
-https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whRrKDwH/0-16x9.png" group-title="Canela TV",Canela Clásicos
-https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Thema Vive Kanal Drama
-https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Novelísima
-https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Corazón TV Azteca
-https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwL4NQvW/0-16x9-5.png" group-title="Canela TV",Canela Secretos
-https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channele-canelatvus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Canela TV",Azteca Internacional
-https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d79846c9-0e39-4dac-a91a-2e7687a22d5a/FreeTVEstelar_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Estelar
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197&content_channel=FreeTV&content_language=es&livestream=1&id=16532&override_expiration=1500&sign=wNTiETqnxKfL3w7p5jH1c57V7d3EpmeYiw%2B5VjuNgRk%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://www.parsatv.com/index_files/channels/freetvaccion.png", FreeTV Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200&content_channel=FreeTV&content_language=es&livestream=1&id=19361&override_expiration=1500&sign=LScGRbwTXFe5HHdK60AZOnGPRJ0nM9nf227gyh%2BoWTI%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c78d6bd6-fac4-4335-9ece-3ef8eebc7059/FreeTVFamily_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196&content_channel=FreeTV&content_language=es&livestream=1&id=19355&override_expiration=1500&sign=EtyPpOg8DftbKYBW2WZrk7tMmvyqQ0eIV%2BBhg01MFRY%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae3965b3-8f25-47e2-b662-d855b45440dc/FreeTVSureno_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Sureño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201&content_channel=FreeTV&content_language=es&livestream=1&id=16417&override_expiration=1500&sign=X7bScZ%2BSnSCegwR670AeJLnIOCZH9SExWaMUW81qhWI%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a55c004-93af-4da6-83e7-b272648ea971/FreeTVDrama_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16198&content_channel=FreeTV&content_language=es&livestream=1&id=19353&override_expiration=1500&sign=YCYIcagQbCkvVJbr48HsjqfQvh9LtKC3pmb%2BY9xhhSU%3D
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F16a5a06f-8a9e-4364-bce5-56f228f88c17%2FFreeTVHorror_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="FreeTV", FreeTV Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194&content_channel=FreeTV&content_language=es&livestream=1&id=19363&override_expiration=1500&sign=nuDhD0xKiIbaVvsPwKPlDn5YD47Q8wBJwsY%2FLpMEYGQ%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9a70547-ded2-4a10-8285-15cfc67382e7/FreeTV_live__1_.jpg", FreeTV Live
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195&content_channel=FreeTV&content_language=es&livestream=1&id=19357&override_expiration=1500&sign=9j0Yz3MdxnxpcLPcRkD4lJl9MrnKRC3b5GMbScmrUY0%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://directorioa1.com/wp-content/uploads/2020/06/logo-freetv-blog-directorioa1.jpg", FreeTV Clásico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199&content_channel=FreeTV&content_language=es&livestream=1&id=16106&override_expiration=1500&sign=1Qw1RENWku%2BRjm37bE3mzrZ%2BzBWvbi7BModLCMEKYmo%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fdee7faf-762e-4e84-89a7-288b1d2e469b/FreeTVSaberMas_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Saber Más
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474&content_channel=FreeTV&content_language=es&livestream=1&id=23364&override_expiration=1500&sign=Gz%2FJK4piTFwcmREl%2Fm9LCENofEyjD211T82AUwh%2Byww%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a114420b-6a40-4d05-af07-b95c95525420/FreeTVHits_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370&content_channel=FreeTV&content_language=es&livestream=1&id=23361&override_expiration=1500&sign=CVhu5F5HqAGcuKg8zsIsz%2BwfdwgqXSclwBxfWh%2FesoM%3D
-
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f7d6948-9545-49e6-b6bd-9da68c67705e/FreeTVBanda_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Banda
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465&content_channel=FreeTV&content_language=es&livestream=1&id=19359&override_expiration=1500&sign=rjEv%2F4KAnwYBZRvq3bQ68W6QY7Vx9fMrvF8muMtahoc%3D
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="FreeTV",Mi Raza Canal
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-300x300-square.png" group-title="FreeTV",Mi Raza Canal Plus
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751333788lNZ0MTgbtO-300x300-square.png" group-title="FreeTV", Mi Miedo Canal
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/175133329604Wbbc77Ol-300x300-square.png" group-title="FreeTV", Gritos TV
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633b4d4ce63892fb061068&AV_CHANNELID=68633b1e76e6443e4209778e&AV_IS_LIVE=1
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony 
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="Sony Channels",Sony One Cinema
-https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Sony Channels",Sony One Novelas
-https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdLSCtD9/sony-one-exitos-es.png" group-title="Sony Channels",Sony One Exitos
-https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mr13PRP4/sony-one-hits-accion-es.png" group-title="Sony Channels",Sony One Hits Acción
-https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWNj6mNP/sony-one-hits-comedia-es.png" group-title="Sony Channels",Sony One Hits Comedia
-https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxF43pCM/sony-one-series-comedia-es.png" group-title="Sony Channels",Sony One Series Comedia
-https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDyb0crS/sony-one-series-thriller-es.png" group-title="Sony Channels",Sony One Series Thriller
-https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKVdDm0/sone-one-blacklist-es.png" group-title="Sony Channels",Sony One The Blacklist
-https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten TV",Pelis Top
-https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Rakuten TV",Acción
-https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Rakuten TV",Comedia
-https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Rakuten TV",Drama
-https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Rakuten TV",Romance
-https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="Rakuten TV",Cine Español
-https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="Rakuten TV",Sci-Fi
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg" group-title="Rakuten TV",Thrillers
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="Rakuten TV",Crimen
-https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.app_bundle=com.rakuten.tv&ads.market=es&ads.network_name=RakutenTV
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Rakuten TV",Grjngo Western
-https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Rakuten TV",Cine Friki
-https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851&ads_network_name=RakutenTV
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTDG6LgN/lg1-es.png" group-title="LG Channels",LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTDG6LgN/lg1-es.png" group-title="LG Channels",LG 1+1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YDDQrVb/lg1-film-es.png" group-title="LG Channels",LG 1:FILMS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rnd6BfP/lg1-spotlight-es.png" group-title="LG Channels",LG 1: SPOTLIGHT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHZx2pHH/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUN:TIME TV",RUN:TIME Cine y Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Clasicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_2.jpg" group-title="RUN:TIME TV",RUN:TIME Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13228&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="RUN:TIME TV",RUN:TIME Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Thriller
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="RUN:TIME TV",Águila Roja
-https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo-2008-500x281.png" group-title="Infantil",Babyfirst
@@ -2966,6 +2739,235 @@ https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 
 #EXTINF:-1 tvg-logo="https://igamemedia.com/wp-content/uploads/2025/01/iGM-x-Pluto-MODUS-Darts.jpg" group-title="Deportes", MODUS Super Series Darts (EN)
 https://jmp2.uk/plu-67164414e40c4a00087f450d.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV 2
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA874/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cinema LT
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA880/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Picante
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA938/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Romántico
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA881/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Acción Mexicana
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA948/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Peli Mex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA962/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Seasonal
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonal-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Latina
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Turca
+https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Novelas Brasileras
+https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Narco Drama
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whRrKDwH/0-16x9.png" group-title="Canela TV",Canela Clásicos
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Thema Vive Kanal Drama
+https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Novelísima
+https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Corazón TV Azteca
+https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwL4NQvW/0-16x9-5.png" group-title="Canela TV",Canela Secretos
+https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channele-canelatvus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Canela TV",Azteca Internacional
+https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d79846c9-0e39-4dac-a91a-2e7687a22d5a/FreeTVEstelar_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://www.parsatv.com/index_files/channels/freetvaccion.png", FreeTV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c78d6bd6-fac4-4335-9ece-3ef8eebc7059/FreeTVFamily_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae3965b3-8f25-47e2-b662-d855b45440dc/FreeTVSureno_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Sureño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a55c004-93af-4da6-83e7-b272648ea971/FreeTVDrama_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16198&content_channel=FreeTV&content_language=es&livestream=1&id=19353&override_expiration=1500&sign=YCYIcagQbCkvVJbr48HsjqfQvh9LtKC3pmb%2BY9xhhSU%3D
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F16a5a06f-8a9e-4364-bce5-56f228f88c17%2FFreeTVHorror_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="FreeTV", FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9a70547-ded2-4a10-8285-15cfc67382e7/FreeTV_live__1_.jpg", FreeTV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://directorioa1.com/wp-content/uploads/2020/06/logo-freetv-blog-directorioa1.jpg", FreeTV Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fdee7faf-762e-4e84-89a7-288b1d2e469b/FreeTVSaberMas_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Saber Más
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a114420b-6a40-4d05-af07-b95c95525420/FreeTVHits_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
+
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f7d6948-9545-49e6-b6bd-9da68c67705e/FreeTVBanda_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Banda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="FreeTV",Mi Raza Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-300x300-square.png" group-title="FreeTV",Mi Raza Canal Plus
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751333788lNZ0MTgbtO-300x300-square.png" group-title="FreeTV", Mi Miedo Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/175133329604Wbbc77Ol-300x300-square.png" group-title="FreeTV", Gritos TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633b4d4ce63892fb061068&AV_CHANNELID=68633b1e76e6443e4209778e&AV_IS_LIVE=1
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony 
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="Sony Channels",Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Sony Channels",Sony One Novelas
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdLSCtD9/sony-one-exitos-es.png" group-title="Sony Channels",Sony One Exitos
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mr13PRP4/sony-one-hits-accion-es.png" group-title="Sony Channels",Sony One Hits Acción
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWNj6mNP/sony-one-hits-comedia-es.png" group-title="Sony Channels",Sony One Hits Comedia
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxF43pCM/sony-one-series-comedia-es.png" group-title="Sony Channels",Sony One Series Comedia
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDyb0crS/sony-one-series-thriller-es.png" group-title="Sony Channels",Sony One Series Thriller
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKVdDm0/sone-one-blacklist-es.png" group-title="Sony Channels",Sony One The Blacklist
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten TV",Pelis Top
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Rakuten TV",Acción
+https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Rakuten TV",Comedia
+https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Rakuten TV",Drama
+https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Rakuten TV",Romance
+https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="Rakuten TV",Cine Español
+https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="Rakuten TV",Sci-Fi
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg" group-title="Rakuten TV",Thrillers
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="Rakuten TV",Crimen
+https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Rakuten TV",Grjngo Western
+https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Rakuten TV",Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTDG6LgN/lg1-es.png" group-title="LG Channels",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTDG6LgN/lg1-es.png" group-title="LG Channels",LG 1+1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YDDQrVb/lg1-film-es.png" group-title="LG Channels",LG 1:FILMS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rnd6BfP/lg1-spotlight-es.png" group-title="LG Channels",LG 1: SPOTLIGHT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHZx2pHH/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUN:TIME TV",RUN:TIME Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_2.jpg" group-title="RUN:TIME TV",RUN:TIME Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13228
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="RUN:TIME TV",RUN:TIME Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Thriller
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="RUN:TIME TV",Águila Roja
+https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
 
 
 
