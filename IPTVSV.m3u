@@ -1139,8 +1139,6 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Entretenimiento (CO)", Teleislas (Not 24/7)
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/137_Tele_Islas.png" group-title="Entretenimiento (CO)", Teleislas [Opc. 2]
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Entretenimiento (CO)", Telemedellin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -1171,7 +1169,7 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w2t8CGT" group-title="Entretenimiento (CO)", Blu Radio
 https://mdstrm.com/live-stream-playlist/58d191a72e2b22e2905e493.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="EEntretenimiento (CO)", UMC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Entretenimiento (CO)", UMC TV
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 
 
