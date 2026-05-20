@@ -4,12 +4,12 @@
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (Estable)
+https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/MF443wxa/live.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV)
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (Estable)
-https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/MF443wxa/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
 #EXTVLCOPT:http-referrer=https://teleon.tv/
@@ -18,6 +18,7 @@ https://signal.teleon.live/stream/canal6sv.m3u8?token=free
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canaltcssv.m3u8?token=free
+
 
 
 
@@ -32,7 +33,7 @@ https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://teleon.tv/stream/cG5wODQ2NjE2M3BucDg0.m3u8
+https://teleon.tv/stream/cG5wODQ6NjE2M3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
 #EXTVLCOPT:http-referrer=https://teleon.tv/
@@ -41,27 +42,28 @@ https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 (Opc.2)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador", RTV Canal 57 -No 24/7-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 -No 24/7-
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador", Canal TRV
-https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ Santa Ana
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="El Salvador", TVC Network 
+#EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="El Salvador",TVC Network
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ Santa Ana
-https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
 
 
 
