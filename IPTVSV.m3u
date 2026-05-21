@@ -946,100 +946,99 @@ https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Entretenimiento (MX)", Canal 44 Chihuahua
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Entretenimiento (MX)", Canal 44 Ciudad Juárez
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento (MX)", Canal 5
-http://185.56.109.253/Canal5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vcY5uHe.png" group-title="Entretenimiento (MX)", Canal 11 Internacional
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Entretenimiento (MX)", Canal Once (IPN)
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TWk8JT.png" group-title="Entretenimiento (MX)", Canal 15 ILCE
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Entretenimiento (MX)", Canal 26 VA+ TV
-https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="Entretenimiento (MX)", Clic TV (TV Azteca)
-https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento (MX)", Estrella TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento (MX)", Estrella TV Games
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento (MX)", Imagen TV Plus
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="Entretenimiento (MX)", Las Estrellas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="Entretenimiento (MX)", Las Estrellas (Nacional)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Entretenimiento (MX)", Mexiquense TV (Edomex)
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento (MX)", Canal 5 (Nacional)
+http://185.56.109.253/Canal5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="Entretenimiento (MX)", Imagen TV Plus (Nacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Entretenimiento (MX)", Canal Once (IPN) (Nacional)
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vcY5uHe.png" group-title="Entretenimiento (MX)", Canal 11 Internacional (Nacional)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Entretenimiento (MX)", Multimedios Canal 6 (CDMX)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="Entretenimiento (MX)", Nayarit Comunica
-https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="Entretenimiento (MX)", Clic TV (TV Azteca) (Nacional)
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Entretenimiento (MX)", Nueve TV (San Luis Potosí)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entretenimiento (MX)", Estrella TV (Nacional)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Entretenimiento (MX)", PSN Ensenada
-https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento (MX)", Estrella TV Games (Nacional)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Entretenimiento (MX)", RTQ Queretaro
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TWk8JT.png" group-title="Entretenimiento (MX)", Canal 15 ILCE (Nacional)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="Entretenimiento (MX)", SQCS Canal 4
-https://video0.rogohosting.com:19360/4982/4982.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="Entretenimiento (MX)", Super Canal 12
-https://servilive.com:3263/live/channel12live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Entretenimiento (MX)", Tele Yucatan
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Entretenimiento (MX)", TV Cuatro 4.2
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Entretenimiento (MX)", TV Lobo Durango
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Entretenimiento (MX)", TV Mar La Paz
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Entretenimiento (MX)", Mexiquense TV (Edomex)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="Entretenimiento (MX)", TV Más (Veracruz)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Entretenimiento (MX)", Turistik
-https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Entretenimiento (MX)", Tele Yucatan (Yucatán)
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Entretenimiento (MX)", Ultra TV Puebla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Entretenimiento (MX)", TV Cuatro 4.2 (Guanajuato)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Entretenimiento (MX)", Canal 44 Ciudad Juárez (Chihuahua)
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Entretenimiento (MX)", Canal 44 Chihuahua (Chihuahua)
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Entretenimiento (MX)", Ultra TV Puebla (Puebla)
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Entretenimiento (MX)", Unison TV Canal 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Entretenimiento (MX)", Nueve TV (San Luis Potosí)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Entretenimiento (MX)", RTQ Queretaro (Querétaro)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="Entretenimiento (MX)", Nayarit Comunica (Nayarit)
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="Entretenimiento (MX)", SQCS Canal 4 (Quintana Roo)
+https://video0.rogohosting.com:19360/4982/4982.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Entretenimiento (MX)", Unison TV Canal 8 (Sonora)
 https://stream.unison.mx/hls/unisontvatem.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ndOGVXI.png" group-title="Entretenimiento (MX)", Vibe TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Entretenimiento (MX)", TV Mar La Paz (Baja California Sur)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Entretenimiento (MX)", TV Lobo Durango (Durango)
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Entretenimiento (MX)", PSN Ensenada (Baja California)
+https://srspsn.live/live/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Entretenimiento (MX)", Canal 26 VA+ TV (Aguascalientes)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Entretenimiento (MX)", Turistik (Nacional)
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndOGVXI.png" group-title="Entretenimiento (MX)", Vibe TV (Guanajuato)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="Entretenimiento (MX)", XHFGL ON TV Canal 15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="Entretenimiento (MX)", Super Canal 12 (Tamaulipas)
+https://servilive.com:3263/live/channel12live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="Entretenimiento (MX)", XHFGL ON TV Canal 15 (Durango)
 https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Entretenimiento (MX)", XHUNES Señal España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Entretenimiento (MX)", XHUNES Señal España (Durango)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
 
 
 
