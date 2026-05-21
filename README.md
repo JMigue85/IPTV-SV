@@ -12,37 +12,43 @@ https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
 
 Descarga directa: https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u
 
-### 📋 Categorías Disponibles
+📋 Categorías Disponibles
 
-- El Salvador - TCS → 4 canales (Canal 2, 4, 6, SV+)
-- El Salvador Local → 11+ canales
-- Guatemala → 27+ canales
-- Honduras → 27+ canales
-- Costa Rica → 27+ canales
-- Religiosos → 50+ canales
-- Anime → 27+ canales
-- Doramas & Asia → 14+ canales
-- Cine y Películas → 52+ canales
-- Entretenimiento → 44+ canales
-- Entretenimiento (MX) 30+
-- Entretenimiento (AR) 29+
-- Entretenimiento (BO) 12+
-- Entretenimiento (EC) 42+
-- Entretenimiento (CO) 39+
-- Entretenimiento (CL) 27+
-- Entretenimiento (PE) 36+
-- Entretenimiento (ES) 55+
-- Infantil → 63+ canales
-- Informativos → 76+ canales
-- Música → 99+ canales
-- Deportes → 59+ canales
-- FreeTV → 14+ canales
-- Pluto TV ES/MX → 80+ canales combinados
-- Rakuten / LG / RUN:TIME / Sony / Canela → 47+ canales combinados
+    🇸🇻 El Salvador - TCS → 4 canales (Canal 2, 4, 6, SV+)
 
-  
-**Total real: 1000+ canales**
+    🇸🇻 El Salvador Local → 11+ canales
 
+    🇬🇹 Guatemala → 27+ canales
+
+    🇭🇳 Honduras → 27+ canales
+
+    🇨🇷 Costa Rica → 27+ canales
+
+    🎬 Cine y Películas → 52+ canales
+
+    ⚽ Deportes → 59+ canales
+
+    🍿 Plataformas FAST (Sin Tokens) → 140+ canales (Pluto TV, Canela, Rakuten, Sony, Runtime, FreeTV)
+
+    👶 Infantil → 63+ canales
+
+    🎵 Música → 99+ canales
+
+    📺 Entretenimiento Internacional → 300+ canales (Dividido por países: MX, AR, BO, EC, CO, CL, PE, ES)
+
+    📰 Informativos → 76+ canales
+
+    ⛩️ Anime & Doramas → 41+ canales
+
+    🙏 Religiosos → 50+ canales
+
+📊 Resumen del Repositorio
+
+    Idioma principal: 100% en Español / Latino.
+
+    Estabilidad: ~99% de canales al aire con enlaces limpios y directos.
+
+    Total Real: 1000+ canales disponibles 🚀.
 ### 🚀 Reproductores Recomendados
 
 - **Android** (Recomendación principal): Televizo + MPV como reproductor externo (la mejor combinación probada)
