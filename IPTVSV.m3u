@@ -1442,91 +1442,90 @@ https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Entretenimiento (CL)", 13 Humor (Chile)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Entretenimiento (CL)", 13 Realidades (Chile)
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Entretenimiento (CL)", 13 Teleseries (Chile)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Entretenimiento (CL)", 13C Cultura (Chile)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Entretenimiento (CL)", Atacama TV (Chile)
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Entretenimiento (CL)", Aysén TV (Chile)
-https://v1.tustreaming.cl/aysentv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="Entretenimiento (CL)", Canal 1 Ñuble (Chile)
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Entretenimiento (CL)", Chile Channel TV (Chile)
-https://v2.tustreaming.cl/chilechannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento (CL)", ClickTV (Coronel Chile)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="Entretenimiento (CL)", Décima TV Chiloé (Chile)
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Entretenimiento (CL)", Girovisual TV (Chile)
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Entretenimiento (CL)", La Red (Chile)
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Entretenimiento (CL)", Mega (Chile)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Entretenimiento (CL)", Mega (Nacional)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Entretenimiento (CL)", Pucón TV (Chile)
-https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Entretenimiento (CL)", La Red (Nacional)
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Entretenimiento (CL)", Retro Play TV (Chile)
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Entretenimiento (CL)", 13 Humor (Nacional)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Entretenimiento (CL)", Tevex TV (Chile)
-https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Entretenimiento (CL)", 13 Realidades (Nacional)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Entretenimiento (CL)", Thema TV Coquimbo (Chile)
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Entretenimiento (CL)", 13 Teleseries (Nacional)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="Entretenimiento (CL)", TV Quellón (Chile)
-https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Entretenimiento (CL)", 13C Cultura (Nacional)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Entretenimiento (CL)", TVN3 (Chile)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Entretenimiento (CL)", TVN3 (Nacional)
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Entretenimiento (CL)", TVO San Vicente (Chile)
-https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Entretenimiento (CL)", TVR Televisión Regional (Chile)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Entretenimiento (CL)", TVR Televisión Regional (Santiago / Nacional)
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="Entretenimiento (CL)", TVU Concepción (Chile)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Entretenimiento (CL)", Tevex TV (Santiago / Nacional)
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Entretenimiento (CL)", UCV TV Valparaíso (Valparaíso)
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="Entretenimiento (CL)", TVU Concepción (Biobío)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Entretenimiento (CL)", UTalca TV (Campus TV - Chile)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Entretenimiento (CL)", Atacama TV (Copiapó - Atacama)
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Entretenimiento (CL)", Thema TV Coquimbo (Coquimbo)
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Entretenimiento (CL)", VTV Valle Televisión (San Felipe / Los Andes - Valparaíso)
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Entretenimiento (CL)", Girovisual TV (El Quisco / San Antonio - Valparaíso)
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Entretenimiento (CL)", TVO San Vicente (San Vicente de Tagua Tagua - O'Higgins)
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="Entretenimiento (CL)", Vision Plus TV Melipilla (Metropolitana)
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="Entretenimiento (CL)", Canal 1 Ñuble (Chillán - Ñuble)
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento (CL)", ClickTV (Coronel - Biobío)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Entretenimiento (CL)", Pucón TV (Pucón - Araucanía)
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="Entretenimiento (CL)", Décima TV Chiloé (Ancud - Los Lagos)
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="Entretenimiento (CL)", TV Quellón (Quellón - Los Lagos)
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Entretenimiento (CL)", Aysén TV (Puerto Aysén - Aysén)
+https://v1.tustreaming.cl/aysentv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Entretenimiento (CL)", UTalca TV (Campus TV - Talca / Maule)
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Entretenimiento (CL)", U Los Lagos TV (Chile)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Entretenimiento (CL)", U Los Lagos TV (Osorno - Los Lagos)
 #EXTVLCOPT:http-referrer=https://tv.ulagos.cl/
 https://tv.ulagos.cl/web/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Entretenimiento (CL)", UCV TV Valparaíso (Chile)
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Entretenimiento (CL)", UTV Universidad Autónoma (Chile)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Entretenimiento (CL)", UTV Universidad Autónoma (Temuco / Santiago / Talca)
 https://v2.tustreaming.cl/utv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="Entretenimiento (CL)", Vision Plus TV Melipilla (Chile)
-https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Entretenimiento (CL)", Chile Channel TV (Nacional)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Entretenimiento (CL)", VTV Valle Televisión (Chile)
-https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Entretenimiento (CL)", Retro Play TV (Nacional)
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 
 
