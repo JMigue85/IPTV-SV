@@ -1,4 +1,4 @@
-# IPTV-SV | Lista Curada para El Salvador y Centroamérica
+# IPTV-SV | Lista IPTV M3U Curada para El Salvador y Centroamérica
 
 ![GitHub stars](https://img.shields.io/github/stars/JMigue85/IPTV-SV)
 ![Last Updated](https://img.shields.io/github/last-commit/JMigue85/IPTV-SV)
