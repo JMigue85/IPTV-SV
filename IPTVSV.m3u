@@ -2015,6 +2015,18 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Informativos", Canal 79 Puan (Buenos Aires)
 https://streamconex.com:19360/puan/puan.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rF6Kub.png" group-title="Informativos",24 Horas (Nacional)
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Informativos",T13 En Vivo (Nacional)
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="Informativos",Chilevisión Noticias (Nacional)
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="Informativos",El Pingüino TV (Punta Arenas - Magallanes)
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Informativos", DW Español (Alemania / Internacional)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
