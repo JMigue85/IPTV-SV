@@ -2015,14 +2015,8 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Informativos", Canal 79 Puan (Buenos Aires)
 https://streamconex.com:19360/puan/puan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rF6Kub.png" group-title="Informativos",24 Horas (Nacional)
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Informativos",T13 En Vivo (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Informativos",T13 En Vivo (Chile - Nacional)
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="Informativos",Chilevisión Noticias (Nacional)
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="Informativos",El Pingüino TV (Punta Arenas - Magallanes)
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
@@ -2589,6 +2583,9 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes", Multivisión Sports -Clasicos- (Guatemala)
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes", Teletrak TV (Chile)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
