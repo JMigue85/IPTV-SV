@@ -260,6 +260,9 @@ https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 (Costa Rica)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="Costa Rica", TDtv (Costa Rica)
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica", Canal 10 (Costa Rica)
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
@@ -281,41 +284,35 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Costa Rica", Cartago Medios TV (Costa Rica)
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="Costa Rica", TDtv (Costa Rica)
-https://cloudvideo.servers10.com:8081/8230/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV (Costa Rica)
-https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Costa Rica", Antena Seis TV (Costa Rica)
-https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Costa Rica", Colosal TV (Costa Rica)
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel (Costa Rica)
-https://video0.rogohosting.com:19360/8006/8006.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV (Costa Rica)
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV (Costa Rica)
-https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Costa Rica", TV Sur Canal 9 (Costa Rica)
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV (720p) (Costa Rica)
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica", Norte Informativo TV (Costa Rica)
-https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV (Costa Rica)
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV (Costa Rica)
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Costa Rica", Sarapiqui TV (720p) (Costa Rica)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Costa Rica", Super Cable (Costa Rica)
-http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="Costa Rica", TeleBrunca (Costa Rica)
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Costa Rica", Colosal TV (Costa Rica)
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Costa Rica", Antena Seis TV (Costa Rica)
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="Costa Rica", TicaVision (Costa Rica)
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel (Costa Rica)
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Costa Rica", TeleMas (Costa Rica)
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
@@ -327,14 +324,19 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="Costa Rica", TeleSUR Costa Rica (Costa Rica)
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="Costa Rica", TicaVision (Costa Rica)
-https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Costa Rica", TV Sur Canal 9 (Costa Rica)
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica", Zurquí TV (Costa Rica)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Costa Rica", Super Cable (Costa Rica)
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV (Costa Rica)
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+
+
+
+
+
 
 
 
@@ -2041,6 +2043,9 @@ https://live.obslivestream.com/selvatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Informativos", VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Informativos", Norte Informativo TV (Costa Rica)
+https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPqlChI.png" group-title="Informativos", WIPR (Puerto Rico)
 https://streamwipr.pr/hls/stream/index.m3u8
