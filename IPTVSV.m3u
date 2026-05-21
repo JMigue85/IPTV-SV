@@ -2574,8 +2574,8 @@ https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="Deportes",Pluto TV Peleas (México)
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports GT (Guatemala) [No 24/7] [Inestable]
-#EXTVLCOPT:http-referrer=http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports CEAM (Multi-Feed) [No 24/7] [Inestable]
+#EXTVLCOPT:http-referrer=http://162.19.255.233:8080/
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes", Multivisión Sports -Clasicos- (Guatemala)
