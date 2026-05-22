@@ -297,7 +297,7 @@ https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica",Nicoya TV (Guanacaste)
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (Zona de los Santos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (Zona de los Santos)[No 24/7]
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica",Garabito TV (Puntarenas)
@@ -315,7 +315,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Costa Rica",Antena Seis TV (Grecia - Alajuela)
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="Costa Rica",TicaVisión (Alajuela)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="Costa Rica",TicaVisión (Alajuela)[Inestable]
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica",Zurquí TV (Pococí - Limón)
