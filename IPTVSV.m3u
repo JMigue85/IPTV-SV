@@ -1261,6 +1261,9 @@ https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Entretenimiento (EC)", Puruwa TV (Chimborazo)
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Entretenimiento (EC)", RTV Riobamba (Not 24/7) (Chimborazo)
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Entretenimiento (EC)", UNIANDES TV (Not 24/7) (Tungurahua)
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
@@ -1650,6 +1653,10 @@ https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento (PE)",Visión NDV (Pucallpa)
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Entretenimiento (PE)",Agro TV (Cusco)
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+
+
 
 
 
@@ -1909,9 +1916,6 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Informativos", Ecotel TV (Loja - Ecuador)
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Informativos", RTV Riobamba (Not 24/7) (Chimborazo - Ecuador)
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 
@@ -1932,9 +1936,6 @@ https://live.obslivestream.com/selvatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Informativos", VNP (Lima)
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Informativos", Agro TV (Cusco)
-https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Informativos", FTV (La Paz - Bolivia)
 https://master.tucableip.com/ftvhd/index.m3u8
