@@ -1565,6 +1565,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Entretenimiento (PE)", ATV Sur (Not 24/7) (Arequipa / Nacional)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Entretenimiento (PE)",Mega TV (Arequipa)
+https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Entretenimiento (PE)", Latina Clasicos (Nacional)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
