@@ -832,6 +832,9 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="Entretenimiento", MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ykbNfG3/gogoplaytv.png" group-title="Entretenimiento",GoGoPlay TV
+https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
