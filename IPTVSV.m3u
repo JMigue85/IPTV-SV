@@ -743,6 +743,18 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 #EXTINF:-1 tvg-logo="https://www.netlife.ec/wp-content/uploads/2025/07/latino-tvclassic.jpg" group-title="Cine y Películas", Latino Classic TV 
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine y Películas",Monte Grande TV Movies
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine y Películas",Monte Grande TV Acción
+https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine y Películas",Monte Grande TV Family
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine y Películas",Monte Grande TV Comedy
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine y Películas",Cine en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=s-LCv6BwD-9AmtyXYc67
 
@@ -2205,6 +2217,9 @@ https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Infantiles", Tiguerito TV (Rep. Dominicana)
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Infantil",Monte Grande TV Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Infantiles", 13 Kids (Chile)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
