@@ -1361,7 +1361,7 @@ https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Entretenimiento (EC)", Plus TV (Not 24/7) (Santo Domingo)
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Música", El Sol Network TV (Machala) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Entretenimiento (EC)", El Sol Network TV (Machala) [Not 24/7]
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Entretenimiento (EC)", RTRTV (Guayas)
