@@ -663,7 +663,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Cine y Películas", AMC LATAM (Hispanoamérica)
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Películas",Cine53
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine y Películas",Cine53
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Cine y Películas", NEO TV Digital -No 24/7-
@@ -681,7 +681,7 @@ https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine y Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Películas",Canal 69 TV
+#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine y Películas",Canal 69 TV
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Películas",FilmRise Películas Gratis
@@ -702,7 +702,7 @@ https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine y Películas", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Películas",Mix Bolivia TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Cine y Películas",Mix Bolivia TV
 https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Cine y Películas", Canal Pulpo TV
@@ -764,7 +764,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjxKpHQB/ORO-Tv-1920-X1080-JPG-RDX-1.png" group-title="Cine y Películas",Oro TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64f0db77c2bc9b9001d46eaa.m3u8?X-Plex-Token=VxmMXSQVcfo9G5eXyKfd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Películas",Pantalla Clásica EC (Ecuador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine y Películas",Pantalla Clásica EC (Ecuador)
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine y Películas", Retro Plus TV (Películas Retro)
@@ -779,7 +779,7 @@ https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine y Películas", TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Películas",Tele Clásicos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine y Películas",Tele Clásicos
 https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Cine y Películas", Cine Adrenalina
@@ -800,7 +800,7 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine y Películas",Cine de Horror
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=b1EtektCx21hyn2XexED
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Películas",Cine de Terror Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Cine y Películas",Cine de Terror Español
 https://live20.bozztv.com/giatvplayout7/giatv-211420/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-mexico-mx.png" group-title="Cine y Películas", MyTime Movie Network (Mexico)(ES)
