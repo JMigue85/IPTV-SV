@@ -690,6 +690,9 @@ https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine y Películas",Zee Mundo
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine y Películas",WOW Movies
+https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine y Películas", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
