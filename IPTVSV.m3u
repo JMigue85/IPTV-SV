@@ -282,6 +282,9 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="Costa Rica",Canal 14 (San Carlos)
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica",Norte Informativo TV (San Carlos)
+https://videohd.live:19360/8076/8076.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica",TV Sur Canal 14 (Pérez Zeledón)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
@@ -1438,6 +1441,9 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Entretenimiento (CO)", UMC TV (Nacional)
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Entretenimiento (CO)", Canal PyC (Ibagué)
+https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
+
 
 
 
@@ -1888,9 +1894,6 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Informativos", Cinevisión Canal 19 (República Dominicana)
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Informativos", Norte Informativo TV (San Carlos - Costa Rica)
-https://videohd.live:19360/8076/8076.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Informativos", TV Sur Pérez Zeledón (San José - Costa Rica)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
@@ -1899,9 +1902,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Informativos", Cali TV (Cali - Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Informativos", Canal PyC (Ibagué - Colombia)
-https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="Informativos", RTU (Not 24/7) (Quito - Ecuador)
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
