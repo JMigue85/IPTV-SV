@@ -681,12 +681,6 @@ https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine y Películas",Zee Mundo
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine y Películas", Visión Dorada TV (Colombia)
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine y Películas", Cosmos TV (Argentina)
-https://canaletaplus.com:3922/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine y Películas", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
@@ -697,18 +691,11 @@ https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Cine y Películas",MiTVpy
-https://edge.enhdtv.com/8070/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Cine y Películas", MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Cine y Películas", Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Cine y Películas", Vision NDV
-https://soportedvb.click:3891/live/visionndvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine y Películas", Box Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -896,6 +883,12 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento", SNT (Paraguay)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Entretenimiento",MiTVpy (Paraguay)
+https://edge.enhdtv.com/8070/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Entretenimiento", MiTV 
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Entretenimiento", Trece TV (Paraguay)
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
@@ -1077,6 +1070,9 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Entretenimiento (AR)", Lapacho Canal 11 Formosa (Formosa)
 https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Entretenimiento (AR)",Cosmos TV (Formosa)
+https://canaletaplus.com:3922/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento (AR)", Canal 7 Salta (Salta)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
@@ -1382,6 +1378,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Entretenimiento (CO)", Canal Más Televisión (La Dorada - Caldas)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento (CO)",Visión Dorada TV (La Dorada - Caldas)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Entretenimiento (CO)", Canal Dos Yopal (Casanare)
 http://131.221.41.94/hls/canal2.m3u8
 
@@ -1641,6 +1640,9 @@ https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Entretenimiento (PE)", Unitel (Ica)
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento (PE)",Visión NDV (Pucallpa)
+https://soportedvb.click:3891/live/visionndvlive.m3u8
 
 
 
