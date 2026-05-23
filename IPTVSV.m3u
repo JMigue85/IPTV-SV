@@ -531,6 +531,9 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Anime-en-directo-Online.png" group-title="Anime",Pluto TV Anime (América Latina)
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/42-427935_dbs-logo-dragon-ball-super-logo.png" group-title="Anime",Dragon Ball Super (América Latina)
+https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/One-Piece-Logo-1999.png" group-title="Anime",One Piece (América Latina)
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 
