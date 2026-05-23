@@ -910,8 +910,11 @@ https://edge.enhdtv.com/8070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Entretenimiento", MiTV 
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aAEs1Mp.png" group-title="Entretenimiento",El Chavo del 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aAEs1Mp.png" group-title="Entretenimiento",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento",Chespirito TV
+https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Entretenimiento", Trece TV (Paraguay)
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
