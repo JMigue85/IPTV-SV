@@ -678,6 +678,9 @@ https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine y Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Películas",Canal 69 TV
+https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Películas",FilmRise Películas Gratis
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
 
