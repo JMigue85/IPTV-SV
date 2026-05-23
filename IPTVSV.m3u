@@ -1586,6 +1586,9 @@ https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Entretenimiento (CL)", UTV Universidad Autónoma (Temuco / Santiago / Talca)
 https://v2.tustreaming.cl/utv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Entretenimiento (CL)", EGM Channel (Rancagua)
+https://vdochile.com:3922/live/egm20live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Entretenimiento (CL)", Chile Channel TV (Nacional)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
@@ -2509,9 +2512,6 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música", AE Radio TV (Chile)
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Música", EGM Channel (Chile)
-https://vdochile.com:3922/live/egm20live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.populartv.cl/wp-content/uploads/elementor/thumbs/Logo-en-PNG-con-tipografia-polbioybcx24gunnadhprzcqp2wqxwbpofdcvojex8.png" group-title="Música",La Popular TV (Chile)
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
