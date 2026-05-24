@@ -513,9 +513,6 @@ https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia", TeveColombia [No 24/7] (Nacional)
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV (Cali - Valle del Cauca)
-https://movil.ejeserver.com/live/calimatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia", Telesangil (San Gil - Santander)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 
@@ -1558,6 +1555,9 @@ https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vs1H6bK.png" group-title="Entretenimiento", Canal TRO Plus (Santanderes / Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Entretenimiento", Canal Calima TV (Cali / Valle del Cauca / Colombia)
+https://movil.ejeserver.com/live/calimatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento", Cheaters en Español
 https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
