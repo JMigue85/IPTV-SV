@@ -404,7 +404,7 @@ https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Mexico", Canal 44 Chihuahua (Chihuahua)
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Mexico", Ultra TV Puebla (Puebla)
+#EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Mexico", Ultra TV Puebla [No 24/7] (Puebla)
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Mexico", Nueve TV (San Luis Potosí)
@@ -419,7 +419,7 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="Mexico", SQCS Canal 4 (Quintana Roo)
 https://video0.rogohosting.com:19360/4982/4982.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Mexico", Unison TV Canal 8 (Sonora)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Mexico", Unison TV Canal 8 [No 24/7] (Sonora)
 https://stream.unison.mx/hls/unisontvatem.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Mexico", TV Mar La Paz (Baja California Sur)
@@ -437,7 +437,7 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Mexico", Turistik (Nacional)
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ndOGVXI.png" group-title="Mexico", Vibe TV (Guanajuato)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndOGVXI.png" group-title="Mexico", Vibe TV [No 24/7] (Guanajuato)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="Mexico", Super Canal 12 (Tamaulipas)
