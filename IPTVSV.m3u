@@ -678,7 +678,7 @@ https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Chile", EGM Channel (Rancagua)
 https://vdochile.com:3922/live/egm20live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="CChile", Chile Channel TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile", Chile Channel TV (Nacional)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Chile", Retro Play TV (Nacional)
