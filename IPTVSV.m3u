@@ -589,6 +589,133 @@ https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa Guayaquil [No 24/7] (Guayas)
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa Quito [No 24/7] (Pichincha)
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", RTS (Nacional)
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador", TVC (Nacional)
+https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", Ecuador TV (Nacional)
+https://samson.streamerr.co:8081/shogun/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV (Manabí)
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", Telerama [No 24/7] (Azuay / Nacional)
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador", Manavisión (Manabí)
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV [No 24/7] (Santo Domingo)
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Ecuador", Majestad Televisión (Santo Domingo)
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO (Guayas)
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Ecuador", Educa TV [No 24/7] (Nacional)
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV (Guayas)
+http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus (Guayas)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador", Multicanal (Loja)
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Ecuador", Antena Uno RadioVideo (Azuay)
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Ecuador", Latacunga TV (Cotopaxi)
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Ecuador", Ondas Quevedeñas TV [No 24/7] (Los Ríos)
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Ecuador", Red TVE Ventanas (Los Ríos)
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Ecuador", Telemar (Esmeraldas)
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador", Austral TV (Azuay)
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacán Te Veo [No 24/7] (Loja)
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Ecuador", Marca TV [No 24/7] (Cotopaxi)
+http://200.7.219.221:8088/live/livetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="Ecuador", Loreto TV (Orellana)
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Ecuador", Puruwa TV (Chimborazo)
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV Riobamba (Not 24/7) (Chimborazo)
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador", UNIANDES TV [No 24/7] (Tungurahua)
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Ecuador", La Nueva Radio TV 97.7 (Imbabura)
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", TV Cisne (Loja)
+https://video2.lhdserver.es/tvcisne/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador", TV Color Canal 36 (El Oro)
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Ecuador", Sono Onda TV (Manabí)
+https://live.obslivestream.com/sonoondatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Ecuador", MakroDigital Television (Guayas)
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Ecuador", Mel Radio TV (Pichincha)
+https://eu1.servers10.com:8081/8334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV (Not 24/7) (El Oro)
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Ecuador", Ciracu TV (Not 24/7) (Manabí)
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="Ecuador", Curiquingue TV (Pichincha)
+https://video2.lhdserver.es/pjtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Ecuador", Planeta Channel (Guayas)
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Ecuador", Plus TV [No 24/7] (Santo Domingo)
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Ecuador", El Sol Network TV [No 24/7] (Machala)
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador", RTRTV (Guayas)
+https://tv3ecuador.site/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV (Guayas)
+https://eu1.servers10.com:8081/8108/index.m3u8
+
 
 
 
@@ -793,6 +920,9 @@ https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="Religiosos",San José TV (Costa Rica)
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Religiosos", Unsion TV (Azuay)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="Religiosos",Asomavisión (Ecuador)
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 
@@ -801,6 +931,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="Religiosos",IeanJesus (Ecuador)
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Religiosos", Ñuka TV [No 24/7] (Pichincha)
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religiosos",JN19 (Perú)
 https://servilive.com:3028/live/jntv19live.m3u8
@@ -1473,138 +1606,6 @@ https://eu1.servers10.com:8081/ceacom/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento (EC)", Ecuavisa (Nacional)
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento (EC)", Ecuavisa Guayaquil (Not 24/7) (Guayas)
-https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Entretenimiento (EC)", Ecuavisa Quito (Not 24/7) (Pichincha)
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Entretenimiento (EC)", RTS (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Entretenimiento (EC)", TVC (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Entretenimiento (EC)", Ecuador TV (Nacional)
-https://samson.streamerr.co:8081/shogun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Entretenimiento (EC)", Oromar TV (Manabí)
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Entretenimiento (EC)", Telerama (Not 24/7) (Azuay / Nacional)
-https://play.once.net.ec/telerama/live.tv/538.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Entretenimiento (EC)", Manavisión (Manabí)
-https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Entretenimiento (EC)", Zaracay TV (Not 24/7) (Santo Domingo)
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Entretenimiento (EC)", Unsion TV (Azuay)
-http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Entretenimiento (EC)", Majestad Televisión (Santo Domingo)
-https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Entretenimiento (EC)", VitoTVO (Guayas)
-http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Entretenimiento (EC)", Educa TV (Not 24/7) (Nacional)
-https://avm.ecuamedia.net/educatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Entretenimiento (EC)", KCHTV (Guayas)
-http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Entretenimiento (EC)", Telepremier Plus (Guayas)
-http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento (EC)", Multicanal (Loja)
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Entretenimiento (EC)", Antena Uno RadioVideo (Azuay)
-https://tvdatta.com:3578/live/antenaunolive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Entretenimiento (EC)", Latacunga TV (Cotopaxi)
-https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Entretenimiento (EC)", Ondas Quevedeñas TV (Not 24/7) (Los Ríos)
-https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Entretenimiento (EC)", Red TVE Ventanas (Los Ríos)
-https://s2.tvdatta.com:3825/live/redtvelive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Entretenimiento (EC)", Telemar (Esmeraldas)
-https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Entretenimiento (EC)", Austral TV (Azuay)
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Entretenimiento (EC)", Bacán Te Veo (Loja)
-https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Entretenimiento (EC)", Marca TV (Cotopaxi)
-http://200.7.219.221:8088/live/livetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="Entretenimiento (EC)", Loreto TV (Orellana)
-https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Entretenimiento (EC)", Puruwa TV (Chimborazo)
-https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Entretenimiento (EC)", RTV Riobamba (Not 24/7) (Chimborazo)
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Entretenimiento (EC)", UNIANDES TV (Not 24/7) (Tungurahua)
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento (EC)", La Nueva Radio TV 97.7 (Imbabura)
-https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Entretenimiento (EC)", TV Cisne (Loja)
-https://video2.lhdserver.es/tvcisne/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Entretenimiento (EC)", TV Color Canal 36 (El Oro)
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Entretenimiento (EC)", Sono Onda TV (Manabí)
-https://live.obslivestream.com/sonoondatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Entretenimiento (EC)", MakroDigital Television (Guayas)
-#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
-https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Entretenimiento (EC)", Mel Radio TV (Pichincha)
-https://eu1.servers10.com:8081/8334/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Entretenimiento (EC)", Capricho TV (Not 24/7) (El Oro)
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Entretenimiento (EC)", Ciracu TV (Not 24/7) (Manabí)
-https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="Entretenimiento (EC)", Curiquingue TV (Pichincha)
-https://video2.lhdserver.es/pjtv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Entretenimiento (EC)", Ñuka TV (Not 24/7) (Pichincha)
-https://cloudvideo.servers10.com:8081/8118/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Entretenimiento (EC)", Planeta Channel (Guayas)
-https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Entretenimiento (EC)", Plus TV (Not 24/7) (Santo Domingo)
-https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Entretenimiento (EC)", El Sol Network TV (Machala) [Not 24/7]
-https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Entretenimiento (EC)", RTRTV (Guayas)
-https://tv3ecuador.site/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Entretenimiento (EC)", Señal Positiva TV (Guayas)
-https://eu1.servers10.com:8081/8108/index.m3u8
 
 
 
