@@ -1376,9 +1376,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Cine / Películas",Mix Bolivia TV
 https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Cine / Películas", MaxiVision TV (Argentina)
-https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Cine / Películas", Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 
@@ -1633,6 +1630,10 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal (Internacional)
 https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento", MaxiVision TV (Argentina)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento", Canal 7 Salta (Salta / Argentina)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
