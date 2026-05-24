@@ -1349,9 +1349,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Cine / Películas", CTV (La Paz / Bolivia)
-https://live.ctvbolivia.com/hls/ctv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Cine / Películas", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 
@@ -1696,6 +1693,9 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento", Tiva TV (Puerto Rico)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Entretenimiento", CTV (La Paz / Bolivia)
+https://live.ctvbolivia.com/hls/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento", Bolivisión LPZ (La Paz / Bolivia)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
