@@ -499,10 +499,10 @@ https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Colombia", Blu Radio (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Colombia", Blu Radio [No 24/7] (Nacional) 
 https://mdstrm.com/live-stream-playlist/58d191a72e2b22e2905e493.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas (Not 24/7) (San Andrés / Regional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas [No 24/7] (San Andrés / Regional)
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ (Cundinamarca)
@@ -511,10 +511,10 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia", CNC Bugavisión (Buga - Valle del Cauca)
 https://movil.ejeserver.com/live/cncbuga.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge (Not 24/7) (Ocaña - Norte de Santander)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge [No 24/7] (Ocaña - Norte de Santander)
 https://asucap.com/livestream/asucap_envivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia", TeveColombia (Not 24/7) (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia", TeveColombia [No 24/7] (Nacional)
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV (Cali - Valle del Cauca)
@@ -538,37 +538,34 @@ https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia", Telebolívar (Bolívar)
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="Colombia", Canal 14 Codazzi (Not 24/7) (Cesar)
-https://eu1.servers10.com:8081/8056/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia", Canal Mundo Visión (Not 24/7) (Pereira - Risaralda)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia", Canal Mundo Visión [No 24/7] (Pereira - Risaralda)
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia", El Mundo del Campo (Nacional)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Colombia", MCI Televisión (Valle del Cauca)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Colombia", MCI Televisión [No 24/7] (Valle del Cauca)
 https://video.ejeserver.com/live/mcitelevision.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia", Ultra Casanare TV (Not 24/7) (Casanare)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia", Ultra Casanare TV [No 24/7] (Casanare)
 https://eu1.servers10.com:8081/8072/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="Colombia", Canal 55 Telemorisco TV (Bogotá)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="Colombia", Canal 55 Telemorisco TV [No 24/7] (Bogotá)
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Colombia", Canal CHD (Nacional)
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia", Canal TV3 (Not 24/7) (Valle del Cauca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia", Canal TV3 [No 24/7] (Valle del Cauca)
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Colombia", Canica TV (Cundinamarca)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lk5D5kB.png" group-title="Colombia", La Cheverisima Radio TV (Caldas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lk5D5kB.png" group-title="Colombia", La Cheverisima Radio TV [No 24/7] (Caldas)
 https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV (Not 24/7) (Norte de Santander)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV [No 24/7] (Norte de Santander)
 https://live.arnoproducciones.com/hls/norte.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Colombia", NSTV (Cúcuta - Norte de Santander)
