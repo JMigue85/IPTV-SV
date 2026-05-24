@@ -881,10 +881,10 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="Chile", TVU Concepción (Biobío)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Chile", Atacama TV (Copiapó - Atacama)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Chile", Atacama TV  [Not 24/7] (Copiapó - Atacama)
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Chile", Thema TV Coquimbo (Coquimbo)
+#EXTINF:-1 tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Chile", Thema TV Coquimbo [Not 24/7] (Coquimbo)
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Chile", VTV Valle Televisión (San Felipe / Los Andes - Valparaíso)
@@ -914,13 +914,13 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="Chile", TV Quellón (Quellón - Los Lagos)
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Chile", Aysén TV (Puerto Aysén - Aysén)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Chile", Aysén TV [Not 24/7] (Puerto Aysén - Aysén)
 https://v1.tustreaming.cl/aysentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile", UTalca TV (Campus TV - Talca / Maule)
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Chile", U Los Lagos TV (Osorno - Los Lagos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Chile", U Los Lagos TV [Not 24/7] (Osorno - Los Lagos)
 #EXTVLCOPT:http-referrer=https://tv.ulagos.cl/
 https://tv.ulagos.cl/web/live.m3u8
 
@@ -933,20 +933,15 @@ https://vdochile.com:3922/live/egm20live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile", Chile Channel TV (Nacional)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="Chile", Retro Play TV (Nacional)
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine (Buenos Aires)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine [Not 24/7] (Buenos Aires)
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV (Buenos Aires)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Argentina", Bravo TV (Buenos Aires)
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina", Argentinisima Satelital (Nacional)
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -954,37 +949,16 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Argentina", Canal 10 Córdoba (Córdoba)
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Argentina", Canal 9 Litoral (Entre Ríos)
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Argentina", Canal 9 Resistencia (Chaco)
-https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina", Canal 7 Jujuy (Jujuy)
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina", Canal 7 Santiago del Estero (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Argentina", Canal 3 La Pampa (La Pampa)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa)
 https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Argentina",Cosmos TV (Formosa)
-https://canaletaplus.com:3922/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Argentina", Canal 7 Salta (Salta)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Argentina", Canal 34 San Juan (San Juan)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Argentina", Canal 4 Jujuy -No 24/7- (Jujuy)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Argentina", Canal 4 Jujuy [Not 24/7] (Jujuy)
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Argentina", Canal 2 Misiones (Misiones)
@@ -992,9 +966,6 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina", Misiones Cuatro (Misiones)
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Argentina", Canal 4 Posadas (Misiones)
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Argentina", 5TV Corrientes (Corrientes)
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -1005,9 +976,6 @@ https://signal.teleon.live/stream/telenordcorrientesar.m3u8?token=free
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Argentina", Canal 12 Puerto Madryn (Chubut)
 https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Argentina", TeleCinco Trelew (Chubut)
-https://videohd.live:19360/8016/8016.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa (Mar de Ajó - Buenos Aires)
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
@@ -1017,17 +985,11 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV (Santa Fe)
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Argentina", Canal 5 Del Pueblo (Alcorta - Santa Fe)
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Argentina", Canal 3 Las Heras (Santa Cruz)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Argentina", Canal 5 Pico Truncado (Santa Cruz)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Argentina", Canal 21 HD (Buenos Aires)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Argentina", Quántica TV (San Vicente - Buenos Aires)
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
@@ -1582,9 +1544,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (720p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (576p)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R44LypS.png" group-title="Entretenimiento", Pluto TV Novelas
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
 
@@ -1671,6 +1630,46 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal (Internacional)
 https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento", Canal 7 Salta (Salta / Argentina)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Entretenimiento",Cosmos TV (Formosa / Argentina)
+https://canaletaplus.com:3922/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Entretenimiento", Canal 3 La Pampa (La Pampa / Argentina)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Entretenimiento", Canal 7 Jujuy (Jujuy / Argentina)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="", Canal 9 Resistencia (Chaco / Argentina)
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entretenimiento", Canal 9 Litoral (Entre Ríos / Argentina)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento", Bravo TV (Buenos Aires / Argentina)
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento", Canal 34 San Juan (San Juan / Argentina)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Entretenimiento", Canal 4 Posadas (Misiones / Argentina)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Entretenimiento", TeleCinco Trelew (Chubut / Argentina)
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Entretenimiento", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento", Canal 21 HD (Buenos Aires / Argentina)
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
