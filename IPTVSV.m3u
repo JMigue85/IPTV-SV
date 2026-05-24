@@ -187,10 +187,10 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="Honduras",CHTV (Nacional)
 https://viewhn.com/chtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="Honduras",Telemás (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="Honduras",Telemás [No 24/7] (Nacional)
 https://viewhn.com/telemas/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="Honduras",Omega TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="Honduras",Omega TV [No 24/7] (Nacional)
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="Honduras",TV Centro HD (Nacional)
@@ -217,7 +217,7 @@ https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXsgEPX.png" group-title="Honduras",Litoral Atlántico HD (La Ceiba)
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="Honduras",Televisión Olanchana (Olancho)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="Honduras",Televisión Olanchana [No 24/7] (Olancho)
 https://viewhn.com/canal30/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="Honduras",TV Copán (Santa Rosa de Copán)
