@@ -847,6 +847,7 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega (Nacional)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
@@ -1283,6 +1284,23 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine y Películas",Canal 69 TV
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Cine y Películas", UPEA TV (El Alto)
+#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Cine y Películas", UMSA TVU LP (La Paz)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Cine y Películas", Univalle Televisión (Cochabamba / Bolivia)
+https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Cine Y Películas", CTV (La Paz / Bolivia)
+https://live.ctvbolivia.com/hls/ctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Cine y Películas", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine y Películas",FilmRise Películas Gratis
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
 
@@ -1579,6 +1597,31 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento", Tiva TV (Puerto Rico)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento", Bolivisión LPZ (La Paz / Bolivia)
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Entretenimiento", Cadena A  [Not 24/7] (Bolivia)
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento", RTP (La Paz / Bolivia)
+https://rtp.noxun.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Cine y Películas", UMSA TVU Internacional (La Paz)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento", F10 HD (El Alto / La Paz / Bolivia)
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento", Red TV Shop (Bolivia)
+https://master.tucableip.com/redtvshop/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Entretenimiento", Unifranz (Bolivia)
+https://live.enhdtv.com:8081/8192/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
@@ -1688,47 +1731,6 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento (BO)", Bolivisión LPZ (La Paz / Nacional)
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Entretenimiento (BO)", Cadena A (Not 24/7) (Nacional)
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento (BO)", RTP (La Paz / Nacional)
-https://rtp.noxun.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento (BO)", UPP TV / Bolivisión SCZ (Not 24/7) (Santa Cruz)
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento (BO)", F10 HD (Geo-blocked) (El Alto / La Paz)
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Entretenimiento (BO)", CTV (La Paz)
-https://live.ctvbolivia.com/hls/ctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento (BO)", Red TV Shop (Nacional)
-https://master.tucableip.com/redtvshop/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento (BO)", Univalle Televisión (Cochabamba / Nacional)
-https://master.tucableip.com/univalletv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Entretenimiento (BO)", UMSA TVU Internacional (La Paz)
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
-https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Entretenimiento (BO)", UMSA TVU LP (La Paz)
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
-https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento (BO)", UPEA TV (El Alto)
-#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
-https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-
-#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Entretenimiento (BO)", Unifranz (Nacional)
-https://live.enhdtv.com:8081/8192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento (BO)", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 
 
 
