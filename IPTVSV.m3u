@@ -2644,6 +2644,11 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Deportes",TVQ Sports (Guatemala)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Win_Sports.png" group-title="Deportes",Win Sports (Colombia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
+https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 
