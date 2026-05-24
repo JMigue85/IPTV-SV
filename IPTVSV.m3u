@@ -1295,7 +1295,7 @@ https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Cine y Películas", Univalle Televisión (Cochabamba / Bolivia)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Cine Y Películas", CTV (La Paz / Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Cine y Películas", CTV (La Paz / Bolivia)
 https://live.ctvbolivia.com/hls/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Cine y Películas", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
