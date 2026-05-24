@@ -1349,10 +1349,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Cine / Películas", UMSA TVU LP (La Paz)
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
-https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Cine / Películas", Univalle Televisión (Cochabamba / Bolivia)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
@@ -1925,6 +1921,10 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Informativos", Canal 79 Puan (Buenos Aires)
 https://streamconex.com:19360/puan/puan.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Informativos", UMSA TVU LP (La Paz)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Informativos",T13 En Vivo (Chile - Nacional)
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
