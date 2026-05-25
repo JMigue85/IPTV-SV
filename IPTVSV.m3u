@@ -1335,6 +1335,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas",Opinión Sur Cine
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine / Películas",Visión Dorada TV (La Dorada / Caldas / Colombia)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Cine / Películas", UPEA TV (El Alto)
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
@@ -1546,9 +1549,6 @@ https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="Entretenimiento", Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento",Visión Dorada TV (La Dorada / Caldas / Colombia)
-https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
