@@ -536,9 +536,6 @@ https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="Colombia", Canal 55 Telemorisco TV [No 24/7] (Bogotá)
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Colombia", Canal CHD (Nacional)
-https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia", Canal TV3 [No 24/7] (Valle del Cauca)
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 
@@ -550,9 +547,6 @@ https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV [No 24/7] (Norte de Santander)
 https://live.arnoproducciones.com/hls/norte.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Colombia", NSTV (Cúcuta - Norte de Santander)
-https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Colombia", Ondambiental TV (Bogotá)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
@@ -1545,6 +1539,9 @@ https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento",Visión Dorada TV (La Dorada / Caldas / Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento", NSTV (Cúcuta / Norte de Santander / Colombia)
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vs1H6bK.png" group-title="Entretenimiento", Canal TRO Plus (Santanderes / Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
@@ -1686,6 +1683,9 @@ https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="Entretenimiento", Valle Nuevo TV
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Entretenimiento", Canal CHD (Colombia)
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsv7JVx3/99bcff8c6beafba1b9bb9959647663e6.png" group-title="Entretenimiento", ZAZ TV
 https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
