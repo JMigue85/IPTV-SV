@@ -8,9 +8,6 @@ https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (Opc. 2)
-https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/MF443wxa/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal6sv.m3u8?token=free
