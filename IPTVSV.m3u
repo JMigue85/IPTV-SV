@@ -1332,15 +1332,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas",Opinión Sur Cine
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine / Películas",Visión Dorada TV (La Dorada / Caldas / Colombia)
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Cine / Películas", UPEA TV (El Alto)
-#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
-https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Cine / Películas", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine / Películas",FilmRise Películas Gratis
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
@@ -1558,6 +1549,9 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento",Visión Dorada TV (La Dorada / Caldas / Colombia)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento", Cheaters en Español
 https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
 
@@ -1673,6 +1667,15 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento", Univalle Televisión (Cochabamba / Bolivia)
 https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento", UPEA TV (El Alto)
+#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
