@@ -1373,6 +1373,14 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Cine / Películas", Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Cine / Películas",MiTVpy (Paraguay)
+https://edge.enhdtv.com/8070/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Cine / Películas", MiTV 
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Cine / Películas", Vos y TV (Ecuador) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
@@ -1386,9 +1394,6 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV
-https://rtv.fullhd-streaming.com:19360/retroxtv/retroxtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine / Películas",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
@@ -1397,6 +1402,9 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Cine / Películas", VB Media TV (México)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV
+https://rtv.fullhd-streaming.com:19360/retroxtv/retroxtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="Cine / Películas", Cine Estrella
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
@@ -1594,12 +1602,6 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento", SNT (Paraguay)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Entretenimiento",MiTVpy (Paraguay)
-https://edge.enhdtv.com/8070/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Entretenimiento", MiTV 
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aAEs1Mp.png" group-title="Entretenimiento",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
