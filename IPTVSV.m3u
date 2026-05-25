@@ -426,9 +426,6 @@ https://stream.unison.mx/hls/unisontvatem.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="México", TV Mar La Paz (Baja California Sur)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="México", TV Lobo Durango (Durango)
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="México", PSN Ensenada (Baja California)
 https://srspsn.live/live/livestream.m3u8
 
@@ -1574,6 +1571,9 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Entretenimiento", TV Lobo Durango (Durango / México)
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsGt5iH.png" group-title="Entretenimiento", TravelXP (ES)
 https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8
