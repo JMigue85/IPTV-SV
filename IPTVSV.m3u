@@ -1393,10 +1393,11 @@ https://edge.enhdtv.com/8070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Cine / Películas", MiTV 
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Cine / Películas", Vos y TV (Ecuador) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",El 70 TV
+https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine / Películas", Box Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
