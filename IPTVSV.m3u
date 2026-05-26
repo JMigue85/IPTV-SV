@@ -196,6 +196,9 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wo2scQf.jpg" group-title="Honduras",TV Centro 27.2 HD (Nacional)
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Onza TV
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="Honduras",Sula TV (San Pedro Sula)
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 
@@ -336,6 +339,9 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK TV (Los Pinos)
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica",CEDROS TV CR
+https://eu1.servers10.com:8081/cedrostv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica",360 RFTV (San José)
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
@@ -1154,8 +1160,8 @@ https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
-https://cdn.energeek.cl/hls/energeekfan.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Anime",Delmi TV (Honduras)
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+ Anime (América Latina)
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
@@ -1169,12 +1175,18 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina)
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Anime",Canal Locomotion - Segunda señal
+https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV (América Latina)
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Anime-en-directo-Online.png" group-title="Anime",Pluto TV Anime (América Latina)
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
+https://cdn.energeek.cl/hls/energeekfan.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
@@ -1332,6 +1344,20 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas",Opinión Sur Cine
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal 13 MAX (Argentina)
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Codigo TV (Costa Rica)
+https://edge.essastream.com/codigotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Exito Multimedia (Costa Rica)
+https://edge.enhdtv.com/exitotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Xtra TV (Costa Rica)
+https://edge.essastream.com/xtratv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Imagen Universal
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine / Películas",FilmRise Películas Gratis
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
@@ -2057,7 +2083,13 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Infantiles",Dreiko TV (Chile)
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Infantiles", Canal LMS (Chile)
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Clasicos Animados
+https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Retro Toons
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Infantiles", Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico
@@ -3379,6 +3411,93 @@ https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ubj8sEU.png" group-title="Pluto TV (ES)",Pluto TV Series Sci-Fi (ES)
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telecreativa Lanus
+https://panel.host-live.com:19360/8012/8012.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Canal 8 Telenord
+https://fox.hostlagarto.com:8081/telenord8/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cuba",Canal CVI Cubavision
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal Teleclasica
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal ZoyTV Plus
+https://tv.zoymilton.com/ZoyPlus/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Mendoza
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 12 Misiones
+https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 33
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Canal 36 Cotubanama TV
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal STVE Telebásica 1 (HN)
+https://streamingcws30.com/suyapa/videosuyapa/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Guatemala",Crom TV
+https://fox.hostlagarto.com:8081/cromtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Comtivision
+https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal TVQ LIVE
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Grande Television
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Mi Turno TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pituco tv
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chile",Invasiva TV
+https://mitv.zplay.cl/Invasiva/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chile",Canal RVP TV
+https://eu1.servers10.com:8081/8030/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Multivision
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica",Canal STV SarapiquiTV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Brasil",Canal Tv Carioca Internacional (BR)
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas
+https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Telemax HD
+https://edge.essastream.com/telemax/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Orbit TV
+https://edge.essastream.com/orbittv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",RETROX PLUS
+https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bolivia",Canal 24 Multivision
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 
 
 
