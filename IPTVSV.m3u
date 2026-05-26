@@ -2813,6 +2813,9 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png" group-title="Religiosos",Ministerios Ebenezer (Guatemala)
 https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3T5bGXkBuQsXbc8Mj2ZEv-e-3Id7CtJnk_hBTt0IcPIMghp9lwDpUp29I6rc2gTouTx5UDwEaqnJ1ReaIgadQDEsHLP5qml93IDPMxUWd6-ekxv76_yEDfZ2MGYcqCuNXNPnSP1BmZRhr1a9nNgdL132y6FTl2oibyUKURUTUckkwtf9_TGUxh7gUVJj/s600/ebenezer-tv.png" group-title="Religiosos",Ebenezer TV (Honduras / San Pedro Sula)
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religiosos",Unife TV (Perú)
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
 
