@@ -1344,9 +1344,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas",Opinión Sur Cine
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal 13 MAX (Argentina)
-https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Codigo TV (Costa Rica)
 https://edge.essastream.com/codigotv/index.m3u8
 
@@ -1652,6 +1649,9 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Entretenimiento", Bayres TV -Clasicos- (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 13 MAX (Argentina)
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento", MaxiVision TV (Argentina)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
