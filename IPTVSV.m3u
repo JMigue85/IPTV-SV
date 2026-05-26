@@ -1741,9 +1741,6 @@ https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento", Bolivisión LPZ (La Paz / Bolivia)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Entretenimiento", Cadena A  [Not 24/7] (Bolivia)
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento", RTP (La Paz / Bolivia)
 https://rtp.noxun.net/hls/stream.m3u8
 
