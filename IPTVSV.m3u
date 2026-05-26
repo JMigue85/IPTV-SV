@@ -1726,9 +1726,6 @@ https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Entretenimiento", Canal CHD (Colombia)
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dsv7JVx3/99bcff8c6beafba1b9bb9959647663e6.png" group-title="Entretenimiento", ZAZ TV
-https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyaWpAx.png" group-title="Entretenimiento", Nesting TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13172
 
