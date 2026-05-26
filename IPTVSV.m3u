@@ -1828,6 +1828,11 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Informativos", Canal Parlamento Jalisco (Guadalajara)
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Informativo",Canal CVI Cubavision (Cuba)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Informativos", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
@@ -3421,10 +3426,7 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1 tvg-logo="" group-title="República Dominicana",Canal 8 Telenord
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cuba",Canal CVI Cubavision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal Teleclasica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
