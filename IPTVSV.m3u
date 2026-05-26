@@ -1454,6 +1454,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas",Tele Clásicos
 https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal Teleclasica
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Mi Turno TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+
 #EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas",Monte Grande TV Movies
 https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
 
@@ -3429,10 +3435,6 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal Teleclasica
-https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal ZoyTV Plus
 https://tv.zoymilton.com/ZoyPlus/index.m3u8
 
@@ -3462,9 +3464,6 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Grande Television
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Mi Turno TV
-https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pituco tv
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
