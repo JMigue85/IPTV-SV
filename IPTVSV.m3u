@@ -1421,6 +1421,9 @@ https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",RETROX PLUS
+https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="Cine / Películas", Cine Estrella
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 
@@ -1708,6 +1711,9 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento", Canal 21 HD (Buenos Aires / Argentina)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenikiento",Canal 24 Multivision (Bolivia)
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento", Univalle Televisión (Cochabamba / Bolivia)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
@@ -1717,8 +1723,6 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
 https://eu1.servers10.com:8081/ceacom/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
@@ -1766,11 +1770,33 @@ https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Entretenimiento", Unifranz (Bolivia)
 https://live.enhdtv.com:8081/8192/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 36 Cotubanama TV (República Dominicana)
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 8 Telenord (República Dominicana)
+https://fox.hostlagarto.com:8081/telenord8/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pituco tv
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal ZoyTV Plus
+https://tv.zoymilton.com/ZoyPlus/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento", People Are Awesome (EE.UU.) [EN]
 https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal TV Carioca Internacional (Brasil)[SUB]
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 
 
@@ -3437,12 +3463,6 @@ https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Canal 8 Telenord
-https://fox.hostlagarto.com:8081/telenord8/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal ZoyTV Plus
-https://tv.zoymilton.com/ZoyPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Mendoza
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -3453,8 +3473,6 @@ https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playl
 #EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 33
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Canal 36 Cotubanama TV
-https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Canal STVE Telebásica 1 (HN)
 https://streamingcws30.com/suyapa/videosuyapa/chunks.m3u8
@@ -3471,9 +3489,6 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Grande Television
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pituco tv
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Chile",Invasiva TV
 https://mitv.zplay.cl/Invasiva/index.m3u8
 
@@ -3485,9 +3500,6 @@ https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfedera
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica",Canal STV SarapiquiTV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Brasil",Canal Tv Carioca Internacional (BR)
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
@@ -3504,11 +3516,8 @@ https://edge.essastream.com/telemax/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Orbit TV
 https://edge.essastream.com/orbittv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",RETROX PLUS
-https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bolivia",Canal 24 Multivision
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+
 
 
 
