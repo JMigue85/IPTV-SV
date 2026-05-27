@@ -344,7 +344,7 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK TV (Los Pinos)
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica",CEDROS TV CR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="Costa Rica",CEDROS TV CR
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica",360 RFTV (San José)
