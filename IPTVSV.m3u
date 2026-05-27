@@ -983,6 +983,32 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Argentina", Quántica TV (San Vicente - Buenos Aires)
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telecreativa Lanus
+https://panel.host-live.com:19360/8012/8012.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Mendoza
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 12 Misiones
+https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Multivision
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas
+https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España", La 1 de TVE (Nacional)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 
@@ -3490,15 +3516,6 @@ https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Telecreativa Lanus
-https://panel.host-live.com:19360/8012/8012.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Mendoza
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 12 Misiones
-https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
 
 #EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Comtivision
@@ -3513,9 +3530,4 @@ https://mitv.zplay.cl/Invasiva/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Chile",Canal RVP TV
 https://eu1.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Multivision
-https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas
-https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 
