@@ -2611,12 +2611,6 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpeg" group-title="Deportes",Pluto TV Deportes (México)
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/featuredImage.jpg" group-title="Deportes", Obsesión por los Autos (México)
-https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/featuredImage.jpg" group-title="Deportes", Mi Coche Clásico (México)
-https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="Deportes",Pluto TV Peleas (México)
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 
@@ -2629,6 +2623,9 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Deportes",TVQ Sports (Guatemala)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qQSXSYQ/Sport-Max-News.png" group-title="Deportes",SportMax News
+https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Win_Sports.png" group-title="Deportes",Win Sports (Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2753,6 +2750,12 @@ https://d3oxrjqn271yyu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/449m1pvd/Diseno-sin-titulo(14).png" group-title="Deportes", MyPadel TV (España)
 https://d1zpoa0s0okzmu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/live/fast-channel-mypadeltv-c792478d/fast-channel-mypadeltv-c792478d.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RT2pzP0p/Sport-Max.png" group-title="Deportes",SportMax
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXdk00YN/Sport-Max2.png" group-title="Deportes",SportMax 2
+https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5gwvKf6/1247f877b029d332e7b9d9231fb14ace.png" group-title="Deportes",Box Gamers (España)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
 
@@ -2795,10 +2798,16 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="Deportes", Pluto TV Velocidad (Internacional)
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/featuredImage.jpg" group-title="Deportes", Obsesión por los Autos (México)
+https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/featuredImage.jpg" group-title="Deportes", Mi Coche Clásico (México)
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVXkn0W4/0-16x9-3.png" group-title="Deportes", ITV Deportes (Internacional)
 https://amg01602-amg01602c3-tv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-tvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrdkbnVk/0-16x9-2.png.png" group-title="Deportes",  Deportes (Internacional)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrdkbnVk/0-16x9-2.png.png" group-title="Deportes",  Canela TV Deportes (Internacional)
 https://amg00658-amg00658c10-tv-international-7279.playouts.now.amagi.tv/playlist/amg00658-mediafast-deporteslt-tvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMfjPb8V/0-16x9-1.png" group-title="Deportes", .TV Combat (Internacional)
