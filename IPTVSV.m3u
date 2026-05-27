@@ -152,6 +152,10 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="Guatemala",Canal 10 [No 24/7] (Sololá)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
+#EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal TVQ LIVE 
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
+
+
 
 
 
@@ -705,6 +709,9 @@ https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV (Guayas)
 https://eu1.servers10.com:8081/8108/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Comtivision
+https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
+
 
 
 
@@ -921,6 +928,12 @@ https://vdochile.com:3922/live/egm20live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile", Chile Channel TV (Nacional)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chile",Invasiva TV
+https://mitv.zplay.cl/Invasiva/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chile",Canal RVP TV
+https://eu1.servers10.com:8081/8030/index.m3u8
 
 
 
@@ -3518,16 +3531,6 @@ https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Comtivision
-https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal TVQ LIVE
-https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Chile",Invasiva TV
-https://mitv.zplay.cl/Invasiva/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Chile",Canal RVP TV
-https://eu1.servers10.com:8081/8030/index.m3u8
 
 
