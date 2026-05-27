@@ -1730,7 +1730,7 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento", Canal 21 HD (Buenos Aires / Argentina)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenikiento",Canal 24 Multivision (Bolivia)
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 24 Multivision (Bolivia)
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento", Univalle Televisión (Cochabamba / Bolivia)
