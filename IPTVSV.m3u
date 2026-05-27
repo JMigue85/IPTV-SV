@@ -1210,7 +1210,7 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime (América Latina)
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina)
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
