@@ -184,6 +184,9 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="Honduras",CHTV (Nacional)
 https://viewhn.com/chtv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal STVE Telebásica 1
+https://5ca9af4645e15.streamlock.net/suyapa/videosuyapa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="Honduras",Telemás [No 24/7] (Nacional)
 https://viewhn.com/telemas/live/playlist.m3u8
 
@@ -425,6 +428,9 @@ https://video0.rogohosting.com:19360/4982/4982.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="México", Unison TV Canal 8 [No 24/7] (Sonora)
 https://stream.unison.mx/hls/unisontvatem.m3u8
+
+#EXTINF:-1 tvg-logo="https://telemax.com.mx/wp-content/uploads/2026/04/telemax-logo-white.png" group-title="México",Telemax (Sonora)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="México", TV Mar La Paz (Baja California Sur)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
@@ -1578,6 +1584,12 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/featuredImage_1765466599084.jpg" group-title="Entretenimiento", Pluto TV Novelas de Otros Continentes
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
+https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="Entretenimiento", Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
@@ -1604,12 +1616,6 @@ https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f57
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/y4kaoqWciYmkng==/2d21c4c1-c88d-4869-b75a-712da0dfad67/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento", FilmRise Series Gratis
 https://live-manifest.production-public.tubi.io/live/5b66e78a-fc9e-4ffb-bbb0-00d4d2af2c53/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
-https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
-https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Entretenimiento", TV Lobo Durango (Durango / México)
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
@@ -1634,6 +1640,15 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Entretenimiento", Ready TV (La Vega, Rep. Dominicana)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 33 (Rep. Dominicana)
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Crom TV (Rep. Dominicana)
+https://fox.hostlagarto.com:8081/cromtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Orbit TV (Rep. Dominicana)[No 24/7]
+https://edge.essastream.com/orbittv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento", SNT (Paraguay)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
@@ -1657,6 +1672,10 @@ https://us.streaminghd.cl/torococotelevision/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento", TVES -No 24/7- (Venezuela)
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Grande Television (Venezuela)
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -1766,6 +1785,9 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento", Red TV Shop (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Coral TV (Bolivia)
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Entretenimiento", Unifranz (Bolivia)
 https://live.enhdtv.com:8081/8192/index.m3u8
@@ -1878,6 +1900,9 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Informativos", Cinevisión Canal 19 (República Dominicana)
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="Informativos",Canal Telemax RD (República Dominicana)
+https://edge.essastream.com/telemax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Informativos", TV Sur Pérez Zeledón (San José - Costa Rica)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
@@ -2931,6 +2956,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="Religiosos",IeanJesus (Ecuador)
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Reforma TV (Venezuela)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Religiosos", Ñuka TV [No 24/7] (Pichincha)
 https://cloudvideo.servers10.com:8081/8118/index.m3u8
 
@@ -3460,6 +3488,8 @@ https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
@@ -3470,24 +3500,12 @@ https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 12 Misiones
 https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 33
-https://fox.hostlagarto.com:8081/hmtv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal STVE Telebásica 1 (HN)
-https://streamingcws30.com/suyapa/videosuyapa/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",Crom TV
-https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Comtivision
 https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal TVQ LIVE
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Grande Television
-https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Chile",Invasiva TV
 https://mitv.zplay.cl/Invasiva/index.m3u8
@@ -3501,25 +3519,6 @@ https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfedera
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica",Canal STV SarapiquiTV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Coral TV
-https://tv.mediacp.eu:8081/coraltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Reforma TV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Telemax HD
-https://edge.essastream.com/telemax/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Orbit TV
-https://edge.essastream.com/orbittv/index.m3u8
-
-
-
-
-
-
-
 
