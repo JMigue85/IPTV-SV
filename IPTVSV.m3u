@@ -991,19 +991,19 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Argentina", Quántica TV (San Vicente - Buenos Aires)
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Telecreativa Lanus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="Argentina",Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Mendoza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 12 Misiones
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Argentina",Canal 12 Misiones
 https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Multivision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 
 
@@ -1200,7 +1200,7 @@ https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 tvg-logo="" group-title="Anime",Delmi TV (Honduras)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV (Honduras)
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+ Anime (América Latina)
@@ -1215,7 +1215,7 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina)
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Anime",Canal Locomotion - Segunda señal
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV (América Latina)
@@ -1231,7 +1231,7 @@ https://cdn.energeek.cl/hls/energeekfan.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/42-427935_dbs-logo-dragon-ball-super-logo.png" group-title="Anime",Dragon Ball Super (América Latina)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png" group-title="Anime",Dragon Ball Super (América Latina)
 https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/One-Piece-Logo-1999.png" group-title="Anime",One Piece (América Latina)
