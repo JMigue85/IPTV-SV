@@ -188,7 +188,7 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="Honduras",CHTV (Nacional)
 https://viewhn.com/chtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal STVE Telebásica 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Honduras",Canal STVE Telebásica 1
 https://5ca9af4645e15.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="Honduras",Telemás [No 24/7] (Nacional)
@@ -202,9 +202,6 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wo2scQf.jpg" group-title="Honduras",TV Centro 27.2 HD (Nacional)
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Canal Onza TV
-https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="Honduras",Sula TV (San Pedro Sula)
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
@@ -880,8 +877,11 @@ https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Chile", Atacama TV  [Not 24/7] (Copiapó - Atacama)
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Chile", Thema TV Coquimbo [Not 24/7] (Coquimbo)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFdz6Tkb/ce0adbb3-7586-44a8-a49d-ca56b34f3575-extra-large-standard-q100.png" group-title="Chile", Thema TV Coquimbo [Not 24/7] (Coquimbo)
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFdz6Tkb/ce0adbb3-7586-44a8-a49d-ca56b34f3575-extra-large-standard-q100.png" group-title="Chile", Thema TV Coquimbo [Not 24/7] (Coquimbo)[Opc. 2]
+https://pantera1-100gb-cl-movistar.dps.live/thema/thema.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Chile", VTV Valle Televisión (San Felipe / Los Andes - Valparaíso)
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
@@ -929,11 +929,6 @@ https://vdochile.com:3922/live/egm20live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile", Chile Channel TV (Nacional)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chile",Invasiva TV
-https://mitv.zplay.cl/Invasiva/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Chile",Canal RVP TV
-https://eu1.servers10.com:8081/8030/index.m3u8
 
 
 
@@ -1715,6 +1710,8 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Grande Television (Venezuela)
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Entretenimiento",Canal Onza TV (Venezuela)
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -1781,6 +1778,9 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
 https://eu1.servers10.com:8081/ceacom/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Entretenimiento",Invasiva TV (Paraguay)
+https://mitv.zplay.cl/Invasiva/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
