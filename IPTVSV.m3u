@@ -3044,11 +3044,11 @@ https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 
 
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api..tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV 2
-https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA874/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cinema LT
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
