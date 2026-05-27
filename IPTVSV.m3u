@@ -1589,7 +1589,16 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Miami TV DJ
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Miami TV Music
 https://be7e362af1604c4ba89a6d84cdd90b85.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Music/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Energy TV DJ
+https://59ec5453559f0.streamlock.net/energytvDJ/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Energy TV Music
+https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Anime",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
@@ -1597,8 +1606,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ykbNfG3/gogoplaytv.png" group-title="Entretenimiento",GoGoPlay TV
 https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-540x304-FFFFFF.jpg" group-title="Entretenimiento",Miami TV Latino
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-540x304-FFFFFF.jpg" group-title="Entretenimiento",Energy TV Latino
 https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-540x304-FFFFFF.jpg" group-title="Entretenimiento",Miami TV Latino
+https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
