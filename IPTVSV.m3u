@@ -3516,9 +3516,6 @@ https://eu1.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Multivision
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica",Canal STV SarapiquiTV
-https://lstv.duckdns.org:449/hls/stv.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 
