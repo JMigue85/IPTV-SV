@@ -36,8 +36,9 @@ https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://teleon.tv/stream/cG5wODQ4MzExOXBucDg0.m3u8
+https://signal.teleon.live/stream/sv8_canal12.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 (Opc.2)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
