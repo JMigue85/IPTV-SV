@@ -1301,9 +1301,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Cine / Películas", AMC LATAM (Hispanoamérica)
-https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas",Cine53
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
 
@@ -1515,28 +1512,31 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/791fIbe.png" group-title="Entretenimiento", Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Miami TV DJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento", AMC LATAM (Hispanoamérica)
+https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld46sscs/Miami-TVDJ.png" group-title="Entretenimiento",Miami TV DJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Miami TV Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzznMmW1/Miami-TV-Music.png" group-title="Entretenimiento",Miami TV Music
 https://be7e362af1604c4ba89a6d84cdd90b85.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Music/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Energy TV DJ
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalDJ.jpg" group-title="Entretenimiento",Energy TV DJ
 https://59ec5453559f0.streamlock.net/energytvDJ/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",Energy TV Music
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalMusic.jpg" group-title="Entretenimiento",Energy TV Music
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Anime",Los Simpson Latino
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ykbNfG3/gogoplaytv.png" group-title="Entretenimiento",GoGoPlay TV
 https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-540x304-FFFFFF.jpg" group-title="Entretenimiento",Energy TV Latino
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalLatino.jpg" group-title="Entretenimiento",Energy TV Latino
 https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-540x304-FFFFFF.jpg" group-title="Entretenimiento",Miami TV Latino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfyvCH5b/Miami-TV-Latino.png" group-title="Entretenimiento",Miami TV Latino
 https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (1080p)
@@ -1767,18 +1767,11 @@ https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 8 Telenord (República Dominicana)
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pituco tv
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal ZoyTV Plus
 https://tv.zoymilton.com/ZoyPlus/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
@@ -1792,6 +1785,14 @@ https://jmp2.uk/stvp-ESBA1400006NP
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal TV Carioca Internacional (Brasil)[SUB]
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalFashion.jpg" group-title="Entretenimiento",EnergyTV Fashion
+https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPmG00DN/Miami-TV-Fashion.png" group-title="Entretenimiento",MiamiTV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTxJBRY3/Miami-TV-Models.png" group-title="Entretenimiento",MiamiTV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
 
 
 
