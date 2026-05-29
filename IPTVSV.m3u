@@ -1282,6 +1282,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 #EXTINF:-1 group-title="Doramas / Asia" tvg-logo="https://a.jsrdn.com/hls/22882/chicas-guapas-tv/logo_20250513_211005_70.png", Chicas Guapas TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068&content_channel=ChicasGuapas&content_language=en&livestream=1&id=10
 
+ES170000433_20251013T053454SQUARE.png" group-title="Cine" , NEW K-MOVIES
+https://jmp2.uk/stvp-ES170000433
+
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Doramas / Asia",Rakuten VIKI (SUB)
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
 
@@ -1478,11 +1481,21 @@ https://jmp2.uk/stvp-ESBC2700012RP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine / Películas", Artflix - Películas Clásicas (ES)
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png" group-title="Cine / Películas",Grjngo - Películas Del Oeste
+https://jmp2.uk/stvp-ESBC2700002LO
+
+#EXTINF:-1 tvg-id="ES2300005G7" tvg-name="ES2300005G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas",Cine Western
+https://jmp2.uk/stvp-ES2300005G7
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine / Películas", MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine / Películas", MultiVox La India (SUB/IA DUB)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESBC40000248" tvg-name="ESBC40000248" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png" group-title="Cine / Películas",Action Movie Channel (SUB)
+https://jmp2.uk/stvp-ESBC40000248
+
 
 
 
