@@ -2082,9 +2082,6 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Infantiles",Dreiko TV (Chile)
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Clasicos Animados
-https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Retro Toons
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 
