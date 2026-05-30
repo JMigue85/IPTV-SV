@@ -1380,6 +1380,45 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal ZoyTV Plus
 https://tv.zoymilton.com/ZoyPlus/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Go TV Click
+https://lbgo.bozztv.com/ssh101/ssh101/gotvclick/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",TV777
+https://lbgo.bozztv.com/ssh101/ssh101/tv777lv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",IMCU
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Hipersonica
+https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Vida al Maximo 11
+https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Plaay TV
+https://lbgo.bozztv.com/ssh101/ssh101/plaaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Apanines TV
+https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Alternativa TV PE
+https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",FabianTV 182
+https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Grande TV 
+https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",TV1251
+https://lbgo.bozztv.com/ssh101/ssh101/tv1251master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Contac TV
+https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Planeta 55 TV
+https://lbgo.bozztv.com/ssh101/ssh101/planeta55tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas",WOW Movies
 https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
@@ -1575,6 +1614,12 @@ https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Los Simpson Latino Opc. 2
+https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",American TV
+https://lbgo.bozztv.com/ssh101/ssh101/americantv006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ykbNfG3/gogoplaytv.png" group-title="Entretenimiento",GoGoPlay TV
 https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
@@ -2124,6 +2169,9 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Infantiles",Monte Grande TV Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Moni TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Infantiles", 13 Kids (Chile)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
@@ -2142,8 +2190,6 @@ https://jmp2.uk/stvp-ESBD130000205
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Infantiles", Mr. Bean Animated (ES)
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Infantiles", Pluto TV Kids (ES)
-https://jmp2.uk/stvp-ESAJ38000046O
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png" group-title="Infantiles", SuperToons TV (ES)
 https://jmp2.uk/stvp-ESBD5100001G0
