@@ -28,7 +28,7 @@ Descarga directa: https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u
 
     ⚽ Deportes → 59+ canales
 
-    🍿 Plataformas FAST (Sin Tokens) → 140+ canales (Pluto TV, Canela, Rakuten, Sony, Runtime, FreeTV)
+    🍿 Plataformas FAST (Sin Tokens) → 140+ canales (Canela, Rakuten, Sony, Runtime, FreeTV)
 
     👶 Infantil → 63+ canales
 
