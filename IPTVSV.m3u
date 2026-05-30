@@ -1368,26 +1368,23 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Cine / Películas", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Pituco tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Cine / Películas",Pituco tv
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal ZoyTV Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkDnDWgM/Soy-TVPlus.png" group-title="Cine / Películas",Canal ZoyTV Plus
 https://tv.zoymilton.com/ZoyPlus/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Go TV Click
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wF1rzvyB/GO-TV.png" group-title="Cine / Películas",GO TV
 https://lbgo.bozztv.com/ssh101/ssh101/gotvclick/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",TV777
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5Fzf0gk/Mittos-TV.png" group-title="Cine / Películas",Mittos TV
 https://lbgo.bozztv.com/ssh101/ssh101/tv777lv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",IMCU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPt0yF8q/MCU-TV.png" group-title="Cine / Películas",MCU TV
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Hipersonica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="Cine / Películas",Ipersonica
 https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Vida al Maximo 11
-https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Plaay TV
 https://lbgo.bozztv.com/ssh101/ssh101/plaaytv/playlist.m3u8
@@ -1662,6 +1659,9 @@ https://jmp2.uk/stvp-ES440000327
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwL4NQvW/0-16x9-5.png" group-title="Entretenimiento",Canela Secretos
 https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channele-canelatvus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ6rVNCz/Vida-al-Maximo-TV.png" group-title="Entretenimiento",Vida al Maximo TV
+https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
