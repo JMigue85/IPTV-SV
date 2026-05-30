@@ -1359,9 +1359,6 @@ https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Cine / Películas", Bayres TV -Clasicos- (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Cine / Películas", Canal 7 Salta (Salta / Argentina)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Cine / Películas", Canal 34 San Juan (San Juan / Argentina)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
@@ -1778,6 +1775,9 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento", Canal 21 HD (Buenos Aires / Argentina)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento", Canal 7 Salta (Salta / Argentina)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 24 Multivision (Bolivia)
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
