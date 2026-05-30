@@ -644,9 +644,6 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Ecuador", Telemar (Esmeraldas)
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador", Austral TV (Azuay)
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacán Te Veo [No 24/7] (Loja)
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 
