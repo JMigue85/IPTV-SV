@@ -1337,17 +1337,38 @@ https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Cine / Películas",Imagen Universal (Rep. Dominicana)
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine / Películas",FilmRise Películas Gratis
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="Cine / Películas",El Mago TV 2
+https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine / Películas",Popcorn Central
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Cine / Películas", Ready TV (La Vega, Rep. Dominicana)
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine / Películas",Cindie Lite
-https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Orbit TV (Rep. Dominicana)[No 24/7]
+https://edge.essastream.com/orbittv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine / Películas",Zee Mundo
-https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas",Canal Onza TV (Venezuela)
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Cine / Películas", Bayres TV -Clasicos- (Argentina)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Cine / Películas", Canal 7 Salta (Salta / Argentina)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Cine / Películas", Canal 34 San Juan (San Juan / Argentina)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine / Películas", TeleCinco Trelew (Chubut / Argentina)
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Cine / Películas", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Pituco tv
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal ZoyTV Plus
+https://tv.zoymilton.com/ZoyPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas",WOW Movies
 https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
@@ -1380,12 +1401,24 @@ https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/el-70-tv.png" group-title="Cine / Películas",El 70 TV (Rep. Dominicana)
 https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine / Películas",FilmRise Películas Gratis
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine / Películas",Popcorn Central
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine / Películas",Cindie Lite
+https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine / Películas",Zee Mundo
+https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine / Películas", Box Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
@@ -1518,9 +1551,6 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento", AMC LATAM (Hispanoamérica)
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="Entretenimiento",El Mago TV 2
-https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ld46sscs/Miami-TVDJ.png" group-title="Entretenimiento",Miami TV DJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
 
@@ -1628,17 +1658,11 @@ https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento", Fuego TV (Rep. Dominicana)
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Entretenimiento", Ready TV (La Vega, Rep. Dominicana)
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 33 (Rep. Dominicana)
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Crom TV (Rep. Dominicana)
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Orbit TV (Rep. Dominicana)[No 24/7]
-https://edge.essastream.com/orbittv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento", SNT (Paraguay)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
@@ -1667,26 +1691,17 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Grande Television (Venezuela)
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Entretenimiento",Canal Onza TV (Venezuela)
-https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento", Boreal (Internacional)
 https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Entretenimiento", Bayres TV -Clasicos- (Argentina)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 13 MAX (Argentina)
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento", MaxiVision TV (Argentina)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento", Canal 7 Salta (Salta / Argentina)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Entretenimiento",Cosmos TV (Formosa / Argentina)
 https://canaletaplus.com:3922/hybrid/play.m3u8
@@ -1703,22 +1718,11 @@ https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/pla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entretenimiento", Canal 9 Litoral (Entre Ríos / Argentina)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento", Bravo TV (Buenos Aires / Argentina)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento", Canal 34 San Juan (San Juan / Argentina)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Entretenimiento", Canal 4 Posadas (Misiones / Argentina)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Entretenimiento", TeleCinco Trelew (Chubut / Argentina)
-https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Entretenimiento", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento", Canal 21 HD (Buenos Aires / Argentina)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
@@ -1793,12 +1797,6 @@ https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 8 Telenord (República Dominicana)
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pituco tv
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal ZoyTV Plus
-https://tv.zoymilton.com/ZoyPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
