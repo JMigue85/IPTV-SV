@@ -1557,11 +1557,32 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
 
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento",Novelísima
+https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento",Corazón TV Azteca
+https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento",Canela Pasión Latina
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento",Canela Pasión Turca
+https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento",Canela Novelas Brasileras
+https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento",Azteca Internacional
+https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ES3600001Y7" tvg-name="ES3600001Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260505T035729SQUARE.png" group-title="Entretenimiento",Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
 
 #EXTINF:-1 tvg-id="ES440000327" tvg-name="ES440000327" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png" group-title="Entretenimiento",Todo Drama
 https://jmp2.uk/stvp-ES440000327
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwL4NQvW/0-16x9-5.png" group-title="Entretenimiento",Canela Secretos
+https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channele-canelatvus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
@@ -2849,15 +2870,6 @@ https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA962/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Seasonal
 https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonal-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Latina
-https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Pasión Turca
-https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Novelas Brasileras
-https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Narco Drama
 https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
 
@@ -2867,17 +2879,8 @@ https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Thema Vive Kanal Drama
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Novelísima
-https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Corazón TV Azteca
-https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwL4NQvW/0-16x9-5.png" group-title="Canela TV",Canela Secretos
-https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channele-canelatvus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Canela TV",Azteca Internacional
-https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 
 
 
