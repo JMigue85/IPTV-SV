@@ -1389,25 +1389,22 @@ https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7txS72SM/Play-Cine-TV.png" group-title="Cine / Películas",Play Cine TV
 https://lbgo.bozztv.com/ssh101/ssh101/plaaytv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento",Apanines TV
-https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Alternativa TV PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Cine / Películas",Alternativa TV
 https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",FabianTV 182
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas",Fabian Vision
 https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Grande TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Cine / Películas",Grande TV 
 https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",TV1251
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q30mq4cv/PRITV.png" group-title="Cine / Películas",PRITV
 https://lbgo.bozztv.com/ssh101/ssh101/tv1251master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Contac TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3bPH59x/Contact-TV.png" group-title="Cine / Películas",ContacTV
 https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Planeta 55 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpK6HF2Q/Planeta-Radio-TV.png" group-title="Cine / Películas",Planeta Radio TV
 https://lbgo.bozztv.com/ssh101/ssh101/planeta55tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas",WOW Movies
@@ -1852,6 +1849,9 @@ https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 8 Telenord (República Dominicana)
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento",Apanines TV
+https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento", BBC Drama (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
