@@ -1353,9 +1353,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Cine / Películas", Ready TV (La Vega, Rep. Dominicana)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Orbit TV (Rep. Dominicana)[No 24/7]
-https://edge.essastream.com/orbittv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas",Canal Onza TV (Venezuela)
 https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
 
@@ -1846,6 +1843,9 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Entretenimiento", Unifranz (Bolivia)
 https://live.enhdtv.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="Entretenimiento",Orbit TV (Rep. Dominicana)[No 24/7]
+https://edge.essastream.com/orbittv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 36 Cotubanama TV (República Dominicana)
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
