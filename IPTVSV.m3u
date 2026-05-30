@@ -1255,6 +1255,12 @@ https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:-1 group-title="Doramas / Asia" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg", Fashion TV
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ES1700005ME" tvg-name="ES1700005ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png" group-title="Doramas / Asia",NEW KPOP
+https://jmp2.uk/stvp-ES1700005ME
+
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalFashion.jpg" group-title="Entretenimiento",EnergyTV Fashion
+https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
+
 #EXTINF:-1 group-title="Doramas / Asia" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/18918110-1ab1-4aa8-9879-24473b095497.jpeg", K-Drama+ (Rakuten)
 https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
 
@@ -1267,17 +1273,14 @@ https://jmp2.uk/stvp-ESBD4100001DU
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png" group-title="Doramas / Asia",Series K-Comedia Romántica
 https://jmp2.uk/stvp-ES200041FT
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="Doramas / Asia",Coreano by CJ ENM
-https://jmp2.uk/stvp-ES1700003C6
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Doramas / Asia",KPOP TV Play
 https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES1700005ME" tvg-name="ES1700005ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png" group-title="Doramas / Asia",NEW KPOP
-https://jmp2.uk/stvp-ES1700005ME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTxJBRY3/Miami-TV-Models.png" group-title="Entretenimiento",MiamiTV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="ES3900001QG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Doramas / Asia",K-POP by CJ ENM
-https://jmp2.uk/stvp-ES3900001QG
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="Doramas / Asia",Coreano by CJ ENM
+https://jmp2.uk/stvp-ES1700003C6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLXM64Zm/Mundo-series.png" group-title="Doramas / Asia", Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
@@ -1288,8 +1291,15 @@ https://jmp2.uk/stvp-ES170000433
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Doramas / Asia",Rakuten VIKI (SUB)
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
 
+#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="ES3900001QG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Doramas / Asia",K-POP by CJ ENM
+https://jmp2.uk/stvp-ES3900001QG
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPmG00DN/Miami-TV-Fashion.png" group-title="Entretenimiento",MiamiTV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+
 #EXTINF:-1 group-title="Doramas / Asia" tvg-logo="https://a.jsrdn.com/hls/22882/chicas-guapas-tv/logo_20250513_211005_70.png", Chicas Guapas TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068&content_channel=ChicasGuapas&content_language=en&livestream=1&id=10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068
+
 
 
 
@@ -1809,15 +1819,6 @@ https://jmp2.uk/stvp-ESBA1400006NP
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal TV Carioca Internacional (Brasil)[SUB]
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalFashion.jpg" group-title="Entretenimiento",EnergyTV Fashion
-https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPmG00DN/Miami-TV-Fashion.png" group-title="Entretenimiento",MiamiTV Fashion
-https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HTxJBRY3/Miami-TV-Models.png" group-title="Entretenimiento",MiamiTV Models
-https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
 
 
 
