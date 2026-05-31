@@ -607,6 +607,13 @@ http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus (Guayas)
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador", Multicanal (Loja)
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador", TV Color Canal 36 (El Oro)
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Ecuador", Antena Uno RadioVideo (Azuay)
@@ -1426,9 +1433,6 @@ https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Cine / Películas", Majestad Televisión (Santo Domingo)
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Cine / Películas", Multicanal (Loja)
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Cine / Películas", Red TVE Ventanas (Los Ríos)
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 
@@ -1440,9 +1444,6 @@ http://200.7.219.221:8088/live/livetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Cine / Películas", La Nueva Radio TV 97.7 (Imbabura)
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Cine / Películas", TV Color Canal 36 (El Oro)
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Cine / Películas", Mel Radio TV (Pichincha)
 https://eu1.servers10.com:8081/8334/index.m3u8
