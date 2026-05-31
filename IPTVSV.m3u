@@ -1007,9 +1007,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vortgm7.png" group-title="España", Déjate de Historias TV (Nacional)
 https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="España", Ciudades del Ocio TV (Nacional)
-https://cloudvideo.servers10.com:8081/8024/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="España", Cadena Élite (Nacional)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
@@ -1630,6 +1627,9 @@ https://59ec5453559f0.streamlock.net/energytvDJ/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalMusic.jpg" group-title="Entretenimiento",Energy TV Music
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entretenimiento", Ciudades del Ocio TV (España)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
