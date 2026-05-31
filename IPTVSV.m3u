@@ -1477,6 +1477,25 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Crom TV (Rep. Dominicana)
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine / Películas",Cosmos TV (Formosa / Argentina)
+https://canaletaplus.com:3922/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Cine / Películas", Canal 7 Salta (Salta / Argentina)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal 24 Multivision (Bolivia)
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Cine / Películas", UPEA TV (El Alto)
+#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Cine / Películas", F10 HD (El Alto / La Paz / Bolivia)
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="Cine / Películas",Canal Telemax RD (República Dominicana)
+https://edge.essastream.com/telemax/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 
@@ -1751,9 +1770,6 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento", MaxiVision TV (Argentina)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Entretenimiento",Cosmos TV (Formosa / Argentina)
-https://canaletaplus.com:3922/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Entretenimiento", Canal 3 La Pampa (La Pampa / Argentina)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
@@ -1775,18 +1791,8 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento", Canal 21 HD (Buenos Aires / Argentina)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento", Canal 7 Salta (Salta / Argentina)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 24 Multivision (Bolivia)
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento", Univalle Televisión (Cochabamba / Bolivia)
 https://master.tucableip.com/univalletv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento", UPEA TV (El Alto)
-#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
-https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
 https://eu1.servers10.com:8081/ceacom/index.m3u8
@@ -1830,9 +1836,6 @@ https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento", F10 HD (El Alto / La Paz / Bolivia)
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento", Red TV Shop (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
@@ -1946,9 +1949,6 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Informativos", Cinevisión Canal 19 (República Dominicana)
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="Informativos",Canal Telemax RD (República Dominicana)
-https://edge.essastream.com/telemax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Informativos", TV Sur Pérez Zeledón (San José - Costa Rica)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
