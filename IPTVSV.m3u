@@ -276,12 +276,6 @@ https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel (Nacional)
 https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica",Canal 2 CDR [No 24/7] (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/735ddeea-3626-4c57-b09f-39e81eb1671d/ts:abr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica",Canal 2 CDR [No 24/7] (Nacional) [Opción 2]
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! (Nacional)
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 
@@ -349,9 +343,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 (Nacional)[Opc.2]
-http://185.56.109.253/Canal5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (México)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -987,9 +978,6 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="España", Canal Extremadura (Extremadura / Autonómico)
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="España", Bon Dia TV (Cataluña / C. Valenciana / Baleares)
-https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="España", Negocios TV (Nacional)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -2098,12 +2086,6 @@ https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana (Ciudad Real - Castilla-La Mancha)
 https://signal.teleon.live/segments/canal2000es?path=canal2000.m3u8&token=free
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Informativos", 28 Kanala [HD] (Guipúzcoa - País Vasco)
-https://streaming.28kanala.eus/hls/z_hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Informativos", 28 Kanala [SD] (Guipúzcoa - País Vasco)
-https://streaming.28kanala.eus/hls/z_sd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Informativos", CGTN Español (China / Internacional)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
