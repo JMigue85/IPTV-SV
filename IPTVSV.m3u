@@ -85,6 +85,9 @@ https://d3r1d0jzdq322.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Guatemala",A+ (Nacional)
+http://190.61.101.11:7050/play/a09l/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela [No 24/7] (Quetzaltenango)
 https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/chunks.m3u8
 
@@ -1678,6 +1681,12 @@ https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJ6rVNCz/Vida-al-Maximo-TV.png" group-title="Entretenimiento",Vida al Maximo TV
 https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="Entretenimiento",Fabulosa Estéreo 100.5 FM (Panamá)
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Entretenimiento",Planet 100.9 FM (Panamá)
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
