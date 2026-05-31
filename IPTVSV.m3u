@@ -1601,6 +1601,9 @@ https://jmp2.uk/stvp-ESBC40000248
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/83/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision HD (LATAM)
+http://190.61.101.11:7050/play/a05k/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
