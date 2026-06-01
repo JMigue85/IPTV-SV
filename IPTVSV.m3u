@@ -15,7 +15,7 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal6sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ (MPV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a07o/index.m3u8
 
@@ -55,6 +55,9 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="El Salvador",Canal 26 TV IAP
+https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 -No 24/7-
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
@@ -2766,6 +2769,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6R9LNbwj/world-billiards-tv-mx.png" group-title="Deportes", World Billiards TV (EE.UU.) [EN]
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="Religiosos",Enlace TBN (Internacional)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
@@ -2801,6 +2809,9 @@ https://serversv.com:8080/hls/tvgetsemani.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9m7Ny9gk/tv-leon-de-juda.png" group-title="Religiosos",TV León de Judá (El Salvador)
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ChonoKb.png" group-title="Religiosos",TV CRET (El Salvador)
+https://radiocret.net:8082/hls/tvcret.m3u8
 
 #EXTINF:-1 tvg-logo="https://ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png" group-title="Religiosos",Ministerios Ebenezer (Guatemala)
 https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
