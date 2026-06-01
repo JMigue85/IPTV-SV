@@ -661,7 +661,7 @@ https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="Ecuador", Curiquingue TV (Pichincha)
 https://video2.lhdserver.es/pjtv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Ecuador", Planeta Channel (Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Ecuador", Planeta Radio TV (Guayas)
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Ecuador", El Sol Network TV [No 24/7] (Machala)
@@ -766,9 +766,6 @@ https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Perú", Cadena TV [No 24/7] (Lima)
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Perú", Controversia TV [No 24/7] (Lima)
-https://live.obslivestream.com/controversiatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Perú", Intuitiva TV (Lima)
 https://video2.lhdserver.es/cablePerú/live.m3u8
@@ -1449,9 +1446,6 @@ http://200.7.219.221:8088/live/livetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Cine / Películas", La Nueva Radio TV 97.7 (Imbabura)
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Cine / Películas", Mel Radio TV (Pichincha)
-https://eu1.servers10.com:8081/8334/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Cine / Películas", Plus TV [No 24/7] (Santo Domingo)
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
