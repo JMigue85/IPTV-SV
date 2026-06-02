@@ -2121,9 +2121,33 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby First (Usa)
+http://190.61.101.11:7050/play/a08m/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito (Usa)
+http://190.61.101.11:7050/play/a08d/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles", Disney Jr. Latin America South
 #EXTVLCOPT:http-referrer=http://tr.live.clarovtrcdn.vtrplay.com/
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr (Usa)
+http://190.61.101.11:7050/play/a08e/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr (Usa)
+http://190.61.101.11:7050/play/a092/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network HD (Usa)
+http://190.61.101.11:7050/play/a04x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon (Usa)
+http://190.61.101.11:7050/play/a093/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney (Usa)
+http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Infantiles",Moonbug Kids (Latam) [EN]
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
