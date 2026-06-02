@@ -2125,9 +2125,11 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby First (Usa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a08m/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito (Usa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a08d/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles", Disney Jr. Latin America South
@@ -2135,18 +2137,23 @@ http://190.61.101.11:7050/play/a08d/index.m3u8?hls
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr (Usa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a08e/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr (Usa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a092/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network HD (Usa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a04x/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon (Usa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a093/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney (Usa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Infantiles",Moonbug Kids (Latam) [EN]
