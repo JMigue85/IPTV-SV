@@ -1677,9 +1677,6 @@ https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfyvCH5b/Miami-TV-Latino.png" group-title="Entretenimiento",Miami TV Latino
 https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telemicro Canal 5 (República Dominicana)
-http://24.152.53.3:8090/play/a009/index.m3u8?
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento", TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
@@ -1771,6 +1768,9 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 33 (Rep. Dominicana)
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 5
+http://24.152.53.3:8090/play/a009/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento", SNT (Paraguay)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
