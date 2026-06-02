@@ -112,6 +112,9 @@ http://24.152.53.3:8090/play/a014/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="Guatemala",A+ (Nacional)[Opc. 2]
 http://24.152.53.3:8090/play/a01s/index.m3u8?
 
+#EXTINF:-1 tvg-logo="" group-title="Guatemala",A+ (Nacional)[Opc. 3]
+http://190.61.101.11:7050/play/a09l/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela [No 24/7] (Quetzaltenango)
 https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/chunks.m3u8
 
@@ -1622,7 +1625,8 @@ https://jmp2.uk/stvp-ESBC40000248
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision HD (LATAM)
+http://190.61.101.11:7050/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision HD (LATAM)[Opc.2]
 http://24.152.53.3:8090/play/a019/index.m3u8?
@@ -2173,6 +2177,28 @@ https://jmp2.uk/stvp-ES5000001CS
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/290/peque-radio-tv.0edf3e97.png" group-title="Infantiles", Pequeradio TV (ES)
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby First (Usa)
+http://190.61.101.11:7050/play/a07p/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito (Usa)
+http://190.61.101.11:7050/play/a08d/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr (Usa)
+http://190.61.101.11:7050/play/a08e/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr (Usa)
+http://190.61.101.11:7050/play/a092/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network HD (Usa)
+http://190.61.101.11:7050/play/a04x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon (Usa)
+http://190.61.101.11:7050/play/a093/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney (Usa)
+http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network
 http://24.152.53.3:8090/play/a01e/index.m3u8?
