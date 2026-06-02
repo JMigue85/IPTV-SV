@@ -108,11 +108,6 @@ http://24.152.53.3:8090/play/a014/index.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://24.152.53.3:8090/play/a01s/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",A+ (Nacional)[Opc. 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://24.152.53.3:8090/play/a01s/index.m3u8?
-http://190.61.101.11:7050/play/a09l/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela [No 24/7] (Quetzaltenango)
 https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/chunks.m3u8
 
@@ -1620,10 +1615,6 @@ https://jmp2.uk/stvp-ESBC40000248
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision HD (LATAM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a05k/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision HD (LATAM)[Opc.2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://24.152.53.3:8090/play/a019/index.m3u8?
@@ -2147,37 +2138,9 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby First (Usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a07p/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito (Usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a08d/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles", Disney Jr. Latin America South
 #EXTVLCOPT:http-referrer=http://tr.live.clarovtrcdn.vtrplay.com/
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr (Usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a08e/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr (Usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a092/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network HD (Usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a04x/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon (Usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a093/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney (Usa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Infantiles",Moonbug Kids (Latam) [EN]
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -2683,6 +2646,18 @@ https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Vix La Liga
+http://24.152.53.3:8090/play/a00v/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Sky Sports LaLiga
+http://24.152.53.3:8090/play/a00y/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TUDN (México)
+http://24.152.53.3:8090/play/a012/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Vix La Liga (Alterno)
+http://24.152.53.3:8090/play/a01j/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
