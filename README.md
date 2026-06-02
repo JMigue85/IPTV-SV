@@ -1,9 +1,9 @@
-# IPTV-SV | Lista Gratis IPTV M3U Curada para El Salvador y Centroamérica
+# IPTV-SV | Lista Gratis IPTV M3U Curada para El Salvador y Funcional en Latinoamerica
 
 ![GitHub stars](https://img.shields.io/github/stars/JMigue85/IPTV-SV)
 ![Last Updated](https://img.shields.io/github/last-commit/JMigue85/IPTV-SV)
 
-Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adicional de Guatemala, Honduras y canales internacionales.
+Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adicional de Toda America Latina y España.
 
 ### 📥 Enlace Principal (Recomendado)
 
@@ -16,31 +16,45 @@ Descarga directa: https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u
 
     🇸🇻 El Salvador - TCS → 4 canales (Canal 2, 4, 6, SV+)
 
-    🇸🇻 El Salvador Local → 11+ canales
+    🇸🇻 El Salvador Local → 12+ canales
 
-    🇬🇹 Guatemala → 27+ canales
+    🇬🇹 Guatemala → 37+ canales
 
-    🇭🇳 Honduras → 27+ canales
+    🇭🇳 Honduras → 28+ canales
 
-    🇨🇷 Costa Rica → 27+ canales
+    🇨🇷 Costa Rica → 22+ canales
+
+    🇲🇽 Mexico → 30+ canales 
+
+    🇨🇴 Colombia → 35+ canales
+
+    🇪🇨 Ecuador → 35+ canales
+
+    🇵🇪 Peru → 35+ canales
+
+    🇨🇱 Chile → 30+ canales
+
+    🇦🇷 Argentina → 23+ canales
+
+    🇪🇸 España → 55+ canales
 
     🎬 Cine y Películas → 52+ canales
 
-    ⚽ Deportes → 59+ canales
+    ⚽ Deportes → 82+ canales
 
-    🍿 Plataformas FAST (Sin Tokens) → 140+ canales (Canela, Rakuten, Sony, Runtime, FreeTV)
+    🍿 Plataformas FAST (Sin Tokens) → 60+ canales (Canela, Rakuten, Sony, Runtime, FreeTV)
 
-    👶 Infantil → 63+ canales
+    👶 Infantil → 39+ canales
 
-    🎵 Música → 99+ canales
+    🎵 Música → 81+ canales
 
-    📺 Entretenimiento Internacional → 300+ canales (Dividido por países: MX, AR, BO, EC, CO, CL, PE, ES)
+    📺 Entretenimiento Internacional → 95+ canales 
 
-    📰 Informativos → 76+ canales
+    📰 Informativos → 75+ canales
 
-    ⛩️ Anime & Doramas → 41+ canales
+    ⛩️ Anime & Doramas → 30+ canales
 
-    🙏 Religiosos → 50+ canales
+    🙏 Religiosos → 55+ canales
 
 📊 Resumen del Repositorio
 
@@ -48,7 +62,8 @@ Descarga directa: https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u
 
     Estabilidad: ~99% de canales al aire con enlaces limpios y directos.
 
-    Total Real: 1000+ canales disponibles 🚀.
+    Total Real: +/- 1000 canales disponibles 🚀.
+    
 ### 🚀 Reproductores Recomendados
 
 - **Android** (Recomendación principal): Televizo + MPV como reproductor externo (la mejor combinación probada)
