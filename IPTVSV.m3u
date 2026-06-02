@@ -1186,6 +1186,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Anime",Animotion
+http://138.36.253.106:8066/play/a00h/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Bitme (México)
+http://138.36.253.106:8066/play/a024/index.m3u8?
+
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cdn.energeek.cl/hls/energeekfan.m3u8
 
