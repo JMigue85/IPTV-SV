@@ -2693,6 +2693,17 @@ https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",FOX Sports 2 (USA)[Opc. 2]
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 3
+http://24.152.53.3:8090/play/a011/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 3 (Opc. 2)
+http://24.152.53.3:8090/play/a01p/index.m3u8?
+
+
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Soccer Plus (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
@@ -2717,14 +2728,8 @@ http://24.152.53.3:8090/play/a00y/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="Deportes",TUDN (México)
 http://24.152.53.3:8090/play/a012/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Vix La Liga (Alterno)
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Vix La Liga (Opc. 2)
 http://24.152.53.3:8090/play/a01j/index.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 3
-http://24.152.53.3:8090/play/a011/index.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 3 (Alterno)
-http://24.152.53.3:8090/play/a01p/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
