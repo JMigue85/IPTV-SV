@@ -1442,11 +1442,23 @@ https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",De Película
-http://24.152.53.3:8090/play/a01f/index.m3u8?
-
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal
 http://24.152.53.3:8090/play/a01b/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películass",HBO2 HD
+http://190.61.101.11:7050/play/a04z/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Plus HD
+http://190.61.101.11:7050/play/a050/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Family HD
+http://190.61.101.11:7050/play/a051/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Xtreme HD
+http://190.61.101.11:7050/play/a052/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",De Película
+http://24.152.53.3:8090/play/a01f/index.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",CINE MEXICANO
 http://190.61.101.11:7050/play/a08x/index.m3u8?hls
@@ -1660,6 +1672,9 @@ http://24.152.53.3:8090/play/a019/index.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/83/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Internaciona)
+http://190.61.101.11:7050/play/a080/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -2593,6 +2608,9 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qQSXSYQ/Sport-Max-News.png" group-title="Deportes",SportMax News
 https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Mundo Deportivo
+http://190.61.101.11:7050/play/a09g/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
