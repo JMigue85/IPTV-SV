@@ -103,6 +103,9 @@ http://190.61.101.11:7050/play/a07f/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23 (Opc. 2)
+http://190.61.101.11:7050/play/a08y/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 27 (Guatemala)
 http://24.152.53.3:8090/play/a016/index.m3u8?
 
@@ -1438,6 +1441,9 @@ http://24.152.53.3:8090/play/a01f/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal
 http://24.152.53.3:8090/play/a01b/index.m3u8?
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",CINE MEXICANO
+http://190.61.101.11:7050/play/a08x/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine / Películas",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
@@ -1657,11 +1663,14 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/791fIbe.png" group-title="Entretenimiento", Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento", AMC LATAM (Hispanoamérica)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85bvn3cS/placeholder-16x9.png" group-title="Entretenimiento", AMC LATAM
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AMC Series
 http://190.61.101.11:7050/play/a08r/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AMC
+http://190.61.101.11:7050/play/a07z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Telefe (Argentina)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/40624.m3u8
@@ -2687,6 +2696,9 @@ https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",FOX + PREMIER LIGA
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",FOX Sports 2 (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
