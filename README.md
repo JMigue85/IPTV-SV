@@ -57,7 +57,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
     *   *Android TV:* **Televizo**.
     *   *Samsung, LG y otras:* **IPTV Smarters Pro** *(Requiere cargar el archivo `IPTVSV.m3u` descargado - Actualización manual)*.
 
-> 💡 **Tip importante para canales TCS (2, 4, 6 y SV+):** Se recomienda encarecidamente usar un reproductor externo (MPV como primera opción, o VLC como alternativa).
+> 💡 **Tip importante para canales no fluidos o pantalla negra :** Se recomienda encarecidamente usar un reproductor externo (MPV como primera opción, o VLC como alternativa).
 
 ### ⚙️ Ajustes recomendados:
 *   Activa la **Decodificación por Software** en los ajustes de MPV y VLC para una mayor compatibilidad de video.
