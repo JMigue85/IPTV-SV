@@ -1220,6 +1220,9 @@ https://cdn.energeek.cl/hls/energeekfan.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZZKxkIcpupvwBL7E3SyWYzBqz_ZZqyJpnvhrdJPgfPYLIOj0fQMXxjbvH2sri0dRBm7J5l3dSz5RSr6P1Mmoaw" group-title="Anime",Goku TV (América Latina)
+http://138.36.253.106:8066/play/a00f/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png" group-title="Anime",Dragon Ball Super (América Latina)
 https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 
