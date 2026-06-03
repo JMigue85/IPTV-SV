@@ -1445,6 +1445,21 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal
 http://24.152.53.3:8090/play/a01b/index.m3u8?
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal TV HD
+http://190.61.101.11:7050/play/a068/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Premiere HD
+http://190.61.101.11:7050/play/a06o/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Premiere West HD
+http://190.61.101.11:7050/play/a06p/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Comedy HD
+http://190.61.101.11:7050/play/a06s/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Crime HD
+http://190.61.101.11:7050/play/a06r/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películass",HBO2 HD
 http://190.61.101.11:7050/play/a04z/index.m3u8?hls
 
@@ -1456,6 +1471,9 @@ http://190.61.101.11:7050/play/a051/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Xtreme HD
 http://190.61.101.11:7050/play/a052/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Warner Channel HD
+http://190.61.101.11:7050/play/a078/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",De Película
 http://24.152.53.3:8090/play/a01f/index.m3u8?
@@ -1702,6 +1720,9 @@ http://190.61.101.11:7050/play/a07z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Telefe (Argentina)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/40624.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Universal Reality HD
+http://190.61.101.11:7050/play/a06q/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Distrito Comedia
 http://190.61.101.11:7050/play/a04k/index.m3u8?hls
