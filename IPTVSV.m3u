@@ -16,7 +16,7 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 https://signal.teleon.live/stream/canal6sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ (MPV)
-/play/a07o/index.m3u8?hls
+http://190.61.101.11:7050/play/a07o/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ (Temporalmente Canal equivocado)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -94,28 +94,28 @@ https://d3r1d0jzdq322.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.3)
 http://24.152.53.3:8090/play/a001/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 11 (Nacional)
-/play/a07g/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (Nacional)
+http://190.61.101.11:7050/play/a07o/index.m3u8?hls/play/a07g/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 13 (Nacional)
-/play/a07f/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (Nacional)
+http://190.61.101.11:7050/play/a07o/index.m3u8?hls/play/a07f/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23 (Opc. 2)
-/play/a08y/index.m3u8?hls
+http://190.61.101.11:7050/play/a08y/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 27 (Guatemala)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eA4vt8A.png" group-title="Guatemala",Canal 27 (Guatemala)
 http://24.152.53.3:8090/play/a016/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",A+ (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)
 http://24.152.53.3:8090/play/a014/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",A+ (Nacional)[Opc. 2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)[Opc. 2]
 http://24.152.53.3:8090/play/a01s/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Guatemala",A+ (Nacional)[Opc. 3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)[Opc. 3]
 http://190.61.101.11:7050/play/a09l/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela [No 24/7] (Quetzaltenango)
@@ -616,6 +616,9 @@ https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", Ecuador TV (Nacional)
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas [Geo-blocked]
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV (Manabí)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
@@ -704,7 +707,7 @@ https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV (Guayas)
 https://eu1.servers10.com:8081/8108/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Comtivision
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Con                                          º                                                                                                  tivision
 https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
 
 
