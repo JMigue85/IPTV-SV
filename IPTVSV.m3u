@@ -619,7 +619,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", Ecuador TV (Nacional)
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas [Geo-blocked]
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV (Manabí)
@@ -1456,6 +1456,9 @@ http://24.152.53.3:8090/play/a01b/index.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal TV HD
 http://190.61.101.11:7050/play/a068/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal TV HD[Opc.2]
+http://138.36.253.106:8066/play/a01h/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Premiere HD
 http://190.61.101.11:7050/play/a06o/index.m3u8?hls
