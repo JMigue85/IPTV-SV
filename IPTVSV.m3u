@@ -1195,6 +1195,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV (Chile)
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Anime",Animotion
 http://138.36.253.106:8066/play/a00h/index.m3u8?
 
@@ -2472,9 +2476,6 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.populartv.cl/wp-content/uploads/elementor/thumbs/Logo-en-PNG-con-tipografia-polbioybcx24gunnadhprzcqp2wqxwbpofdcvojex8.png" group-title="Música",La Popular TV (Chile)
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Música",Zioon TV (Chile)
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-CLASSIC-OK-png-.png" group-title="Música",Memorias Classic (Chile)
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
