@@ -1451,20 +1451,11 @@ http://190.61.101.11:7050/play/a068/index.m3u8?hls
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Premiere HD
 http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Premiere West HD
-http://190.61.101.11:7050/play/a06p/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Comedy HD
-http://190.61.101.11:7050/play/a06s/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Crime HD
-http://190.61.101.11:7050/play/a06r/index.m3u8?hls
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Plus HD
+http://190.61.101.11:7050/play/a050/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO2 HD
 http://190.61.101.11:7050/play/a04z/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Plus HD
-http://190.61.101.11:7050/play/a050/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Family HD
 http://190.61.101.11:7050/play/a051/index.m3u8?hls
