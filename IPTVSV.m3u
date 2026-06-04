@@ -378,6 +378,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas (Nacional)[Opc.2]
 http://24.152.53.3:8090/play/a015/index.m3u8?hls
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas (Nacional)[Opc.3]
+http://190.217.66.92:8000/play/a0e0/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
@@ -833,8 +837,14 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega (Nacional)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega (Nacional)[Opc.2]
+http://138.36.253.106:8066/play/a008/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red (Nacional)
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red (Nacional)[Ooc.2]
+http://138.36.253.106:8066/play/a006/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Chile",Canal 13 (Nacional)
 https://redirector.dps.live/hls/13cl/playlist.m3u8
@@ -1212,7 +1222,7 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 http://138.36.253.106:8066/play/a00h/index.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="Anime",Bitme (México)
-http://138.36.253.106:8066/play/a024/index.m3u8?
+http://138.36.253.106:8066/play/a024/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cdn.energeek.cl/hls/energeekfan.m3u8
@@ -1451,8 +1461,20 @@ https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",FMH Family
+http://138.36.253.106:8066/play/a015/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",FMH Movies
+http://138.36.253.106:8066/play/a019/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal
 http://24.152.53.3:8090/play/a01b/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal(Opc.2)
+http://138.36.253.106:8066/play/a01c/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal(Opc.3)
+http://190.217.66.92:8000/play/a0gc/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal TV HD
 http://190.61.101.11:7050/play/a068/index.m3u8?hls
@@ -1460,11 +1482,27 @@ http://190.61.101.11:7050/play/a068/index.m3u8?hls
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal TV HD[Opc.2]
 http://138.36.253.106:8066/play/a01h/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal TV HD[Opc.3]
+http://190.217.66.92:8000/play/a0oh/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal Premiere HD
 http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",TNT
+http://190.217.66.92:8000/play/a0oo/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO
+http://138.36.253.106:8066/play/a017/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO(Opc.2)
+http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Plus HD
 http://190.61.101.11:7050/play/a050/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO POP HD
+http://190.217.66.92:8000/play/a0pz/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO2 HD
 http://190.61.101.11:7050/play/a04z/index.m3u8?hls
@@ -1472,17 +1510,80 @@ http://190.61.101.11:7050/play/a04z/index.m3u8?hls
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Family HD
 http://190.61.101.11:7050/play/a051/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Family HD(Opc.2)
+http://190.217.66.92:8000/play/a0pk/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Xtreme HD
 http://190.61.101.11:7050/play/a052/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",HBO Xtreme HD (Opc.2)
+http://190.217.66.92:8000/play/a0pl/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Warner Channel HD
 http://190.61.101.11:7050/play/a078/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Warner Channel HD (Opc.2)
+http://138.36.253.106:8066/play/a018/index.m3u8?hls
+
+EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Warner Channel HD (Opc.3)
+http://190.217.66.92:8000/play/a0de/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Cinecanal
+http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Cinemax
+http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden HD
+http://138.36.253.106:8066/play/a01x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden Plus HD
+http://138.36.253.106:8066/play/a01y/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden Edge HD
+http://138.36.253.106:8066/play/a01z/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden Premier HD
+http://138.36.253.106:8066/play/a020/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Classic
+http://138.36.253.106:8066/play/a01g/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Prime
+http://138.36.253.106:8066/play/a01i/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Old
+http://138.36.253.106:8066/play/a01j/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Family
+http://138.36.253.106:8066/play/a01k/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Multipremier
+http://138.36.253.106:8066/play/a029/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Space
+http://138.36.253.106:8066/play/a01b/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Space (Opc.2)
+http://190.217.66.92:8000/play/a0fe/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Star Channel
+http://138.36.253.106:8066/play/a021/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",FX
+http://190.217.66.92:8000/play/a0ff/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",AXN
+http://190.217.66.92:8000/play/a0fd/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",De Película
 http://24.152.53.3:8090/play/a01f/index.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",CINE MEXICANO
 http://190.61.101.11:7050/play/a08x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",TCM
+http://190.217.66.92:8000/play/a0om/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine / Películas",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
@@ -1694,8 +1795,11 @@ http://24.152.53.3:8090/play/a019/index.m3u8?
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/83/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Internaciona)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Internacional)
 http://190.61.101.11:7050/play/a080/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Internacional)[Opc.2]
+http://190.217.66.92:8000/play/a0e3/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -1724,6 +1828,9 @@ http://190.61.101.11:7050/play/a08r/index.m3u8?hls
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AMC
 http://190.61.101.11:7050/play/a07z/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AMC (Opc.2)
+http://190.217.66.92:8000/play/a0pr/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Telefe (Argentina)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/40624.m3u8
 
@@ -1735,6 +1842,9 @@ http://190.61.101.11:7050/play/a04j/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Distrito Comedia
 http://190.61.101.11:7050/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Distrito Comedia (Opc.2)
+http://138.36.253.106:8066/play/a02e/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Claro
 http://190.61.101.11:7050/play/a04w/index.m3u8?hls
@@ -1935,6 +2045,12 @@ https://mitv.zplay.cl/Invasiva/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento", Memorias Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TNT Novelas HD
+http://190.217.66.92:8000/play/a0q6/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TNT Series HD
+http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento", XtremaTV
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
@@ -2267,29 +2383,55 @@ https://jmp2.uk/stvp-ES5000001CS
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby First (Usa)
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby First 
 http://190.61.101.11:7050/play/a07p/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito (Usa)
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby First (Opc.2)
+http://138.36.253.106:8066/play/a00e/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Dos Kids
+http://138.36.253.106:8066/play/a00i/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito
 http://190.61.101.11:7050/play/a08d/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr (Usa)
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr
 http://190.61.101.11:7050/play/a08e/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr (Usa)
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr(Opc.2)
+http://190.217.66.92:8000/play/a0ga/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr
 http://190.61.101.11:7050/play/a092/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network HD (Usa)
-http://190.61.101.11:7050/play/a04x/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon (Usa)
-http://190.61.101.11:7050/play/a093/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney (Usa)
-http://190.61.101.11:7050/play/a05y/index.m3u8?hls
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Discovery Kids
+http://138.36.253.106:8066/play/a00d/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network
+http://190.61.101.11:7050/play/a04x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network (Opc.2)
 http://24.152.53.3:8090/play/a01e/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network (Opc.3)
+http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon
+http://190.61.101.11:7050/play/a093/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",FMH Kids
+http://138.36.253.106:8066/play/a00c/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Chanel
+http://190.61.101.11:7050/play/a05y/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Chanel (Opc.2)
+http://138.36.253.106:8066/play/a00g/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Chanel (Opc.3)
+http://190.217.66.92:8000/play/a0db/index.m3u8u?hls
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png" group-title="Infantiles", Caillou (ES)
 https://jmp2.uk/stvp-ES4800002OZ
@@ -2678,6 +2820,39 @@ http://190.61.101.11:7050/play/a06j/index.m3u8?hls
 #EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 6 HD
 http://190.61.101.11:7050/play/a05e/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN (Opc.2)
+http://190.217.66.92:8000/play/a0di/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2 Latin (Opc.2)
+http://190.217.66.92:8000/play/a0dh/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2 (Opc.2)
+http://190.217.66.92:8000/play/a0gd/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 3 HD (Opc.2)
+http://190.217.66.92:8000/play/a0q7/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 4 HD (Opc.2)
+http://190.217.66.92:8000/play/a0po/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 5 HD (Opc.2)
+http://190.217.66.92:8000/play/a0q4/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 6 (Opc.2)
+http://190.217.66.92:8000/play/a0e2/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 7 
+http://190.217.66.92:8000/play/a0e1/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN CO (Opc.2)
+http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN HD (Opc.2)
+http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Premium HD (Opc.2)
+http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Canal del Futbol (Ecuador)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
@@ -2688,10 +2863,16 @@ https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Win_Sports.png" group-title="Deportes",Win Sports
+http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Win play (Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Win+
+http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TyC_Sports_logo.png" group-title="Deportes",TyC Sports Play (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
