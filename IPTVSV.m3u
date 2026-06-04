@@ -713,7 +713,7 @@ https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV (Guayas)
 https://eu1.servers10.com:8081/8108/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Con                                          º                                                                                                  tivision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Ecuador",Canal Contivision
 https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
 
 
@@ -846,7 +846,7 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 http://138.36.253.106:8066/play/a006/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Chile",Canal 13 (Nacional)
-https://redirector.dps.live/hls/13cl/playlist.m3u8
+http://138.36.253.106:8066/play/a00a/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Chile",13 Go (Nacional)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
