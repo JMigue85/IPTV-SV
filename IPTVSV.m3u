@@ -1461,10 +1461,10 @@ https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",FMH Family
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",FMH Family
 http://138.36.253.106:8066/play/a015/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",FMH Movies
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",FMH Movies
 http://138.36.253.106:8066/play/a019/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal
@@ -1528,52 +1528,52 @@ http://138.36.253.106:8066/play/a018/index.m3u8?hls
 EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Warner Channel HD (Opc.3)
 http://190.217.66.92:8000/play/a0de/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Cinecanal
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cinecanal
 http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Cinemax
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cinemax
 http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden HD
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Golden HD
 http://138.36.253.106:8066/play/a01x/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden Plus HD
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Golden Plus HD
 http://138.36.253.106:8066/play/a01y/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden Edge HD
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Golden Edge HD
 http://138.36.253.106:8066/play/a01z/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Golden Premier HD
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Golden Premier HD
 http://138.36.253.106:8066/play/a020/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Classic
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",MX Classic
 http://138.36.253.106:8066/play/a01g/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Prime
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",MX Prime
 http://138.36.253.106:8066/play/a01i/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Old
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",MX Old
 http://138.36.253.106:8066/play/a01j/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",MX Family
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",MX Family
 http://138.36.253.106:8066/play/a01k/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Multipremier
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Multipremier
 http://138.36.253.106:8066/play/a029/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Space
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Space
 http://138.36.253.106:8066/play/a01b/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Space (Opc.2)
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Space (Opc.2)
 http://190.217.66.92:8000/play/a0fe/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",Star Channel
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Star Channel
 http://138.36.253.106:8066/play/a021/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",FX
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",FX
 http://190.217.66.92:8000/play/a0ff/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Peliculas",AXN
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",AXN
 http://190.217.66.92:8000/play/a0fd/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",De Película
