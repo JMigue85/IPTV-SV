@@ -845,13 +845,13 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red (Nacional)[Ooc.2]
 http://138.36.253.106:8066/play/a006/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Chile",Canal 13 (Nacional)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (Nacional)
 http://138.36.253.106:8066/play/a00a/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Chile",13 Go (Nacional)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",13 Go (Nacional)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chile",13 Internacional (Nacional)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png" group-title="Chile",13 Internacional (Nacional)
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Chile", 13 Realidades (Nacional)
@@ -1216,11 +1216,10 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Anime",Animotion
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/164/246/png-transparent-im-hd-logo.png" group-title="Anime",Animotion
 http://138.36.253.106:8066/play/a00h/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Anime",Bitme (México)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme (México)
 http://138.36.253.106:8066/play/a024/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
@@ -1460,19 +1459,19 @@ https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",FMH Family
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_FAMILY.png" group-title="Cine / Películas",FMH Family
 http://138.36.253.106:8066/play/a015/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",FMH Movies
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas",FMH Movies
 http://138.36.253.106:8066/play/a019/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas",Studio Universal
 http://24.152.53.3:8090/play/a01b/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal(Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas",Studio Universal(Opc.2)
 http://138.36.253.106:8066/play/a01c/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Studio Universal(Opc.3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas",Studio Universal(Opc.3)
 http://190.217.66.92:8000/play/a0gc/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Universal TV HD
