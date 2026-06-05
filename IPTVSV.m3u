@@ -2953,7 +2953,7 @@ https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",FOX + PREMIER LIGA
+#EXTINF:-1 tvg-logo="" group-title="Deportes",FOX + PREMIER LIGA (MPV)
 http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes",FOX Sports 2 (USA)
