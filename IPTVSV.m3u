@@ -2084,7 +2084,7 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento", Red TV Shop (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Coral TV (Bolivia)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Entretenimiento",Coral TV (Bolivia)
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Entretenimiento", Unifranz (Bolivia)
@@ -2093,10 +2093,10 @@ https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="Entretenimiento",Orbit TV (Rep. Dominicana)[No 24/7]
 https://edge.essastream.com/orbittv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 36 Cotubanama TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="Entretenimiento",Canal 36 Cotubanama TV (República Dominicana)
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 8 Telenord (República Dominicana)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Entretenimiento",Canal 8 Telenord (República Dominicana)
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento",Apanines TV
@@ -2177,7 +2177,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Informativos", Canal Parlamento Jalisco (Guadalajara)
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Informativos",Canal CVI Cubavision (Cuba)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZHm9f6.png" group-title="Informativos",Canal CVI Cubavision (Cuba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -2387,44 +2387,43 @@ http://138.36.253.106:8066/play/a00e/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrtLVj5.jpeg" group-title="Infantiles",Dos Kids
 http://138.36.253.106:8066/play/a00i/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantiles",Cartoonito
 http://190.61.101.11:7050/play/a08d/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles",Disney Jr
 http://190.61.101.11:7050/play/a08e/index.m3u8?hls
 
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Jr(Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles",Disney Jr(Opc.2)
 http://190.217.66.92:8000/play/a0ga/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",Nick Jr
 http://190.61.101.11:7050/play/a092/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles",Discovery Kids
 http://138.36.253.106:8066/play/a00d/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network
 http://190.61.101.11:7050/play/a04x/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network (Opc.2)
 http://24.152.53.3:8090/play/a01e/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network (Opc.3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network (Opc.3)
 http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon
 http://190.61.101.11:7050/play/a093/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",FMH Kids
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_KIDS.png" group-title="Infantiles",FMH Kids
 http://138.36.253.106:8066/play/a00c/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Chanel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel
 http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Chanel (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel (Opc.2)
 http://138.36.253.106:8066/play/a00g/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Chanel (Opc.3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel (Opc.3)
 http://190.217.66.92:8000/play/a0db/index.m3u8u?hls
 
 
@@ -2668,7 +2667,7 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música", AE Radio TV (Chile)
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.populartv.cl/wp-content/uploads/elementor/thumbs/Logo-en-PNG-con-tipografia-polbioybcx24gunnadhprzcqp2wqxwbpofdcvojex8.png" group-title="Música",La Popular TV (Chile)
+#EXTINF:-1 tvg-logo="https://populartv.cl/wp-content/uploads/2026/05/lapopu.png" group-title="Música",La Popular TV (Chile)
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-CLASSIC-OK-png-.png" group-title="Música",Memorias Classic (Chile)
@@ -2749,7 +2748,7 @@ https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música", Verbena TV (España)
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiodancefm.es/wp-content/uploads/2023/09/PLAY-FM-logo-new-05-2026.pngg" group-title="Música", Dance FM (España)
+#EXTINF:-1 tvg-logo="https://dancefm.es/wp-content/uploads/2020/04/logo-web-png-1024x169.png" group-title="Música", Dance FM (España)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Música", Sol Música (España)
@@ -2779,177 +2778,177 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qQSXSYQ/Sport-Max-News.png" group-title="Deportes",SportMax News
 https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Mundo Deportivo
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/mundo-deportivo-logo.png" group-title="Deportes",Mundo Deportivo
 http://190.61.101.11:7050/play/a09g/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/ESPN_logo.svg" group-title="Deportes",ESPN (Colombia)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN HD
 http://190.61.101.11:7050/play/a09k/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD
 http://190.61.101.11:7050/play/a05c/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/ESPN3_logo.png" group-title="Deportes",ESPN 3 (México)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (México)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/102/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD
 http://190.61.101.11:7050/play/a05d/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD
 http://190.61.101.11:7050/play/a08p/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 5 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 5 HD
 http://190.61.101.11:7050/play/a06j/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 6 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 6 HD
 http://190.61.101.11:7050/play/a05e/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN (Opc.2)
 http://190.217.66.92:8000/play/a0di/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2 Latin (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 Latin (Opc.2)
 http://190.217.66.92:8000/play/a0dh/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2 (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (Opc.2)
 http://190.217.66.92:8000/play/a0gd/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 3 HD (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD (Opc.2)
 http://190.217.66.92:8000/play/a0q7/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 4 HD (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD (Opc.2)
 http://190.217.66.92:8000/play/a0po/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 5 HD (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 5 HD (Opc.2)
 http://190.217.66.92:8000/play/a0q4/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 6 (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 6 (Opc.2)
 http://190.217.66.92:8000/play/a0e2/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 7 
 http://190.217.66.92:8000/play/a0e1/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN CO (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN CO (Opc.2)
 http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN HD (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN HD (Opc.2)
 http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Premium HD (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium HD (Opc.2)
 http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Canal del Futbol (Ecuador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Win_Sports.png" group-title="Deportes",Win Sports (Colombia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports (Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Win_Sports.png" group-title="Deportes",Win Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports
 http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Win play (Colombia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win play (Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Win+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes",Win+
 http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TyC_Sports_logo.png" group-title="Deportes",TyC Sports Play (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports Play (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TNT_Sports_Argentina_Logo.png" group-title="Deportes",TNT Sports (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Movistar_Plus%2B_2023_logo.png" group-title="Deportes",Movistar Plus+ (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Deportes",Movistar Plus+ (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/155/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdfQ9gA.png" group-title="Deportes",M+ Liga de Campeones v2 (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FReScI8.png" group-title="Deportes",M+ Liga de Campeones v2 (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/173/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdfQ9gA.png" group-title="Deportes",M+ Liga de Campeones (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FReScI8.png" group-title="Deportes",M+ Liga de Campeones (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHqQ9gX.png" group-title="Deportes",M+ LaLiga TV (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6P9U8O.png" group-title="Deportes",M+ LaLiga TV (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/172/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHqQ9gX.png" group-title="Deportes",M+ LaLiga TV v2 (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6P9U8O.png" group-title="Deportes",M+ LaLiga TV v2 (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/132/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FwF4m9Z.png" group-title="Deportes",M+ Deportes v2 (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8slBAa.png" group-title="Deportes",M+ Deportes v2 (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/171/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FwF4m9Z.png" group-title="Deportes",M+ Deportes (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8slBAa.png" group-title="Deportes",M+ Deportes (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/131/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/LaLiga_Hypermotion_logo.png" group-title="Deportes",LaLiga Hypermotion v2 (España)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/laliga-hypermotion-logo-png_seeklogo-516143.png" group-title="Deportes",LaLiga Hypermotion v2 (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/152/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/LaLiga_Hypermotion_logo.png" group-title="Deportes",LaLiga Hypermotion (España)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/laliga-hypermotion-logo-png_seeklogo-516143.png" group-title="Deportes",LaLiga Hypermotion (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/59/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/DAZN_LALIGA_Logo.png" group-title="Deportes",DAZN LaLiga v2 (España)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="Deportes",DAZN LaLiga v2 (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/160/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/DAZN_LALIGA_Logo.png" group-title="Deportes",DAZN LaLiga (España)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="Deportes",DAZN LaLiga (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_Logo.svg" group-title="Deportes",DAZN España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Deportes",DAZN España
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/92/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN App (USA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN App (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/103/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN+ (USA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN+ (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",FOX One (USA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",FOX One (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
@@ -2957,47 +2956,47 @@ https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",FOX + PREMIER LIGA
 http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",FOX Sports 2 (USA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes",FOX Sports 2 (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",FOX Sports 2 (USA)[Opc. 2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes",FOX Sports 2 (USA)[Opc. 2]
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3
 http://24.152.53.3:8090/play/a011/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 3 (Opc. 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 (Opc. 2)
 http://24.152.53.3:8090/play/a01p/index.m3u8?
 
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Soccer Plus (USA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="Deportes",Fox Soccer Plus (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",CBS Sports Network (USA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Deportes",CBS Sports Network (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Sky Go (Reino Unido)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Go (Reino Unido)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Vix La Liga
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIplC7X.png" group-title="Deportes",Vix La Liga
 http://24.152.53.3:8090/play/a00v/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Sky Sports LaLiga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga
 http://24.152.53.3:8090/play/a00y/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",TUDN (México)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
 http://24.152.53.3:8090/play/a012/index.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Vix La Liga (Opc. 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIplC7X.png" group-title="Deportes",Vix La Liga (Opc. 2)
 http://24.152.53.3:8090/play/a01j/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
