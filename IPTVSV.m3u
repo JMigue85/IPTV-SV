@@ -2989,7 +2989,7 @@ http://190.61.101.11:7050/play/a06j/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 6 HD
 http://190.61.101.11:7050/play/a05e/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (Opc.2)
 http://190.217.66.92:8000/play/a0di/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 Latin (Opc.2)
@@ -3023,25 +3023,25 @@ http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
 http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
 
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0a9.png",ESPN HD (Opc.3)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN HD (Opc.3)
 http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0dp.png",ESPN 2 HD (Opc.3)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",ESPN 2 HD (Opc.3)
 http://astra.fibernetisp.com.co/play/a0dp/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0jc.png",ESPN 3 HD (Opc.3)
-http://astra.fibernetisp.com.co/play/a0jc/index.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0it.png",ESPN 4 HD (Opc.3)
-http://astra.fibernetisp.com.co/play/a0it/index.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0id.png",ESPN 5 HD (Opc.3)
-http://astra.fibernetisp.com.co/play/a0id/index.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a076.png",ESPN 2 LATAM HD (Opc.3)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",ESPN 2 LATAM HD (Opc.3)
 http://astra.fibernetisp.com.co/play/a076/index.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0ae.png",ESPN 6 HD (Opc.3)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",ESPN 3 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0jc/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",ESPN 4 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0it/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN 5 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0id/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN 6 HD (Opc.3)
 http://astra.fibernetisp.com.co/play/a0ae/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)
@@ -3057,11 +3057,8 @@ https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports
 http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a04g.png",Win Sports SD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports SD
 http://astra.fibernetisp.com.co/play/a04g/index.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0b2.png",Win Sports+ HD
-http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win play (Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -3070,6 +3067,9 @@ https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes",Win+
 http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/0UN87vB.png",Win Sports+ HD
+http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports Play (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -3262,10 +3262,10 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)[720p]
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0tj.png",Azteca Deportes Network
-http://astra.fibernetisp.com.co/play/a0tj/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",Azteca Deportes Network
+https://mdstrm.com/live-stream-playlist/6994be4d5caab0723aaab37c.m3u8?uid=C3EuIngpsAFpwVWW520SV9xkfstZtzqe&sid=M3vIFgLcjJ9wmmna6xWlV0a6eITPDZyP&pid=7e177jEB0MjNuyKHEQWGElOOEZoIz6ce&pid_dvr=w1uc0UxmcAcTdCXW85mv7fJ9sJ6fYsHj&access_token=1iUAtZfsdfn7GDom8pUfL3OaDPQDHKYlFk966UZfNjE0Ub1e3OdgAVlrFwsaGhPWiBQlnkQbA8q
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0tj.png",Azteca Deportes Network(Opc.2)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",Azteca Deportes Network(Opc.2)
 http://190.61.101.11:7050/play/a08l/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes", Azteca Deportes Network 3
