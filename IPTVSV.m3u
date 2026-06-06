@@ -2014,6 +2014,9 @@ http://astra.fibernetisp.com.co/play/a0j7/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0k8.png",TNT Novelas HD
 http://astra.fibernetisp.com.co/play/a0k8/index.m3u8
 
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas
+http://190.61.101.11:7050/play/a07q/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
