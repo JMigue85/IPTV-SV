@@ -1914,6 +1914,9 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento",Azteca Internacional
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7Ejid0.png" group-title="Entretenimiento",Azmundo
+http://190.61.101.11:7050/play/a076/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="Entretenimiento",Caracol Internacional
 http://190.61.101.11:7050/play/a060/index.m3u8?hls
 
@@ -2025,6 +2028,9 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento",Azcorazon
+http://190.61.101.11:7050/play/a08h/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento",Novelísima
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
@@ -3261,6 +3267,9 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0tj.png",Azteca Deportes Network
 http://astra.fibernetisp.com.co/play/a0tj/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0tj.png",Azteca Deportes Network(Opc.2)
+http://190.61.101.11:7050/play/a08l/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes", Azteca Deportes Network 3
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
