@@ -494,7 +494,7 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia", RCN Mas + (Internacional)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title=""Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a03s.png",RCN HD
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a03s.png",RCN HD
 http://astra.fibernetisp.com.co/play/a03s/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0b5.png",Canal RCN FHD
@@ -2515,7 +2515,7 @@ http://138.36.253.106:8066/play/a00i/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantiles",Cartoonito
 http://190.61.101.11:7050/play/a08d/index.m3u8?hls
 
-#EXTINF:-1 group-title="Autorizados" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0t7.png",Cartoonito (Opc.2)
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0t7.png",Cartoonito (Opc.2)
 http://astra.fibernetisp.com.co/play/a0t7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles",Disney Jr
