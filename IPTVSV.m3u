@@ -2978,11 +2978,17 @@ https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mrdkbnVk/0-16x9-2.png.png" group-title="Deportes",  Canela TV Deportes (Internacional)
 https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMfjPb8V/0-16x9-1.png" group-title="Deportes", .TV Combat (Internacional)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMfjPb8V/0-16x9-1.png" group-title="Deportes", TV Combat (Internacional)
 https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channeld-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5x7Vq43/Combatv.png" group-title="Deportes", CombaTV (Internacional)
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HD1vwSR2/aab84e3a60f3c340d20f688f4d796069.png" group-title="Deportes",Lucha Plus (Internacional)
 https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTBsnpVv/SFT-Combat.png" group-title="Deportes", SFT Combat (BR)
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJXyWhyH/bein-logo-af017869.png" group-title="Deportes", beIN Sports (Internacional)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
@@ -3000,7 +3006,19 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (ES) (Internacional)
-https://87bb29fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8 
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (ES) (Internacional)[Opc.2]
+https://87bb29fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W361JcJk/logo-de-fifa-plus.png" group-title="Deportes",FIFA+ (EN) (Internacional)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça [ES]
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça [EN]
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes", Real Madrid TV (España)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -3319,8 +3337,6 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMhWB50y/OIP.png" group-title="Deportes", Women's Sports Network (EE.UU.) [EN]
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça (EE.UU.) [EN]
-https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/08/mtrspt1.png" group-title="Deportes", MTRSPT1 (EE.UU.) [EN]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
