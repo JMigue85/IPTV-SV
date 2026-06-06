@@ -1249,8 +1249,11 @@ http://138.36.253.106:8066/play/a00h/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme (México)
 http://138.36.253.106:8066/play/a024/index.m3u8?hls
 
-#EXTINF:-1 group-title="Anime" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0jl.png",Adult Swim
+#EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim
 http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim (Opc.2)
+http://190.61.101.11:7050/play/a08g/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cdn.energeek.cl/hls/energeekfan.m3u8
