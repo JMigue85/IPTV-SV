@@ -649,7 +649,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador", TVC (Nacional)
 https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
 
-#EXTINF:-1 group-title="Ecuador" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0ov.png",Televicentro (Nacional)
+#EXTINF:-1 group-title="Ecuador" tvg-logo="https://i.imgur.com/zhdIwlm.png",TVC (Nacional) [Opc.2]
 http://astra.fibernetisp.com.co/play/a0ov/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", Ecuador TV (Nacional)
