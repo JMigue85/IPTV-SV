@@ -500,25 +500,25 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia", RCN Mas + (Internacional)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a03s.png",RCN HD
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN HD
 http://astra.fibernetisp.com.co/play/a03s/index.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0b5.png",Canal RCN FHD
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",Canal RCN FHD
 http://astra.fibernetisp.com.co/play/a0b5/index.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0e3.png",Canal RCN 2 TDT
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/SrMPTfc.png",Canal RCN 2 TDT
 http://astra.fibernetisp.com.co/play/a0e3/index.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a03r.png",Caracol HD
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD
 http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0tf.png",Caracol HD (Opc.2)
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD (Opc.2)
 http://astra.fibernetisp.com.co/play/a0tf/index.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0b4.png",Canal Caracol FHD
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Canal Caracol FHD
 http://astra.fibernetisp.com.co/play/a0b4/index.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0e2.png",Canal Caracol 2 TDT
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Canal Caracol 2 TDT
 http://astra.fibernetisp.com.co/play/a0e2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia", Señal Colombia (Nacional)
