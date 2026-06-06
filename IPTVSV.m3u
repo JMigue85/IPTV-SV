@@ -381,7 +381,7 @@ http://24.152.53.3:8090/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas (Nacional)[Opc.3]
 http://190.217.66.92:8000/play/a0e0/index.m3u8u?hls
 
-#EXTINF:-1 group-title="-" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0ac.png",Las Estrellas (Nacional)[Opc.4]
+#EXTINF:-1 group-title="México" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0ac.png",Las Estrellas (Nacional)[Opc.4]
 http://astra.fibernetisp.com.co/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 (Nacional)
@@ -1596,7 +1596,7 @@ http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 #EXTINF:-1 group-title="Cine / Películas" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a05l.png",Cinemax HD (Opc.2)
 http://astra.fibernetisp.com.co/play/a05l/index.m3u8
 
-#EXTINF:-1 group-title="-" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium
+#EXTINF:-1 group-title="Cine / Películas" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium
 http://astra.fibernetisp.com.co/play/a0to/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas",Golden HD
@@ -1611,7 +1611,7 @@ http://138.36.253.106:8066/play/a01y/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas",Golden Edge HD
 http://138.36.253.106:8066/play/a01z/index.m3u8?hls
 
-#EXTINF:-1 group-title="-" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0m8.png",Golden EDGE HD (Opc.2)
+#EXTINF:-1 group-title="Cine / Películas" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0m8.png",Golden EDGE HD (Opc.2)
 http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas",Golden Premier HD
@@ -1873,7 +1873,7 @@ http://190.61.101.11:7050/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision HD (LATAM)[Opc.2]
 http://24.152.53.3:8090/play/a019/index.m3u8?
 
-#EXTINF:-1 group-title="-" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0ma.png",Univision HD (LATAM)[Opc.3]
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0ma.png",Univision HD (LATAM)[Opc.3]
 http://astra.fibernetisp.com.co/play/a0ma/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Entretenimiento",Unimas(USA)
@@ -1887,7 +1887,7 @@ http://190.61.101.11:7050/play/a080/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Internacional)[Opc.2]
 http://190.217.66.92:8000/play/a0e3/index.m3u8u?hls
 
-#EXTINF:-1 group-title="-" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0af.png",Telemundo (Internacional)[Opc.3]
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0af.png",Telemundo (Internacional)[Opc.3]
 http://astra.fibernetisp.com.co/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo (Puerto Rico)
@@ -3244,7 +3244,7 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)[720p]
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
 
-#EXTINF:-1 group-title="-" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0tj.png",Azteca Deportes Network
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0tj.png",Azteca Deportes Network
 http://astra.fibernetisp.com.co/play/a0tj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes", Azteca Deportes Network 3
