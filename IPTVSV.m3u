@@ -3637,9 +3637,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
 #EXTINF:-1 group-title="FreeTV" tvg-logo="https://directorioa1.com/wp-content/uploads/2020/06/logo-freetv-blog-directorioa1.jpg", FreeTV Clásico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
 
-#EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fdee7faf-762e-4e84-89a7-288b1d2e469b/FreeTVSaberMas_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Saber Más
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
-
 #EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a114420b-6a40-4d05-af07-b95c95525420/FreeTVHits_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
 
