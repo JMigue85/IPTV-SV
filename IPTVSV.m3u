@@ -1335,8 +1335,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068
 
 
 
-
-
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine / Películas", ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
@@ -1344,44 +1343,140 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas",Cine53
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas", Cine53
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Cine / Películas", NEO TV Digital -No 24/7-
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Cine / Películas", GAMTV.cr (Costa Rica)
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas",Canal 69 TV
+#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas", Canal 69 TV
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas",Opinión Sur Cine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas", Opinión Sur Cine
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Cine / Películas",Codigo TV (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="Cine / Películas", El Mago TV 2
+https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Cine / Películas", Pituco tv
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkDnDWgM/Soy-TVPlus.png" group-title="Cine / Películas", Canal ZoyTV Plus
+https://tv.zoymilton.com/ZoyPlus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wF1rzvyB/GO-TV.png" group-title="Cine / Películas", GO TV
+https://lbgo.bozztv.com/ssh101/ssh101/gotvclick/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5Fzf0gk/Mittos-TV.png" group-title="Cine / Películas", Mittos TV
+https://lbgo.bozztv.com/ssh101/ssh101/tv777lv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPt0yF8q/MCU-TV.png" group-title="Cine / Películas", MCU TV
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="Cine / Películas", Ipersonica
+https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7txS72SM/Play-Cine-TV.png" group-title="Cine / Películas", Play Cine TV
+https://lbgo.bozztv.com/ssh101/ssh101/plaaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Cine / Películas", Alternativa TV
+https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision
+https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q30mq4cv/PRITV.png" group-title="Cine / Películas", PRITV
+https://lbgo.bozztv.com/ssh101/ssh101/tv1251master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3bPH59x/Contact-TV.png" group-title="Cine / Películas", ContacTV
+https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies
+https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Cine / Películas", Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2N0Gn7b/retroxplus.png" group-title="Cine / Películas", RETROX PLUS
+https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV (Películas Retro)
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine / Películas", Mi Televisión
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Cine / Películas", Retro TV
+https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine / Películas", TV Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas", Tele Clásicos
+https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine / Películas", MultiVox Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Cine / Películas", Codigo TV (Rep. Dominicana)
 https://edge.essastream.com/codigotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ps0Z6mkD/Exito-Multimedia.png" group-title="Cine / Películas",Exito Multimedia (Paraguay)
-https://edge.enhdtv.com/exitotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdGZ8hkg/xtra-tv.png" group-title="Cine / Películas",Xtra TV (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdGZ8hkg/xtra-tv.png" group-title="Cine / Películas", Xtra TV (Rep. Dominicana)
 https://edge.essastream.com/xtratv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Cine / Películas",Imagen Universal (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Cine / Películas", Imagen Universal (Rep. Dominicana)
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="Cine / Películas",El Mago TV 2
-https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Cine / Películas", Ready TV (La Vega, Rep. Dominicana)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas",Canal Onza TV (Venezuela)
-https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/el-70-tv.png" group-title="Cine / Películas", El 70 TV (Rep. Dominicana)
+https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", Crom TV (Rep. Dominicana)
+https://fox.hostlagarto.com:8081/cromtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="Cine / Películas", Canal Telemax RD (República Dominicana)
+https://edge.essastream.com/telemax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uODDaEY.png" group-title="Cine / Películas", Mi Turno TV (Rep. Dominicana)
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Cine / Películas", GAMTV.cr (Costa Rica)
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Cine / Películas", TV Sur Canal 9 (Pérez Zeledón)
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Cine / Películas", Limón TV (Limón)
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Cine / Películas", Sarapiquí TV (Heredia)
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Cine / Películas", Super Cable (Grecia)
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Cine / Películas", Canal 3 KMK TV (Los Pinos)
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Cine / Películas", 360 RFTV (San José)
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Cine / Películas", NEO TV Digital -No 24/7-
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Cine / Películas", Bayres TV -Clasicos- (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -1395,106 +1490,27 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Cine / Películas", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Cine / Películas",Pituco tv
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Cine / Películas", Quántica TV (San Vicente - Buenos Aires)
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MkDnDWgM/Soy-TVPlus.png" group-title="Cine / Películas",Canal ZoyTV Plus
-https://tv.zoymilton.com/ZoyPlus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine / Películas", Cosmos TV (Formosa / Argentina)
+https://canaletaplus.com:3922/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wF1rzvyB/GO-TV.png" group-title="Cine / Películas",GO TV
-https://lbgo.bozztv.com/ssh101/ssh101/gotvclick/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Cine / Películas", Canal 7 Salta (Salta / Argentina)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5Fzf0gk/Mittos-TV.png" group-title="Cine / Películas",Mittos TV
-https://lbgo.bozztv.com/ssh101/ssh101/tv777lv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPt0yF8q/MCU-TV.png" group-title="Cine / Películas",MCU TV
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="Cine / Películas",Ipersonica
-https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7txS72SM/Play-Cine-TV.png" group-title="Cine / Películas",Play Cine TV
-https://lbgo.bozztv.com/ssh101/ssh101/plaaytv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Cine / Películas",Alternativa TV
-https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas",Fabian Vision
-https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q30mq4cv/PRITV.png" group-title="Cine / Películas",PRITV
-https://lbgo.bozztv.com/ssh101/ssh101/tv1251master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3bPH59x/Contact-TV.png" group-title="Cine / Películas",ContacTV
-https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas",WOW Movies
-https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Cine / Películas",Mix Bolivia TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Cine / Películas", Mix Bolivia TV
 https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Cine / Películas", Canal Pulpo TV
-https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", Canal 24 Multivision (Bolivia)
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine / Películas", Metro TV -No 24/7-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Cine / Películas", UPEA TV (El Alto)
+#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/el-70-tv.png" group-title="Cine / Películas",El 70 TV (Rep. Dominicana)
-https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine / Películas",FilmRise Películas Gratis
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine / Películas",Popcorn Central
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine / Películas",Cindie Lite
-https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine / Películas",Zee Mundo
-https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine / Películas", Box Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine / Películas",Runtime Español
-https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine / Películas", Bjgtjme Películas Gratis
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Cine / Películas", VB Media TV (México)
-https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Cine / Películas",Norte Informativo TV (San Carlos)
-https://videohd.live:19360/8076/8076.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Cine / Películas",TV Sur Canal 9 (Pérez Zeledón)
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Cine / Películas",Limón TV (Limón)
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Cine / Películas",Sarapiquí TV (Heredia)
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Cine / Películas",Super Cable (Grecia)
-http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Cine / Películas", Canal 3 KMK TV (Los Pinos)
-https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Cine / Películas",360 RFTV (San José)
-https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Cine / Películas", F10 HD (El Alto / La Paz / Bolivia)
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Cine / Películas", Majestad Televisión (Santo Domingo)
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
@@ -1514,113 +1530,99 @@ https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Cine / Películas", Plus TV [No 24/7] (Santo Domingo)
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas", Pantalla Clásica EC (Ecuador)
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Cine / Películas", VB Media TV (México)
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G6SnV75.png" group-title="Cine / Películas", Canal Teleclasica (México)
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ps0Z6mkD/Exito-Multimedia.png" group-title="Cine / Películas", Exito Multimedia (Paraguay)
+https://edge.enhdtv.com/exitotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV (Venezuela)
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Cine / Películas", Canal 8 Catacaos [No 24/7] (Piura)
 https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="Cine / Películas", Nativa TV Satipo [No 24/7] (Junín)
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Cine / Películas",Visión NDV (Pucallpa)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Cine / Películas", Visión NDV (Pucallpa)
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Cine / Películas", Teleselva [No 24/7] (Satipo - Junín)
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV  [Not 24/7] (Copiapó - Atacama)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama)
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Cine / Películas", Quántica TV (San Vicente - Buenos Aires)
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine / Películas",Visión Dorada TV (La Dorada / Caldas / Colombia)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Cine / Películas", Visión Dorada TV (La Dorada / Caldas / Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Crom TV (Rep. Dominicana)
-https://fox.hostlagarto.com:8081/cromtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine / Películas", Metro TV -No 24/7-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine / Películas",Cosmos TV (Formosa / Argentina)
-https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Cine / Películas", FilmRise Películas Gratis
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Cine / Películas", Canal 7 Salta (Salta / Argentina)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Cine / Películas", Popcorn Central
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Canal 24 Multivision (Bolivia)
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine / Películas", Cindie Lite
+https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Cine / Películas", UPEA TV (El Alto)
-#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
-https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine / Películas", Zee Mundo
+https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Cine / Películas", F10 HD (El Alto / La Paz / Bolivia)
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine / Películas", Box Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="Cine / Películas",Canal Telemax RD (República Dominicana)
-https://edge.essastream.com/telemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine / Películas", Runtime Español
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film
-https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine / Películas", Bjgtjme Películas Gratis
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2N0Gn7b/retroxplus.png" group-title="Cine / Películas",RETROX PLUS
-https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Cine / Películas", Norte Informativo TV (San Carlos)
+https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="Cine / Películas", Cine Estrella
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5WLzqRXY/Latino-Classic-TV.png" group-title="Cine / Películas", Latino Classic TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WLzqRXY/Latino-Classic-TV.png" group-title="Cine / Películas", Latino Classic TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine / Películas",Cine en Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine / Películas", Cine en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=s-LCv6BwD-9AmtyXYc67
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine / Películas",Todo Cine
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine / Películas", Todo Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472b186783f359e.m3u8?X-Plex-Token=ZM-hxdz1yNmR9tokPfyJ
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjxKpHQB/ORO-Tv-1920-X1080-JPG-RDX-1.png" group-title="Cine / Películas",Oro TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjxKpHQB/ORO-Tv-1920-X1080-JPG-RDX-1.png" group-title="Cine / Películas", Oro TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64f0db77c2bc9b9001d46eaa.m3u8?X-Plex-Token=VxmMXSQVcfo9G5eXyKfd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas",Pantalla Clásica EC (Ecuador)
-https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV (Películas Retro)
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Cine / Películas",Mi Televisión
-https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Cine / Películas", Retro TV
-https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine / Películas", TV Retro Palmares
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas",Tele Clásicos
-https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G6SnV75.png" group-title="Cine / Películas",Canal Teleclasica (México)
-https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uODDaEY.png" group-title="Cine / Películas",Mi Turno TV (Rep. Dominicana)
-https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas",Monte Grande TV Movies
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Movies
 https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas",Monte Grande TV Acción
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Acción
 https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas",Monte Grande TV Family
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Family
 https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas",Monte Grande TV Comedy
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Comedy
 https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine / Películas",Cine de Horror
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine / Películas", Cine de Horror
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=b1EtektCx21hyn2XexED
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Cine / Películas",Cine de Terror Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Cine / Películas", Cine de Terror Español
 https://live20.bozztv.com/giatvplayout7/giatv-211420/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-México-mx.png" group-title="Cine / Películas", MyTime Movie Network (México)(ES)
@@ -1642,20 +1644,19 @@ https://jmp2.uk/stvp-ESBC2700012RP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBZbx9Ts/artflix-es.png" group-title="Cine / Películas", Artflix - Películas Clásicas (ES)
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png" group-title="Cine / Películas",Grjngo - Películas Del Oeste
+#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png" group-title="Cine / Películas", Grjngo - Películas Del Oeste
 https://jmp2.uk/stvp-ESBC2700002LO
 
-#EXTINF:-1 tvg-id="ES2300005G7" tvg-name="ES2300005G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas",Cine Western
+#EXTINF:-1 tvg-id="ES2300005G7" tvg-name="ES2300005G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas", Cine Western
 https://jmp2.uk/stvp-ES2300005G7
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine / Películas", MultiVox Accion
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine / Películas", MultiVox La India (SUB/IA DUB)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESBC40000248" tvg-name="ESBC40000248" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png" group-title="Cine / Películas",Action Movie Channel (SUB)
+#EXTINF:-1 tvg-id="ESBC40000248" tvg-name="ESBC40000248" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png" group-title="Cine / Películas", Action Movie Channel (SUB)
 https://jmp2.uk/stvp-ESBC40000248
+
+
 
 
 
@@ -1828,8 +1829,11 @@ http://astra.fibernetisp.com.co/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Cine / Películas Premium",FX
 http://190.217.66.92:8000/play/a0ff/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a05p.png",FX (Opc.2)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX (Opc.2)
 http://astra.fibernetisp.com.co/play/a05p/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX (Opc.3)
+http://45.190.185.204:9000/play/a058/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película
 http://24.152.53.3:8090/play/a01f/index.m3u8?
@@ -1933,6 +1937,9 @@ http://astra.fibernetisp.com.co/play/a05n/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series
 http://astra.fibernetisp.com.co/play/a0jh/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series(Opc.2)
+http://45.190.185.204:9000/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpK6HF2Q/Planeta-Radio-TV.png" group-title="Entretenimiento",Planeta Radio TV
 https://lbgo.bozztv.com/ssh101/ssh101/planeta55tv/playlist.m3u8
@@ -2998,6 +3005,11 @@ https://af7e4455.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)[Opc.2]
+http://45.190.185.204:9000/play/a0la/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (México)
+http://45.190.185.204:9000/play/a0lb/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports HD
 http://190.61.101.11:7050/play/a09y/index.m3u8?hls
