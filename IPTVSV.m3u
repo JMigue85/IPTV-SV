@@ -1702,6 +1702,9 @@ http://190.217.66.92:8000/play/a0oo/index.m3u8u?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT (Opc.2)
 http://astra.fibernetisp.com.co/play/a062/index.m3u8
 
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT (Opc.3)
+http://45.190.185.204:9000/play/a0er/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO
 http://138.36.253.106:8066/play/a017/index.m3u8?hls
 
@@ -1763,6 +1766,9 @@ http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (Opc.2)
 http://astra.fibernetisp.com.co/play/a05z/index.m3u8
 
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (Opc.3)
+http://45.190.185.204:9000/play/a0e4/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine / Películas Premium",Cinemax
 http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
@@ -1792,6 +1798,9 @@ http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premier HD
 http://138.36.253.106:8066/play/a020/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premier 2 HD
+http://45.190.185.204:9000/play/a0cu/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LG8wgt1/MX-Classic.png" group-title="Cine / Películas Premium",MX Classic
 http://138.36.253.106:8066/play/a01g/index.m3u8?hls
@@ -2237,8 +2246,11 @@ http://190.217.66.92:8000/play/a0q6/index.m3u8u?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series HD
 http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0ii.png",TNT Series HD (Opc.2)
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series HD (Opc.2)
 http://astra.fibernetisp.com.co/play/a0ii/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series HD (Opc.3)
+http://45.190.185.204:9000/play/a0d9/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento", XtremaTV
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
