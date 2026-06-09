@@ -216,14 +216,31 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder (Nacional)
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder (Nacional)[Opc.2]
+http://45.190.185.204:9000/play/a09s/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 (Nacional)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras",TSi (Nacional)
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras",TSi (Nacional)[Opc.2]
+http://45.190.185.204:9000/play/a061/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV (Nacional)
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV (Nacional)[Opc.2]
+http://45.190.185.204:9000/play/a062/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Teleceiba (Nacional)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://teleceiba.com/en-vivo/
+https://teleceiba.com/stream/tlcb720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Teleceiba (Nacional)[Opc.2]
+http://45.190.185.204:9000/play/a08g/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="Honduras",Q'Hubo TV (Nacional)
 https://amixtv.com:8081/qhubotv/index.fmp4.m3u8
@@ -2107,6 +2124,9 @@ https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="Entretenimiento", TN8 (Nicaragua)
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alba-ni-c10.cdn.mediatiquepress.com/wp-content/uploads/2023/07/a0cd3c0a5e48b34d.png" group-title="Entretenimiento", Canal 10 (Nicaragua)
+http://45.190.185.204:9000/play/a075/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento",WTV Canal 20 (Nicaragua)
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
