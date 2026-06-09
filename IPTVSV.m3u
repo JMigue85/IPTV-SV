@@ -1554,6 +1554,9 @@ http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 http://astra.fibernetisp.com.co/play/a05l/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium
+http://45.190.185.204:9000/play/a0o1/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium [Opc.2]
 http://astra.fibernetisp.com.co/play/a0to/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas",Golden HD
@@ -2981,6 +2984,15 @@ https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/aHl8rpkmcY7D4g==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes",Fox en tubi Xtra (Internacional) [No 24/7]
 https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HN HD
+http://45.190.185.204:9000/play/a0oc/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX CR  HD
+http://45.190.185.204:9000/play/a0oa/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HD GUA
+http://45.190.185.204:9000/play/a0ob/index.m3u8?hls
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
