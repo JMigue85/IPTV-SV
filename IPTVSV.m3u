@@ -3078,6 +3078,9 @@ https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/mundo-deportivo-logo.png" group-title="Deportes",Mundo Deportivo
 http://190.61.101.11:7050/play/a09g/index.m3u8?hls
 
+#EXTINF:-1 group-title="Deportes",CazéTV (BR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)[1080p]
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
 
