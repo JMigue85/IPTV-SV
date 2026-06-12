@@ -491,6 +491,10 @@ https://video0.rogohosting.com:19360/4982/4982.m3u8
 #EXTINF:-1 tvg-logo="https://telemax.com.mx/wp-content/uploads/2026/04/telemax-logo-white.png" group-title="México",Telemax (Sonora)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="México", Unison TV Canal 8 [No 24/7] (Sonora)
+https://stream.unison.mx/hls/unisontvatem.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="México", TV Mar La Paz (Baja California Sur)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 
