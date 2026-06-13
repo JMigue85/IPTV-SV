@@ -1424,6 +1424,7 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+http://205.235.6.29:8000/play/a0y3/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
@@ -1918,6 +1919,9 @@ http://138.36.253.106:8066/play/a02e/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Entretenimiento Premium",Distrito Comedia (Opc.3)
 http://205.235.6.29:8000/play/a0z5/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Entretenimiento Premium",Distrito Comedia (Opc.4)
+http://205.235.6.29:8000/play/a0z3/index.m3u8?hls
+
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central HD
 http://astra.fibernetisp.com.co/play/a0jj/index.m3u8
 
@@ -1948,8 +1952,12 @@ http://205.235.6.29:8000/play/a0wg/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Entretenimiento Premium",Telenovelas de Televisa
 http://205.235.6.29:8000/play/a0xm/index.m3u8?hls
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0j7.png",Pasiones HD
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD
 http://astra.fibernetisp.com.co/play/a0j7/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD[Opc.2]
+http://205.235.6.29:8000/play/a0pl/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT Novelas HD
 http://astra.fibernetisp.com.co/play/a0k8/index.m3u8
@@ -3151,6 +3159,15 @@ http://45.190.185.204:9000/play/a0ob/index.m3u8?hls
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Deportes",Nitro HD Eventos Deportivos
+http://205.235.6.29:8000/play/a0y3/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/mundo-deportivo-logo.png" group-title="Deportes",Mundo Deportivo
+http://190.61.101.11:7050/play/a09g/index.m3u8?hls
+
+#EXTINF:-1 group-title="Deportes",CazéTV (BR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes", Multivisión Sports -Clasicos- (Guatemala)
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
@@ -3160,11 +3177,7 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qQSXSYQ/Sport-Max-News.png" group-title="Deportes",SportMax News
 https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/mundo-deportivo-logo.png" group-title="Deportes",Mundo Deportivo
-http://190.61.101.11:7050/play/a09g/index.m3u8?hls
 
-#EXTINF:-1 group-title="Deportes",CazéTV (BR)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)[1080p]
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
@@ -3224,6 +3237,9 @@ https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
 http://24.152.53.3:8090/play/a012/index.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (V3)
+http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://statics.goltelevision.com/backoffice/public/image/gs_thumb_landscape_GOLCLASSICS_WH_8bc86cec67.jpg", Gol Classics (Internacional)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
@@ -3260,6 +3276,14 @@ https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
 http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports[Opc.2]
+http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Premium
+http://205.235.6.29:8000/play/a104/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/laliga-hypermotion-logo-png_seeklogo-516143.png" group-title="Deportes",LaLiga Hypermotion v2 (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -3437,10 +3461,10 @@ https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Win Sports",Win Sports
 http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports SD
+#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports [Opc.2]
 http://astra.fibernetisp.com.co/play/a04g/index.m3u8
 
-#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports SD[Opc.2]
+#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports [Opc.3]
 http://8.243.126.131:8000/play/a025/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Win Sports",Win play (Colombia)
@@ -3451,7 +3475,10 @@ https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Win Sports",Win+
 http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/0UN87vB.png",Win Sports+ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Win Sports",Win+[Opc.2]
+http://205.235.6.29:8000/play/a10e/index.m3u8?hls
+
+#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/0UN87vB.png",Win+[Opc.3]
 http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
 
 
