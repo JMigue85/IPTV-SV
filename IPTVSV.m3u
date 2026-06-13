@@ -416,7 +416,7 @@ http://astra.fibernetisp.com.co/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas (Nacional)[Opc.5]
 http://205.235.6.29:8000/play/a0z0/index.m3u8?hls
 
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas (Nacional)[Opc.5]
+#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas (Nacional)[Opc.6]
 http://205.235.6.29:8000/play/a0xj/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 (Nacional)
@@ -695,10 +695,10 @@ http://205.235.6.29:8000/play/a10d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas (Opc.3)
 http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador"TC Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television
 http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/PML8cJA.png" group-title="Ecuador"RTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", RTS
 http://205.235.6.29:8000/play/a0yi/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV (Manabí)
@@ -1945,17 +1945,17 @@ http://205.235.6.29:8000/play/a0xm/index.m3u8?hls
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0j7.png",Pasiones HD
 http://astra.fibernetisp.com.co/play/a0j7/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0k8.png",TNT Novelas HD
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT Novelas HD
 http://astra.fibernetisp.com.co/play/a0k8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas HD [Opc.2]
+http://190.217.66.92:8000/play/a0q6/index.m3u8u?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas
 http://190.61.101.11:7050/play/a07q/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento Premium",Azcorazon
 http://190.61.101.11:7050/play/a08h/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas HD
-http://190.217.66.92:8000/play/a0q6/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento Premium",TNT Series HD
 http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
@@ -2328,9 +2328,6 @@ https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento / Cine & Series", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine & Series", Bayres TV -Clasicos- (Argentina)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine & Series",Canal 12 Misiones (Argentina)
 https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
