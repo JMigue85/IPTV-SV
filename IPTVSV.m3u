@@ -14,13 +14,10 @@ http://190.61.101.11:7050/play/a06z/index.m3u8?hls
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 2]
-https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/D3kaa3Ky/live.isml/.m3u8
+http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 3]
 http://190.61.101.11:7050/play/a06y/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 4]
-http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -792,14 +789,26 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina (Nacional)[Opc.2]
 https://full-online.xyz/proxy/ssl/index.php?url=http%3A%2F%2F45.225.40.206%3A12080%2FLive%2F4381001cf7c4e271491f5484da2d8304%2FCronicaTv_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV [No 24/7] (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV  (Nacional)
+http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV (Nacional)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"Perú",América Televisión HD
 http://205.235.6.29:8000/play/a0ut/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"Perú",América Televisión HD[Opc.2]
+http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV (Nacional)
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV (Nacional)[Opc.2]
+http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión HD
+http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur [No 24/7] (Arequipa / Nacional)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -1001,6 +1010,9 @@ https://tv.ulagos.cl/web/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (Argentina)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/40624.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (Argentina)[Opc.2]
+http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine (Buenos Aires)
 http://190.7.19.197:232/play/a04l/index.m3u8
@@ -1295,6 +1307,10 @@ http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim (Opc.2)
 http://190.61.101.11:7050/play/a08g/index.m3u8?hls
+
+#EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim (Opc.3)
+
+http://181.224.255.210:8001/play/a0q8/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cdn.energeek.cl/hls/energeekfan.m3u8
@@ -1687,6 +1703,9 @@ http://astra.fibernetisp.com.co/play/a0dj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD
 http://190.61.101.11:7050/play/a04z/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
+http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
 http://190.61.101.11:7050/play/a051/index.m3u8?hls
@@ -2542,11 +2561,11 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Informativos", Ecotel TV (Loja - Ecuador)
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú - Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Informativos", Willax TV (Nacional)
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú - Nacional)[Opc.2]
+http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos", RPP TV (Nacional)
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
@@ -3193,8 +3212,6 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qQSXSYQ/Sport-Max-News.png" group-title="Deportes",SportMax News
 https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)[1080p]
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
 
@@ -3268,6 +3285,9 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes", Real Madrid TV (España)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX
+http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYB56CRS/Diseno-sin-titulo(12).png" group-title="Deportes", LaLiga Inside (España)
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
@@ -3602,6 +3622,9 @@ https://1nyaler.streamhostingcdn.top/stream/104/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Perú)
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD
 http://190.61.101.11:7050/play/a09k/index.m3u8?hls
