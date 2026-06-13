@@ -668,6 +668,9 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)[Opc.2]
+http://205.235.6.29:8000/play/a0zw/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa Guayaquil [No 24/7] (Guayas)
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
@@ -701,6 +704,9 @@ http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television
 http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television[Opc.2]
+http://205.235.6.29:8000/play/a0zx/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", RTS
 http://205.235.6.29:8000/play/a0yi/index.m3u8?hls
 
@@ -709,6 +715,9 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", Telerama [No 24/7] (Azuay / Nacional)
 https://play.once.net.ec/telerama/live.tv/538.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", Telerama [No 24/7] (Azuay / Nacional)[Opc.2]
+http://205.235.6.29:8000/play/a0zy/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador", Manavisión (Manabí)
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
@@ -788,6 +797,9 @@ https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV (Nacional)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"Perú",América Televisión HD
+http://205.235.6.29:8000/play/a0ut/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur [No 24/7] (Arequipa / Nacional)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -1862,8 +1874,8 @@ http://astra.fibernetisp.com.co/play/a0af/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional)[Opc.4]
 http://8.243.126.131:8000/play/a04y/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium", Telemundo (Puerto Rico)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional)[Opc.5]
+http://205.235.6.29:8000/play/a106/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
@@ -2003,6 +2015,10 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine & Series", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento / Cine & Series", Telemundo (Puerto Rico)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine & Series", Cali TV (Cali - Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
@@ -3261,6 +3277,12 @@ https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)[Opc.2]
+http://205.235.6.29:8000/play/a105/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)[Opc.3]
+http://205.235.6.29:8000/play/a0yn/index.m3u8?hls
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports (Internacional)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
@@ -3384,36 +3406,39 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbil
 
 
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 1)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 1]
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 2]
 http://148.222.230.201:8000/play/a0pk/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 3]
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 4)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 4]
 http://181.64.27.65:8000/play/a0dq/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 5)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 5]
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 6)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 6]
 http://190.223.48.46:8000/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 7)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 7]
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 8)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 8]
 http://190.117.20.37:8000/play/a08d/index.m3u
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 9)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 9]
 http://177.53.152.117:8000/play/a07d/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DSports",DSports (Opción 10)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 10]
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports [Opc. 11]
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
 
 
