@@ -2113,30 +2113,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entretenimiento / Cine & Series", Super Cable (Costa Rica - Grecia)
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine & Series", Mi Televisión
-https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Entretenimiento / Cine & Series", Telemar (Ecuador - Esmeraldas)
-https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento / Cine & Series", La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura)
-https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="Entretenimiento / Cine & Series", RSelvaTV (Perú - Pucallpa - Ucayali)
-https://live.obslivestream.com/selvatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Entretenimiento / Cine & Series", VNP (Lima)
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Entretenimiento / Cine & Series", Quántica TV (Argentina - San Vicente - Buenos Aires)
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Entretenimiento / Cine & Series", Vos y TV (Ecuador) [Not 24/7]
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento / Cine & Series", Multicanal [No 24/7](Ecuador - Loja)
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Entretenimiento / Cine & Series", Canal 3 KMK TV (Costa Rica - Los Pinos)
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 
@@ -2204,6 +2180,29 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine & Series",Apanines TV
 https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine & Series", Mi Televisión
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Entretenimiento / Cine & Series", Telemar (Ecuador - Esmeraldas)
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento / Cine & Series", La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura)
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="Entretenimiento / Cine & Series", RSelvaTV (Perú - Pucallpa - Ucayali)
+https://live.obslivestream.com/selvatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Entretenimiento / Cine & Series", VNP (Lima)
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Entretenimiento / Cine & Series", Quántica TV (Argentina - San Vicente - Buenos Aires)
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Entretenimiento / Cine & Series", Vos y TV (Ecuador) [Not 24/7]
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento / Cine & Series", Multicanal [No 24/7](Ecuador - Loja)
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ld46sscs/Miami-TVDJ.png" group-title="Entretenimiento / Cine & Series",Miami TV DJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
