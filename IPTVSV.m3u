@@ -787,10 +787,13 @@ https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina (Nacional)[Opc.2]
-https://full-online.xyz/proxy/ssl/index.php?url=http%3A%2F%2F45.225.40.206%3A12080%2FLive%2F4381001cf7c4e271491f5484da2d8304%2FCronicaTv_720.m3u8
+http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV  (Nacional)
 http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV  (Nacional)[Opc.2]
+http://181.224.255.210:8001/play/a0r7/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV (Nacional)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
@@ -809,6 +812,9 @@ http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión HD
 http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD
+http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur [No 24/7] (Arequipa / Nacional)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -846,6 +852,12 @@ https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://impactotvdigital.pe/wp-content/uploads/2023/12/fondo4.png" group-title="Perú", Impacto TV Digital 
 https://live.obslivestream.com/reddigital/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica)
+https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica)[Opc.2]
+http://181.224.255.210:8001/play/axrv/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ly1KU6w.png" group-title="Perú", ECO Television (Ica)
 https://stream.ecoperu.tv/ECOTV/index.m3u8
@@ -1114,6 +1126,9 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg" group-title="España",Antena 3
 http://205.235.6.29:8000/play/a0xq/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg" group-title="España",Antena 3[Opc.2]
+http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="España", Canal Extremadura (Extremadura / Autonómico)
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
@@ -1917,20 +1932,29 @@ http://205.235.6.29:8000/play/a0py/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series
 http://190.61.101.11:7050/play/a08r/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series[Opc.2]
+http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento Premium",AMC
-http://190.61.101.11:7050/play/a07z/index.m3u8?hls
+http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento Premium",AMC (Opc.2)
 http://190.217.66.92:8000/play/a0pr/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0is.png",AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento Premium",AMC (Opc.3)
 http://astra.fibernetisp.com.co/play/a0is/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento Premium",AMC (Opc.4)
+http://190.61.101.11:7050/play/a07z/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento Premium",AXN
-http://190.217.66.92:8000/play/a0fd/index.m3u8u?hls
+http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN HD (Opc.2)
 http://astra.fibernetisp.com.co/play/a05n/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN HD (Opc.3)
+http://190.217.66.92:8000/play/a0fd/index.m3u8u?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series
 http://astra.fibernetisp.com.co/play/a0jh/index.m3u8
@@ -2567,11 +2591,11 @@ https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú - Nacional)[Opc.2]
 http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos", RPP TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos", RPP TV (Perú - Nacional)
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Informativos", ATV+ (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Perú",RPP TV HD (Perú - Nacional)[Opc.2]
+http://181.224.255.210:8001/play/a0r8/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fg6m2L.png" group-title="Informativos", TV Norte (Chiclayo / Lambayeque)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
