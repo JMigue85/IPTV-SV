@@ -94,7 +94,7 @@ https://dge88l7454gi1.cloudfront.net/index.m3u8
 http://190.61.101.11:7050/play/a06x/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (Opc.4)
-http://24.152.53.3:8090/play/a003/index.m3u8?
+http://24.152.53.3:8090/play/a003/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete
 https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_4276517416086298479_hls.m3u8
@@ -106,7 +106,7 @@ https://d3r1d0jzdq322.cloudfront.net/index.m3u8
 http://190.61.101.11:7050/play/a06w/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.4)
-http://24.152.53.3:8090/play/a001/index.m3u8?
+http://24.152.53.3:8090/play/a001/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (Nacional)
 http://190.61.101.11:7050/play/a07g/index.m3u8?hls
@@ -121,13 +121,13 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 http://190.61.101.11:7050/play/a08y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eA4vt8A.png" group-title="Guatemala",Canal 27 (Guatemala)
-http://24.152.53.3:8090/play/a016/index.m3u8?
+http://24.152.53.3:8090/play/a016/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)
-http://24.152.53.3:8090/play/a014/index.m3u8?
+http://24.152.53.3:8090/play/a014/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)[Opc. 2]
-http://24.152.53.3:8090/play/a01s/index.m3u8?
+http://24.152.53.3:8090/play/a01s/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)[Opc. 3]
 http://190.61.101.11:7050/play/a09l/index.m3u8?hls
@@ -325,23 +325,29 @@ http://45.190.185.204:9000/play/a0g0/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica",Canal 1 (Nacional)
-https://vid.canal1cr.com:3424/multi_live/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel (Nacional)
 https://d2qsan2ut81n2k.cloudfront.net/live/5b4b1702-52f9-4e48-a4c7-79ca7f34ece6/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel (Nacional)
 https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/ts:abr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel (Nacional)[Opc.2]
+http://190.61.101.11:7050/play/a07m/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel (Nacional)
+https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel (Nacional)[Opc.2]
+http://190.61.101.11:7050/play/a07n/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica",Canal 1 (Nacional)
+https://vid.canal1cr.com:3424/multi_live/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica",Canal 8 Multimedios (Nacional)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 (Nacional)
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! (Nacional)
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
@@ -1671,7 +1677,7 @@ http://138.36.253.106:8066/play/a015/index.m3u8?hls
 http://138.36.253.106:8066/play/a019/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal
-http://24.152.53.3:8090/play/a01b/index.m3u8?
+http://24.152.53.3:8090/play/a01b/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal(Opc.2)
 http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
@@ -1924,7 +1930,7 @@ http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
 http://45.190.185.204:9000/play/a058/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película
-http://24.152.53.3:8090/play/a01f/index.m3u8?
+http://24.152.53.3:8090/play/a01f/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De pelicula (Opc.2)
 http://astra.fibernetisp.com.co/play/a0m9/index.m3u8
@@ -1981,7 +1987,7 @@ http://190.217.66.92:8000/play/a0e3/index.m3u8u?hls
 http://astra.fibernetisp.com.co/play/a0af/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional)[Opc.4]
-http://8.243.126.131:8000/play/a04y/index.m3u8?hls
+http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional)[Opc.5]
 http://205.235.6.29:8000/play/a106/index.m3u8?hls
@@ -2085,7 +2091,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Entretenimiento Premium",Telenovelas
-http://24.152.53.3:8090/play/a018/index.m3u8?
+http://24.152.53.3:8090/play/a018/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Entretenimiento Premium",tlnovelas
 http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
@@ -2324,7 +2330,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6x3WLEe.jpeg" group-title="Entretenimiento / Cine & Series",Canal 5
-http://24.152.53.3:8090/play/a009/index.m3u8?
+http://24.152.53.3:8090/play/a009/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Entretenimiento / Cine & Series", SNT (Paraguay)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
@@ -2912,7 +2918,7 @@ http://138.36.253.106:8066/play/a00d/index.m3u8?hls
 http://181.224.255.210:8001/play/a0py/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network (Opc.2)
-http://24.152.53.3:8090/play/a01e/index.m3u8?
+http://24.152.53.3:8090/play/a01e/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network (Opc.3)
 http://astra.fibernetisp.com.co/play/a072/index.m3u8
@@ -3319,11 +3325,8 @@ https://af7e4455.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)[Opc.2]
-http://45.190.185.204:9000/play/a0la/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (México)
-http://45.190.185.204:9000/play/a0lb/index.m3u8?hls
+http://190.61.101.11:7050/play/a04v/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports HD
 http://190.61.101.11:7050/play/a09y/index.m3u8?hls
@@ -3337,14 +3340,26 @@ https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/aHl8rpkmcY7D4g==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes",Fox en tubi Xtra (Internacional) [No 24/7]
 https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HN HD
-http://45.190.185.204:9000/play/a0oc/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX 
+http://190.61.101.11:7050/play/a09z/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX CR  HD
-http://45.190.185.204:9000/play/a0oa/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX+
+http://190.61.101.11:7050/play/a09c/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX ESA HD
+http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HN HD
+http://190.61.101.11:7050/play/a0ad/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX CR
+http://190.61.101.11:7050/play/a0a7/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HD GUA
-http://45.190.185.204:9000/play/a0ob/index.m3u8?hls
+http://190.61.101.11:7050/play/a0a4/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX NIC GUA
+http://190.61.101.11:7050/play/a0af/index.m3u8?hls
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -3423,7 +3438,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
-http://24.152.53.3:8090/play/a012/index.m3u8?
+http://24.152.53.3:8090/play/a012/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (V3)
 http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
@@ -3503,13 +3518,13 @@ https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga
-http://24.152.53.3:8090/play/a00y/index.m3u8?
+http://24.152.53.3:8090/play/a00y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIplC7X.png" group-title="Deportes",Vix La Liga
-http://24.152.53.3:8090/play/a00v/index.m3u8?
+http://24.152.53.3:8090/play/a00v/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIplC7X.png" group-title="Deportes",Vix La Liga (Opc. 2)
-http://24.152.53.3:8090/play/a01j/index.m3u8?
+http://24.152.53.3:8090/play/a01j/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
@@ -3628,11 +3643,11 @@ https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="FOX Sports",Fox Sports 3
-http://24.152.53.3:8090/play/a011/index.m3u8?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="FOX Sports",Fox Sports 2
+http://24.152.53.3:8090/play/a011/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="FOX Sports",Fox Sports 3 (Opc. 2)
-http://24.152.53.3:8090/play/a01p/index.m3u8?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="FOX Sports",Fox Sports 2 (Opc. 2)
+http://24.152.53.3:8090/play/a01p/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX One (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
