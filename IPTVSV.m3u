@@ -816,6 +816,9 @@ http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD
 http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Perú",CR TV HD
+http://181.224.255.210:8001/play/a0rt/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur [No 24/7] (Arequipa / Nacional)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
@@ -1759,19 +1762,25 @@ http://astra.fibernetisp.com.co/play/a05t/index.m3u8
 http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine / Películas Premium",Cinecanal
-http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
+http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (Opc.2)
-http://astra.fibernetisp.com.co/play/a05z/index.m3u8
+http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (Opc.3)
+http://astra.fibernetisp.com.co/play/a05z/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (Opc.4)
 http://45.190.185.204:9000/play/a0e4/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine / Películas Premium",Cinemax
-http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
+http://astra.fibernetisp.com.co/play/a05l/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax HD (Opc.2)
-http://astra.fibernetisp.com.co/play/a05l/index.m3u8
+http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax HD (Opc.3)
+http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium
 http://45.190.185.204:9000/play/a0o1/index.m3u8?hls
@@ -1863,6 +1872,9 @@ http://astra.fibernetisp.com.co/play/a0m9/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De pelicula (Opc.3)
 http://205.235.6.29:8000/play/a0z7/index.m3u8?hls
 
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De pelicula (Opc.4)
+http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO
 http://190.61.101.11:7050/play/a08x/index.m3u8?hls
 
@@ -1929,6 +1941,9 @@ http://astra.fibernetisp.com.co/play/a065/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/nsttoEa.png",DHE HD (Opc.2)
 http://205.235.6.29:8000/play/a0py/index.m3u8?hls
 
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/nsttoEa.png",DHE HD (Opc.3)
+http://181.224.255.210:8001/play/a0nt/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series
 http://190.61.101.11:7050/play/a08r/index.m3u8?hls
 
@@ -1960,7 +1975,12 @@ http://190.217.66.92:8000/play/a0fd/index.m3u8u?hls
 http://astra.fibernetisp.com.co/play/a0jh/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series(Opc.2)
+http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series(Opc.3)
 http://45.190.185.204:9000/play/a0fj/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento Premium",Unicable HD
 http://190.61.101.11:7050/play/a04j/index.m3u8?hls
@@ -1982,6 +2002,9 @@ http://astra.fibernetisp.com.co/play/a0jj/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central HD (Opc.2)
 http://205.235.6.29:8000/play/a0y7/index.m3u8?hls
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central HD (Opc.3)
+http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro
 http://190.61.101.11:7050/play/a04w/index.m3u8?hls
@@ -2745,20 +2768,24 @@ http://205.235.6.29:8000/play/a0xo/index.m3u8?hls
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby First 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV
 http://190.61.101.11:7050/play/a07p/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby First (Opc.2)
-http://138.36.253.106:8066/play/a00e/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.2)
+http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby First (Opc.3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.3)
 http://astra.fibernetisp.com.co/play/a073/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby First (Opc.4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.4)
 http://205.235.6.29:8000/play/a0ze/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby First (Opc.5)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.5)
 http://205.235.6.29:8000/play/a0yj/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.6)
+http://138.36.253.106:8066/play/a00e/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrtLVj5.jpeg" group-title="Infantiles",Dos Kids
 http://138.36.253.106:8066/play/a00i/index.m3u8?hls
@@ -2769,11 +2796,14 @@ http://190.61.101.11:7050/play/a08d/index.m3u8?hls
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",Cartoonito (Opc.2)
 http://astra.fibernetisp.com.co/play/a0t7/index.m3u8
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",Cartoonito (Opc.3)
+http://181.224.255.210:8001/play/a0su/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles",Disney Jr
 http://190.61.101.11:7050/play/a08e/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles",Disney Jr (Opc.2)
-http://190.217.66.92:8000/play/a0ga/index.m3u8u?hls
+http://181.224.255.210:8001/play/a0ny/index.m3u8?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Jr (Opc.3)
 http://astra.fibernetisp.com.co/play/a0dm/index.m3u8
@@ -2781,29 +2811,41 @@ http://astra.fibernetisp.com.co/play/a0dm/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Jr (Opc.4)
 http://205.235.6.29:8000/play/a0zj/index.m3u8?hls
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Jr (Opc.5)
+http://190.217.66.92:8000/play/a0ga/index.m3u8u?hls
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",Nick Jr
 http://190.61.101.11:7050/play/a092/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles",Discovery Kids
-http://138.36.253.106:8066/play/a00d/index.m3u8?hls
+http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/2JPtmZR.png",Discovery Kids (Opc.2)
 http://astra.fibernetisp.com.co/play/a0da/index.m3u8
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/2JPtmZR.png",Discovery Kids (Opc.3)
+http://138.36.253.106:8066/play/a00d/index.m3u8?hls
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network
-http://190.61.101.11:7050/play/a04x/index.m3u8?hls
+http://181.224.255.210:8001/play/a0py/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network (Opc.2)
 http://24.152.53.3:8090/play/a01e/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network (Opc.3)
-http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Opc.4)
 http://astra.fibernetisp.com.co/play/a072/index.m3u8
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Opc.4)
+http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
+
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Opc.5)
+http://190.61.101.11:7050/play/a04x/index.m3u8?hls
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Opc.6)
 http://45.190.185.204:9000/play/a0ld/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon
 http://190.61.101.11:7050/play/a093/index.m3u8?hls
@@ -2815,19 +2857,22 @@ http://astra.fibernetisp.com.co/play/a071/index.m3u8
 http://138.36.253.106:8066/play/a00c/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel
-http://190.61.101.11:7050/play/a05y/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel (Opc.2)
-http://138.36.253.106:8066/play/a00g/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel (Opc.3)
-http://190.217.66.92:8000/play/a0db/index.m3u8u?hls
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel (Opc.4)
 http://astra.fibernetisp.com.co/play/a074/index.m3u8
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel (Opc.5)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel (Opc.2)
 http://205.235.6.29:8000/play/a0zp/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel (Opc.3)
+http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel (Opc.4)
+http://190.217.66.92:8000/play/a0db/index.m3u8u?hls
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel (Opc.5)
+http://190.61.101.11:7050/play/a05y/index.m3u8?hls
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel (Opc.6)
+http://138.36.253.106:8066/play/a00g/index.m3u8?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD
 http://astra.fibernetisp.com.co/play/a0lo/index.m3u8
