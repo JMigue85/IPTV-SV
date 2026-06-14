@@ -249,16 +249,10 @@ http://190.61.101.11:7050/play/a06t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV (Nacional)
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV (Nacional)[Opc.2]
-http://45.190.185.204:9000/play/a062/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Teleceiba (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleceiba.com/en-vivo/
 https://teleceiba.com/stream/tlcb720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Teleceiba (Nacional)[Opc.2]
-http://45.190.185.204:9000/play/a08g/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="Honduras",Q'Hubo TV (Nacional)
 https://amixtv.com:8081/qhubotv/index.fmp4.m3u8
@@ -332,8 +326,6 @@ https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg" group-title="Honduras",Radio Imagen 105.1 FM (San Pedro Sula)
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tnh.gob.hn/wp-content/uploads/2026/02/cropped-logo-scaled-1.png" group-title="Honduras",TNH
-http://45.190.185.204:9000/play/a0g0/index.m3u8?hls
 
 
 
@@ -1765,9 +1757,6 @@ http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
 http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema
-http://45.190.185.204:9000/play/a0de/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas Premium",TNT
 http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
 
@@ -1872,9 +1861,6 @@ http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
 http://astra.fibernetisp.com.co/play/a05z/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (Opc.4)
-http://45.190.185.204:9000/play/a0e4/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (Opc.5)
 http://190.61.101.11:7050/play/a07a/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine / Películas Premium",Cinemax
@@ -1889,10 +1875,7 @@ http://190.61.101.11:7050/play/a06b/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax HD (Opc.4)
 http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium
-http://45.190.185.204:9000/play/a0o1/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium [Opc.2]
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",Cine Premium [Opc.1]
 http://astra.fibernetisp.com.co/play/a0to/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas Premium",Golden HD
@@ -1913,9 +1896,6 @@ http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/SlSbcp3.png",Golden EDGE HD (Opc.2)
 http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premier 2 HD
-http://45.190.185.204:9000/play/a0cu/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier 
 http://190.61.101.11:7050/play/a069/index.m3u8?hls
 
@@ -1926,15 +1906,12 @@ http://190.217.66.92:8000/play/a0fe/index.m3u8u?hls
 http://astra.fibernetisp.com.co/play/a05o/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.3)
-http://45.190.185.204:9000/play/a06h/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.4)
 http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.5)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.4)
 http://190.61.101.11:7050/play/a06i/index.m3u8?hls
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.6)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.5)
 http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel (Opc.1)
@@ -1963,9 +1940,6 @@ http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX (Opc.4)
 http://190.61.101.11:7050/play/a081/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX (Opc.5)
-http://45.190.185.204:9000/play/a058/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network
 http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
@@ -2099,9 +2073,6 @@ http://astra.fibernetisp.com.co/play/a0jh/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series(Opc.2)
 http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series(Opc.3)
-http://45.190.185.204:9000/play/a0fj/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg" group-title="Entretenimiento Premium",TVE Internacional
 http://181.224.255.210:8001/play/a0q9/index.m3u8?hls
 
@@ -2110,8 +2081,6 @@ http://190.61.101.11:7050/play/a086/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg" group-title="Entretenimiento Premium",TVE
 http://190.61.101.11:7050/play/a06f/index.m3u8?hls
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento Premium",Unicable HD
 http://190.61.101.11:7050/play/a04j/index.m3u8?hls
@@ -2211,9 +2180,6 @@ http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series HD (Opc.4)
 http://190.61.101.11:7050/play/a05g/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Entretenimiento Premium",Universal Crime
-http://45.190.185.204:9000/play/a0f1/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento Premium", BBC Drama (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
@@ -2545,9 +2511,6 @@ https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="Entretenimiento / Cine & Series", TN8 (Nicaragua)[Opc.2]
 http://190.61.101.11:7050/play/a07j/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://alba-ni-c10.cdn.mediatiquepress.com/wp-content/uploads/2023/07/a0cd3c0a5e48b34d.png" group-title="Entretenimiento / Cine & Series", Canal 10 (Nicaragua)
-http://45.190.185.204:9000/play/a075/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento / Cine & Series",WTV Canal 20 (Nicaragua)
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
@@ -2984,10 +2947,6 @@ http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Opc.5)
 http://190.61.101.11:7050/play/a04x/index.m3u8?hls
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Opc.6)
-http://45.190.185.204:9000/play/a0ld/index.m3u8?hls
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon
 http://190.61.101.11:7050/play/a093/index.m3u8?hls
@@ -4268,10 +4227,6 @@ http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
 
 #EXTINF:-1 group-title="Sony Channels" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a05m.png",Sony HD (Opc.3)
 http://190.61.101.11:7050/play/a079/index.m3u8?hls
-
-#EXTINF:-1 group-title="Sony Channels" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a05m.png",Sony HD (Opc.4)
-http://45.190.185.204:9000/play/a05l/index.m3u8?hls
-
 
 #EXTINF:-1 group-title="Sony Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movies HD
 http://190.61.101.11:7050/play/a083/index.m3u8?hls
