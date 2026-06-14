@@ -1169,10 +1169,10 @@ https://live2.telemicro.com.do/live/digital15/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 RD - (Opc.2)
 http://190.61.101.11:7050/play/a07l/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="Republica Dominicana",Tele Antillas - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas - RD
 http://190.61.101.11:7050/play/a08a/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Republica Dominicana",TeleMicro - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",TeleMicro - RD
 http://190.61.101.11:7050/play/a072/index.m3u8?hls
 
 
