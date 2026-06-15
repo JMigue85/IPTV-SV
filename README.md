@@ -76,8 +76,13 @@ Este proyecto es posible gracias a la recopilación de enlaces de fuentes públi
 
 ---
 
-## ⚖️ Disclaimer
+## ⚖️ Disclaimer / Descargo de Responsabilidad
 
-Este repositorio solo recopila enlaces públicos y gratuitos disponibles en internet. No hospeda, almacena ni transmite ningún tipo de contenido audiovisual. El uso de esta lista es responsabilidad exclusiva del usuario final.
+Este proyecto (`IPTV-SV`) es un repositorio de código abierto desarrollado exclusivamente con fines educativos y de respaldo técnico. 
+
+* **Sin Alojamiento:** Este repositorio no hospeda, almacena, retransmite ni distribuye ningún contenido multimedia, señales de televisión ni archivos de video protegidos por derechos de autor.
+* **Naturaleza de los Enlaces:** El archivo `.m3u` contiene únicamente enlaces de hipertexto (URLs) hacia transmisiones que ya se encuentran disponibles de forma pública, abierta y gratuita en la red internet.
+* **Responsabilidad:** Los autores no se hacen responsables del uso que los usuarios finales den a esta lista, ni de la vigencia o contenido de los enlaces externos recopilados. Si usted es propietario de alguna señal y desea que sea removida, por favor abra un *Issue* en este repositorio
+* .
 
 **Licencia:** GNU GPL v3.0
