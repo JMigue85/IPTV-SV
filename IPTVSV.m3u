@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS (MPV) [Opc.2]
 http://190.61.101.11:7050/play/a06z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
@@ -16,7 +16,7 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 2]
 http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 3]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV) [Opc. 3]
 http://190.61.101.11:7050/play/a06y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
@@ -90,7 +90,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (Opc.2)
 https://dge88l7454gi1.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (Opc.3)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (MPV) (Opc.3)
 http://190.61.101.11:7050/play/a06x/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (Opc.4)
@@ -102,16 +102,16 @@ https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.2)
 https://d3r1d0jzdq322.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.3)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (MPV) (Opc.3)
 http://190.61.101.11:7050/play/a06w/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.4)
 http://24.152.53.3:8090/play/a001/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (MPV) (Nacional)
 http://190.61.101.11:7050/play/a07g/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (MPV) (Nacional)
 http://190.61.101.11:7050/play/a07f/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
@@ -132,13 +132,13 @@ http://24.152.53.3:8090/play/a014/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)[Opc. 2]
 http://24.152.53.3:8090/play/a01s/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)[Opc. 3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (MPV) (Nacional)[Opc. 3]
 http://190.61.101.11:7050/play/a09l/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",Azteca Guatemala
 http://190.61.101.11:7050/play/a06v/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión (MPV  qa)
 http://190.61.101.11:7050/play/a088/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela [No 24/7] (Quetzaltenango)
@@ -183,7 +183,7 @@ https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g23Ls8v2/Diseno-sin-titulo(3).png" group-title="Guatemala", GTV [No 24/7] (Guatemala)
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala", Canal 13 (Esquipulas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala", Canal 13 [No 24/7](Esquipulas)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="Guatemala", Multivisión Canal 3 [No 24/7]
@@ -201,19 +201,19 @@ https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS [No 24/7] (Solola)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png" group-title="Guatemala",Canal 26 Cono Sur TV (Jut)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png" group-title="Guatemala",Canal 26 Cono Sur TV [No 24/](Jut)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/61
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JsnWj8k/Diseno-sin-titulo(5).png" group-title="Guatemala",Canal 6 (Panajachel)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/528
 
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/27063/logo_256_1720730035.png" group-title="Guatemala",TV5 (Solola)
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/27063/logo_256_1720730035.png" group-title="Guatemala",TV5 [No 24/7] (Solola)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="Guatemala",Canal 10 [No 24/7] (Sololá)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="Guatemala",Canal Antigua
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="Guatemala",Canal Antigua (MPV)
 http://190.61.101.11:7050/play/a06u/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://www.tvq.tv/assets/img/logo.png" group-title="Guatemala",Canal TVQ LIVE 
@@ -293,10 +293,10 @@ https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="Honduras",Televisión Metrópolis 19.1 (Choluteca)
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="Honduras",Televisión Metrópolis 19.2 (Choluteca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="Honduras",Televisión Metrópolis 19.2 [No 24/7] (Choluteca)
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UXsgEPX.png" group-title="Honduras",Litoral Atlántico HD (La Ceiba)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXsgEPX.png" group-title="Honduras",Litoral Atlántico HD [No 24/7] (La Ceiba)
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="Honduras",Televisión Olanchana [No 24/7] (Olancho)
@@ -2628,6 +2628,99 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mVWydMw.png" group-title="Entretenimiento / Cine & Series",Canal TV Carioca Internacional (Brasil)[SUB]
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/ae.png" group-title="Documentales y Cultura",A&E HD
+http://8.243.126.131:8000/play/a0e1/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/ae.png" group-title="Documentales y Cultura",A&E [Opc.2]
+http://8.243.126.131:8000/play/a0g8/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/ae.png" group-title="Documentales y Cultura",A&E HD [Opc.3]
+http://8.243.126.131:8000/play/a06b/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-channel.png" group-title="Documentales y Cultura",Discovery Channel HD
+http://8.243.126.131:8000/play/a0d9/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-channel.png" group-title="Documentales y Cultura",Discovery Channel [Opc.2]
+http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-channel.png" group-title="Documentales y Cultura",Discovery Channel HD [Opc.3]
+http://8.243.126.131:8000/play/a05k/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/investigation-discovery.png" group-title="Documentales y Cultura",Discovery ID HD
+http://8.243.126.131:8000/play/a0dd/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/investigation-discovery.png" group-title="Documentales y Cultura",Discovery ID HD [Opc.2]
+http://8.243.126.131:8000/play/a066/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-turbo.png" group-title="Documentales y Cultura",Discovery Turbo
+http://8.243.126.131:8000/play/a0go/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-world.png" group-title="Documentales y Cultura",Discovery World HD
+http://8.243.126.131:8000/play/a0da/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-world.png" group-title="Documentales y Cultura",Discovery World [Opc.2]
+http://8.243.126.131:8000/play/a05x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-theater.png" group-title="Documentales y Cultura",Discovery Theater HD
+http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-home-health.png" group-title="Documentales y Cultura",Discovery Home & Health HD
+http://8.243.126.131:8000/play/a0il/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-home-health.png" group-title="Documentales y Cultura",Discovery Home & Health [Opc.2]
+http://8.243.126.131:8000/play/a0gp/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-home-health.png" group-title="Documentales y Cultura",Discovery Home & Health [Opc.3]
+http://8.243.126.131:8000/play/a069/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-science.png" group-title="Documentales y Cultura",Discovery Science HD
+http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/discovery-science.png" group-title="Documentales y Cultura",Discovery Science [Opc.2]
+http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/e-entertainment.png" group-title="Documentales y Cultura",E! Entertainment HD
+http://8.243.126.131:8000/play/a0dz/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/e-entertainment.png" group-title="Documentales y Cultura",E! Entertainment [Opc.2]
+http://8.243.126.131:8000/play/a0g7/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/e-entertainment.png" group-title="Documentales y Cultura",E! Entertainment HD [Opc.3]
+http://8.243.126.131:8000/play/a05v/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/film-arts.png" group-title="Documentales y Cultura",Film & Arts HD
+http://8.243.126.131:8000/play/a0e0/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/film-arts.png" group-title="Documentales y Cultura",Film & Arts [Opc.2]
+http://8.243.126.131:8000/play/a0ex/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/history-channel.png" group-title="Documentales y Cultura",History Channel HD
+http://8.243.126.131:8000/play/a05d/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/history-channel.png" group-title="Documentales y Cultura",History Channel [Opc.2]
+http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/history-2.png" group-title="Documentales y Cultura",H2
+http://8.243.126.131:8000/play/a0mo/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/history-2.png" group-title="Documentales y Cultura",H2 [Opc.2]
+http://8.243.126.131:8000/play/a05u/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/national-geographic.png" group-title="Documentales y Cultura",Nat Geo HD
+http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/national-geographic.png" group-title="Documentales y Cultura",Nat Geo HD [Opc.2]
+http://8.243.126.131:8000/play/a05m/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/tlc.png" group-title="Documentales y Cultura",TLC HD
+http://8.243.126.131:8000/play/a0gc/index.m3u8?hls
+
 
 
 
