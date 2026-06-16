@@ -3,10 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/JMigue85/IPTV-SV)
 ![Last Updated](https://img.shields.io/github/last-commit/JMigue85/IPTV-SV)
 ![License](https://img.shields.io/github/license/JMigue85/IPTV-SV)
-![Total Canales](https://img.shields.io/badge/Canales-1300+-brightgreen)
-
-> ⚠️ **AVISO IMPORTANTE:** GitHub puede eliminar este repositorio por políticas de contenido. 
-> Ten siempre un respaldo local. Si el enlace raw no funciona, busca una copia en [tu alternativa].
+![Total Canales](https://img.shields.io/badge/Canales-1350+-brightgreen)
 
 Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adicional de toda América Latina y España.
 
@@ -47,7 +44,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 | 🙏 Religiosos | 59+ canales |
 | 📺 Otros | 200+ canales |
 
-> **Total: ~1300 canales** 🚀
+> **Total: ~1350 canales** 🚀
 
 ---
 
@@ -106,6 +103,13 @@ Este proyecto (`IPTV-SV`) es un repositorio de código abierto desarrollado excl
 * **Naturaleza de los Enlaces:** El archivo `.m3u` contiene únicamente enlaces de hipertexto (URLs) hacia transmisiones que ya se encuentran disponibles de forma pública, abierta y gratuita en la red internet.
 * **Responsabilidad:** Los autores no se hacen responsables del uso que los usuarios finales den a esta lista, ni de la vigencia o contenido de los enlaces externos recopilados. 
 * **Si usted es propietario de alguna señal y desea que sea removida:** Por favor abra un *Issue* en este repositorio.
+
+---
+
+## ☕ Apoya el Proyecto
+Si esta lista te es útil, considera invitarme un café. Tu apoyo ayuda a mantener la lista actualizada.
+
+[![Apóyame en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jmigue85)
 
 ---
 
