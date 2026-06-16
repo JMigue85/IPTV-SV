@@ -15,27 +15,29 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 
 ## 📋 Categorías Disponibles
 
-*   🇸🇻 **El Salvador - TCS** → 4 canales (Canal 2, 4, 6, SV+)
+*   🇸🇻 **El Salvador - TCS** → 4 canales (Canal 2, 4, 6, SV+) + Opciones Extra
 *   🇸🇻 **El Salvador Local** → 12+ canales
-*   🇬🇹 **Guatemala** → 37+ canales
-*   🇭🇳 **Honduras** → 28+ canales
-*   🇨🇷 **Costa Rica** → 22+ canales
-*   🇲🇽 **México** → 30+ canales 
-*   🇨🇴 **Colombia** → 35+ canales
-*   🇪🇨 **Ecuador** → 35+ canales
-*   🇵🇪 **Perú** → 35+ canales
-*   🇨🇱 **Chile** → 30+ canales
+*   🇬🇹 **Guatemala** → 44+ canales
+*   🇭🇳 **Honduras** → 32+ canales
+*   🇨🇷 **Costa Rica** → 26+ canales
+*   🇲🇽 **México** → 43+ canales 
+*   🇨🇴 **Colombia** → 41+ canales
+*   🇪🇨 **Ecuador** → 39+ canales
+*   🇵🇪 **Perú** → 42+ canales
+*   🇨🇱 **Chile** → 28+ canales
 *   🇦🇷 **Argentina** → 23+ canales
-*   🇪🇸 **España** → 55+ canales
-*   🎬 **Cine y Películas** → 52+ canales
-*   ⚽ **Deportes** → 82+ canales
+*   🇩🇴 **República Dominicana** → 12+ canales
+*   🇪🇸 **España** → 54+ canales
+*   🎬 **Cine y Películas** → 77+ canales
+*   ⚽ **Deportes** → 83+ canales
 *   🍿 **Plataformas FAST (Sin Tokens)** → 60+ canales (Canela, Rakuten, Sony, Runtime, FreeTV)
-*   👶 **Infantil** → 39+ canales
-*   🎵 **Música** → 81+ canales
-*   📺 **Entretenimiento Internacional** → 95+ canales 
-*   📰 **Informativos** → 75+ canales
+*   👶 **Infantil** → 70+ canales
+*   🎵 **Música** → 77+ canales
+*   📺 **Entretenimiento Internacional** → 139+ canales 
+*   📰 **Informativos** → 68+ canales
 *   ⛩️ **Anime & Doramas** → 30+ canales
-*   🙏 **Religiosos** → 55+ canales
+*   🙏 **Religiosos** → 59+ canales
+*   📺 **Otros Canales de entretenimiento** → 200+ canales
 
 ---
 
@@ -43,7 +45,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 
 *   **Idioma principal:** 100% en Español / Latino.
 *   **Estabilidad:** ~99% de canales al aire con enlaces limpios y directos.
-*   **Total Real:** +/- 1000 canales disponibles 🚀.
+*   **Total Real:** +/- 1300 canales disponibles 🚀.
 
 ---
 
