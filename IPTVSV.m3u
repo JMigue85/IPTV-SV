@@ -1367,6 +1367,9 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
 
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)[SD]
+https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV (Honduras)
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
