@@ -1424,9 +1424,15 @@ https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channela-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión (España)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión (España)[Opc.2]
 https://jmp2.uk/stvp-ES300029LP
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime",Anime Visión Classics (España)
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Anime",Anime Visión Classics (España)[Opc.2]
 https://jmp2.uk/stvp-ES3000288I
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/71-713310_yugioh-logo-yu-gi-oh-png.png" group-title="Anime",Yu-Gi-Oh! (España)
