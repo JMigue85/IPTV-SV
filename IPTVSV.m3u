@@ -1364,6 +1364,9 @@ https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV (Honduras)
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
@@ -1403,7 +1406,10 @@ http://190.61.101.11:7050/play/a08g/index.m3u8?hls
 http://181.224.255.210:8001/play/a0q8/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
-https://cdn.energeek.cl/hls/energeekfan.m3u8
+https://cdn.energeek.cl/hls/energeekfan.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)[Opc.2]
+https://cdn.energeek.cl/hls/energeekfan.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
