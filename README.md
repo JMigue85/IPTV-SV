@@ -111,6 +111,4 @@ Este proyecto (`IPTV-SV`) es un repositorio de código abierto desarrollado excl
 
 **Licencia:** GNU GPL v3.0
 
----
 
-**📌 Última actualización:** 16 de Junio de 2026
