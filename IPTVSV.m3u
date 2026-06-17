@@ -1943,8 +1943,6 @@ http://190.61.101.11:7050/play/a07a/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal [MPV](Opc.5)
 http://45.190.185.204:9000/play/a0e4/index.m3u8?hls
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine / Películas Premium",Cinemax
 http://astra.fibernetisp.com.co/play/a05l/index.m3u8
 
@@ -2111,6 +2109,12 @@ http://190.61.101.11:7050/play/a080/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional)[Opc.6]
 http://205.235.6.29:8000/play/a106/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Miami HD
+http://45.190.185.204:9000/play/a0f8/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Miami HD [Opc.2]
+http://45.190.185.204:9000/play/a0m9/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
