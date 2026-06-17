@@ -117,10 +117,7 @@ http://190.61.101.11:7050/play/a07f/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
 https://d4bee8qaav6x0.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23 [MPV](Opc. 2)
-http://190.61.101.11:7050/play/a04p/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23 [MPV](Opc. 3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23 (MPV)[Opc. 2]
 http://190.61.101.11:7050/play/a08y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eA4vt8A.png" group-title="Guatemala",Canal 27 (Guatemala)
@@ -227,6 +224,9 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH (Nacional)
 https://live.streamhch.com/live/streams/hch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/telecadena-7.png" group-title="Honduras",Telecadena (MPV)
+http://45.190.185.204:9000/play/a08e/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder (Nacional)
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
