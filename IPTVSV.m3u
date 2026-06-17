@@ -66,6 +66,9 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 HD (MPV)
+http://45.190.185.204:9000/play/a0kw/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="El Salvador",Canal 26 TV IAP
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 
@@ -228,8 +231,11 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH (Nacional)
 https://live.streamhch.com/live/streams/hch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/telecadena-7.png" group-title="Honduras",Telecadena (MPV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena (MPV)
 http://45.190.185.204:9000/play/a08e/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras",Deportes TVC HD (MPV)
+http://45.190.185.204:9000/play/a0b6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder (Nacional)
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
@@ -376,6 +382,9 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel (Nacional)[Opc.2]
 http://190.61.101.11:7050/play/a07n/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel [MPV](Nacional)[Opc.2]
+http://45.190.185.204:9000/play/a057/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel [MPV](Nacional)[Opc.3]
 http://45.190.185.204:9000/play/a0jy/index.m3u8?hls
@@ -3600,6 +3609,9 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV (Costa Rica)
 http://190.61.101.11:7050/play/a05o/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV [MPV](Costa Rica)
+http://45.190.185.204:9000/play/a0dk/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://viaxesports.com/wp-content/themes/ViaxExports/img/viaxesports.png" group-title="Deportes",Via X Esports
 http://181.224.255.210:8001/play/a0qs/index.m3u8?hls
