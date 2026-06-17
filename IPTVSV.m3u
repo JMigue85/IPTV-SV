@@ -19,6 +19,9 @@ http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV) [Opc. 3]
 http://190.61.101.11:7050/play/a06y/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV) [Opc. 4]
+http://45.190.185.204:9000/play/a043/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
@@ -234,11 +237,23 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder (Nacional)[Opc.2]
 http://190.61.101.11:7050/play/a070/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder [MPV](Nacional)[Opc.2]
+http://45.190.185.204:9000/play/a09s/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vygCUNz.png" group-title="Honduras",Canal 6 HD (MPV)
+http://45.190.185.204:9000/play/a08f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Honduras",TEN TV HD (MPV)
+http://45.190.185.204:9000/play/a08h/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 (Nacional)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 (Nacional)[OPc.2]
 http://190.61.101.11:7050/play/a089/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 [MPV](Nacional)[OPc.2]
+http://45.190.185.204:9000/play/a04l/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras",TSi (Nacional)
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -255,12 +270,12 @@ https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV (MPV)[Opc.2](Nacional)
 http://45.190.185.204:9000/play/a062/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Teleceiba (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Honduras",Teleceiba (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleceiba.com/en-vivo/
 https://teleceiba.com/stream/tlcb720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Teleceiba (MPV)[Opc.2](Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Honduras",Teleceiba (MPV)[Opc.2](Nacional)
 http://45.190.185.204:9000/play/a08g/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="Honduras",Q'Hubo TV (Nacional)
@@ -347,6 +362,9 @@ http://45.190.185.204:9000/play/a0g0/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel (Nacional)
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel [MPV](Nacional)
+http://45.190.185.204:9000/play/a0dt/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel (Nacional)
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
@@ -358,6 +376,9 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel (Nacional)[Opc.2]
 http://190.61.101.11:7050/play/a07n/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel [MPV](Nacional)[Opc.3]
+http://45.190.185.204:9000/play/a0jy/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica",Canal 1 (Nacional)
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
@@ -3509,11 +3530,16 @@ https://af7e4455.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (MPV)[Opc.2](México)
+http://45.190.185.204:9000/play/a0la/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (México)
 http://190.61.101.11:7050/play/a04v/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (MPV)[Opc.2](México)
 http://45.190.185.204:9000/play/a0lb/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports HD[Opc.1]
 http://8.243.126.131:8000/play/a0ih/index.m3u8?hls
