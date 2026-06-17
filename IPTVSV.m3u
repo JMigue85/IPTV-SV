@@ -1018,8 +1018,11 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD (Geo-Blocked)
 http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión [Opc.2] (Geo-Blocked)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD [Opc.2] (Geo-Blocked)
 https://dai.google.com/linear/hls/pa/event/R6cwOFyHQXaW6-kMcfWYKA/stream/60990ef4-8d4f-466d-bd67-c1fe78475b6e:SCL2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)
+http://181.79.87.130:8000/play/a0cy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",13 Go (Nacional)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
