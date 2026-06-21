@@ -31,6 +31,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 | 🇵🇪 Perú | 42+ canales |
 | 🇨🇱 Chile | 28+ canales |
 | 🇦🇷 Argentina | 23+ canales |
+| 🇵🇾 Paraguay | 17+ canales |
 | 🇩🇴 República Dominicana | 12+ canales |
 | 🇪🇸 España | 54+ canales |
 | 🎬 Cine y Películas | 77+ canales |
@@ -44,7 +45,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 | 🙏 Religiosos | 59+ canales |
 | 📺 Otros | 200+ canales |
 
-> **Total: ~1350 canales** 🚀
+> **Total: ~1500 canales** 🚀
 
 ---
 
