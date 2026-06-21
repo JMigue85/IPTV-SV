@@ -117,8 +117,14 @@ http://24.152.53.3:8090/play/a001/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (MPV) (Nacional)
 http://190.61.101.11:7050/play/a07g/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (MPV) (Nacional) [Opc.2]
+http://45.190.185.204:9000/play/a0nt/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (MPV) (Nacional)
 http://190.61.101.11:7050/play/a07f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (MPV) (Nacional) [Opc.2]
+http://45.190.185.204:9000/play/a0ns/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
 https://d4bee8qaav6x0.cloudfront.net/index.m3u8
