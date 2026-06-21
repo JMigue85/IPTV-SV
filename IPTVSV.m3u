@@ -1018,11 +1018,17 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega HD (Nacional)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega SD (Nacional)
+http://190.102.247.126:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red HD (Nacional)
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red SD (Nacional)
+http://190.102.247.126:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD (Geo-Blocked)
 http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
@@ -1032,6 +1038,12 @@ https://dai.google.com/linear/hls/pa/event/R6cwOFyHQXaW6-kMcfWYKA/stream/60990ef
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)
 http://181.79.87.130:8000/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)[Opc.2]
+http://190.102.247.126:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 (Nacional)
+http://190.102.247.126:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",13 Go (Nacional)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -1050,6 +1062,9 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN3 (Nacional)
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN3 (Nacional)[Opc.2]
+http://190.102.247.126:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Chile", TVR Televisión Regional (Santiago / Nacional)
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
@@ -1496,6 +1511,9 @@ https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV (Honduras)
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Anime",ETC TV (Chile)
+http://190.102.247.126:8000/play/a00d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+ (El Salvador)
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
 
@@ -1530,7 +1548,8 @@ http://201.77.60.62:8002/play/a0ni/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme SD (México)[Opc.3]
 http://201.77.60.62:8002/play/a0nj/index.m3u8?hls
 
-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/164/246/png-transparent-im-hd-logo.png" group-title="Anime",Animotion
+http://190.102.247.126:8000/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim
 http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
@@ -1617,7 +1636,8 @@ https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Doramas / Asia",K-POP by CJ ENM
 https://jmp2.uk/stvp-ES3900001QG
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAMkya8.png" group-title="Doramas / Asia",KPOP
+http://190.102.247.126:8000/play/a01w/index.m3u8
 
 
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg", Fashion TV
@@ -2148,6 +2168,27 @@ http://45.170.130.224:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network
 http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas Premium",FMH Movies
+http://190.102.247.126:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_FAMILY.png" group-title="Cine / Películas Premium",FMH Family
+http://190.102.247.126:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p9y4wqz/MX-Prime.png" group-title="Cine / Películas Premium",MX Prime
+http://190.102.247.126:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGNR2Gw3/MX-OLD.png" group-title="Cine / Películas Premium",MX OLD
+http://190.102.247.126:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LG8wgt1/MX-Classic.png" group-title="Cine / Películas Premium",MX Classic
+http://190.102.247.126:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4gYGXxc/cloverchannel.png" group-title="Cine / Películas Premium",Clover Channel
+http://190.102.247.126:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="Cine / Películas Premium",REWIND
+http://190.102.247.126:8000/play/a012/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película
 http://24.152.53.3:8090/play/a01f/index.m3u8?hls
 
@@ -2177,6 +2218,9 @@ http://190.61.101.11:7050/play/a09r/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM (Opc.4)
 http://190.217.66.92:8000/play/a0om/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2025/09/West-Logo-2025.png" group-title="Cine / Películas Premium",FARWEST
+http://190.102.247.126:8000/play/a013/index.m3u8
 
 
 
@@ -2374,6 +2418,9 @@ http://190.61.101.11:7050/play/a05j/index.m3u8?hls
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD[Opc.4]
 http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
 
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD[Opc.5]
+http://190.102.247.126:8000/play/a01s/index.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT Novelas HD
 http://astra.fibernetisp.com.co/play/a0k8/index.m3u8
 
@@ -2388,6 +2435,9 @@ http://190.217.66.92:8000/play/a0q6/index.m3u8u?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas
 http://190.61.101.11:7050/play/a07q/index.m3u8?hls
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas [Opc.2]
+http://190.102.247.126:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento Premium",Azcorazon
 http://190.61.101.11:7050/play/a08h/index.m3u8?hls
@@ -2411,11 +2461,23 @@ http://45.190.185.204:9000/play/a0d9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Entretenimiento Premium",Universal Crime (MPV)
 http://45.190.185.204:9000/play/a0f1/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC0xHBpH/MXSeries.png" group-title="Entretenimiento Premium",MX SERIES
+http://190.102.247.126:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs9dLxLh/MXDrama.png" group-title="Entretenimiento Premium",MX DRAMAS
+http://190.102.247.126:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4qFpW36/Flash-Back.png" group-title="Entretenimiento Premium",FLASHBACK
+http://190.102.247.126:8000/play/a017/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento Premium", BBC Series (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa HD
 http://190.61.101.11:7050/play/a082/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa SD
+http://190.102.247.126:8000/play/a01d/index.m3u8
 
 
 
@@ -2688,6 +2750,9 @@ http://8.243.126.131:8000/play/a0mn/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Thema Vive Kanal Drama[Opc. 3]
 http://181.224.255.210:8001/play/a0sq/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Thema Vive Kanal Drama[Opc. 4]
+http://190.102.247.126:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260505T035729SQUARE.png" group-title="Entretenimiento / Cine & Series",Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
@@ -3244,6 +3309,9 @@ https://jmp2.uk/stvp-ES5000001CS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YF0dppZ2/plimplim.png" group-title="Infantiles",Plim Plim TV
 http://205.235.6.29:8000/play/a0xo/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF0dppZ2/plimplim.png" group-title="Infantiles",Plim Plim TV [Opc.2]
+http://190.102.247.126:8000/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/290/peque-radio-tv.0edf3e97.png" group-title="Infantiles", Pequeradio TV (ES)
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/playlist.m3u8
 
@@ -3411,6 +3479,14 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Infantiles",Kidoo
+http://190.102.247.126:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrtLVj5.jpeg" group-title="Infantiles",Dos Kids
+http://190.102.247.126:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_KIDS.png" group-title="Infantiles",FMH Kids
+http://190.102.247.126:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Infantiles", Tiguerito TV (Rep. Dominicana)
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
@@ -3921,6 +3997,9 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports SD (Internacional)
+http://190.102.247.126:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
