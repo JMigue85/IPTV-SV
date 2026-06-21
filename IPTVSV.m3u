@@ -1521,6 +1521,17 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)
+http://201.151.118.136:8000/play/a003/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.2]
+http://201.77.60.62:8002/play/a0ni/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme SD (México)[Opc.3]
+http://201.77.60.62:8002/play/a0nj/index.m3u8?hls
+
+
+
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim
 http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
 
