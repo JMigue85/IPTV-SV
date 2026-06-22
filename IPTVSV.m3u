@@ -147,7 +147,7 @@ http://190.61.101.11:7050/play/a09l/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",Azteca Guatemala
 http://190.61.101.11:7050/play/a06v/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión (MPV  qa)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión (MPV)
 http://190.61.101.11:7050/play/a088/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela [No 24/7] (Quetzaltenango)
