@@ -1,88 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS
+#EXTINF:-1 tvg-id="Canal2.sv@SD" tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS (MPV) [Opc.2]
+#EXTINF:-1 tvg-id="Canal2.sv@SD" tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS (MPV) [Opc.2]
 http://190.61.101.11:7050/play/a06z/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
+#EXTINF:-1 tvg-id="Canal4.sv@SD" tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 2]
+#EXTINF:-1 tvg-id="Canal4.sv@SD" tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 2]
 http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV) [Opc. 3]
+#EXTINF:-1 tvg-id="Canal4.sv@SD" tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV) [Opc. 3]
 http://190.61.101.11:7050/play/a06y/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV) [Opc. 4]
+#EXTINF:-1 tvg-id="Canal4.sv@SD" tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS (MPV) [Opc. 4]
 http://45.190.185.204:9000/play/a043/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
+#EXTINF:-1 tvg-id="Canal6.sv@SD" tvg-id="Canal6.sv@SD" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal6sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ (MPV)
+#EXTINF:-1 tvg-id="Canal6.sv@SD" tvg-id="Canal6.sv@SD" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS [Opc.2]
+http://45.167.2.101:8000/play/a0qs/index.m3u8
+
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ HD
+http://45.167.2.101:8000/play/a0qx/index.m3u8
+
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ SD (MPV)
 http://190.61.101.11:7050/play/a07o/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ (MPV)[Opc.2]
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ SD (MPV)[Opc.2]
 http://45.190.185.204:9000/play/a0gs/index.m3u8?hls
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES
+http://45.167.2.101:8000/play/a0r8/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [Opc.2]
 https://streamingcws30.com/tves/videotves/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
+#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
+http://45.167.2.101:8000/play/a0nw/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 [Opc.2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/sv8_canal12.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 [Opc.2]
+#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 [Opc.3]
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 (MPV)[Opc.3]
-http://45.190.185.204:9000/play/a0jn/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV
+#EXTINF:-1 tvg-id="CanalTRV.sv@SD" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TVR
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 HD (MPV)
+#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 HD (MPV)
 http://45.190.185.204:9000/play/a0kw/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="El Salvador",Canal 26 TV IAP
+#EXTINF:-1 tvg-id="Canal26TVIAP.sv@SD" tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="El Salvador",Canal 26 TV IAP
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 -No 24/7-
+#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 -No 24/7-
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
-#EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ Santa Ana
+#EXTINF:-1 tvg-id=TLPlus.sv@SD" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ Santa Ana
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcnetwork.net/wp-content/uploads/2021/10/TVC-08.png" group-title="El Salvador",TVC Network
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV
+#EXTINF:-1 tvg-id="TVCNetwork.sv@SD" tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
 
@@ -4499,7 +4508,7 @@ https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Religiosos",Sophia TV Español (Internacional)
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos",TaberTV (El Salvador)
