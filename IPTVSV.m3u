@@ -1168,6 +1168,9 @@ https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD (Argentina)
 http://190.7.19.197:232/play/a059/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD (Argentina)[Opc2]
+http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe SD (Argentina)
 http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
 
@@ -2314,12 +2317,9 @@ http://201.151.118.136:8000/play/a00h/index.m3u8u?hls
 http://24.152.53.3:8090/play/a00z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 51 Miami HD [Opc.2]
-http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 51 Miami HD [Opc.3]
 http://45.190.185.204:9000/play/a0f8/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 51 Miami HD [Opc.4]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 51 Miami HD [Opc.3]
 http://45.190.185.204:9000/play/a0m9/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD
