@@ -36,8 +36,10 @@ http://45.167.2.101:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="SVPlus.sv" tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ SD (MPV)
 http://190.61.101.11:7050/play/a07o/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="SVPlus.sv" tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ SD (MPV)[Opc.2]
-http://45.190.185.204:9000/play/a0gs/index.m3u8?hls
+
+
+
+
 
 
 
