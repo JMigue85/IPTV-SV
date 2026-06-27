@@ -2998,15 +2998,7 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="TelemundoRomance.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo El Mundial
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://librepelota.su/es/eventos.html
-https://ovaut.vivolatamz.org/telemundousa/index.m3u8?token=e9e69288c8114c3f069a55c8e93a553b48b32f19-61-1782581320-1782527320
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Universo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://librepelota.su/es/eventos.html
-https://kbnue.vivolatamz.org/lb03/universo_usa/index.m3u8?token=57ab1df21afe28ac7f34724f1cd0af3b4fdc3746-3b-1782581185-1782527185
 
 
 
