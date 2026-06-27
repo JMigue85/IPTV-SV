@@ -2998,8 +2998,11 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="TelemundoRomance.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoRomance.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo El Mundial
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo El Mundial
 https://geqnt.vivolatamz.org/telemundousa/index.m3u8?token=102b4348aa285fe8b801e5943b5d429153c4c3fe-96-1782580508-1782526508
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Universo
+https://geqnt.vivolatamz.org/universo_usa/Index.m3u8?token=e39dfbe46da333f3961ce02f2b3b36db6eb52de2-d1-1782580660-1782526660
 
 
 
