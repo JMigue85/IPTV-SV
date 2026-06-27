@@ -2947,8 +2947,11 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 
 
 
-#EXTINF:-1 tvg-id="Telemundo39.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 39
-https://prodamdtlmdtv.akamaized.net/out/v1/dfdf9195d8e645c6a4372dc25537d4e7/5cc271e1002642baa6978559f28e3e5a/1248c8f441c14f869f1358e0d97d99bc/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo39.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 39 [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/c645024e-07d4-4cb0-8dae-4e7111774f4f/3.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo39.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 39 [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/c645024e-07d4-4cb0-8dae-4e7111774f4f/4.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo47.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 47 [Opc.1]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/3.m3u8
@@ -2956,17 +2959,11 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="Telemundo47.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 47 [Opc.2]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/4.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 49 [Opc.1]
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 49 [Opc.2]
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/4.m3u8
-
 #EXTINF:-1 tvg-id="Telemundo52.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 52 [Opc.1]
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/4.m3u8
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/243d5ec1-ceba-4f97-a361-53317e949324/3.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo52.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 52 [Opc.2]
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/5.m3u8
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/243d5ec1-ceba-4f97-a361-53317e949324/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 60 Texas HD
 http://201.151.118.136:8000/play/a00h/index.m3u8u?hls
@@ -2975,10 +2972,10 @@ http://201.151.118.136:8000/play/a00h/index.m3u8u?hls
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoNE.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Nueva Inglaterra [Opc.1]
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/aef08910-08d7-4d4d-992e-a5678f54c11a/3.m3u8
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/223fb689-996a-449b-ac6a-990904eaba5c/3.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoNE.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Nueva Inglaterra [Opc.2]
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/aef08910-08d7-4d4d-992e-a5678f54c11a/4.m3u8
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/223fb689-996a-449b-ac6a-990904eaba5c/4.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoPR.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Puerto Rico [Opc.1]
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -2988,6 +2985,12 @@ https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Al dia
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
+
+#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Florida [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Florida [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/4.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoAccion.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
