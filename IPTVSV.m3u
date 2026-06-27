@@ -2314,18 +2314,6 @@ http://190.61.101.11:7050/play/a080/index.m3u8?hls
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional) SD[Opc.6]
 http://205.235.6.29:8000/play/a106/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 60 Texas HD
-http://201.151.118.136:8000/play/a00h/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 51 Miami HD
-http://24.152.53.3:8090/play/a00z/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 51 Miami HD [Opc.2]
-http://45.190.185.204:9000/play/a0f8/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo 51 Miami HD [Opc.3]
-http://45.190.185.204:9000/play/a0m9/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 
@@ -2536,18 +2524,8 @@ http://190.102.247.126:8000/play/a01d/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png" group-title="Entretenimiento / Cine & Series", Telemundo Acción
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png"" group-title="Entretenimiento / Cine & Series", Telemundo Romance
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine & Series", TeleOnce (Puerto Rico)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento / Cine & Series", Telemundo (Puerto Rico)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine & Series", Cali TV (Cali - Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
@@ -2964,6 +2942,64 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mVWydMw.png" group-title="Entretenimiento / Cine & Series",Canal TV Carioca Internacional (Brasil)[SUB]
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
+
+
+
+
+# ==========================================
+# CATEGORÍA: TELEMUNDO (ACTUALIZADA)
+# ==========================================
+
+#EXTINF:-1 tvg-id="Telemundo39.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 39
+https://prodamdtlmdtv.akamaized.net/out/v1/dfdf9195d8e645c6a4372dc25537d4e7/5cc271e1002642baa6978559f28e3e5a/1248c8f441c14f869f1358e0d97d99bc/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo47.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 47 [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/3.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo47.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 47 [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/4.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 49 [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 49 [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/4.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo52.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 52 [Opc.1]
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/4.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo52.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 52 [Opc.2]
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 60 Texas HD
+http://201.151.118.136:8000/play/a00h/index.m3u8u?hls
+
+#EXTINF:-1 tvg-id="TelemundoCorpus.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoNE.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Nueva Inglaterra [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/aef08910-08d7-4d4d-992e-a5678f54c11a/3.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoNE.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Nueva Inglaterra [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/aef08910-08d7-4d4d-992e-a5678f54c11a/4.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoPR.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Puerto Rico [Opc.1]
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoPR.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo (Puerto Rico) [Opc.2]
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoAhora.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Ahora
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
+
+#EXTINF:-1 tvg-id="TelemundoAlDia.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Al dia
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
+
+#EXTINF:-1 tvg-id="TelemundoAccion.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Acción
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoRomance.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 
 
