@@ -1364,6 +1364,9 @@ http://190.61.101.11:7050/play/a072/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España", La 1 de TVE (Nacional)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España", La 1 de TVE (Nacional)[Opc.2]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España", La 1 Canarias (Canarias)
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 
