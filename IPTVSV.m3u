@@ -516,7 +516,12 @@ http://201.174.175.3:8000/play/a0kl/index.m3u8u?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD (México)[Opc. 4]
 http://38.65.175.87:8000/play/a0la/index.m3u8u?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD (México)[Opc. 5]
+http://209.87.175.160:5001/play/a0me/index.m3u8?hls
+
 http://38.65.175.87:8000/play/a0fm/index.m3u8u?hls
+
+http://209.87.175.160:5001/play/a0fm/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="México", Imagen TV Plus HD (Nacional)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
@@ -2195,6 +2200,9 @@ http://190.102.247.126:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="Cine / Películas Premium",REWIND HD
 http://190.102.247.126:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Cine / Películas Premium",Azteca Cinema HD
+http://209.87.175.160:5001/play/a0mf/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película HD
 http://24.152.53.3:8090/play/a01f/index.m3u8?hls
