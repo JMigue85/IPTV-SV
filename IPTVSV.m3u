@@ -523,6 +523,8 @@ http://38.65.175.87:8000/play/a0fm/index.m3u8u?hls
 
 http://209.87.175.160:5001/play/a0fm/index.m3u8?hls
 
+http://201.77.60.62:8002/play/a0fm/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="México", Imagen TV Plus HD (Nacional)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
 
@@ -541,6 +543,9 @@ https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/p
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="México",AZ Click HD
 http://190.61.101.11:7050/play/a085/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="México",AZ Click HD [Opc.2]
+http://209.87.175.160:5001/play/a0mw/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="México", Estrella TV HD (Nacional)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
@@ -2292,8 +2297,20 @@ https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD [Opc.2]
 http://38.65.175.87:8000/play/a0mf/index.m3u8u?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD [Opc.3]
+http://209.87.175.160:5001/play/a0mv/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD [Opc.4]
+http://201.77.60.62:8002/play/a0mf/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Uno SD
+http://209.87.175.160:5001/play/a0cc/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Uno SD [Opc.2]
 http://38.65.175.87:8000/play/a0cc/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Uno SD [Opc.3]
+http://201.77.60.62:8002/play/a0cc/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7Ejid0.png" group-title="Entretenimiento Premium",Azmundo SD
 http://190.61.101.11:7050/play/a076/index.m3u8?hls
@@ -3966,10 +3983,13 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",Azteca Deportes Network
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",Azteca Deportes Network HD
+http://209.87.175.160:5001/play/a0mb/index.m3u8?hls
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",Azteca Deportes Network SD (MPV)
 http://190.61.101.11:7050/play/a08l/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes", Azteca Deportes Network 3
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes", Azteca Deportes Network 3 HD
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 
 
