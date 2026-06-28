@@ -113,29 +113,17 @@ https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (MPV)
 http://200.35.176.154:8000/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (Opc.2)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (MPV)(Opc.2)
 http://190.61.101.11:7050/play/a06x/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (MPV) (Opc.3)
-http://45.190.185.204:9000/play/a0k5/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal (Opc.4)
-http://24.152.53.3:8090/play/a003/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (MPV)
 http://190.61.101.11:7050/play/a06w/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.2)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (MPV)(Opc.2)
 http://200.35.176.154:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (MPV) (Opc.3)
-http://45.190.185.204:9000/play/a0k4/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete (Opc.4)
-http://24.152.53.3:8090/play/a001/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (MPV) (Nacional)
 http://190.61.101.11:7050/play/a07g/index.m3u8?hls
@@ -143,41 +131,11 @@ http://190.61.101.11:7050/play/a07g/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (MPV) (Nacional) [Opc.2]
 http://200.35.176.154:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 (MPV) (Nacional) [Opc.3]
-http://45.190.185.204:9000/play/a0nt/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (MPV) (Nacional)
 http://190.61.101.11:7050/play/a07f/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (MPV) (Nacional) [Opc.2]
 http://200.35.176.154:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 (MPV) (Nacional) [Opc.3]
-http://45.190.185.204:9000/play/a0ns/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23
-https://d4bee8qaav6x0.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23 (MPV)[Opc. 2]
-http://190.61.101.11:7050/play/a08y/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Guatemala",TN23 (MPV)[Opc. 3]
-http://24.152.53.3:8090/play/a01e/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eA4vt8A.png" group-title="Guatemala",Canal 27 (Guatemala)
-http://24.152.53.3:8090/play/a016/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)
-http://190.61.101.11:7050/play/a09l/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (Nacional)[Opc. 2]
-http://24.152.53.3:8090/play/a01s/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (MPV) (Nacional)[Opc. 3]
-http://201.77.60.62:8002/play/a0oc/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ (MPV) (Nacional)[Opc. 4]
-http://24.152.53.3:8090/play/a014/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",Azteca Guatemala
 http://190.61.101.11:7050/play/a06v/index.m3u8?hls
