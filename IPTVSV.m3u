@@ -68,10 +68,10 @@ https://signal.teleon.live/stream/sv8_canal12.m3u8?token=free
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 [Opc.3](TempOffLine)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7]
 http://45.167.2.101:8000/play/a0re/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [Opc.2]
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7][Opc.2]
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
@@ -95,7 +95,7 @@ http://45.167.2.101:8000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="Canal26TVIAP.sv" tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="El Salvador",Canal 26 TV IAP
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 
-#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 -No 24/7-
+#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 [No 24/7]
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
 #EXTINF:-1 tvg-id=TLPlus.sv" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ Santa Ana [No 24/7]
