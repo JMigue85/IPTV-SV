@@ -227,8 +227,11 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH HD (Nacional)
 https://live.streamhch.com/live/streams/hch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH SD (Nacional) [Opc.2]
+http://200.59.191.177:8000/play/a0m6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena (MPV)
 http://45.190.185.204:9000/play/a08e/index.m3u8?hls
