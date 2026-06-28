@@ -452,10 +452,13 @@ http://209.87.175.160:5001/play/a0mz/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.6)
 http://201.77.60.62:8002/play/a0nr/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas SD (MPV) (Nacional)[v1](Opc.7)
-http://45.167.2.101:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.7)
+http://201.77.60.62:8002/play/a0le/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas SD (MPV) (Nacional)[v1](Opc.8)
+http://45.167.2.101:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas SD (MPV) (Nacional)[v1](Opc.9)
 http://209.87.175.160:5001/play/a0d4/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[V2]
