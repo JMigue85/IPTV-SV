@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-referrer=https://teleon.tv/
 https://signal.teleon.live/stream/canal2sv.m3u8?token=free
 
-#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS (MPV) [Opc.2]
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS [Opc.2]
 http://45.167.2.101:8000/play/a0qp/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS (MPV) [Opc.3]
