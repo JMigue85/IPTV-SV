@@ -636,108 +636,112 @@ http://190.217.66.92:8000/play/a0e8/index.m3u8u?hls
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)
 http://190.217.66.92:8000/play/a0ow/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia", Señal Colombia (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia", Señal Colombia [No 24/7] (Nacional)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Colombia", Canal Institucional [No 24/7] (Nacional)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Colombia", Canal Institucional (Nacional)
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Colombia", Red+ (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Colombia", Red+ HD (Nacional)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Colombia", Teleantioquia (Antioquia / Regional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Colombia", Teleantioquia HD (Antioquia / Regional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Colombia", Telecaribe (Región Caribe / Regional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Colombia", Telecaribe HD (Región Caribe / Regional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/su7Y5bC.png" group-title="Colombia", Telecaribe Plus (Región Caribe)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/su7Y5bC.png" group-title="Colombia", Telecaribe Plus HD (Región Caribe)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Colombia", Canal TRO (Santanderes / Regional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Colombia", Canal TRO HD (Santanderes / Regional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Colombia", Telecafé (Eje Cafetero / Regional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vs1H6bK.png" group-title="Colombia", Canal TRO Plus HD (Santanderes / Colombia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Colombia", Telecafé [No 24/7] (Eje Cafetero / Regional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Colombia", Telemedellín (Medellín - Antioquia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Colombia", Telemedellín HD (Medellín - Antioquia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas [No 24/7] (San Andrés / Regional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional)
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ (Cundinamarca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD  (Cundinamarca)
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV (Cali / Valle del Cauca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD (Cali / Valle del Cauca)
 https://movil.ejeserver.com/live/calimatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia", CNC Bugavisión (Buga - Valle del Cauca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia", CNC Bugavisión HD (Buga - Valle del Cauca)
 https://movil.ejeserver.com/live/cncbuga.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge [No 24/7] (Ocaña - Norte de Santander)
-https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge HD [No 24/7] (Ocaña - Norte de Santander)
+http://americatvbc.hopto.org:8080/hls/television/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia", TeveColombia [No 24/7] (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia", TeveColombia HD [No 24/7] (Nacional)
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia", Telesangil (San Gil - Santander)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia", Telesangil HD (San Gil - Santander)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia", Canal Más Televisión (La Dorada - Caldas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia", Canal Más Televisión [No 24/7] (La Dorada - Caldas)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia", Canal Dos Yopal (Casanare)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia", Canal Dos Yopal HD (Casanare)
 http://131.221.41.94/hls/canal2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC Santander de Quilichao (Cauca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC Santander de Quilichao SD (Cauca)
 https://movil.ejeserver.com/live/cncsantander.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia", Telebolívar (Bolívar)
-https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia", Telebolívar HD (Bolívar)
+https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia", Canal Mundo Visión [No 24/7] (Pereira - Risaralda)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia", Canal Mundo Visión HD [No 24/7] (Pereira - Risaralda)
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia", El Mundo del Campo (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia", El Mundo del Campo HD (Nacional)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia", Ultra Casanare TV [No 24/7] (Casanare)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia", Ultra Casanare TV HD [No 24/7] (Casanare)
 https://eu1.servers10.com:8081/8072/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia", Canal TV3 [No 24/7] (Valle del Cauca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia", Canal TV3 HD  [No 24/7] (Valle del Cauca)
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Colombia", Canica TV (Cundinamarca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Colombia", Canica TV SD (Cundinamarca)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV [No 24/7] (Norte de Santander)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV HD [No 24/7] (Norte de Santander)
 https://live.arnoproducciones.com/hls/norte.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Colombia", Ondambiental TV (Bogotá)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Colombia", Ondambiental TV SD (Bogotá)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="Colombia", Suram TV (Antioquia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="Colombia", Suram TV HD (Antioquia)
 https://us.streaminghd.cl/suramtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Colombia", Vive TV Colombia (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Colombia", Vive TV Colombia HD [No 24/7](Nacional)
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Colombia", UMC TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Colombia", UMC TV HD (Nacional)
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Colombia", Canal PyC (Ibagué)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Colombia", Canal PyC HD (Ibagué)
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Colombia", Blu Radio [No 24/7] (Nacional) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Colombia", Blu Radio HD [No 24/7] (Nacional) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
@@ -2776,10 +2780,6 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Entretenimiento / Cine & Series",Planet 100.9 FM (Panamá)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vs1H6bK.png" group-title="Entretenimiento / Cine & Series", Canal TRO Plus (Santanderes / Colombia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Entretenimiento / Cine & Series", Canal Trece (Andina y Amazonía / Colombia )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
