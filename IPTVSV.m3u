@@ -873,20 +873,41 @@ https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina (Nacional)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)[Opc.2]
 http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)[Opc.3]
+http://200.59.191.177:8000/play/a0q2/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)[Opc.4]
+http://205.235.6.29:8000/play/a0uw/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)[Opc.5]
+http://8.243.126.131:8000/play/a001/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV  (Nacional)
 http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV  (Nacional)[Opc.2]
+http://8.243.126.131:8000/play/a01z/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV SD (MPV)(Nacional)[Opc.3]
 http://181.224.255.210:8001/play/a0r7/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV SD (MPV)(Nacional)[Opc.4]
+http://181.224.200.5:2277/play/3232/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV HD (Nacional)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV SD (MPV)(Nacional)
+http://181.224.255.210:8001/play/a0r9/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV SD (MPV)(Nacional)
+http://181.224.200.5:2277/play/a0co/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"Perú",América Televisión HD
 http://205.235.6.29:8000/play/a0ut/index.m3u8?hls
@@ -895,10 +916,10 @@ http://205.235.6.29:8000/play/a0ut/index.m3u8?hls
 http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV (Nacional)
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV (Nacional)[Opc.2]
-http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
+http://8.243.126.131:8000/play/a01s/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión HD
 http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
@@ -912,8 +933,14 @@ http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Perú",CR TV HD
 http://181.224.255.210:8001/play/a0rt/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur [No 24/7] (Arequipa / Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur HD [No 24/7] (Arequipa / Nacional)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur HD [No 24/7] (Arequipa / Nacional) [Opc.2]
+http://8.243.126.131:8000/play/a04m/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Perú", ATV + HD [No 24/7] (Arequipa / Nacional) [Opc.2]
+http://8.243.126.131:8000/play/a04n/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Perú",Mega TV (Arequipa)
 https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
