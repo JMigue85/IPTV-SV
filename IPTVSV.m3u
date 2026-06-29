@@ -1051,112 +1051,139 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega HD (Nacional)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega SD (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega HD (Nacional)[Opc.2]
+http://200.59.191.177:8000/play/a0pv/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega HD (Nacional)[Opc.3]
+http://8.243.126.131:8000/play/a051/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega SD (Nacional)[Opc.4]
 http://190.102.247.126:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red HD (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red HD (Nacional)[Geo-Blocked]
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red HD (Nacional)[Geo-Blocked][Opc.2]
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red SD (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red SD (Nacional)[Opc.3]
 http://190.102.247.126:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red SD (Nacional)[Opc.4]
+http://200.59.191.177:8000/play/a0o4/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD (Geo-Blocked)
 http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD [Opc.2] (Geo-Blocked)
-https://dai.google.com/linear/hls/pa/event/R6cwOFyHQXaW6-kMcfWYKA/stream/60990ef4-8d4f-466d-bd67-c1fe78475b6e:SCL2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD (Geo-Blocked)[Opc.2]
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD [Opc.3]
+http://181.119.185.32:8000/play/a026/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)[Opc.4]
 http://181.79.87.130:8000/play/a0cy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)[Opc.5]
 http://190.102.247.126:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 (Nacional)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 HD (Nacional)(Geo-Blocked)
+https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 SD (MPV)(Nacional)
 http://190.102.247.126:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",13 Go (Nacional)
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png" group-title="Chile",13 Internacional (Nacional)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png" group-title="Chile",13 Internacional HD (Nacional)
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Chile", 13 Realidades (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Chile", 13 Realidades HD (Nacional)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Chile", 13 Teleseries (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RTzFmAi.png" group-title="Chile", 13 POP HD (Nacional)
+https://redirector.dps.live/hls/13pop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Chile", 13 Teleseries HD (Nacional)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Chile", 13C Cultura (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Chile", 13C Cultura HD (Nacional)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN3 (Nacional)
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN HD (Nacional) [Geo-Blocked]
+https://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN3 (Nacional)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN HD (Nacional)[Opc.2]
+http://200.59.191.177:8000/play/a0oc/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN SD (MPV)(Nacional)[Opc.3]
 http://190.102.247.126:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Chile", TVR Televisión Regional (Santiago / Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN3 HD (Nacional)
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Chile", TVR Televisión Regional HD (Santiago / Nacional)
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Chile", Tevex TV (Santiago / Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Chile", Tevex TV HD (Santiago / Nacional)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Chile", UCV TV Valparaíso (Valparaíso)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Chile", UCV TV Valparaíso HD (Valparaíso)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="Chile", TVU Concepción (Biobío)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="Chile", TVU Concepción HD (Biobío)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFdz6Tkb/ce0adbb3-7586-44a8-a49d-ca56b34f3575-extra-large-standard-q100.png" group-title="Chile", Thema TV Coquimbo [Not 24/7] (Coquimbo)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFdz6Tkb/ce0adbb3-7586-44a8-a49d-ca56b34f3575-extra-large-standard-q100.png" group-title="Chile", Thema TV Coquimbo HD [Not 24/7] (Coquimbo)
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFdz6Tkb/ce0adbb3-7586-44a8-a49d-ca56b34f3575-extra-large-standard-q100.png" group-title="Chile", Thema TV Coquimbo [Not 24/7] (Coquimbo)[Opc. 2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFdz6Tkb/ce0adbb3-7586-44a8-a49d-ca56b34f3575-extra-large-standard-q100.png" group-title="Chile", Thema TV Coquimbo HD [Not 24/7] (Coquimbo)[Opc. 2]
 https://pantera1-100gb-cl-movistar.dps.live/thema/thema.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Chile", VTV Valle Televisión (San Felipe / Los Andes - Valparaíso)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Chile", VTV Valle Televisión HD (San Felipe / Los Andes - Valparaíso)
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Chile", Girovisual TV (El Quisco / San Antonio - Valparaíso)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Chile", Girovisual TV HD (El Quisco / San Antonio - Valparaíso)
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Chile", TVO San Vicente [No 24/7](San Vicente de Tagua Tagua - O'Higgins)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Chile", TVO San Vicente HD [No 24/7](San Vicente de Tagua Tagua - O'Higgins)
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="Chile", Vision Plus TV Melipilla (Metropolitana)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="Chile", Vision Plus TV Melipilla HD (Metropolitana)
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="Chile", Canal 1 Ñuble (Chillán - Ñuble)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="Chile", Canal 1 Ñuble HD (Chillán - Ñuble)
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV (Coronel - Biobío)
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV [No24/7](Coronel - Biobío)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile", Pucón TV (Pucón - Araucanía)
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV [No24/7](Coronel - Biobío)[Opc.2]
+https://andromeda3.trapemn.tv:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile", Pucón TV HD (Pucón - Araucanía)
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="Chile", Décima TV Chiloé (Ancud - Los Lagos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="Chile", Décima TV Chiloé HD (Ancud - Los Lagos)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="Chile", TV Quellón (Quellón - Los Lagos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="Chile", TV Quellón HD (Quellón - Los Lagos)
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Chile", Aysén TV [No 24/7] (Puerto Aysén - Aysén)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Chile", Aysén TV HD [No 24/7] (Puerto Aysén - Aysén)
 https://v1.tustreaming.cl/aysentv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile", UTalca TV (Campus TV - Talca / Maule)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile", UTalca TV HD (Campus TV - Talca / Maule)
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile", UTV Universidad Autónoma (Temuco / Santiago / Talca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile", UTV Universidad Autónoma HD (Temuco / Santiago / Talca)
 https://v2.tustreaming.cl/utv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Chile", EGM Channel (Rancagua)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Chile", EGM Channel HD (Rancagua)
 https://vdochile.com:3922/live/egm20live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile", Chile Channel TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Chile", Chile Channel TV HD (Nacional)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Chile", U Los Lagos TV [Not 24/7] (Osorno - Los Lagos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Chile", U Los Lagos TV HD [Not 24/7] (Osorno - Los Lagos)
 https://tv.ulagos.cl/web/live.m3u8
 
 
