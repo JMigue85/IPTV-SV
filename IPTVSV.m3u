@@ -761,113 +761,113 @@ https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa Quito [No 24/7] (Pichincha)
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", RTS (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", RTS SD (MPV)(Nacional)
+http://181.119.185.32:8000/play/a00c/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador", TVC (Nacional)
-https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
-
-#EXTINF:-1 group-title="Ecuador" tvg-logo="https://i.imgur.com/zhdIwlm.png",TVC (Nacional) [Opc.2]
-http://astra.fibernetisp.com.co/play/a0ov/index.m3u8
-
-#EXTINF:-1 group-title="Ecuador" tvg-logo="https://i.imgur.com/zhdIwlm.png",TVC (Nacional) [Opc.3]
-http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", Ecuador TV (Nacional)
-https://samson.streamerr.co:8081/shogun/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas [Geo-blocked]
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas (Opc.2)
-http://205.235.6.29:8000/play/a10d/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas (Opc.3)
-http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television
-http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television[Opc.2]
-http://205.235.6.29:8000/play/a0zx/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", RTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", RTS SD (MPV)(Nacional)
 http://205.235.6.29:8000/play/a0yi/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV (Manabí)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador", TVC SD (MPV)(Nacional)
+http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", Ecuador TV HD (Nacional)
+https://samson.streamerr.co:8081/shogun/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas HD [Geo-blocked]
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas SD (MPV)(Opc.2)
+http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas SD (MPV)(Opc.3)
+http://181.119.185.32:8000/play/a006/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television HD
+http://205.235.6.29:8000/play/a0zx/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television SD (MPV)[Opc.2]
+http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV HD (Manabí)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV (Manabí)[Opc.2]
-http://190.61.101.11:7050/play/a0a2/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV SD (MPV) (Manabí)[Opc.2]
+http://205.235.6.29:8000/play/a0z6/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", Telerama [No 24/7] (Azuay / Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV SD (MPV) (Manabí)[Opc.3]
+http://200.59.191.177:8000/play/a0ls/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV SD (MPV) (Manabí)[Opc.4]
+http://181.224.255.210:8001/play/a0r4/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", Telerama SD (MPV) [No 24/7] (Azuay / Nacional)
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", Telerama [No 24/7] (Azuay / Nacional)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Ecuador", Telerama SD (MPV) [No 24/7] (Azuay / Nacional)[Opc.2]
 http://205.235.6.29:8000/play/a0zy/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador", Manavisión (Manabí)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador", Manavisión SD (MPV) (Manabí)
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV [No 24/7] (Santo Domingo)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV HD [No 24/7] (Santo Domingo)
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO (Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO HD (Guayas)
 http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Ecuador", Educa TV [No 24/7] (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Ecuador", Educa TV HD [No 24/7] (Nacional)
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV (Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV HD (Guayas)
 http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus (Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus HD (Guayas)
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador", TV Color Canal 36 (El Oro)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador", TV Color Canal 36 HD (El Oro)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Ecuador", Antena Uno RadioVideo (Azuay)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Ecuador", Antena Uno RadioVideo SD (MPV)(Azuay)
 https://tvdatta.com:3578/live/antenaunolive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Ecuador", Latacunga TV (Cotopaxi)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Ecuador", Latacunga TV HD (Cotopaxi)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacán Te Veo [No 24/7] (Loja)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacán Te Veo HD [No 24/7] (Loja)
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="Ecuador", Loreto TV (Orellana)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="Ecuador", Loreto TV HD (Orellana)
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador", UNIANDES TV [No 24/7] (Tungurahua)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador", UNIANDES TV HD [No 24/7] (Tungurahua)
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Ecuador", Sono Onda TV (Manabí)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Ecuador", Sono Onda TV HD (Manabí)
 https://live.obslivestream.com/sonoondatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Ecuador", MakroDigital Television (Guayas)
+#EXTINF:-1 tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Ecuador", MakroDigital Television HD (Guayas)
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV [No 24/7] (El Oro)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV HD [No 24/7] (El Oro)
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Ecuador", Ciracu TV (Not 24/7) (Manabí)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Ecuador", Ciracu TV HD (Not 24/7) (Manabí)
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="Ecuador", Curiquingue TV (Pichincha)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="Ecuador", Curiquingue TV HD (Pichincha)
 https://video2.lhdserver.es/pjtv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Ecuador", El Sol Network TV [No 24/7] (Machala)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Ecuador", El Sol Network TV HD [No 24/7] (Machala)
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador", RTRTV (Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador", RTRTV HD (Guayas)
 https://tv3ecuador.site/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV (Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV HD (Guayas)
 https://eu1.servers10.com:8081/8108/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Ecuador",Canal Contivision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Ecuador",Canal Contivision HD 
 https://unlimited1-us.dps.live/cm/cm.smil/cm/livestream1/playlist.m3u8
 
 
