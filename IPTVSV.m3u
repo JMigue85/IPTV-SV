@@ -997,52 +997,50 @@ https://stream.ecoperu.tv/ECOTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Perú", Mega TV Jaén HD [No 24/7] (Cajamarca)
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="Perú", Telecolor Yurimaguas [No 24/7] (Loreto)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="Perú", Telecolor Yurimaguas HD [No 24/7] (Loreto)
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Perú", Uranio TV (Yurimaguas) [No 24/7] (Loreto)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Perú", Uranio TV (Yurimaguas) HD [No 24/7] (Loreto)
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Perú", RadioTV Oriente (Yurimaguas - Loreto)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Perú", RadioTV Oriente HD (Yurimaguas - Loreto)
 https://live.obslivestream.com/tvoriente/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Perú", Top FM TV [No 24/7] (Aguaytía - Ucayali)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Perú", Top FM TV HD [No 24/7] (Aguaytía - Ucayali)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="Perú", Like TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="Perú", Like TV HD (Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="Perú", BHTV (Lima)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="Perú", BHTV HD (Lima)
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Perú", Cadena TV [No 24/7] (Lima)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Perú", Cadena TV HD [No 24/7] (Lima)
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Perú", Intuitiva TV (Lima)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Perú", Intuitiva TV HD (Lima)
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Perú", Señal Perú TV [No 24/7] (Lima)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Perú", Señal Perú TV HD [No 24/7] (Lima)
 https://livestream.Perucast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Perú", Trivu [No 24/7] (Lima)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Perú", Trivu SD [No 24/7] (Lima)
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Perú",Agro TV [No 24/7] (Cusco)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Perú",Agro TV HD [No 24/7] (Cusco)
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Perú", Miel TV  [Not 24/7] (Satipo)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Perú", Miel TV HD [Not 24/7] (Satipo)
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="Perú", Nativa TV (Santiago)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="Perú", Nativa TV HD (Santiago)
 https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="Perú", Nativa TV (Santiago)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="Perú", Nativa TV HD [V2](Santiago)
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Perú", Radio Tropical [Not 24/7] (Tarapoto)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Perú", Radio Tropical HD [Not 24/7] (Tarapoto)
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 
