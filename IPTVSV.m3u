@@ -1212,11 +1212,11 @@ http://181.119.108.43:9001/play/a040/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine (Buenos Aires)
 http://190.7.19.197:232/play/a04l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine [Not 24/7] (Buenos Aires)
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV (Buenos Aires)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV HD (Buenos Aires)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV SD (MPV)(Buenos Aires)[Opc.2]
+http://190.7.19.197:232/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina", Argentinisima Satelital (Nacional)
 https://stream1.sersat.com/hls/argentinisima.m3u8
