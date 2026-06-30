@@ -1096,6 +1096,9 @@ http://181.79.87.130:8000/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión SD (Nacional)[Opc.6]
 http://190.102.247.126:8000/play/a00f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión Deportes (Nacional) [Geo-Blocked]
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 HD (Nacional)(Geo-Blocked)
 https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
 
