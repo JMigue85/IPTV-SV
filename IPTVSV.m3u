@@ -1280,7 +1280,7 @@ https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay SD [Opc.2]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD (MPV)[Opc.2]
 http://45.170.130.224:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD [Opc.3]
@@ -1307,28 +1307,28 @@ http://45.170.130.224:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal Paraguay HD [Opc.2]
 http://45.170.130.224:8000/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV Paraguay SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV Paraguay SD (MPV)
 http://45.170.130.224:8000/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",América TV Paraguay SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",América TV Paraguay SD (MPV)
 http://45.170.130.224:8000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay",C9N Paraguay SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay",C9N Paraguay SD (MPV)
 http://45.170.130.224:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay",La Tele Paraguay SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay",La Tele Paraguay SD (MPV)
 http://45.170.130.224:8000/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay",NPY Paraguay HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay",NPY Paraguay HD (MPV)
 http://45.170.130.224:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay",Paravisión Paraguay SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay",Paravisión Paraguay SD (MPV)
 http://45.170.130.224:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV SD (MPV)
 http://45.170.130.224:8000/play/a02r/index.m3u8
 
 
@@ -1336,37 +1336,38 @@ http://45.170.130.224:8000/play/a02r/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="República Dominicana",Valle Nuevo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="República Dominicana",Valle Nuevo TV HD
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="República Dominicana",Ready TV (La Vega)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="República Dominicana",Ready TV HD (La Vega)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uODDaEY.png" group-title="República Dominicana",Mi Turno TV
+#EXTINF:-1 tvg-logo="https://imgur.com/uODDaEY.png" group-title="República Dominicana",Mi Turno TV HD
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="República Dominicana",Orbit TV [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="República Dominicana",Orbit TV HD [No 24/7]
 https://edge.essastream.com/orbittv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9g2kyN0/HM33TVHD.png" group-title="República Dominicana",Canal 33
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9g2kyN0/HM33TVHD.png" group-title="República Dominicana",Canal 33 HD
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="República Dominicana",Fuego TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="República Dominicana",Fuego TV SD
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Canal 36 Cotubanama TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Canal 36 Cotubanama TV HD
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 8 Telenord
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 8 Telenord HD
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7 RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7 SD (MPV)
 http://190.61.101.11:7050/play/a08b/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 RD
-https://live2.telemicro.com.do/live/digital15/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 HD
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/digital-15-en-vivo/
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 RD - (Opc.2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 SD (MPV) (Opc.2)
 http://190.61.101.11:7050/play/a07l/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas - RD
