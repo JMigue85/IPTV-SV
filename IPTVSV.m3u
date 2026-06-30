@@ -1057,9 +1057,6 @@ http://190.102.247.126:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red HD (Nacional)[Geo-Blocked]
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red HD (Nacional)[Geo-Blocked][Opc.2]
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red SD (Nacional)[Opc.3]
 http://190.102.247.126:8000/play/a00j/index.m3u8
 
@@ -2939,7 +2936,7 @@ https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 https://live.ctvbolivia.com/hls/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine & Series", Bolivisión LPZ (La Paz / Bolivia)
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento / Cine & Series", RTP (La Paz / Bolivia)
 https://rtp.noxun.net/hls/stream.m3u8
@@ -2949,7 +2946,7 @@ https://rtp.noxun.net/hls/stream.m3u8
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine & Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+https://d1mws3umreue1g.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine & Series", Red TV Shop (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
