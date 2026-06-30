@@ -1371,10 +1371,10 @@ https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 SD (MPV) (Opc.2)
 http://190.61.101.11:7050/play/a07l/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas SD (MPV)
 http://190.61.101.11:7050/play/a08a/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",TeleMicro - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",TeleMicro SD (MPV)
 http://190.61.101.11:7050/play/a072/index.m3u8?hls
 
 
