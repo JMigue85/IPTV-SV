@@ -411,7 +411,7 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTVLCOPT:http-referrer=https://teleredtelevision.com/
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="Costa Rica",CEDROS TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="Costa Rica",CEDROS TV HD [No 24/7]
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
 
 
@@ -1218,16 +1218,13 @@ http://190.7.19.197:232/play/a095/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina", Argentinisima Satelital SD (Nacional)
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Argentina", Canal 10 Córdoba (Córdoba)
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina", Canal 7 Santiago del Estero (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa) [No 24/7]
 https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Argentina", Canal 2 Misiones (Misiones)
@@ -1263,7 +1260,7 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="Argentina",Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza [Geo-Blocked]
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal
@@ -1465,8 +1462,11 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="España", Tele Elx Alicante (Elche - Alicante)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="España", Canal 3 TV Biar (Biar - Alicante)
-https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="España", Canal 3 TV Biar SD (Biar - Alicante)
+https://avantstreaming.es/hls/canal3_mid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="España", Canal 3 TV Biar HD (Biar - Alicante)
+https://avantstreaming.es/hls/canal3_hi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="España", Punt 3 Televisión (Elda - Alicante)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
@@ -1727,13 +1727,13 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas", Cine53
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas", Cine53 [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas", Canal 69 TV
+#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas", Canal 69 TV [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas", Opinión Sur Cine
@@ -1751,10 +1751,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="Cine / Películas", Ipersonica
 https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7txS72SM/Play-Cine-TV.png" group-title="Cine / Películas", Play Cine TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7txS72SM/Play-Cine-TV.png" group-title="Cine / Películas", Play Cine TV [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/plaaytv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Cine / Películas", Alternativa TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Cine / Películas", Alternativa TV [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision
@@ -1775,7 +1775,7 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film [No 24/7]
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
@@ -1868,7 +1868,7 @@ https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/play
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="Cine / Películas", Box Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
+https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine / Películas", Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
@@ -1890,9 +1890,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine / Películas", Todo Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472b186783f359e.m3u8?X-Plex-Token=ZM-hxdz1yNmR9tokPfyJ
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjxKpHQB/ORO-Tv-1920-X1080-JPG-RDX-1.png" group-title="Cine / Películas", Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64f0db77c2bc9b9001d46eaa.m3u8?X-Plex-Token=VxmMXSQVcfo9G5eXyKfd
 
 #EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Movies
 https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
@@ -2216,9 +2213,6 @@ http://190.61.101.11:7050/play/a04l/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De pelicula SD (Opc.5)
 http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO
-http://190.61.101.11:7050/play/a08x/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine / Películas Premium",TCM HD
 http://45.167.2.101:8000/play/a0nu/index.m3u8
@@ -3301,8 +3295,8 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fuengirolatv.com/newftv/wp-content/uploads/2024/10/logos-ftv.png" group-title="Informativos", FTV Fuengirola (Málaga - Andalucía)
 https://streaming004.gestec-video.com/hls/FTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana (Ciudad Real - Castilla-La Mancha)
-https://signal.teleon.live/segments/canal2000es?path=canal2000.m3u8&token=free
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
+https://signal.teleon.live/stream/canal2000es.m3u8?token=free
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Informativos", TV BRICS (Rusia / Internacional)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
@@ -3854,9 +3848,6 @@ http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX ESA HD (MPV)[Opc.2]
 http://45.190.185.204:9000/play/a0oc/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HN HD
-http://190.61.101.11:7050/play/a0ad/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX CR
 http://190.61.101.11:7050/play/a0a7/index.m3u8?hls
 
@@ -3884,10 +3875,10 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Deportes",Canal Mundial ECU
 http://205.235.6.29:8000/play/a10f/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes", Multivisión Sports -Clasicos- (Guatemala)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes", Multivisión Sports -Clasicos- (Guatemala) [No 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Deportes",TVQ Sports (Guatemala)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Deportes",TVQ Sports [No 24/7 ] (Guatemala)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV (Costa Rica)
@@ -3999,21 +3990,11 @@ http://205.235.6.29:8000/play/a0yn/index.m3u8?hls
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports (Internacional)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports Play (Argentina)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports HD (Internacional)
 http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports SD (Internacional)
 http://190.102.247.126:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports (Argentina)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
 http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
@@ -4023,28 +4004,6 @@ http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Premium
 http://205.235.6.29:8000/play/a104/index.m3u8?hls
-
-
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/laliga-hypermotion-logo-png_seeklogo-516143.png" group-title="Deportes",LaLiga Hypermotion v2 (España)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/152/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/laliga-hypermotion-logo-png_seeklogo-516143.png" group-title="Deportes",LaLiga Hypermotion (España)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/59/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Deportes",CBS Sports Network (USA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Go (Reino Unido)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga
 http://190.61.101.11:7050/play/a04g/index.m3u8?hls
@@ -4224,24 +4183,6 @@ http://205.235.6.29:8000/play/a10e/index.m3u8?hls
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="DAZN",DAZN LaLiga v2 (España)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/160/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="DAZN",DAZN LaLiga (España)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="DAZN",DAZN España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/92/index.m3u8
 
 
 
