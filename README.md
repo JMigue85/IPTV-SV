@@ -45,7 +45,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 | 🙏 Religiosos | 59+ canales |
 | 📺 Otros | 200+ canales |
 
-> **Total: ~1500 canales** 🚀
+> **Total: ~1400 canales** 🚀
 
 ---
 
