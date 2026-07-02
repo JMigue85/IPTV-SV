@@ -759,7 +759,7 @@ http://205.235.6.29:8000/play/a0yi/index.m3u8?hls
 http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", Ecuador TV HD (Nacional)
-https://samson.streamerr.co:8081/shogun/index.m3u8
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas HD [Geo-blocked]
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
@@ -1775,9 +1775,6 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="Cine / Películas", Memorias Film [No 24/7]
-https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 
@@ -2481,9 +2478,6 @@ https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Entretenimiento / Cine & Series", AMC en Español
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/02/logo-MEMORIAS-SERIES-png-.png" group-title="Entretenimiento / Cine & Series", Memorias Series
-https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine & Series",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 
@@ -2544,7 +2538,7 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento / Cine & Series", Canal 34 San Juan (San Juan / Argentina)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine & Series", Bayres TV -Clasicos- (Argentina)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine & Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine & Series", Gen TV
@@ -3008,9 +3002,6 @@ http://8.243.126.131:8000/play/a05x/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales y Cultura",Discovery Theater HD
 http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales y Cultura",Discovery Theater HD [Opc.2]
-http://205.235.6.29:8000/play/a0pj/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Documentales y Cultura",Discovery Home & Health HD
 http://8.243.126.131:8000/play/a0il/index.m3u8?hls
 
@@ -3064,9 +3055,6 @@ http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales y Cultura",H2 SD
 http://8.243.126.131:8000/play/a0mo/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales y Cultura",H2 HD [Opc.2]
-http://8.243.126.131:8000/play/a05u/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales y Cultura",Nat Geo HD
 http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
@@ -3464,9 +3452,6 @@ http://190.61.101.11:7050/play/a074/index.m3u8?hls
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/3yXRbQy.png",Tooncast (Opc.2)
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-toons-png.png" group-title="Infantiles",Memorias Toons (Latam)
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Infantiles",Dreiko TV (Chile)
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
@@ -3693,18 +3678,6 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://populartv.cl/wp-content/uploads/2026/05/lapopu.png" group-title="Música",La Popular TV (Chile)
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
-
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-CLASSIC-OK-png-.png" group-title="Música",Memorias Classic (Chile)
-https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon.png" group-title="Música",Memorias TV (Chile)
-https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/LOGO-MEMORIAS-standard.png" group-title="Música",Memorias Pop Latino (Chile)
-https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
-
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/10/logo-memorias-tropical-ok-png-.png" group-title="Música",Memorias Tropical (Chile)
-https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/parentesis-tv-2.png" group-title="Música",Paréntesis TV (Chile)
 https://freya.mivideo.pro/parentesistv/index.m3u8
