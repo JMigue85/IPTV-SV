@@ -63,25 +63,22 @@ https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 SD
 http://45.167.2.101:8000/play/a0nw/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 [Opc.3](TempOffLine)
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7]
 http://45.167.2.101:8000/play/a0re/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7][Opc.2]
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 [Opc.2]
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD [Opc.2]
 http://45.167.2.101:8000/play/a0rq/index.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 HD
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 [OPc.2]
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 HD [OPc.2]
 http://45.167.2.101:8000/play/a0m4/index.m3u8
 
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 SD (MPV)
