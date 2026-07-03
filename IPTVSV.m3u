@@ -486,10 +486,10 @@ http://201.174.175.3:8000/play/a0kl/index.m3u8u?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD (MPV) (México)[Opc. 3]
 http://38.65.175.87:8000/play/a0la/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 5]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 4]
 http://38.65.175.87:8000/play/a0fm/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 5]
 http://201.77.60.62:8002/play/a0fm/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="México", Imagen TV Plus HD (Nacional)
