@@ -424,22 +424,16 @@ http://205.235.6.29:8000/play/13/index.m3u8?hls
 http://190.61.101.11:7050/play/a04i/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.4)
-http://38.65.175.87:8000/play/a0le/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.5)
-http://209.87.175.160:5001/play/a0mz/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.6)
 http://201.77.60.62:8002/play/a0nr/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.7)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.5)
 http://201.77.60.62:8002/play/a0le/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas SD (MPV) (Nacional)[v1](Opc.8)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.6)
 http://45.167.2.101:8000/play/a0pk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas SD (MPV) (Nacional)[v1](Opc.9)
-http://209.87.175.160:5001/play/a0d4/index.m3u8?hls
+#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas SD (MPV)(Nacional)[V1](Opc.7)
+http://201.77.60.62:8002/play/a0d4/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[V2]
 http://181.224.255.210:8001/play/a0se/index.m3u8?hls
@@ -448,25 +442,13 @@ http://181.224.255.210:8001/play/a0se/index.m3u8?hls
 http://205.235.6.29:8000/play/a0z0/index.m3u8?hls
 
 #EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas HD (Nacional)[V2](Opc.3)
-http://181.224.200.5:2277/play/a00s/index.m3u8
-
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas HD (Nacional)[V2](Opc.4)
 http://200.59.191.177:8000/play/a0pc/index.m3u8?hls
 
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas HD (Nacional)[V2](Opc.5)
-http://24.152.42.29:8000/play/a01c/index.m3u8?hls
-
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas HD (Nacional)[V2](Opc.6)
+#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas HD (Nacional)[V2](Opc.4)
 http://8.243.126.131:8000/play/a05l/index.m3u8?hls
 
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas SD (MPV)(Nacional)[V2](Opc.7)
+#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas SD (MPV)(Nacional)[V2](Opc.5)
 http://190.217.66.92:8000/play/a0e0/index.m3u8u?hls
-
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas SD (MPV)(Nacional)[V2](Opc.8)
-http://45.170.130.224:8000/play/a026/index.m3u8
-
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas SD (MPV)(Nacional)[V2](Opc.9)
-http://201.77.60.62:8002/play/a0d4/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[V3]
 http://45.167.2.101:8000/play/a0pk/index.m3u8
@@ -478,27 +460,21 @@ http://201.77.60.62:8002/play/a0ns/index.m3u8?hls
 http://38.65.175.87:8000/play/a0ll/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 2]
-http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 3]
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 4]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 3]
 http://200.35.176.154:8000/play/a067/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 5]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 4]
 http://201.77.60.62:8002/play/a0ll/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 6]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 5]
 http://201.77.60.62:8002/play/a0fl/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 6]
-http://209.87.175.160:5001/play/a0fl/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 7]
 http://38.65.175.87:8000/play/a0o1/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 8]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 7]
 http://38.65.175.87:8000/play/a0fl/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD (MPV)(México)[Opc. 1]
@@ -510,14 +486,8 @@ http://201.174.175.3:8000/play/a0kl/index.m3u8u?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD (MPV) (México)[Opc. 3]
 http://38.65.175.87:8000/play/a0la/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD (México)[Opc. 4]
-http://209.87.175.160:5001/play/a0me/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 5]
 http://38.65.175.87:8000/play/a0fm/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 6]
-http://209.87.175.160:5001/play/a0fm/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 7]
 http://201.77.60.62:8002/play/a0fm/index.m3u8?hls
