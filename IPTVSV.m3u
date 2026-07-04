@@ -1283,6 +1283,12 @@ https://fox.hostlagarto.com:8081/telenord8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7 SD (MPV)
 https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",Telecentro 13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/telecentro-en-vivo/
+https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/digital-15-en-vivo/
