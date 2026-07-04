@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/JMigue85/IPTV-SV)
 ![Last Updated](https://img.shields.io/github/last-commit/JMigue85/IPTV-SV)
 ![License](https://img.shields.io/github/license/JMigue85/IPTV-SV)
-![Total Canales](https://img.shields.io/badge/Canales-1500+-brightgreen)
+![Total Canales](https://img.shields.io/badge/Canales-1250+-brightgreen)
 
 Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adicional de toda América Latina y España.
 
@@ -45,7 +45,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 | 🙏 Religiosos | 59+ canales |
 | 📺 Otros | 200+ canales |
 
-> **Total: ~1400 canales** 🚀
+> **Total: ~1250 canales** 🚀
 
 ---
 
