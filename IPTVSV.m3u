@@ -543,19 +543,16 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN SD (MPV)
 http://190.217.66.92:8000/play/a0e8/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD (MPV)
-http://200.35.176.154:8000/play/a063/index.m3u8
-
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.2]
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.1]
 http://190.217.66.92:8000/play/a0ow/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.3]
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.2]
 http://181.119.185.32:8000/play/a0211/index.m3u8?hls
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.4]
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.3]
 http://200.59.191.177:8000/play/a001/index.m3u8?hls
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.5]
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.4]
 http://181.79.87.130:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia", Señal Colombia [No 24/7] (Nacional)
