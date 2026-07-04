@@ -16,9 +16,6 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS HD (MPV) [Opc. 2]
 http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS HD [Opc. 3]
-http://200.59.191.177:8000/play/a00q/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
@@ -63,9 +60,6 @@ https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD [Opc.2]
-http://45.167.2.101:8000/play/a0rq/index.m3u8
 
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 HD
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
@@ -678,7 +672,7 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)[Opc.2]
 http://205.235.6.29:8000/play/a0zw/index.m3u8?hls
@@ -1236,8 +1230,8 @@ http://45.170.130.224:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay",C9N Paraguay SD (MPV)
 http://45.170.130.224:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD
-http://45.170.130.224:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Inestable]
+[]http://45.170.130.224:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay",La Tele Paraguay SD (MPV)
 http://45.170.130.224:8000/play/a03u/index.m3u8
@@ -1277,8 +1271,20 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Canal 36 Cotubanama TV HD
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 8 Telenord HD [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 8 Telenord HD [No 24/7]
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 10 Telenord HD [No 24/7]
+https://cdnfox.hostlagarto.com/telenord10/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 12 Telenord HD [No 24/7]
+https://cdnfox.hostlagarto.com/telenord12/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 14 Telenord HD [No 24/7]
+https://newyorkstream.ddns.net:1935/telenord14/telenord14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7 SD (MPV)
 https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037.m3u8
@@ -1670,7 +1676,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision
 https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q30mq4cv/PRITV.png" group-title="Cine / Películas", PRITV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q30mq4cv/PRITV.png" group-title="Cine / Películas", PRITV [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/tv1251master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies
@@ -2216,8 +2222,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entretenimiento / Cine & Series", Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Entretenimiento / Cine & Series",Canal 13 MAX (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Entretenimiento / Cine & Series",Canal 13 MAX [No 24/7] (Argentina)
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Entretenimiento / Cine & Series", Retro TV
 https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
@@ -2350,7 +2357,7 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento / Cine & Series", Multicanal [No 24/7](Ecuador - Loja)
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+https://streaming.zonaradio.net/live/multicec.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ld46sscs/Miami-TVDJ.png" group-title="Entretenimiento / Cine & Series",Miami TV DJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
@@ -2473,6 +2480,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine & Series",Canal 12 Misiones (Argentina)
 https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine & Series",Canal 12 Misiones (Argentina)[Opc.2]
+https://g2.proy-slo.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento / Cine & Series", MaxiVision TV (Argentina)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
@@ -2492,7 +2502,7 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine & Series", Canal 21 HD (Buenos Aires / Argentina)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento / Cine & Series", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
 https://eu1.servers10.com:8081/ceacom/index.m3u8
@@ -2510,7 +2520,7 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Entretenimiento / Cine & Series", CTV (La Paz / Bolivia)
-https://live.ctvbolivia.com/hls/ctv.m3u8
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine & Series", Bolivisión LPZ (La Paz / Bolivia)
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
@@ -3186,13 +3196,13 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="Música",Teleritmo (México)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="Música",MegaBox (Nicaragua) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="Música",MegaBox (Nicaragua) [No 24/7]
 https://hdbox.chunklistv.com/live?stream=megabox
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Música",TVONE (Nicaragua) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Música",TVONE (Nicaragua) [No 24/7]
 https://hdbox.chunklistv.com/live?stream=tvone
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Música", 88 Stereo (Costa Rica)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Música", 88 Stereo (Costa Rica) [No 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música", Gex TV [No 24/7](Costa Rica)
@@ -3299,9 +3309,6 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XnX1pw2/logo-fantasia-tv-dos-1024x1024.png" group-title="Música",Fantasia TV (Chile)
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png" group-title="Música", La Cantina Memorias (Chile) [Geo-blocked]
-https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Música", Cumbia Mix (Argentina)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
@@ -3529,12 +3536,6 @@ https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes", Ovacion TV (Perú) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJGRK3d/ES3400002PY-20250121T012834SQUARE.png" group-title="Deportes",Surf Channel (España)
-https://d3oxrjqn271yyu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s0n4neu74pe7t/live/fast-channel-surfchannel-22ac1747/fast-channel-surfchannel-22ac1747.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/449m1pvd/Diseno-sin-titulo(14).png" group-title="Deportes", MyPadel TV (España)
-https://d1zpoa0s0okzmu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/live/fast-channel-mypadeltv-c792478d/fast-channel-mypadeltv-c792478d.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RT2pzP0p/Sport-Max.png" group-title="Deportes",SportMax
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
@@ -3755,9 +3756,6 @@ http://45.170.130.224:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD [Opc.5]
 http://45.170.130.224:8000/play/a01w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD [Opc.6]
-http://45.170.130.224:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 6 HD [Opc.6]
 http://45.170.130.224:8000/play/a028/index.m3u8
