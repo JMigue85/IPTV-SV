@@ -318,7 +318,7 @@ http://190.61.101.11:7050/play/a07t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica",Canal 8 Multimedios HD (Nacional)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 HD (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 HD [No 24/7](Nacional)
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD (Nacional)[Opc.2]
@@ -2356,7 +2356,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Entretenimiento / Cine & Series", Canal 4 Posadas (Misiones / Argentina)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento / Cine & Series", Univalle Televisión (Cochabamba / Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento / Cine & Series", Univalle Televisión [No 24/7](Cochabamba / Bolivia)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento / Cine & Series", Like TV Folklore (Perú - Nacional)
@@ -3301,7 +3301,7 @@ https://tv.arkeo.cl:19360/8052/8052.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/parentesis-tv-2.png" group-title="Música",Paréntesis TV (Chile)
 https://freya.mivideo.pro/parentesistv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/planetaTV-music.png" group-title="Música",Planeta TV (Chile)
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/planetaTV-music.png" group-title="Música",Planeta TV [No 24/7](Chile)
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjRXJcLY/antena3-icon-orange.png" group-title="Música",Antena Music (Chile)
