@@ -49,7 +49,7 @@ http://45.167.2.101:8000/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV HD
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 SD
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 SD [No 24/7]
 http://45.167.2.101:8000/play/a0nw/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7]
@@ -121,7 +121,7 @@ http://45.5.118.152:8000/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela HD [No 24/7] (Quetzaltenango)
 https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Guatemala", Telecosta HD 
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Guatemala", Telecosta HD [No 24/7]
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J6SnMWp/como-antes.png" group-title="Guatemala",Como Antes TV HD
@@ -181,7 +181,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png" group-title="Guatemala",Canal 26 Cono Sur TV HD [No 24/](Jut)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/61
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JsnWj8k/Diseno-sin-titulo(5).png" group-title="Guatemala",Canal 6 SD (Panajachel)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JsnWj8k/Diseno-sin-titulo(5).png" group-title="Guatemala",Canal 6 SD [No 24/7](Panajachel)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/528
 
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/27063/logo_256_1720730035.png" group-title="Guatemala",TV5 HD [No 24/7] (Solola)
@@ -2191,13 +2191,13 @@ https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="Entretenimiento / Cine & Series", El Mago TV 2
 https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Entretenimiento / Cine & Series", Pituco tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Entretenimiento / Cine & Series", Pituco TV [No 24/7]
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3bPH59x/Contact-TV.png" group-title="Entretenimiento / Cine & Series", ContacTV
 https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entretenimiento / Cine & Series", Canal Pulpo TV
+#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entretenimiento / Cine & Series", Canal Pulpo TV [No  24/7]
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Entretenimiento / Cine & Series",Canal 13 MAX [No 24/7] (Argentina)
@@ -2279,7 +2279,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento / Cine & Series", F10 HD (El Alto / La Paz / Bolivia)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento / Cine & Series", UPEA TV (El Alto)
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento / Cine & Series", UPEA TV [No 24/7](El Alto)
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
@@ -2387,9 +2387,6 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/pl
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Thema Vive Kanal Drama[Opc. 2]
 http://8.243.126.131:8000/play/a0mn/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Thema Vive Kanal Drama[Opc. 3]
-http://181.224.255.210:8001/play/a0sq/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260505T035729SQUARE.png" group-title="Entretenimiento / Cine & Series",Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
@@ -3234,8 +3231,8 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música", AE Radio TV (Chile)
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://populartv.cl/wp-content/uploads/2026/05/lapopu.png" group-title="Música",La Popular TV (Chile)
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
+#EXTINF:-1 tvg-logo="https://populartv.cl/wp-content/uploads/2026/05/lapopu.png" group-title="Música",La Popular TV [No 24/7](Chile)
+https://tv.arkeo.cl:19360/8052/8052.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/parentesis-tv-2.png" group-title="Música",Paréntesis TV (Chile)
 https://freya.mivideo.pro/parentesistv/index.m3u8
@@ -3659,9 +3656,6 @@ http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.2)
 http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.3)
-http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD - (Opc.4)
 http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
