@@ -1191,56 +1191,68 @@ https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD (MPV)[Opc.2]
-http://45.170.130.224:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay SD
+https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD [Opc.3]
-http://45.170.130.224:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="Canal8CCProducciones.py@SD" group-title="Paraguay" ,Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD
-http://45.170.130.224:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="CanalPro.py@SD" group-title="Paraguay"´,Canal Pro
+#EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
+https://www.desde-paraguay.com/pro.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Opc.2]
-http://45.170.130.224:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="CaritasTV.py@SD" group-title="Paraguay" ,Cáritas TV (1080p)
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Opc.3]
-http://45.170.130.224:8000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.py@SD" group-title="Paraguay" ,Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Paraguay",Trece TV Paraguay HD
-http://45.170.130.224:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="DelReyTV.py@SD" group-title="Paraguay" ,Del Rey TV (1080p)
+#EXTVLCOPT:http-referrer=https://tvonline.com.py/
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Paraguay",Trece TV Paraguay HD [Opc.2]
-http://45.170.130.224:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="Latele.py@SD" group-title="Paraguay" ,Latele (1080p)
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal Paraguay HD
-http://45.170.130.224:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="MegaTV.py@SD" group-title="Paraguay" ,Mega TV (1080p)
+https://www.desde-paraguay.com/mega.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal Paraguay HD [Opc.2]
-http://45.170.130.224:8000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py@SD" group-title="Paraguay" ,Nanduti (720p)
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV Paraguay SD (MPV)
-http://45.170.130.224:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="NPY.py@SD" group-title="Paraguay" ,NPY (1080p)
+#EXTVLCOPT:http-referrer=https://www.npy.com.py/
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",América TV Paraguay SD (MPV)
-http://45.170.130.224:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="OccidentalTV.py@SD" group-title="Paraguay" ,Occidental TV
+https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay",C9N Paraguay SD (MPV)
-http://45.170.130.224:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" group-title="Paraguay" ,Paraguay TV (1080p)
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Inestable]
-http://45.170.130.224:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="ProductivaTV.py@SD" group-title="Paraguay" ,Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay",La Tele Paraguay SD (MPV)
-http://45.170.130.224:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="RegionalTVYaguaron.py@SD" group-title="Paraguay" ,Regional TV Yaguaron (1080p)
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay",NPY Paraguay HD (MPV)
-http://45.170.130.224:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="Telequince.py@SD" group-title="Paraguay",Telequince (1080p)
+https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay",Paravisión Paraguay SD (MPV)
-http://45.170.130.224:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="TVAire.py@SD" group-title="Paraguay" ,TV Aire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV SD (MPV)
-http://45.170.130.224:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="UniRadioTV.py@SD" group-title="Paraguay" ,UniRadio TV (1080p)
+https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+
+#EXTINF:-1 tvg-id="C9N.py@SD" group-title="Paraguay" ,C9N (720p)
+https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
+
+
+
+
 
 
 
