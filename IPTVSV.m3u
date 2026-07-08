@@ -72,7 +72,10 @@ https://stream.giostreaming.app/canal11/canal11.m3u8
 http://190.61.34.164:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 SD [No 24/7]
-http://190.61.34.164:8000/play/a00p/index.m3u8
+http://181.78.192.238:8000/play/a2c3/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 SD [No 24/7][Opc.2]
+http://181.119.177.253:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7]
 http://45.167.2.101:8000/play/a0re/index.m3u8
@@ -123,8 +126,6 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 #EXTINF:-1 tvg-id="TVCNetwork.sv" tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV HD
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.acacu.com/img/Logo_1.png" group-title="El Salvador",ACACU de RL HD
-http://190.61.34.164:8000/play/a04g/index.m3u8
 
 
 
