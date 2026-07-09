@@ -1461,10 +1461,7 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="España", La 2 (Nacional)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="España", La 2 (Nacional)[Opc.2]
-https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" group-title="España", La 2 Canarias (Canarias)
 https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main.m3u8
