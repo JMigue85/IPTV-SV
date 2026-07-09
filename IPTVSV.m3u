@@ -1460,7 +1460,10 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España", La 1 Cataluya (Cataluña)
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="España", La 2 (Nacional)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="España", La 2 (Nacional) 
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="España", La 2 (Nacional)[Opc.2]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" group-title="España", La 2 Canarias (Canarias)
@@ -1479,7 +1482,8 @@ http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="España", Canal Extremadura (Extremadura / Autonómico)
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="España", Negocios TV (Nacional)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
