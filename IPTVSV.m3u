@@ -135,14 +135,26 @@ https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)
 http://200.35.176.154:8000/play/a02u/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)[Opc.2]
+http://181.78.50.91:8000/play/a03h/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)
 http://200.35.176.154:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)[Opc.2]
+http://181.78.50.91:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 SD (MPV) (Nacional)
 http://200.35.176.154:8000/play/a01u/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 SD (MPV) (Nacional)
+http://179.60.224.196:8000/play/a0dv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 SD (MPV) (Nacional)
 http://200.35.176.154:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="Guatemala",Canal 13 SD (MPV) (Nacional) [Opc.2]
+http://181.78.50.91:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",TV Azteca Guate SD
 http://200.35.176.154:8000/play/a02s/index.m3u8
@@ -266,6 +278,9 @@ http://190.61.101.11:7050/play/a06t/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 HD
 http://190.61.34.164:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 SD [Opc.2]
+http://186.33.0.57:8000/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1093,6 +1108,12 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 HD (Nacional)(Geo-Blocked)
 https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 HD (Nacional)(Opc.2)
+http://181.79.87.131:8000/play/a0ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IQV0g8fKimSFNmcRBOrvnOUKGt8LN27CxAekNEOpLUw2SOyoQ22ucYKkx7lCfCJRS-Y" group-title="Chile",13 GO HD (Nacional)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png" group-title="Chile",13 Internacional HD (Nacional)
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 
@@ -1273,13 +1294,16 @@ https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
-https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+http://24.152.42.29:8000/play/a02b/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay SD
 https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Geo-Blocked]
 https://no.gendigi.net/origin-proxy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Opc.2]
+http://24.152.42.29:8000/play/a02f/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" tvg-id="Canal8CCProducciones.py@SD"  group-title="Paraguay" ,Canal 8 C&C Producciones HD
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
@@ -1323,7 +1347,7 @@ https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.npy.com.py/
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9umNKp.jpeg" tvg-id="OasisTV.py@SD",Oasis TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9umNKp.jpeg" group-title="Paraguay" ,Oasis TV HD
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IRBA9h.png" tvg-id="OccidentalTV.py@SD" group-title="Paraguay" ,Occidental TV HD
@@ -1473,7 +1497,7 @@ https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main.m3u8
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg" group-title="España",Antena 3
-http://205.235.6.29:8000/play/a0xq/index.m3u8?hls
+http://179.60.224.196:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg" group-title="España",Antena 3[Opc.2]
 http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
@@ -2494,6 +2518,9 @@ http://205.235.6.29:8000/play/a0z7/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De pelicula HD (Opc.3)
 http://190.61.34.164:8000/play/a02c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO
+http://181.78.67.171:8000/play/a0yd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine / Películas Premium",TCM HD
 http://45.167.2.101:8000/play/a0nu/index.m3u8
 
@@ -2528,6 +2555,16 @@ http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional) SD (MPV)[Opc.3]
 http://205.235.6.29:8000/play/a106/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Acción
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 
@@ -2561,6 +2598,11 @@ http://8.243.126.131:8000/play/a0le/index.m3u8?hls
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/nsttoEa.png",DHE HD (Opc.1)
 http://181.224.255.210:8001/play/a0nt/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro HD
+http://186.33.0.57:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro SD [Opc.2]
+http://186.33.47.113:8000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series SD [Opc.1]
 http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
@@ -2674,7 +2716,7 @@ http://190.61.34.164:8000/play/a03u/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine & Series", TeleOnce (Puerto Rico)
-https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+https://livecdn.use1-0007.jwplive.com/live/sites/5yzZ4fDK/media/DccQWXXz/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine & Series", Cali TV (Cali - Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
@@ -3051,6 +3093,9 @@ https://d1mws3umreue1g.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine & Series", Red TV Shop (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine & Series", Unitel (Bolivia)
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Entretenimiento / Cine & Series", Plus TV [No 24/7] (Perú - Santo Domingo)
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
@@ -3086,54 +3131,38 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 
 
 
-#EXTINF:-1 tvg-id="Telemundo39.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 39 [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Texas [Opc.1]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/c645024e-07d4-4cb0-8dae-4e7111774f4f/3.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo39.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 39 [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Texas [Opc.2]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/c645024e-07d4-4cb0-8dae-4e7111774f4f/4.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo47.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 47 [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Noreste [Opc.1]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/3.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo47.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 47 [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Noreste [Opc.2]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/4.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo52.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 52 [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias California [Opc.1]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/243d5ec1-ceba-4f97-a361-53317e949324/3.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo52.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo 52 [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias California [Opc.2]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/243d5ec1-ceba-4f97-a361-53317e949324/4.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoCorpus.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Corpus Christi
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoNE.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Nueva Inglaterra [Opc.1]
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/223fb689-996a-449b-ac6a-990904eaba5c/3.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoNE.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Nueva Inglaterra [Opc.2]
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/223fb689-996a-449b-ac6a-990904eaba5c/4.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoPR.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Puerto Rico [Opc.1]
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoAhora.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Ahora
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
-
-#EXTINF:-1 tvg-id="TelemundoAlDia.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Al dia
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
-
-#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Florida [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="TelemundoNoticias",Telemundo Noticias Florida [Opc.1]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo49.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Noticias Florida [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Florida [Opc.2]
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/4.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoAccion.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Acción
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Ahora
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
 
-#EXTINF:-1 tvg-id="TelemundoRomance.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo",Telemundo Romance
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Al dia
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Live Stream Schedule
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 
 
@@ -3169,6 +3198,7 @@ http://24.152.42.29:8000/play/a09z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales y Cultura",Discovery Channel HD [Opc.5]
 http://205.235.6.29:8000/play/a0yq/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales y Cultura",Discovery ID HD
 http://8.243.126.131:8000/play/a0dd/index.m3u8?hls
@@ -3531,6 +3561,9 @@ https://jmp2.uk/stvp-ES5000001CS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YF0dppZ2/plimplim.png" group-title="Infantiles",Plim Plim TV
 http://205.235.6.29:8000/play/a0xo/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGk7MJ3.png" group-title="Infantiles",Canal infantil
+http://181.225.190.242:8000/play/a00j
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/290/peque-radio-tv.0edf3e97.png" group-title="Infantiles", Pequeradio TV (ES)
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/playlist.m3u8
 
@@ -3638,9 +3671,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Moni TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Infantiles", 13 Kids (Chile)
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantiles", Chinola TV (Rep. Dominicana)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
