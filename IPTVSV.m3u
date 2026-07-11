@@ -1541,7 +1541,7 @@ https://ztnr.rtve.es/ztnr/6108704.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="España",+tdp
 https://ztnr.rtve.es/ztnr/6712456.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="España", Canal Extremadura (Extremadura / Autonómico)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="España",Infantil (Canal Extremadura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
 
@@ -1639,6 +1639,9 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="España", Alacantí TV (Alicante)
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200" group-title="España" ,12TV Alicante (Alicante)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16126&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&content_channel=12tv&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=mirametv_live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="España", Onda 15 TV Alicante (Alicante)
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
@@ -1664,12 +1667,6 @@ https://canalcoin.garjim.es/hls/directo.m3u8
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="España", RTV Marbella (Marbella - Málaga)
-https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="España",Canal Málaga
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200" group-title="España",Marbella TV
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="España" ,M95 Marbella
@@ -1716,14 +1713,20 @@ https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="España", Durangaldeko Telebista dotb (Durango - Vizcaya)
 https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="España", Durangaldeko Telebista dotb (Durango - Vizcaya)[Opc.2]
+https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="España", STZ Telebista (Santurtzi - Vizcaya)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFg9dGO.png" group-title="España", Popular TV Murcia (Múrcia)
-https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/09/Arabi-TV-Yecla-en-DIRECTO-Online-768x432.png" group-title="España", Arabí TV Yecla (Yecla - Murcia)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/09/Arabi-TV-Yecla-en-DIRECTO-Online-768x432.png" group-title="España", Arabí TV Yecla (Yecla - Murcia)[Opc.2]
+https://servidor.islahostingla.com:3548/live/arabitvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="España", Canal 1 Mar Menor (San Javier - Murcia)
 https://directo.tuwebtv.es/canal1.m3u8
@@ -1773,9 +1776,6 @@ https://nimble.tuyapro.es/saltv/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="España",Diez TV Andújar
 https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="España",Diez TV Las Villas
-https://streaming.cloud.innovasur.es/mmj2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="España",Diez TV Úbeda
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
@@ -1797,9 +1797,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tenerifeplustv/picture?width=200&height=200" group-title="España",Tenerife Plus TV
 https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LancelotTelevision/picture?width=200&height=200" group-title="España",Lancelot TV
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="España",NORTEvisión
 http://amaru.dyndns.org:8870/0.m3u8
@@ -1827,10 +1824,6 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="España",Imás TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="España",Canal 4 Mancha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307981912586301441/LloEFyxw_200x200.jpg" group-title="España",TeleToledo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1
 
@@ -1849,9 +1842,109 @@ https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/liratvlive/picture?width=200&height=200" group-title="España",LIRA TV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal56televisio/picture?width=200&height=200" group-title="España",Canal 56 (C. Valenciana)
+https://videos.canal56.com/directe/stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZ5UffEAeHVZWc1fbQsPu4VNureSfNMwlMoRmgH=s200" group-title="España",Tele Safor (C. Valenciana)
+https://video.telesafor.com/hls/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvalmassora/picture?width=200&height=200" group-title="España",TV Almassora (C. Valenciana)
+https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/33Television/picture?width=200&height=200" group-title="España",33TV (C. Valenciana)
+https://limited43.todostreaming.es/live/simbana-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="España" tvg-name="Canal Extremadura",Canal Extremadura (Extremadura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="España",Semos asina (Canal Extremadura)(Extremadura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdn-canalextremadura.watchity.net/fast3/master.m3u8
+
+#EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="España",TVG (Galicia)
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="España",TVG Xabarin (Galicia)
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="España" tvg-name="TVG Eventos",TVG Eventos 1 [No 24/7] (Galicia)
+https://crtvg-events1.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="España" tvg-name="TVG Eventos",TVG Eventos 2 [No 24/7] (Galicia)
+https://crtvg-events2.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="España" tvg-name="TVG Eventos",TVG Eventos 3 [No 24/7] (Galicia)
+https://crtvg-events3.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="España",TVG Mira Radio Galega (Galicia)
+https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="España" tvg-name="TVG Universo Castelao",TVG Universo Castelao (Galicia)
+https://crtvg-universo-castelao-schlive.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teleminho/picture?width=200&height=200" group-title="España",Telemiño (Galicia)
+https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/anove.tv/picture?width=200&height=200" group-title="España",Anove TV (Galicia)
+https://cloud.streamingconnect.tv/hls/anove/anove.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="España" ,Canal 4 TV Mallorca (Illes Balears)
+https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200" group-title="",Cocina Familiar (La Rioja)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16114&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_cat=IAB8&content_channel=cocinafamiliar&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&ssai_enabled=1&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live
+
+#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="España",ETB 1 [Geo-Blocked] (País Vasco)
+https://cdn1.etbon.eus/etb1/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="España",ETB 2 [Geo-Blocked] (País Vasco)
+https://cdn1.etbon.eus/etb2/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB1ON.TV" tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="España",ETB1 ON (País Vasco)
+https://cdn1.etbon.eus/etb1on/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB2ON.TV" tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="España",ETB2 ON (País Vasco)
+https://cdn1.etbon.eus/etb2on/index.m3u8
+
+#EXTINF:-1 tvg-id="ETBON_Oca1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="España",ETB Eventos 1 (País Vasco)
+https://cdn1.etbon.eus/oc1/index.m3u8
+
+#EXTINF:-1 tvg-id="ETBON_Oca2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="España" tvg-name="ETB Eventos 2",ETB Eventos 2 [Geo-Blocked] (País Vasco)
+https://cdn1.etbon.eus/oc2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200" group-title="España",Hamaika TV (País Vasco)
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/guka.eus/picture?width=200&height=200" group-title="España",GUKA TB (País Vasco)
+https://streaming.ukt.eus/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/goiena.eus/picture?width=200&height=200" group-title="España",Goiena Eus (País Vasco)
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200" group-title="España",Goierri Irrati TV (País Vasco)
+https://streaming.gitb.eus/hls/z.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/28kanala/picture?width=200&height=200" group-title="España" tvg-name="28 Kanala",28 Kanala (País Vasco)
+https://streaming.28kanala.eus/hls/z.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=200&height=200" group-title="España",Urola TB (País Vasco)
+https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="España",TVE Int. Europa [Geo-Blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="TVE_INTER.TV" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="España",TVE Int. Europa [Geo-Blocked][Opc.2]
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200" group-title="España",Islas Canarias TV (Int. Europa)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1
+
+#EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="España",ATV Andorra (Int. Europa)
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="España",DW Alemania (Int. Europa)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
 
@@ -2674,6 +2767,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento Premium", TVE Star HD (720p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento Premium", TVE Star HD (Auto)
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Entretenimiento Premium",tlnovelas HD [Opc.1]
 http://190.61.34.164:8000/play/a00q/index.m3u8
 
@@ -2943,6 +3039,9 @@ https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entretenimiento / Cine & Series", Ciudades del Ocio TV (España)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Entretenimiento / Cine & Series",TEF (España)
+https://tef.servertv.online:3268/live/teflive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento / Cine & Series", GikTVMX (México)
 https://pistream.ddns.net/hls/stream.m3u8
