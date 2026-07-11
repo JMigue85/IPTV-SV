@@ -2845,453 +2845,453 @@ http://190.61.34.164:8000/play/a03u/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine & Series", TeleOnce (Puerto Rico)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine / Series", TeleOnce (Puerto Rico)
 https://livecdn.use1-0007.jwplive.com/live/sites/5yzZ4fDK/media/DccQWXXz/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine & Series", Cali TV (Cali - Colombia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine / Series", Cali TV (Cali - Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Entretenimiento / Cine & Series", Venevisión (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Entretenimiento / Cine / Series", Venevisión (Venezuela)
 http://190.61.34.164:8000/play/a04o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento / Cine & Series", VE Plus (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento / Cine / Series", VE Plus (Venezuela)
 https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Entretenimiento / Cine & Series", AMC en Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Entretenimiento / Cine / Series", AMC en Español
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine & Series",Los Simpson Latino
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine / Series",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine & Series",Los Simpson Latino Opc. 2
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine / Series",Los Simpson Latino Opc. 2
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aAEs1Mp.png" group-title="Entretenimiento / Cine & Series",El Chavo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aAEs1Mp.png" group-title="Entretenimiento / Cine / Series",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento / Cine & Series",Chespirito TV
+#EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento / Cine / Series",Chespirito TV
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento / Cine & Series", Boreal (Internacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento / Cine / Series", Boreal (Internacional)
 https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Entretenimiento / Cine & Series", Majestad Televisión (Ecuador - Santo Domingo)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Entretenimiento / Cine / Series", Majestad Televisión (Ecuador - Santo Domingo)
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Entretenimiento / Cine & Series", Red TVE Ventanas (Ecuador - Los Ríos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Entretenimiento / Cine / Series", Red TVE Ventanas (Ecuador - Los Ríos)
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="Entretenimiento / Cine & Series", El Mago TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="Entretenimiento / Cine / Series", El Mago TV 2
 https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Entretenimiento / Cine & Series", Retro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Entretenimiento / Cine / Series", Retro TV
 https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png" group-title="Entretenimiento / Cine & Series", ITV Patagonia (Punta Arenas - Magallanes)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png" group-title="Entretenimiento / Cine / Series", ITV Patagonia (Punta Arenas - Magallanes)
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento / Cine & Series", Canal 7 Salta (Salta / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Entretenimiento / Cine / Series", Canal 7 Salta (Salta / Argentina)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento / Cine & Series", Canal 34 San Juan (San Juan / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento / Cine / Series", Canal 34 San Juan (San Juan / Argentina)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine & Series", Gen TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine / Series", Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entretenimiento / Cine & Series", Nitida TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entretenimiento / Cine / Series", Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Entretenimiento / Cine & Series", TV Cisne (Ecuador - Loja)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Entretenimiento / Cine / Series", TV Cisne (Ecuador - Loja)
 https://video2.lhdserver.es/tvcisne/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Entretenimiento / Cine & Series", Canal CHD (Colombia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Entretenimiento / Cine / Series", Canal CHD (Colombia)
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Entretenimiento / Cine & Series",Coral TV (Bolivia)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Entretenimiento / Cine / Series",Coral TV (Bolivia)
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Entretenimiento / Cine & Series",MiTVpy (Paraguay)
+#EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Entretenimiento / Cine / Series",MiTVpy (Paraguay)
 https://edge.enhdtv.com/8070/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Entretenimiento / Cine & Series", MiTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Entretenimiento / Cine / Series", MiTV 
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Entretenimiento / Cine & Series", Tele Uno (Costa Rica)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Entretenimiento / Cine / Series", Tele Uno (Costa Rica)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Cine / Películas", Sarapiquí TV (Costa Rica - Heredia)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entretenimiento / Cine & Series", Super Cable (Costa Rica - Grecia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entretenimiento / Cine / Series", Super Cable (Costa Rica - Grecia)
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Entretenimiento / Cine & Series", Canal 3 KMK TV (Costa Rica - Los Pinos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Entretenimiento / Cine / Series", Canal 3 KMK TV (Costa Rica - Los Pinos)
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Entretenimiento / Cine & Series", 360 RFTV (Costa Rica - San José)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Entretenimiento / Cine / Series", 360 RFTV (Costa Rica - San José)
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Entretenimiento / Cine & Series", Norte Informativo TV (Costa Rica - San Carlos)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Entretenimiento / Cine / Series", Norte Informativo TV (Costa Rica - San Carlos)
 https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JmXBvzn.png" group-title="Entretenimiento / Cine & Series",American TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmXBvzn.png" group-title="Entretenimiento / Cine / Series",American TV
 https://lbgo.bozztv.com/ssh101/ssh101/americantv006/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento / Cine & Series", F10 HD (El Alto / La Paz / Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento / Cine / Series", F10 HD (El Alto / La Paz / Bolivia)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento / Cine & Series", NSTV (Cúcuta / Norte de Santander / Colombia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento / Cine / Series", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Entretenimiento / Cine & Series", Canal 4 Posadas (Misiones / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Entretenimiento / Cine / Series", Canal 4 Posadas (Misiones / Argentina)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento / Cine & Series", Like TV Folklore (Perú - Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento / Cine / Series", Like TV Folklore (Perú - Nacional)
 https://play.folkloretv.pe/StreamSD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine & Series",Apanines TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine / Series",Apanines TV
 https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine & Series", Mi Televisión
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine / Series", Mi Televisión
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Entretenimiento / Cine & Series", Telemar (Ecuador - Esmeraldas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Entretenimiento / Cine / Series", Telemar (Ecuador - Esmeraldas)
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="Entretenimiento / Cine & Series", RSelvaTV (Perú - Pucallpa - Ucayali)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="Entretenimiento / Cine / Series", RSelvaTV (Perú - Pucallpa - Ucayali)
 https://live.obslivestream.com/selvatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Entretenimiento / Cine & Series", VNP (Lima)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Entretenimiento / Cine / Series", VNP (Lima)
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Entretenimiento / Cine & Series", Quántica TV (Argentina - San Vicente - Buenos Aires)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Entretenimiento / Cine / Series", Quántica TV (Argentina - San Vicente - Buenos Aires)
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld46sscs/Miami-TVDJ.png" group-title="Entretenimiento / Cine & Series",Miami TV DJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld46sscs/Miami-TVDJ.png" group-title="Entretenimiento / Cine / Series",Miami TV DJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzznMmW1/Miami-TV-Music.png" group-title="Entretenimiento / Cine & Series",Miami TV Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzznMmW1/Miami-TV-Music.png" group-title="Entretenimiento / Cine / Series",Miami TV Music
 https://be7e362af1604c4ba89a6d84cdd90b85.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Music/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalDJ.jpg" group-title="Entretenimiento / Cine & Series",Energy TV DJ
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalDJ.jpg" group-title="Entretenimiento / Cine / Series",Energy TV DJ
 https://59ec5453559f0.streamlock.net/energytvDJ/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalMusic.jpg" group-title="Entretenimiento / Cine & Series",Energy TV Music
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalMusic.jpg" group-title="Entretenimiento / Cine / Series",Energy TV Music
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entretenimiento / Cine & Series", Ciudades del Ocio TV (España)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entretenimiento / Cine / Series", Ciudades del Ocio TV (España)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Entretenimiento / Cine & Series",TEF (España)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Entretenimiento / Cine / Series",TEF (España)
 https://tef.servertv.online:3268/live/teflive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento / Cine & Series", GikTVMX (México)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento / Cine / Series", GikTVMX (México)
 https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png
 https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfyvCH5b/Miami-TV-Latino.png" group-title="Entretenimiento / Cine & Series",Miami TV Latino
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfyvCH5b/Miami-TV-Latino.png" group-title="Entretenimiento / Cine / Series",Miami TV Latino
 https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalLatino.jpg" group-title="Entretenimiento / Cine & Series",Energy TV Latino
+#EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalLatino.jpg" group-title="Entretenimiento / Cine / Series",Energy TV Latino
 https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento / Cine & Series", Todo Novelas
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento / Cine / Series", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento / Cine & Series", Todo Pasión
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento / Cine / Series", Todo Pasión
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Novelísima
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Novelísima
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Corazón TV Azteca
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Corazón TV Azteca
 https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Canela Pasión Latina
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Canela Pasión Latina
 https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Canela Pasión Turca
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Canela Pasión Turca
 https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Canela Novelas Brasileras
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Canela Novelas Brasileras
 https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Thema Vive Kanal Drama
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Thema Vive Kanal Drama
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Thema Vive Kanal Drama[Opc.2]
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Thema Vive Kanal Drama[Opc.2]
 http://8.243.126.131:8000/play/a0mn/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine & Series",Thema Vive Kanal Drama[Opc.3]
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Thema Vive Kanal Drama[Opc.3]
 http://190.61.34.164:8000/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260505T035729SQUARE.png" group-title="Entretenimiento / Cine & Series",Rebelde
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260505T035729SQUARE.png" group-title="Entretenimiento / Cine / Series",Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
 
-#EXTINF:-1 tvg-id="ES440000327" tvg-name="ES440000327" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png" group-title="Entretenimiento / Cine & Series",Todo Drama
+#EXTINF:-1 tvg-id="ES440000327" tvg-name="ES440000327" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png" group-title="Entretenimiento / Cine / Series",Todo Drama
 https://jmp2.uk/stvp-ES440000327
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwL4NQvW/0-16x9-5.png" group-title="Entretenimiento / Cine & Series",Canela Secretos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwL4NQvW/0-16x9-5.png" group-title="Entretenimiento / Cine / Series",Canela Secretos
 https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channele-canelatvus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="Entretenimiento / Cine & Series",Fabulosa Estéreo 100.5 FM (Panamá)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="Entretenimiento / Cine / Series",Fabulosa Estéreo 100.5 FM (Panamá)
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Entretenimiento / Cine & Series",Planet 100.9 FM (Panamá)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Entretenimiento / Cine / Series",Planet 100.9 FM (Panamá)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Entretenimiento / Cine & Series", Canal Trece (Andina y Amazonía / Colombia )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Entretenimiento / Cine / Series", Canal Trece (Andina y Amazonía / Colombia )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa-1536x538.png" group-title="Entretenimiento / Cine & Series", Alternativa TV (Colombia - Huasco - Atacama)
+#EXTINF:-1 tvg-logo="https://alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa-1536x538.png" group-title="Entretenimiento / Cine / Series", Alternativa TV (Colombia - Huasco - Atacama)
 https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento / Cine & Series", Cheaters en Español
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento / Cine / Series", Cheaters en Español
 https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento / Cine & Series", FilmRise Crímenes Verdaderos
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento / Cine / Series", FilmRise Crímenes Verdaderos
 https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f571ad30faa8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/y4kaoqWciYmkng==/2d21c4c1-c88d-4869-b75a-712da0dfad67/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento / Cine & Series", FilmRise Series Gratis
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/y4kaoqWciYmkng==/2d21c4c1-c88d-4869-b75a-712da0dfad67/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento / Cine / Series", FilmRise Series Gratis
 https://live-manifest.production-public.tubi.io/live/5b66e78a-fc9e-4ffb-bbb0-00d4d2af2c53/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Entretenimiento / Cine & Series", TV Lobo Durango (Durango / México)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Entretenimiento / Cine / Series", TV Lobo Durango (Durango / México)
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsGt5iH.png" group-title="Entretenimiento / Cine & Series", TravelXP (ES)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsGt5iH.png" group-title="Entretenimiento / Cine / Series", TravelXP (ES)
 https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209552.png" group-title="Entretenimiento / Cine & Series", ON TV
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209552.png" group-title="Entretenimiento / Cine / Series", ON TV
 https://183.bozztv.com/giatv/giatv-Ontv/Ontv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Entretenimiento / Cine & Series", Limón TV (Limón)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Entretenimiento / Cine / Series", Limón TV (Limón)
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yDFDrd4/461256439-430833532878398-7751648085964012821-n.jpg" group-title="Entretenimiento / Cine & Series", MGA TV (Nicaragua)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yDFDrd4/461256439-430833532878398-7751648085964012821-n.jpg" group-title="Entretenimiento / Cine / Series", MGA TV (Nicaragua)
 https://183.bozztv.com/giatv/giatv-managuatv/managuatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="Entretenimiento / Cine & Series", TN8 (Nicaragua)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="Entretenimiento / Cine / Series", TN8 (Nicaragua)
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento / Cine & Series",WTV Canal 20 (Nicaragua)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento / Cine / Series",WTV Canal 20 (Nicaragua)
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento / Cine & Series",WTV Canal 20 (Nicaragua)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento / Cine / Series",WTV Canal 20 (Nicaragua)[Opc.2]
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento / Cine & Series", Telemax (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento / Cine / Series", Telemax (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="Entretenimiento / Cine & Series", Torococo TV (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="Entretenimiento / Cine / Series", Torococo TV (Venezuela)
 https://us.streaminghd.cl/torococotelevision/video.m3u8
 
-#EXTINF:-1 telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Entretenimiento / Cine & Series",Telecolor (Venezuela)
+#EXTINF:-1 telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Entretenimiento / Cine / Series",Telecolor (Venezuela)
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento / Cine & Series", UCL (Uruguay)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento / Cine / Series", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine & Series",Canal 12 Misiones (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine / Series",Canal 12 Misiones (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.canal12misiones.com/en-vivo/ver-en-vivo/
 https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine & Series",Canal 12 Misiones (Argentina)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine / Series",Canal 12 Misiones (Argentina)[Opc.2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.canal12misiones.com/en-vivo/ver-en-vivo/
 https://g2.proy-slo.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento / Cine & Series", MaxiVision TV (Argentina)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento / Cine / Series", MaxiVision TV (Argentina)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Entretenimiento / Cine & Series", Canal 3 La Pampa (La Pampa / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Entretenimiento / Cine / Series", Canal 3 La Pampa (La Pampa / Argentina)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Entretenimiento / Cine & Series", Canal 7 Jujuy (Jujuy / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Entretenimiento / Cine / Series", Canal 7 Jujuy (Jujuy / Argentina)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Entretenimiento / Cine & Series", Canal 9 Resistencia (Chaco / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Entretenimiento / Cine / Series", Canal 9 Resistencia (Chaco / Argentina)
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entretenimiento / Cine & Series", Canal 9 Litoral (Entre Ríos / Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entretenimiento / Cine / Series", Canal 9 Litoral (Entre Ríos / Argentina)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento / Cine & Series", Bravo TV (Buenos Aires / Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento / Cine / Series", Bravo TV (Buenos Aires / Argentina)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine & Series", Canal 21 HD (Buenos Aires / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine / Series", Canal 21 HD (Buenos Aires / Argentina)
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento / Cine & Series", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Entretenimiento / Cine / Series", CEACOM TV (Not 24/7) (Yacuiba - Tarija)
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento / Cine & Series", XtremaTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LHJJ9X0/3.png" group-title="Entretenimiento / Cine / Series", XtremaTV
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PyaWpAx.png" group-title="Entretenimiento / Cine & Series", Nesting TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyaWpAx.png" group-title="Entretenimiento / Cine / Series", Nesting TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13172
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Entretenimiento / Cine & Series", Drone TV (AirVuz)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Entretenimiento / Cine / Series", Drone TV (AirVuz)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento / Cine & Series", Tiva TV (Puerto Rico)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento / Cine / Series", Tiva TV (Puerto Rico)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Entretenimiento / Cine & Series", CTV (La Paz / Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Entretenimiento / Cine / Series", CTV (La Paz / Bolivia)
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine & Series", Bolivisión LPZ (La Paz / Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine / Series", Bolivisión LPZ (La Paz / Bolivia)
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento / Cine & Series", RTP (La Paz / Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento / Cine / Series", RTP (La Paz / Bolivia)
 https://rtp.noxun.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Entretenimiento / Cine & Series", UMSA TVU Internacional (La Paz)
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Entretenimiento / Cine / Series", UMSA TVU Internacional (La Paz)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine & Series", Red TV Shop (Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine / Series", Red TV Shop (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/44.jpg" group-title="Entretenimiento / Cine & Series", Telemix
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/44.jpg" group-title="Entretenimiento / Cine / Series", Telemix
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", SumaQ
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", SumaQ
 https://lbgo.bozztv.com/ssh101/ssh101/makins/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", Multicanal TV (Protelco y Telecable)
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Multicanal TV (Protelco y Telecable)
 https://lbgo.bozztv.com/ssh101/ssh101/multicanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine & Series", InterConnect 
+#EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine / Series", InterConnect 
 https://lbgo.bozztv.com/ssh101/ssh101/conecttv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", Max Chanel
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Max Chanel
 https://lbgo.bozztv.com/ssh101/ssh101/max1channel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", Power Vision TV
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Power Vision TV
 https://lbgo.bozztv.com/ssh101/ssh101/powervision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Entretenimiento / Cine & Series", Ondas Quevedeñas TV [No 24/7] (Ecuador - Los Ríos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Entretenimiento / Cine / Series", Ondas Quevedeñas TV [No 24/7] (Ecuador - Los Ríos)
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Entretenimiento / Cine & Series", Mix Bolivia TV [No 24.7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Entretenimiento / Cine / Series", Mix Bolivia TV [No 24.7]
 https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Entretenimiento / Cine & Series",GoGoPlay TV [no 24/7]
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Entretenimiento / Cine / Series",GoGoPlay TV [no 24/7]
 https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento / Cine & Series", UPEA TV [No 24/7](El Alto)
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento / Cine / Series", UPEA TV [No 24/7](El Alto)
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento / Cine & Series", Univalle Televisión [No 24/7](Cochabamba / Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento / Cine / Series", Univalle Televisión [No 24/7](Cochabamba / Bolivia)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Entretenimiento / Cine & Series", RN Televisión [No 24/7] (Perú - Yurimaguas - Loreto)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Entretenimiento / Cine / Series", RN Televisión [No 24/7] (Perú - Yurimaguas - Loreto)
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Entretenimiento / Cine & Series", Unitel [No 24/7](Perú - Ica)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Perú - Ica)
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento / Cine & Series", Visión NDV [No 24/7](Perú - Pucallpa)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento / Cine / Series", Visión NDV [No 24/7](Perú - Pucallpa)
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Entretenimiento / Cine & Series", Teleselva [No 24/7] (Perú - Satipo - Junín)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Entretenimiento / Cine / Series", Teleselva [No 24/7] (Perú - Satipo - Junín)
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento / Cine & Series", La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento / Cine / Series", La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura)
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento / Cine & Series", TVES [No 24/7] (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento / Cine / Series", TVES [No 24/7] (Venezuela)
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine & Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine / Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine & Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine / Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine & Series", Unitel [No 24/7](Bolivia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Bolivia)
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Entretenimiento / Cine & Series", Vos y TV (Ecuador) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Entretenimiento / Cine / Series", Vos y TV (Ecuador) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento / Cine & Series", Multicanal [No 24/7](Ecuador - Loja)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento / Cine / Series", Multicanal [No 24/7](Ecuador - Loja)
 https://streaming.zonaradio.net/live/multicec.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Entretenimiento / Cine & Series", RTV Riobamba [No 24/7] (Ecuador - Chimborazo)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Entretenimiento / Cine / Series", RTV Riobamba [No 24/7] (Ecuador - Chimborazo)
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento / Cine & Series", Visión Dorada TV [No 24/7] (Colombia - La Dorada - Caldas )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento / Cine / Series", Visión Dorada TV [No 24/7] (Colombia - La Dorada - Caldas )
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", Canal 24 Multivision [No 24/7](Bolivia)
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Canal 24 Multivision [No 24/7](Bolivia)
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entretenimiento / Cine & Series", Canal Pulpo TV [No  24/7]
+#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entretenimiento / Cine / Series", Canal Pulpo TV [No  24/7]
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Entretenimiento / Cine & Series",Canal 13 MAX [No 24/7] (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Entretenimiento / Cine / Series",Canal 13 MAX [No 24/7] (Argentina)
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine & Series", Canal 21 HD [No 24/7] (Buenos Aires / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine / Series", Canal 21 HD [No 24/7] (Buenos Aires / Argentina)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Entretenimiento / Cine & Series", Planeta Radio TV [No 24/7](Ecuador - Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Entretenimiento / Cine / Series", Planeta Radio TV [No 24/7](Ecuador - Guayas)
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpK6HF2Q/Planeta-Radio-TV.png" group-title="Entretenimiento / Cine & Series",Planeta Radio TV [No 24/7](Ecuador - Guayas)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpK6HF2Q/Planeta-Radio-TV.png" group-title="Entretenimiento / Cine / Series",Planeta Radio TV [No 24/7](Ecuador - Guayas)[Opc.2]
 https://lbgo.bozztv.com/ssh101/ssh101/planeta55tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Entretenimiento / Cine & Series", Pituco TV [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Entretenimiento / Cine / Series", Pituco TV [No 24/7]
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3bPH59x/Contact-TV.png" group-title="Entretenimiento / Cine & Series", ContacTV [no 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3bPH59x/Contact-TV.png" group-title="Entretenimiento / Cine / Series", ContacTV [no 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Entretenimiento / Cine & Series", Plus TV [No 24/7] (Perú - Santo Domingo)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Entretenimiento / Cine / Series", Plus TV [No 24/7] (Perú - Santo Domingo)
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Entretenimiento / Cine & Series", AsiriTV [No 24/7] (Perú - Lima)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Entretenimiento / Cine / Series", AsiriTV [No 24/7] (Perú - Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Entretenimiento / Cine & Series", CR Televisión Moyobamba [No 24/7] (Perú - San Martín)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Entretenimiento / Cine / Series", CR Televisión Moyobamba [No 24/7] (Perú - San Martín)
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Entretenimiento / Cine & Series", Canal 8 Catacaos [No 24/7] (Perú - Piura)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Entretenimiento / Cine / Series", Canal 8 Catacaos [No 24/7] (Perú - Piura)
 https://live.obslivestream.com/canal8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Entretenimiento / Cine & Series", Nativa [No 24/7] (Perú - Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Entretenimiento / Cine / Series", Nativa [No 24/7] (Perú - Nacional)
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Entretenimiento / Cine & Series", Vía Altomayo [No 24/7] (Perú - Moyobamba - San Martín)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Entretenimiento / Cine / Series", Vía Altomayo [No 24/7] (Perú - Moyobamba - San Martín)
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Entretenimiento / Cine & Series",Canal Grande Television [No 24/7] (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Entretenimiento / Cine / Series",Canal Grande Television [No 24/7] (Venezuela)
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Entretenimiento / Cine & Series",Canal Grande Television [No 24/7] (Venezuela)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Entretenimiento / Cine / Series",Canal Grande Television [No 24/7] (Venezuela)[Opc.2]
 https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento / Cine & Series", People Are Awesome (EE.UU.) [EN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento / Cine / Series", People Are Awesome (EE.UU.) [EN]
 https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20260210T035845SQUARE.png" group-title="Entretenimiento / Cine & Series",FailArmy (EN)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20260210T035845SQUARE.png" group-title="Entretenimiento / Cine / Series",FailArmy (EN)
 https://jmp2.uk/stvp-ESBA1400006NP
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Entretenimiento / Cine & Series", CGTN Español (China / Internacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Entretenimiento / Cine / Series", CGTN Español (China / Internacional)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mVWydMw.png" group-title="Entretenimiento / Cine & Series",Canal TV Carioca Internacional (Brasil)[SUB]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mVWydMw.png" group-title="Entretenimiento / Cine / Series",Canal TV Carioca Internacional (Brasil)[SUB]
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 
