@@ -2134,6 +2134,12 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", Xiomoz
+https://lbgo.bozztv.com/ssh101/ssh101/xiomoz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", Sistema 1 TV
+https://lbgo.bozztv.com/ssh101/ssh101/sistema1tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine / Películas", TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 
@@ -3149,14 +3155,26 @@ https://rtp.noxun.net/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine & Series", Red TV Shop (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/44.jpg" group-title="Entretenimiento / Cine & Series", Telemix
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", SumaQ
+https://lbgo.bozztv.com/ssh101/ssh101/makins/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", Multicanal TV (Protelco y Telecable)
+https://lbgo.bozztv.com/ssh101/ssh101/multicanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine & Series", InterConnect 
+https://lbgo.bozztv.com/ssh101/ssh101/conecttv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", Max Chanel
+https://lbgo.bozztv.com/ssh101/ssh101/max1channel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine & Series", Power Vision TV
+https://lbgo.bozztv.com/ssh101/ssh101/powervision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Entretenimiento / Cine & Series", Ondas Quevedeñas TV [No 24/7] (Ecuador - Los Ríos)
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
