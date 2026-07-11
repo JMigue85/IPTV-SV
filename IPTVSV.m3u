@@ -2113,9 +2113,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg" group-title="Cine / Películas", MAXTV Movies
 https://tvstreaming.albpo.com/memfs/8c402b3e-ebdf-48f0-bcf7-a1da46a828b6.m3u8
 
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209552.png" group-title="Cine / Películas", ON TV
-https://183.bozztv.com/giatv/giatv-Ontv/Ontv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
@@ -3141,6 +3138,10 @@ https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsGt5iH.png" group-title="Entretenimiento / Cine & Series", TravelXP (ES)
 https://fa20e8a40a8149a2b7e14b7ed1bd4432.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-es_TravelXP-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209552.png" group-title="Entretenimiento / Cine & Serie", ON TV
+https://183.bozztv.com/giatv/giatv-Ontv/Ontv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Entretenimiento / Cine & Series", Limón TV (Limón)
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
