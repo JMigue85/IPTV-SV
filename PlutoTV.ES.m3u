@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Actualidad360.es@SD",Actualidad 360
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3YeTu0n.png" tvg-id="Actualidad360.es@SD",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
-#EXTINF:-1 tvg-id="",Águila Roja
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/i/?h=800&i=1257866446324.jpg&crop=yes" tvg-id="",Águila Roja
 https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
-#EXTINF:-1 tvg-id="",Al salir de clase
+#EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/noticias/2024/04/al-salir-de-clase-pluto-tv-720x480.jpg" tvg-id="",Al salir de clase
 https://jmp2.uk/plu-65b91e530d9ab40008340d8d.m3u8
-#EXTINF:-1 tvg-id="",Alaska y Mario
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/alaska_y_mario-554794380-large.jpg" tvg-id="",Alaska y Mario
 https://jmp2.uk/plu-69c51060ed1b1f1acb5092dc.m3u8
-#EXTINF:-1 tvg-id="",Alerta Cobra
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/07/Alerta-Cobra_O.jpg" tvg-id="",Alerta Cobra
 https://jmp2.uk/plu-664c76d68ea5560008c6c7a4.m3u8
-#EXTINF:-1 tvg-id="",Alice Nevers
+#EXTINF:-1 tvg-logo="https://photos.tf1.fr/700/933/alice-new-afafe3-02a303-0@1x.jpg" tvg-id="",Alice Nevers
 https://jmp2.uk/plu-66d71f8ee5de930008016f83.m3u8
 #EXTINF:-1 tvg-id="",America's Next Top Model
 https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
