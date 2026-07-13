@@ -1449,10 +1449,10 @@ https://ds.tvabierta.net/memfs/fde81577-b1ae-48ab-bac4-4ae5908af483.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/telemicro-en-vivo/
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana", Telesistemas 11 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 HD
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana", Telesistemas 11 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 SD
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="República Dominicana",Orbit TV HD [No 24/7]
