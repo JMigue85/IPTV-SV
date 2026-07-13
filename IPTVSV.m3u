@@ -1409,9 +1409,61 @@ https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="República Dominicana",ATV Canal 3 HD
+https://stream.haislin.com/ahoratv/index.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="República Dominicana",Boca Chica TV 3 HD
+https://cdnfox.hostlagarto.com/bocachicatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",RTVD 4 HD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="https://elseis.do/img/logo-header.png" group-title="República Dominicana",Canal 6 El Seis HD
+https://stream.elseis.do/canal6/live_1080.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7 SD 
+https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="República Dominicana",Color Vision 9 HD
+https://hls.tvabierta.net/hls/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 HD
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 SD
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",Telecentro 13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/telecentro-en-vivo/
+https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/digital-15-en-vivo/
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.zHvhObceZlour4e8an2Z2gHaFj?r=0&pid=Api" group-title="República Dominicana",Canal Digital 18 SD
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="República Dominicana",Antena 21 HD
+https://d2b5h5wyivfnfl.cloudfront.net/live/5365fbe2-4961-4e49-91bb-167328524f39/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/94f0e5b759ff96455c37eea1f4c736fd95ea131982c7a772e2ee02b73083ed52.png" group-title="República Dominicana",RNN 27 HD
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="República Dominicana",Telecanal 28 HD
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="República Dominicana",Canal Digital 32 HD
+https://edge.livestreaminggroup.info/vtv32live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Canal 36 Cotubanama TV HD
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",Digital Vision 63 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="República Dominicana",Valle Nuevo TV HD
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
@@ -1425,38 +1477,19 @@ https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="República Dominicana",Fuego TV SD
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Canal 36 Cotubanama TV HD
-https://host.streamingnation.live/p/3588/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7 SD (MPV)
-https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",Telecentro 13 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://telemicro.com.do/telecentro-en-vivo/
-https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://telemicro.com.do/digital-15-en-vivo/
-https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas HD (MPV)
-https://ds.tvabierta.net/memfs/fde81577-b1ae-48ab-bac4-4ae5908af483.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",TeleMicro SD (MPV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/telemicro-en-vivo/
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 SD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas HD
+https://ds.tvabierta.net/memfs/fde81577-b1ae-48ab-bac4-4ae5908af483.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="República Dominicana",Orbit TV HD [No 24/7]
 https://edge.essastream.com/orbittv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="República Dominicana",Orbit TV HD [No 24/7][Opc.2]
+https://cnn.hostlagarto.com/orbittv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9g2kyN0/HM33TVHD.png" group-title="República Dominicana",Canal 33 HD [No 24/7]
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
