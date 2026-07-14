@@ -2096,6 +2096,9 @@ https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png" group-title="Doramas / Asia",Series K-Drama
 https://jmp2.uk/stvp-ES200040YF
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Doramas / Asia", K-POP SD
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png" group-title="Doramas / Asia",K-Drama+
 https://jmp2.uk/stvp-ESBD4100001DU
 
@@ -2111,14 +2114,15 @@ https://jmp2.uk/stvp-ES1700003C6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLXM64Zm/Mundo-series.png" group-title="Doramas / Asia", Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Doramas / Asia",K-POP by CJ ENM
+https://jmp2.uk/stvp-ES3900001QG
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png" group-title="Doramas / Asia" , NEW K-MOVIES (SUB)
 https://jmp2.uk/stvp-ES170000433
 
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Doramas / Asia",Rakuten VIKI (SUB)
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Doramas / Asia",K-POP by CJ ENM
-https://jmp2.uk/stvp-ES3900001QG
 
 
 
@@ -3546,20 +3550,27 @@ http://8.243.126.131:8000/play/a04t/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg" group-title="Informativos", RT Noticias (1080p)  
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHHjvdr/RT-EN-VIVO-HD.jpg" group-title="Informativos", RT Noticias (720p)
-https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sr0yrJ2/RT-NEW-SD.jpg" group-title="Informativos", RT Noticias (SD)
-https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6sOfOF.png" group-title="Informativos", Garage TV (Autos)
-https://stream1.sersat.com/hls/garagetv.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Informativos", CNN en Español (Internacional / América)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg" group-title="Informativos", RT Noticias (HD)  
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sr0yrJ2/RT-NEW-SD.jpg" group-title="Informativos", RT Noticias (SD)
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHHjvdr/RT-EN-VIVO-HD.jpg" group-title="Informativos", RT Noticias (Auto)
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6sOfOF.png" group-title="Informativos", Garage TV SD (Autos)
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="Informativos", Telemundo al Día (USA / Nacional)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
@@ -3950,14 +3961,8 @@ https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="Música", Oldies Hits HD
-https://video07.logicahost.com.br/oldieshits/oldieshits/chunklist_w1787316660.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Música", K-POP HD
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="Música", Spirit TV HD
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic (Internacional)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -3991,6 +3996,9 @@ https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Música", VEVO Retro (Internacional)
 https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="Música", Oldies Hits SD
+https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel (Internacional)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
@@ -4630,6 +4638,9 @@ https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ejtv.wpenginepowered.com/wp-content/uploads/2014/07/ejtvlogo3.png" group-title="Religiosos",EJTV (Internacional)
 https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="Religiosos", Spirit TV HD (EN)
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
