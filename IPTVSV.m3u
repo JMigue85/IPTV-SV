@@ -702,7 +702,7 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD  (Cundinamarca)
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD [No 24/7](Cali / Valle del Cauca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD [No 24/7] (Cali / Valle del Cauca)
 https://movil.ejeserver.com/live/calimatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia", CNC Bugavisión HD (Buga - Valle del Cauca)
@@ -1291,8 +1291,8 @@ https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas
-https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas [No 24/7]
+https://183.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 
 
 
@@ -2037,10 +2037,10 @@ http://animezonetv.net/hls/stream.m3u8
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.1]
-http://201.77.60.62:8002/play/a0ni/index.m3u8?hls
+http://181.78.0.156:8000/play/a03j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme SD (México)[Opc.2]
-http://201.77.60.62:8002/play/a0nj/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.2]
+http://190.61.114.186:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.2]
 http://190.61.34.164:8000/play/a01h/index.m3u8
@@ -2169,9 +2169,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
@@ -2306,6 +2303,9 @@ https://jmp2.uk/stvp-ESBC2700002LO
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas", Cine Western
 https://jmp2.uk/stvp-ES2300005G7
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV [No 24/7]
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas", Opinión Sur Cine [No 24/7]
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
@@ -2616,13 +2616,13 @@ http://181.78.192.238:8000/play/a2dy/index.m3u8
 http://45.186.106.207:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier HD
-http://24.152.42.29:8000/play/a06v/index.m3u8?hls
+http://186.148.182.83:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.2]
 http://38.65.175.87:8000/play/a0cp/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.3]
-http://201.77.60.62:8002/play/a0cp/index.m3u8?hls
+http://190.61.34.164:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas Premium",Space SD (Opc.1)
 http://186.33.0.57:8000/play/a05i/index.m3u8
