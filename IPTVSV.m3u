@@ -909,6 +909,9 @@ http://205.235.6.29:8000/play/a0uw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)[Opc.5]
 http://8.243.126.131:8000/play/a001/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg" group-title="Perú", TV Perú HD (Nacional)
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú", ATV  (Nacional)
 http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
 
@@ -2148,6 +2151,9 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Cine / Películas", Delta TV (Bolivia)
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
@@ -3540,8 +3546,17 @@ http://8.243.126.131:8000/play/a04t/index.m3u8?hls
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg" group-title="Informativos", RT Noticias (1080p)  
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHHjvdr/RT-EN-VIVO-HD.jpg" group-title="Informativos", RT Noticias (720p)
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sr0yrJ2/RT-NEW-SD.jpg" group-title="Informativos", RT Noticias (SD)
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/V6sOfOF.png" group-title="Informativos", Garage TV (Autos)
+ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Informativos", CNN en Español (Internacional / América)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
@@ -3935,6 +3950,14 @@ https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="Música", Oldies Hits HD
+https://video07.logicahost.com.br/oldieshits/oldieshits/chunklist_w1787316660.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Música", K-POP HD
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="Música", Spirit TV HD
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic (Internacional)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -4343,6 +4366,9 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports HD (Internacional)
 http://190.7.19.197:232/play/a04w/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports AR
+http://38.44.109.41:8003/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
 http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
