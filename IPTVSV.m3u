@@ -2720,10 +2720,13 @@ http://45.167.1.136:8000/play/a02s
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision HD (LATAM)[Opc.2]
-http://190.61.34.164:8000/play/a017/index.m3u8
+http://186.33.26.18:8000/play/a0la/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision HD (LATAM)[Opc.3]
+http://190.60.48.150:8000/play/univision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium", Telemundo (Internacional) HD (MPV) [Opc.1]
-http://190.61.34.164:8000/play/a001/index.m3u8
+http://181.78.50.91:8000/play/a020/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional) SD (MPV) [Opc.2]
 http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
@@ -2762,20 +2765,23 @@ http://38.65.175.87:8000/play/a0mf/index.m3u8u?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD [Opc.3]
 http://209.87.175.160:5001/play/a0mv/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD [Opc.4]
-http://201.77.60.62:8002/play/a0mf/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Uno SD (MPV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Internacional SD (MPV)
 http://209.87.175.160:5001/play/a0cc/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Uno SD (MPV) [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Internacional SD (MPV) [Opc.2]
 http://38.65.175.87:8000/play/a0cc/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Uno SD (MPV) [Opc.3]
-http://201.77.60.62:8002/play/a0cc/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca Internacional HD (MPV) [Opc.3]
+http://186.148.175.138:8000/play/a053
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento Premium",Azcorazon SD
-http://190.61.34.164:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento Premium",Azcorazon HD
+http://186.148.175.138:8000/play/a056
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento Premium",Azcorazon HD [Opc.2]
+http://186.33.0.57:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento Premium",Azcorazon HD [Opc.3]
+http://181.225.190.242:8000/play/a008
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia", RCN Mas + HD (Colombia)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -2795,8 +2801,8 @@ http://186.33.47.113:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series SD [Opc.1]
 http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series HD [Opc.2]
-http://190.61.34.164:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series SD [Opc.2]
+http://181.119.84.106:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series SD [Opc.3]
 http://45.186.254.75:8000/play/a08l/index.m3u8
@@ -2808,8 +2814,7 @@ http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
 http://186.148.182.83:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretenimiento Premium",AMC HD (Opc.3)
-http://190.61.34.164:8000/play/a020/index.m3u8
-
+http://186.148.182.83:8000/play/a0bn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento Premium",AXN HD
 http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
@@ -2818,7 +2823,7 @@ http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 http://181.78.67.171:8000/play/a0ch/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN HD (Opc.3)
-http://190.61.34.164:8000/play/a00a/index.m3u8
+http://45.5.116.228:8000/play/a0iy/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series HD (Opc.1)
 http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
@@ -2830,7 +2835,10 @@ http://181.224.255.210:8001/play/a0q9/index.m3u8?hls
 http://205.235.6.29:8000/play/a0z5/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Entretenimiento Premium",Distrito Comedia HD (Opc.2)
-http://190.61.34.164:8000/play/a033/index.m3u8
+http://186.33.26.18:8000/play/a0rv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Entretenimiento Premium",Distrito Comedia SD (Opc.3)
+http://186.148.175.138:8000/play/a04o
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central HD (Opc.1)
 http://205.235.6.29:8000/play/a0y7/index.m3u8?hls
@@ -2839,7 +2847,7 @@ http://205.235.6.29:8000/play/a0y7/index.m3u8?hls
 http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central HD (Opc.3)
-http://190.61.34.164:8000/play/a038/index.m3u8
+http://186.148.196.100:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento Premium", TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
@@ -2851,7 +2859,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Entretenimiento Premium",tlnovelas HD [Opc.1]
-http://190.61.34.164:8000/play/a00q/index.m3u8
+http://190.60.48.150:8000/play/tlnovelas/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Entretenimiento Premium",tlnovelas SD [Opc.2]
 http://205.235.6.29:8000/play/a0wi/index.m3u8?hls
@@ -2863,7 +2871,10 @@ http://181.224.255.210:8001/play/a0qm/index.m3u8?hls
 http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD[Opc.2]
-http://190.61.34.164:8000/play/a015/index.m3u8
+http://45.5.118.152:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD[Opc.3]
+http://45.5.116.228:8000/play/a0kq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas HD [Opc.1]
 http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
@@ -2872,7 +2883,7 @@ http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
 http://186.148.175.138:8000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas SD [Opc.3]
-http://190.61.34.164:8000/play/a03c/index.m3u8
+http://186.148.182.83:8000/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento Premium",TNT Series HD
 http://186.33.26.18:8000/play/a0l8/index.m3u8
@@ -2881,19 +2892,49 @@ http://186.33.26.18:8000/play/a0l8/index.m3u8
 http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series HD (Opc.3)
-http://190.61.34.164:8000/play/a025/index.m3u8
+http://186.148.175.138:8000/play/a060
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento Premium", BBC Series (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa HD
-http://190.61.34.164:8000/play/a03a/index.m3u8
+http://186.33.0.57:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png", Lifetime
-http://190.61.34.164:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa HD [Opc.2]
+http://181.78.50.91:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Citytv_2009.svg/revision/latest?cb=20250922183431" group-title="Entretenimiento Premium", CityTV
-http://190.61.34.164:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa HD [Opc.3]
+http://45.228.234.62:8000/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="Entretenimiento Premium",Euro Channel SD [Opc.1]
+http://45.5.118.188:8000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="Entretenimiento Premium",Euro Channel SD [Opc.2]
+http://45.5.117.188:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="Entretenimiento Premium",Euro Channel SD [Opc.3]
+http://45.5.117.187:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
+http://138.117.110.151:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
+http://45.186.105.214:8000/play/a0zy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
+http://45.167.1.139:8000/play/a01a
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Citytv_2009.svg/revision/latest?cb=20250922183431" group-title="Entretenimiento Premium", CityTV SD
+http://186.148.182.83:8000/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Citytv_2009.svg/revision/latest?cb=20250922183431" group-title="Entretenimiento Premium", CityTV SD [Opc.2]
+http://186.148.175.138:8000/play/a075
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Citytv_2009.svg/revision/latest?cb=20250922183431" group-title="Entretenimiento Premium", CityTV SD [Opc.3]
+http://152.231.29.139:8000/play/a0fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="Entretenimiento Premium",Canal 9 SD (Nicaragua) [Opc.1]
+http://179.60.224.196:8000/play/a0ge/index.m3u8
 
 
 
