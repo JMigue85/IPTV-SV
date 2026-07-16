@@ -62,7 +62,7 @@ http://186.33.26.18:8000/play/a0r8/index.m3u8
 http://45.167.2.101:8000/play/a0r8/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7] (MPV) [Opc.3]
-http://190.61.34.164:8000/play/a00o/index.m3u8
+http://186.33.26.18:8000/play/a0r8/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV HD
 https://stream.giostreaming.app/canal11/canal11.m3u8
@@ -2168,9 +2168,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision
 https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
@@ -2304,6 +2301,9 @@ https://jmp2.uk/stvp-ESBC2700002LO
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas", Cine Western
 https://jmp2.uk/stvp-ES2300005G7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD [No 24/7]
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV [No 24/7]
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
@@ -2503,7 +2503,7 @@ http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 http://157.100.9.51:8000/play/a1tc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.3)
-http://186.148.184.22:8000/play/a0lx/index.m3u8
+http://186.33.0.57:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD
 http://186.33.61.182:8000/play/a011/index.m3u8
@@ -2632,7 +2632,7 @@ http://181.78.192.238:8000/play/a2dy/index.m3u8
 http://45.186.106.207:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier HD
-http://186.148.182.83:8000/play/a01h/index.m3u8
+http://181.78.192.238:8000/play/a2b4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.2]
 http://38.65.175.87:8000/play/a0cp/index.m3u8u?hls
@@ -3050,9 +3050,6 @@ https://cloudvideo.servers10.com:8081/8024/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Entretenimiento / Cine / Series",TEF (España)
 https://tef.servertv.online:3268/live/teflive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento / Cine / Series", GikTVMX (México)
-https://pistream.ddns.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png
 https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 
@@ -3179,9 +3176,6 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Entretenimiento / Cine / Series", Canal 7 Jujuy (Jujuy / Argentina)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Entretenimiento / Cine / Series", Canal 9 Resistencia (Chaco / Argentina)
-https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entretenimiento / Cine / Series", Canal 9 Litoral (Entre Ríos / Argentina)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
@@ -3219,9 +3213,6 @@ https://rtp.noxun.net/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine / Series", Red TV Shop (Bolivia)
-https://master.tucableip.com/redtvshop/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/44.jpg" group-title="Entretenimiento / Cine / Series", Telemix
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 
@@ -3230,6 +3221,12 @@ https://lbgo.bozztv.com/ssh101/ssh101/makins/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine / Series", InterConnect 
 https://lbgo.bozztv.com/ssh101/ssh101/conecttv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento / Cine / Series", GikTVMX [No 24/7](México)
+https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Entretenimiento / Cine / Series", Canal 9 Resistencia [No 24/7](Chaco / Argentina)
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Max Chanel [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/max1channel/playlist.m3u8
@@ -3348,6 +3345,9 @@ https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Entretenimiento / Cine / Series",Canal Grande Television [No 24/7] (Venezuela)[Opc.2]
 https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine / Series", Red TV Shop [No 24/7] (Bolivia)
+https://master.tucableip.com/redtvshop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento / Cine / Series", People Are Awesome (EE.UU.) [EN]
 https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
@@ -4373,10 +4373,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX
 http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYB56CRS/Diseno-sin-titulo(12).png" group-title="Deportes", LaLiga Inside (España)
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)[Opc.1]
 http://205.235.6.29:8000/play/a105/index.m3u8?hls
 
@@ -4588,7 +4584,7 @@ http://186.33.26.18:8000/play/a0r3/index.m3u8
 http://186.148.182.83:8000/play/a08s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD (Opc.2)
-http://186.148.184.22:8000/play/a0mb/index.m3u8
+http://186.148.182.83:8000/play/a08w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 SD (Opc.2)
 http://181.78.192.238:8000/play/a2b2/index.m3u8
