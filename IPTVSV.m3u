@@ -1494,6 +1494,10 @@ https://cdnfox.hostlagarto.com/telenord12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 14 Telenord HD [No 24/7]
 https://newyorkstream.ddns.net:1935/telenord14/telenord14/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telesistema11" group-title="República Dominicana",Telesistema 11 (Worker)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://www.telesistema11.com.do/en-vivo/"
+https://muddy-pine-3f28.josecastan.workers.dev/?id=x80ac48
 
 
 
