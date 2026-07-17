@@ -391,6 +391,12 @@ https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD (Nacional)
 http://190.61.101.11:7050/play/a07n/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", TD+ HD (Nacional)
+http://45.186.106.207:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", TD+ 2 HD (Nacional)
+http://45.186.106.207:8000/play/a06s/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema SD
 http://190.61.101.11:7050/play/a09p/index.m3u8?hls
 
@@ -464,16 +470,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://205.235.6.29:8000/play/13/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.3)
-http://201.77.60.62:8002/play/a0nr/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.4)
-http://201.77.60.62:8002/play/a0le/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[v1](Opc.5)
 http://45.167.2.101:8000/play/a0pk/index.m3u8
-
-#EXTINF:-1 group-title="México" tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png",Las Estrellas SD (MPV)(Nacional)[V1](Opc.6)
-http://201.77.60.62:8002/play/a0d4/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[V2]
 http://181.224.255.210:8001/play/a0se/index.m3u8?hls
@@ -493,9 +490,6 @@ http://186.148.196.100:8000/play/a01g
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[V3]
 http://45.167.2.101:8000/play/a0pk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México", Las Estrellas HD (Nacional)[V4]
-http://201.77.60.62:8002/play/a0ns/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 1]
 http://38.65.175.87:8000/play/a0ll/index.m3u8u?hls
 
@@ -505,16 +499,10 @@ http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 3]
 http://200.35.176.154:8000/play/a067/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 4]
-http://201.77.60.62:8002/play/a0ll/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 5]
-http://201.77.60.62:8002/play/a0fl/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 6]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 4]
 http://38.65.175.87:8000/play/a0o1/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc. 7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (MPV)(Nacional)[Opc.5]
 http://38.65.175.87:8000/play/a0fl/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD (MPV) (México)[Opc. 1]
@@ -525,9 +513,6 @@ http://38.65.175.87:8000/play/a0la/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 3]
 http://38.65.175.87:8000/play/a0fm/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD (MPV) (México)[Opc. 4]
-http://201.77.60.62:8002/play/a0fm/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="México", Imagen TV Plus HD (Nacional)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
@@ -969,7 +954,7 @@ http://205.235.6.29:8000/play/a10h/index.m3u8?hls
 http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Perú",CR TV HD
-http://181.224.255.210:8001/play/a0rt/index.m3u8?hls
+https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú", ATV Sur HD (Arequipa / Nacional) [Opc.1]
 http://8.243.126.131:8000/play/a04m/index.m3u8?hls
@@ -1303,7 +1288,7 @@ https://183.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
-http://24.152.42.29:8000/play/a02b/index.m3u8?hls
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay SD
 https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
@@ -1312,7 +1297,7 @@ https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
 https://no.gendigi.net/origin-proxy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Opc.2]
-http://24.152.42.29:8000/play/a02f/index.m3u8?hls
+https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
@@ -1358,6 +1343,9 @@ https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay" ,Paraguay TV HD
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay" ,Paraguay TV SD [Opc.2]
+http://181.78.192.238:8000/play/a1ri/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iL5JnSy.jpeg" group-title="Paraguay" ,Regional TV Yaguaron HD
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
@@ -1432,12 +1420,6 @@ https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="República Dominicana",Color Vision 9 HD
 https://hls.tvabierta.net/hls/9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana", Telesistema 11 SD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(egBQjUF554Aze7Xg3VTXNw37_TiHWWGVhtvRLjIgSP5JWivTzFRWL2HJRrC4ztfU5hIv8H5BbJ9tYB2fT_-wOUc2000LtAkS7x6m4MRidsGEMHuNuiZ8HEe4F1YdwFBk)/cloud/3/x80ac48/d/live-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",Telecentro 13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -3784,7 +3766,7 @@ https://live.enhdtv.com:8081/8190/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Informativos",T13 En Vivo (Chile - Nacional)
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="Informativos",El Pingüino TV (Punta Arenas - Magallanes)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="Informativos",El Pingüino TV [No 24/7](Punta Arenas - Magallanes)
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Informativos", DW Español (Alemania / Internacional)
@@ -3819,9 +3801,6 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fg6m2L.png" group-title="Informativos", TV Norte [No 24/7](Chiclayo / Lambayeque)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Informativos", Telesistema 11 [No 24/7] (Rep. Dominicana)
-https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Informativos", Canal 79 La Costa [No 24/7](Buenos Aires)
 https://streamconex.com:19360/lacosta/lacosta.m3u8
@@ -3936,14 +3915,17 @@ http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel HD (Opc.2)
 http://181.225.190.242:8000/play/a01e
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel SD (Opc.3)
-http://190.61.34.164:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Chanel HD (Opc.3)
+http://45.186.254.75:8000/play/a0ck/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD
 http://190.238.43.117:9000/play/a0iq/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD (Opc.2)
-http://190.61.34.164:8000/play/a04e/index.m3u8
+http://190.61.114.186:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD (Opc.3)
+http://181.78.0.156:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png" group-title="Infantiles", Caillou (ES)
 https://jmp2.uk/stvp-ES4800002OZ
@@ -3961,7 +3943,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/3yXRbQy.png",Tooncast (Opc.2)
-http://190.61.34.164:8000/play/a01e/index.m3u8
+http://45.167.1.139:8000/play/a03a
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/3yXRbQy.png",Tooncast (Opc.3)
+http://45.167.1.137:8000/play/a03a
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Infantiles",Dreiko TV (Chile)
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
@@ -4110,7 +4095,7 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="Música", La Kalle (Colombia)
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música", MasMusica FM (Colombia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música", MasMusica FM [No 24/7](Colombia)
 https://movil.ejeserver.com/live/masmusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" group-title="Música", Parranda Vallenata (Colombia)
