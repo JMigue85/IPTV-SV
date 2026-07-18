@@ -1296,15 +1296,11 @@ https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Geo-Blocked]
 https://no.gendigi.net/origin-proxy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD [No 24/7](MPV)[Opc.2]
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-
-#EXTINF:-1 tvg-logo="tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 Vision TV
-#EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
-https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
@@ -1315,9 +1311,6 @@ http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="Paraguay" ,Cáritas TV HD
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="Paraguay" ,Cosmos TV HD
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zjxvg9u.jpeg" group-title="Paraguay" ,Del Rey TV HD
 #EXTVLCOPT:http-referrer=https://tvonline.com.py/
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
@@ -1326,20 +1319,29 @@ https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele HD [Opc.2]
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+https://rds3tf.desdeparaguay.net/latele/latele_int_alta/playlist.m3u8?admin=tvaccion
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="Paraguay" ,Monumental TV HD
-#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py//tv
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vnIkhRO.png" group-title="Paraguay" ,Nanduti SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="Paraguay" ,Monumental TV HD [Opc.2]
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py//tv
+https://rds3tf.desdeparaguay.net/monumentaltv/monumentaltv_int_baja/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnIkhRO.png" group-title="Paraguay" ,Nanduti HD
 #EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
-https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
+https://nanduti.b-cdn.net/nandutiam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay" ,NPY HD
 #EXTVLCOPT:http-referrer=https://www.npy.com.py/
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="Paraguay" ,Occidental TV HD
-https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay" ,NPY HD [Opc.2]
+#EXTVLCOPT:http-referrer=https://www.npy.com.py/
+https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay" ,Paraguay TV HD
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
@@ -1371,6 +1373,16 @@ https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="Paraguay"´,Canal Pro HD
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="Paraguay" ,Occidental TV HD [No 24/7]
+https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="Paraguay" ,Cosmos TV HD [No 24/7]
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 Vision TV [No 24/7]
+#EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXHK7UP.png" group-title="Paraguay" ,Productiva TV HD [ No 24/7]
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
@@ -3139,7 +3151,8 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa-1536x538.png" group-title="Entretenimiento / Cine / Series", Alternativa TV (Colombia - Huasco - Atacama)
-https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento / Cine / Series", Cheaters en Español
 https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
@@ -3669,7 +3682,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPqlChI.png" group-title="Informativos", WIPR (Puerto Rico)
 https://streamwipr.pr/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="Informativos", CERTV Canal 4 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="Informativos", CERTV Canal 4 [No 24/7] (República Dominicana)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Informativos", Cinevisión Canal 19 (República Dominicana)
@@ -3893,7 +3906,7 @@ http://181.78.67.171:8000/play/a0ze/index.m3u8
 http://181.224.255.210:8001/play/a0py/index.m3u8?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network SD (Opc.2)
-http://186.148.184.22:8000/play/a0ln/index.m3u8
+http://186.148.182.83:8000/play/a09z/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD (Opc.3)
 http://181.78.79.131:8000/play/a0tj
@@ -3908,13 +3921,13 @@ http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
 http://186.33.26.18:8000/play/a0qv/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.1)
-http://186.148.184.22:8000/play/a0me/index.m3u8
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR HD (Opc.1)
 http://181.119.84.106:8000/play/a03e/index.m3u8
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR HD (Opc.1)
-http://181.225.73.159:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR HD (Opc.2)
+http://181.78.67.171:8000/play/a0kc/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.3)
+http://181.78.73.153:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel HD (Opc.1)
 http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
@@ -4418,8 +4431,8 @@ http://205.235.6.29:8000/play/a0yn/index.m3u8?hls
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports (Internacional)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports HD (Internacional)
-http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports SD (Internacional)
+http://181.78.192.238:8000/play/a25u/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports AR
 http://38.44.109.41:8003/play/a02l/index.m3u8
@@ -4514,13 +4527,10 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 5]
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 6]
-https://ss.domain77654422122.sbs/dsports/index.m3u8?token=0c6a1b574c1a0a3546a90d409dac97cfcec730c4-e8-1784359264-1784305264
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports+ (MPV) 
 http://190.108.83.69:8000/play/a05w/index.m3u8
+
+
 
 
 
@@ -4639,7 +4649,7 @@ http://186.148.196.100:8000/play/a02q
 http://181.119.84.106:8000/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN CO (Opc.2)
-http://181.225.73.159:8000/play/a00w/index.m3u8
+http://186.148.163.17:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.2)
 http://186.148.163.17:8000/play/a0ay/index.m3u8
