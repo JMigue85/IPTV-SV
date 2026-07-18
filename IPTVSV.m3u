@@ -1290,13 +1290,16 @@ https://183.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay SD
-https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Geo-Blocked]
+https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Geo-Blocked]
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunks.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Geo-Blocked]
 https://no.gendigi.net/origin-proxy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD [No 24/7](MPV)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Opc.2]
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD
@@ -1305,7 +1308,7 @@ https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" ,Invasiva TV HD [OPC.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD [OPC.2]
 http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="Paraguay" ,Cáritas TV HD
@@ -1315,7 +1318,7 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvonline.com.py/
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele HD [Geo-Blocked]
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
@@ -2202,9 +2205,6 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine / Películas", Cosmos TV (Formosa / Argentina)
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas", Pantalla Clásica EC (Ecuador)
-https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Cine / Películas", VB Media TV (México)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
@@ -2323,6 +2323,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkDnDWgM/Soy-TVPlus.png" group-title="Cine / Películas", Canal ZoyTV Plus [No 24/7]
 https://tv.zoymilton.com/ZoyPlus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas", Pantalla Clásica [No 24/7] (Ecuador)
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Cine / Películas", Codigo TV [No 24/7](Rep. Dominicana)
 https://edge.essastream.com/codigotv/index.m3u8
@@ -4235,7 +4238,7 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Música", POP World TV (España)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
-#EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música", Verbena TV (España)
+#EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música", Verbena TV [No 24/7] (España)
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://dancefm.es/wp-content/uploads/2020/04/logo-web-png-1024x169.png" group-title="Música", Dance FM (España)
