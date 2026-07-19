@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/JMigue85/IPTV-SV)
 ![Last Updated](https://img.shields.io/github/last-commit/JMigue85/IPTV-SV)
 ![License](https://img.shields.io/github/license/JMigue85/IPTV-SV)
-![Total Canales](https://img.shields.io/badge/Canales-1250+-brightgreen)
+![Total Canales](https://img.shields.io/badge/Canales-1500+-brightgreen)
 
 Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adicional de toda América Latina y España.
 
@@ -21,31 +21,31 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 | Categoría | Canales |
 |-----------|---------|
 | 🇸🇻 El Salvador - TCS | 4 canales + Opciones Extra |
-| 🇸🇻 El Salvador Local | 12+ canales |
-| 🇬🇹 Guatemala | 44+ canales |
-| 🇭🇳 Honduras | 32+ canales |
-| 🇨🇷 Costa Rica | 26+ canales |
-| 🇲🇽 México | 43+ canales |
-| 🇨🇴 Colombia | 41+ canales |
+| 🇸🇻 El Salvador Local | 24+ canales |
+| 🇬🇹 Guatemala | 38+ canales |
+| 🇭🇳 Honduras | 36+ canales |
+| 🇨🇷 Costa Rica | 27+ canales |
+| 🇲🇽 México | 45+ canales |
+| 🇨🇴 Colombia | 45+ canales |
 | 🇪🇨 Ecuador | 39+ canales |
-| 🇵🇪 Perú | 42+ canales |
-| 🇨🇱 Chile | 28+ canales |
-| 🇦🇷 Argentina | 23+ canales |
-| 🇵🇾 Paraguay | 17+ canales |
-| 🇩🇴 República Dominicana | 12+ canales |
-| 🇪🇸 España | 54+ canales |
+| 🇵🇪 Perú | 63+ canales |
+| 🇨🇱 Chile | 43+ canales |
+| 🇦🇷 Argentina | 25+ canales |
+| 🇵🇾 Paraguay | 37+ canales |
+| 🇩🇴 República Dominicana | 28+ canales |
+| 🇪🇸 España | 150+ canales |
 | 🎬 Cine y Películas | 77+ canales |
-| ⚽ Deportes | 83+ canales |
+| ⚽ Deportes | 125+ canales |
 | 🍿 Plataformas FAST | 60+ canales |
-| 👶 Infantil | 70+ canales |
-| 🎵 Música | 77+ canales |
-| 📺 Entretenimiento | 139+ canales |
-| 📰 Informativos | 68+ canales |
-| ⛩️ Anime & Doramas | 30+ canales |
-| 🙏 Religiosos | 59+ canales |
-| 📺 Otros | 200+ canales |
+| 👶 Infantil | 60+ canales |
+| 🎵 Música | 70+ canales |
+| 📺 Entretenimiento | 147+ canales |
+| 📰 Informativos | 70+ canales |
+| ⛩️ Anime & Doramas | 35+ canales |
+| 🙏 Religiosos | 60+ canales |
+| 📺 Otros | 250+ canales |
 
-> **Total: ~1250 canales** 🚀
+> **Total: ~1500 canales** 🚀
 
 ---
 
