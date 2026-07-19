@@ -950,8 +950,8 @@ http://181.224.200.5:2277/play/kkio/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión SD [Opc.4]
 http://205.235.6.29:8000/play/a10h/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD
-http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
+#EXTINF:-1 tvg-logo="" group-title="Perú",Antena 1 HD 
+https://tv.canala1.com:8081/web/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Perú",CR TV HD
 https://live.obslivestream.com/crtvmux/index.m3u8
@@ -1010,6 +1010,9 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú", Once TV Digital
 https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7]
+http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7]
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
@@ -1293,14 +1296,14 @@ https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Geo-Blocked]
 https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Geo-Blocked]
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunks.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD 
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Geo-Blocked]
 https://no.gendigi.net/origin-proxy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Opc.2]
-https://no.gendigi.net/origin-proxy/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD [Opc.2]
+https://no.gendigi.net/origin-proxy/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
@@ -1308,7 +1311,7 @@ https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD [OPC.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD [Opc.2]
 http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="Paraguay" ,Cáritas TV HD
