@@ -1023,10 +1023,10 @@ https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Perú", Intuitiva TV HD (Lima)
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="Perú", Nativa TV HD (Santiago)
-https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Perú", Nativa TV HD (Santiago)
+https://live-evg5.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="Perú", Nativa TV HD [V2](Santiago)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Perú", Nativa TV HD (Santiago) [Opc.2]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú", Once TV Digital
