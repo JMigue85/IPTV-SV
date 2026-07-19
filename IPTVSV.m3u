@@ -1443,7 +1443,7 @@ https://stream.haislin.com/ahoratv/index.m3u8
 https://cdnfox.hostlagarto.com/bocachicatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",RTVD 4 HD
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://elseis.do/img/logo-header.png" group-title="República Dominicana",Canal 6 El Seis HD
 https://stream.elseis.do/canal6/live_1080.m3u8 
@@ -1475,9 +1475,6 @@ https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="República Dominicana",Telecanal 28 HD
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="República Dominicana",Canal Digital 32 HD
-https://edge.livestreaminggroup.info/vtv32live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Canal 36 Cotubanama TV HD
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
@@ -1529,6 +1526,10 @@ https://cdnfox.hostlagarto.com/telenord12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 14 Telenord HD [No 24/7]
 https://newyorkstream.ddns.net:1935/telenord14/telenord14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="República Dominicana",Canal Digital 32 HD [No 24/7]
+https://edge.livestreaminggroup.info/vtv32live/index.m3u8
+
 
 
 
