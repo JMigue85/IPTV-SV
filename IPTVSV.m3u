@@ -950,6 +950,12 @@ http://181.224.200.5:2277/play/kkio/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión SD [Opc.4]
 http://205.235.6.29:8000/play/a10h/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD 
+https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7]
+http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="Perú",Antena 1 HD 
 https://tv.canala1.com:8081/web/video.m3u8
 
@@ -968,14 +974,26 @@ http://8.243.126.131:8000/play/a04n/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Perú",Mega TV HD (Arequipa)
 https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Perú",Lo Nuestro TV
+https://vivatv.juanjuiserver.com:3669/live/lonuestrolive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú", Latina Clasicos HD (Nacional)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="Perú", Milenial TV HD (Lima / Nacional)
 https://www.milenial.news/salida/milenial.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Perú", Onda Digital HD (Lima / Nacional)
-https://tv.ondadigital.pe/ondadigital/index.m3u8
+#EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="Perú", Onda Digital HD (Lima / Nacional)
+https://live.ondadigitaltv.com/ODTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/LOGO-ODTV-2-300x269.png" group-title="Perú", Onda Digital 2 HD (Lima / Nacional)
+https://live.ondadigitaltv.com/ODTV2/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/LOGO-ODTV-3.png" group-title="Perú", Onda Digital 3 HD (Lima / Nacional)
+https://live.ondadigitaltv.com/ODTV3/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Perú", Radio Onda Digital HD (Lima / Nacional)
+https://live.ondadigitaltv.com/RADIOODTV/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Perú", USMPTV HD (Lima / Nacional)
 #EXTVLCOPT:http-referrer=https://usmptv.pe/
@@ -1014,14 +1032,8 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú", Once TV Digital
 https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7]
-http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7]
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7] [Opc.2]
-http://181.224.255.210:8001/play/axrv/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Perú", Vía Televisión HD [No 24/7] (Tarapoto - San Martín)
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
