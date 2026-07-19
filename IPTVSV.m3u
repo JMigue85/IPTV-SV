@@ -950,8 +950,11 @@ http://181.224.200.5:2277/play/kkio/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión SD [Opc.4]
 http://205.235.6.29:8000/play/a10h/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="" group-title="Perú",Antena 1 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="Perú",Antena 1 HD 
 https://tv.canala1.com:8081/web/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="Perú",Antena 1 HD [Opc.2]
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Perú",CR TV HD
 https://live.obslivestream.com/crtvmux/index.m3u8
