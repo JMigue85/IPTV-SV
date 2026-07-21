@@ -615,7 +615,7 @@ http://181.225.190.242:8000/play/a02n
 http://181.225.190.242:8000/play/a02p
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN SD (MPV)[Opc.3]
-http://181.119.84.106:8000/play/a04b/index.m3u8
+http://186.148.184.22:8000/play/a0kr/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/SrMPTfc.png",RCN2 HD
 http://181.225.190.242:8000/play/a02o
@@ -630,7 +630,7 @@ http://190.60.59.60:8000/play/a0uw/index.m3u8
 http://181.225.190.242:8000/play/a00p
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.2]
-http://181.119.185.32:8000/play/a0211/index.m3u8?hls
+http://181.78.50.91:8000/play/a04y/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD (MPV)[Opc.3]
 http://181.79.87.130:8000/play/a07t/index.m3u8
@@ -2451,7 +2451,7 @@ http://181.78.50.91:8000/play/a05y/index.m3u8
 http://45.228.234.62:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.3]
-http://45.5.117.188:8000/play/a05x/index.m3u8
+http://186.33.0.57:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD
 http://186.33.0.57:8000/play/a04k/index.m3u8
@@ -2461,15 +2461,6 @@ http://181.78.50.91:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.3]
 http://45.5.118.188:8000/play/a04u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Cine / Películas Premium",Cine Latino
-http://190.61.101.11:7050/play/a06a/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Cine / Películas Premium",Cine Latino [Opc.2]
-http://186.33.26.18:8000/play/a0rp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Cine / Películas Premium",Cine Latino [Opc.3]
-http://186.148.182.83:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas Premium",TNT HD
 http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
@@ -2613,7 +2604,7 @@ http://45.167.2.138:8000/play/a0rp/index.m3u8
 http://45.5.118.188:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.3)
-http://45.5.117.188:8000/play/a059/index.m3u8
+http://190.61.101.11:7050/play/a06a/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas Premium",Golden SD
 http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
@@ -2640,10 +2631,10 @@ http://45.186.106.207:8000/play/a06v/index.m3u8
 http://45.5.118.188:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.3]
-http://45.5.117.188:8000/play/a00l/index.m3u8
+http://45.186.106.207:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.1]
-http://45.5.117.187:8000/play/a00m/index.m3u8
+http://45.5.118.188:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.2]
 http://181.78.192.238:8000/play/a2dy/index.m3u8
@@ -3556,7 +3547,7 @@ http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
 http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentales y Cultura",Discovery Science SD [Opc.3]
-http://8.243.126.131:8000/play/a04u/index.m3u8?hls
+http://186.148.182.83:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Documentales y Cultura",E! Entertainment HD
 http://8.243.126.131:8000/play/a0dz/index.m3u8?hls
