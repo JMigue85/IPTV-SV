@@ -282,7 +282,7 @@ http://45.186.105.214:8000/play/a16b/index.m3u8
 http://186.33.26.18:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 SD [Opc.2]
-http://186.33.0.57:8000/play/a04v/index.m3u8
+http://186.33.26.18:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -373,11 +373,23 @@ https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica",Canal 1 HD (Nacional)
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel sD  (Nacional)[Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel SD  (Nacional)[Opc.1]
 http://186.33.0.57:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD (Nacional)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel SD  (Nacional)[Opc.2]
+http://181.78.50.91:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel SD  (Nacional)[Opc.2]
+http://45.228.234.62:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD (Nacional)[Opc.1]
 http://190.61.101.11:7050/play/a07m/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD (Nacional)[Opc.2]
+http://45.5.118.188:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD (Nacional)[Opc.3]
+http://45.5.117.187:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Costa Rica",TELETICA 7 HD 
 http://190.61.101.11:7050/play/a07t/index.m3u8?hls
@@ -390,6 +402,12 @@ https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD (Nacional)
 http://190.61.101.11:7050/play/a07n/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD (Nacional)[Opc.2]
+http://45.5.117.188:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD (Nacional)[Opc.3]
+http://45.186.105.214:8000/play/a11b/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", TD+ HD (Nacional)
 http://45.186.106.207:8000/play/a06r/index.m3u8
@@ -1105,7 +1123,7 @@ http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD [Opc.3]
-http://181.119.185.32:8000/play/a026/index.m3u8?hls
+http://181.78.79.131:8000/play/a0r0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD [Opc.4]
 http://205.235.6.29:8000/play/a10w/index.m3u8?hls
@@ -2442,7 +2460,7 @@ http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 http://186.148.163.17:8000/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD [Opc.3]
-http://186.33.0.57:8000/play/a04i/index.m3u8
+http://186.33.0.57:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD
 http://181.78.50.91:8000/play/a05y/index.m3u8
@@ -2454,7 +2472,7 @@ http://45.228.234.62:8000/play/a07c/index.m3u8
 http://186.33.0.57:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD
-http://186.33.0.57:8000/play/a04k/index.m3u8
+http://45.228.234.62:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.2]
 http://181.78.50.91:8000/play/a04j/index.m3u8
@@ -2514,7 +2532,7 @@ http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 http://157.100.9.51:8000/play/a1tc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.3)
-http://186.33.0.57:8000/play/a00p/index.m3u8
+http://181.119.84.106:8000/play/a0qx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD
 http://186.33.61.182:8000/play/a011/index.m3u8
@@ -2801,10 +2819,13 @@ http://8.243.126.131:8000/play/a0le/index.m3u8?hls
 http://181.224.255.210:8001/play/a0nt/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro HD
-http://186.33.0.57:8000/play/a00k/index.m3u8
+http://190.61.101.11:7050/play/a04w/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro SD [Opc.2]
 http://186.33.47.113:8000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro HD [Opc.3]
+http://8.243.126.131:8000/play/a0f1/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series SD [Opc.1]
 http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
@@ -2905,8 +2926,8 @@ http://186.148.175.138:8000/play/a060
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Entretenimiento Premium", BBC Series (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa HD
-http://186.33.0.57:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa SD
+http://181.78.67.171:8000/play/a10e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa HD [Opc.2]
 http://181.78.50.91:8000/play/a022/index.m3u8
@@ -3535,7 +3556,7 @@ http://8.243.126.131:8000/play/a0gp/index.m3u8?hls
 http://205.235.6.29:8000/play/a0y6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentales y Cultura",Discovery Science SD
-http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+http://138.117.110.151:8000/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentales y Cultura",Discovery Science SD [Opc.2]
 http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
@@ -3595,7 +3616,7 @@ http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
 http://8.243.126.131:8000/play/a05m/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales y Cultura",Nat Geo HD [Opc.3]
-http://186.33.0.57:8000/play/a05p/index.m3u8
+http://190.61.101.11:7050/play/a05f/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Documentales y Cultura",TLC SD
 http://8.243.126.131:8000/play/a0gc/index.m3u8?hls
