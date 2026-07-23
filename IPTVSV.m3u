@@ -2256,9 +2256,6 @@ https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ps0Z6mkD/Exito-Multimedia.png" group-title="Cine / Películas", Exito Multimedia (Paraguay)
 https://edge.enhdtv.com/exitotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV (Venezuela)
-https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5PvB8Jk/nomtv.jpg" group-title="Cine / Películas", Universo TV MTV 93.1 (Argentina)
 https://183.bozztv.com/giatv/giatv-universotv/universotv/playlist.m3u8
 
@@ -2341,6 +2338,9 @@ https://jmp2.uk/stvp-ESBC2700002LO
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas", Cine Western
 https://jmp2.uk/stvp-ES2300005G7
+
+#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV [No 24/7](Venezuela)
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD [No 24/7]
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
