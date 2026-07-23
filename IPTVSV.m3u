@@ -5024,6 +5024,111 @@ https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 2 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 4 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 8 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 10 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 12 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 14 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 17 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 19 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 21 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a07c/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 26 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 27 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 31 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 32 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08b/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 36 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 37 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 38 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 40 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 50 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 56 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 57 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08i/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 70 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ce/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 74 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cf/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 75 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08j/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 80 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 81 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 83 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cn/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 86 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08c/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 87 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 88 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 91 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ci/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 92 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cj/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 94 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ck/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Chichicasteca",CANAL 98 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cl/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
@@ -5115,8 +5220,6 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony HD [Opc.2]
 http://181.78.0.156:8000/play/a02t/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Sony Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",Sony HD (Opc.1)
 http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
