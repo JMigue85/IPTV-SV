@@ -2164,6 +2164,8 @@ https://jmp2.uk/stvp-ES170000433
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Doramas / Asia",Rakuten VIKI (SUB)
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Doramas / Asia", Kpop Mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
 
 
@@ -4224,8 +4226,20 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XnX1pw2/logo-fantasia-tv-dos-1024x1024.png" group-title="Música",Fantasia TV (Chile)
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Música", Cumbia Mix (Argentina)
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvomix.png" group-title="Música", TVOMIX (Argentina)
+https://cloud.tvomix.com/TVOMIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Cumbiamix.png" group-title="Música", Cumbia Mix (Argentina)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Urbanmix.png" group-title="Música", Urban Mix (Argentina)
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Titotv.png" group-title="Música", Tito TV (Argentina)
+https://cloud.tvomix.com/TITOTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Titotv.png" group-title="Música", FlashBack Mix (Argentina)
+https://cloud.tvomix.com/FLASHBACKMIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Música", Mas FM 95.9 (Argentina)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -4831,6 +4845,9 @@ https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="Religiosos", Spirit TV HD (EN)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Religiosos", TVO Jesus (Argentina)
+https://cloud.tvomix.com/TVOJESUS/index.m3u8
 
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
