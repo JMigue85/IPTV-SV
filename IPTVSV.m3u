@@ -576,6 +576,9 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="México", TV Cuatro 4.2 HD (Guanajuato)
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvguanajuato.com/wp-content/uploads/2016/04/LOGO.png" group-title="México", TV Guanajuato HD (Guanajuato)
+https://183.bozztv.com/giatv/giatv-TvGuanajuato/TvGuanajuato/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="México", Canal 44 HD Ciudad Juárez (Chihuahua)
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 
@@ -1062,6 +1065,9 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú", Once TV Digital
 https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú", Once TV Digital [Opc.2]
+https://183.bozztv.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7]
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
@@ -2064,6 +2070,9 @@ https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV (Honduras)
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV
+https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+ (El Salvador)
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
 
@@ -3032,6 +3041,15 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento / Cine / Series",Chespirito TV
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDT6CmRVDK9W2rZUHWkHu9wlVZTT61VIlrx0s04qGiKfM=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Unika TV
+https://183.bozztv.com/giatv/giatv-unykatv/unykatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx70Dk3Z/ptv.jpg" group-title="Entretenimiento / Cine / Series",PTV OnLine
+https://183.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/46/1/vivo-tv-logo-png_seeklogo-463353.png" group-title="Entretenimiento / Cine / Series",Del Este TV HD
+https://183.bozztv.com/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Entretenimiento / Cine / Series", Delta TV SD (Bolivia)
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
@@ -4029,6 +4047,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",Magic Kids
+https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Infantiles", Tiguerito TV (Rep. Dominicana)
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
@@ -4868,6 +4889,9 @@ https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="Religiosos", Spirit TV HD (EN)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208840.png?1784863150" group-title="Religiosos", Vive Musica HD (EN)
+https://183.bozztv.com/giatv/giatv-vivemusica/vivemusica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Religiosos", TVO Jesus (Argentina)
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
