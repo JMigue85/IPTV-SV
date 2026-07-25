@@ -25,7 +25,7 @@ http://186.33.26.18:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://signal.teleon.live/stream/canal6_sv.m3u8?token=free
+https://signal.teleon.live/play/M-SFF5mIPhehGo_D8i6uMR6Bd-27NSk1CyGcC_RH3IU9KPSyUtE_LcTwpMg5b-Tf8SItAtfc-wgEZ3ikZvLWoUTNvdURyOyD.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS HD [Opc.2]
 http://45.167.2.101:8000/play/a0qs/index.m3u8
@@ -819,12 +819,12 @@ http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
 http://181.119.185.32:8000/play/a006/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television SD
-http://186.148.163.17:8000/play/a0b1/index.m3u8
+http://186.33.47.113:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television SD (MPV)[Opc.2]
 http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television SD (MPV)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television SD (MPV)[Opc.3]
 http://181.78.192.238:8000/play/a28v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV HD (Manabí)
@@ -2230,14 +2230,8 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPt0yF8q/MCU-TV.png" group-title="Cine / Películas", MCU TV
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="Cine / Películas", Ipersonica
 https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision
-https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
@@ -2363,6 +2357,12 @@ https://jmp2.uk/stvp-ESBC2700002LO
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas", Cine Western
 https://jmp2.uk/stvp-ES2300005G7
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png" group-title="Cine / Películas", MCU TV [No 24/7]
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision [No 24/7]
+https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine / Películas", TV Retro Palmares [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
@@ -2526,7 +2526,7 @@ http://181.78.192.238:8000/play/a265/index.m3u8
 http://181.224.255.210:8001/play/a0f161/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.2]
-http://181.119.84.106:8000/play/a0pb/index.m3u8
+http://186.33.1.71:8000/play/a0l2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.3]
 http://186.148.196.100:8000/play/a002
@@ -2565,7 +2565,7 @@ http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 http://157.100.9.51:8000/play/a1tc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.3)
-http://181.119.84.106:8000/play/a0qx/index.m3u8
+http://190.60.59.60:8000/play/a0tn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD
 http://186.33.61.182:8000/play/a011/index.m3u8
@@ -2582,14 +2582,14 @@ http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.2)
 http://38.224.231.47:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.2)
-http://181.119.84.106:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.3)
+http://190.60.59.60:8000/play/a0pe/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD
 http://181.224.255.210:8001/play/a0re/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.2]
-http://181.119.84.106:8000/play/a0sk/index.m3u8
+http://190.60.59.60:8000/play/a0pd/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.3]
 http://181.78.67.171:8000/play/a0zx/index.m3u8
@@ -3878,7 +3878,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
-https://signal.teleon.live/stream/canal2000es.m3u8?token=free
+https://signal.teleon.live/play/bC2WgQVzHlF-JVEm_8KOFWfQmrCFjGo8M_iTYywTkfpaEJ0xdI2l5kN0C4ctxBFBsnmabeLPHCgkbcq0PxbdOYlsbrcITMMQMqm42rrbnnQ09WMAOw9EnOLPGqkKjKwVRg.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)[Opc.2]
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
