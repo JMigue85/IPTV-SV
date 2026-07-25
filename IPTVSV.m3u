@@ -4379,11 +4379,13 @@ https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee9
 #EXTINF:-1 group-title="Tigo Sports / Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports HD[Opc.1]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports HD BO [Opc.1]
 http://181.78.192.238:8000/play/a2ht/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports + HD PY [Opc.1]
+http://45.170.130.224:8000/play/a04i/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports CEAM (Multi-Feed) [No 24/7] [Inestable]
-#EXTVLCOPT:http-referrer=http://162.19.255.233:8080/
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX 
