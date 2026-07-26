@@ -159,7 +159,7 @@ http://181.78.50.91:8000/play/a02b/index.m3u8
 http://179.60.224.196:8000/play/a0e2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ Guate HD [Opc.2]
-http://186.33.1.71:8000/play/a05u/index.m3u8
+http://181.119.177.253:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",TV Azteca Guate SD
 http://200.35.176.154:8000/play/a02s/index.m3u8
@@ -251,6 +251,9 @@ http://200.35.176.154:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvq.tv/assets/img/logo.png" group-title="Guatemala",Canal TVQ LIVE HD 
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mHBTOx8YSGwDYUNAbTBKUAHaCv?r=0&pid=Api" group-title="Guatemala",Teleflix HD 
+http://200.35.176.154:8000/play/a04r/index.m3u8
 
 
 
@@ -1259,7 +1262,7 @@ https://tv.ulagos.cl/web/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD (Argentina)[Opc.1]
-http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD (Argentina)[Opc.2]
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
@@ -1313,11 +1316,11 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV (Santa Fe)
 https://edge.enhdtv.com/litustv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="Argentina",Telecreativa Lanus
-https://panel.host-live.com:19360/8012/8012.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza [Geo-Blocked]
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="Argentina",Telecreativa Lanus [No 24/7]
+https://panel.host-live.com:19360/8012/8012.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal [No 24/7]
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
@@ -1419,11 +1422,8 @@ https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7gHFKPZ.png"  group-title="Paraguay" ,TV Aire HD
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="Paraguay" ,UnionTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="Paraguay" ,Union TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Co3YrU0.png" group-title="Paraguay" ,UniRadio TV HD
-https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD
 https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
@@ -1431,7 +1431,10 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="Paraguay" ,AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="Paraguay"´,Canal Pro HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Co3YrU0.png" group-title="Paraguay" ,UniRadio TV HD [No 24/7]
+https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="Paraguay"´,Canal Pro HD [No 24/7]
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
 
@@ -2873,7 +2876,7 @@ http://8.243.126.131:8000/play/a0f1/index.m3u8?hls
 http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series SD [Opc.2]
-http://181.119.84.106:8000/play/a02s/index.m3u8
+http://186.148.196.100:8000/play/a02u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wv7jSHmv/AMC-SERIES-1.png" group-title="Entretenimiento Premium",AMC Series SD [Opc.3]
 http://45.186.254.75:8000/play/a08l/index.m3u8
@@ -3050,9 +3053,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento / Cine / Series",Chespirito TV
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDT6CmRVDK9W2rZUHWkHu9wlVZTT61VIlrx0s04qGiKfM=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Unika TV
-https://183.bozztv.com/giatv/giatv-unykatv/unykatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx70Dk3Z/ptv.jpg" group-title="Entretenimiento / Cine / Series",PTV OnLine
 https://183.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
@@ -3295,6 +3295,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine / Series", Canal 21 HD (Buenos Aires / Argentina)
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDT6CmRVDK9W2rZUHWkHu9wlVZTT61VIlrx0s04qGiKfM=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Unika TV [No 24/7]
+https://183.bozztv.com/giatv/giatv-unykatv/unykatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="Entretenimiento / Cine / Series", TV Cisne [No 24/7](Ecuador - Loja)
 https://video2.lhdserver.es/tvcisne/live.m3u8
@@ -3595,7 +3598,7 @@ http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
 http://186.148.163.17:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales y Cultura",Discovery Theater HD [Opc.3]
-http://181.119.84.106:8000/play/a0ip/index.m3u8
+http://186.148.184.22:8000/play/a0lq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Documentales y Cultura",Discovery Home & Health HD
 http://8.243.126.131:8000/play/a0il/index.m3u8?hls
@@ -4000,7 +4003,7 @@ http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
 http://186.33.26.18:8000/play/a0qv/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.1)
-http://181.119.84.106:8000/play/a03e/index.m3u8
+http://186.148.184.22:8000/play/a0me/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR HD (Opc.2)
 http://181.78.67.171:8000/play/a0kc/index.m3u8
@@ -4179,7 +4182,7 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Música", SOY Plancha TV (Costa Rica)
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Música", Urbano TV (Costa Rica)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Música", Urbano TV [No 24/7] (Costa Rica)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="Música", Video Tour Channel (Costa Rica)
@@ -4518,9 +4521,6 @@ http://181.119.177.253:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga [Opc.4]
 http://186.33.61.182:8000/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga [Opc.5]
-http://186.33.1.71:8000/play/a03u/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports F1
 http://157.100.9.51:8000/play/a25q
 
@@ -4842,7 +4842,7 @@ http://181.78.192.238:8000/play/a2b2/index.m3u8
 http://186.148.196.100:8000/play/a02q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 7 (Opc.2)
-http://181.119.84.106:8000/play/a0hx/index.m3u8
+http://200.59.191.177:8000/play/a0p2/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN CO (Opc.2)
 http://186.148.163.17:8000/play/a008/index.m3u8
@@ -4972,7 +4972,7 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Religiosos",Frecuencia F TV (Colombia)
-https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+https://tv.frecuenciaf.com/live/envivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Religiosos",Canal Oración Con Son (Colombia)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
@@ -5007,7 +5007,7 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Religiosos",VC Online (Chile)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yn5M8dw/telefides-costa-rica.png" group-title="Religiosos",Telefides (Costa Rica)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn5M8dw/telefides-costa-rica.png" group-title="Religiosos",Telefides [No 24/7](Costa Rica)
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="Religiosos",San José TV (Costa Rica)
