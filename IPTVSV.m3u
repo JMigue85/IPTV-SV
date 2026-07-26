@@ -70,11 +70,13 @@ https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 HD [No 24/7]
 https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 SD [No 24/7][Opc.2]
-http://181.78.192.238:8000/play/a2c3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 HD [No 24/7][Opc.2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://teleon.tv/
+https://signal.teleon.live/play/WC3TjfK19uZWPrkJDdjF0CQxK8f8shHuniUetoUuIV37irVISR1VJtQ0T3Z9ECV5Xk5BvZfILYJ8TPyAxuPHMHmcGW7DRccdru4xIuRmVVozJFZrRAkazGHlKGv_gJLYV9QiH9vbxMolJYLIdyznKQ7MOHcGhcc.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12 SD [No 24/7][Opc.3]
-http://181.119.177.253:8000/play/a05z/index.m3u8
+http://181.78.192.238:8000/play/a2c3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7]
 http://45.167.2.101:8000/play/a0re/index.m3u8
@@ -111,6 +113,9 @@ https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 HD [No 24/7]
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="El Salvador",Sol TV [No 24/7]
+https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yh1lFZH.jpeg" group-title="El Salvador",Morazan TV HD [No 24/7]
 http://186.33.26.18:8000/play/a0o4/index.m3u8
@@ -1551,6 +1556,9 @@ https://ds.tvabierta.net/memfs/fde81577-b1ae-48ab-bac4-4ae5908af483.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistema 11 SD
 http://186.33.26.18:8000/play/a0t1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="República Dominicana",Canal del Sol HD
+https://stream.canaldelsol.com/sol26/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png" group-title="República Dominicana",Orbit TV HD [No 24/7]
 https://edge.essastream.com/orbittv/index.m3u8
