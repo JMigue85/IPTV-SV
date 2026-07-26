@@ -1181,7 +1181,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN HD (Nacional)[Opc.2]
-http://200.59.191.177:8000/play/a0oc/index.m3u8?hls
+http://181.79.89.25:8000/play/a031
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN3 HD (Nacional)
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -1261,13 +1261,19 @@ https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD (Argentina)[Opc.1]
 http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe SD (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD (Argentina)[Opc.2]
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior HD (Argentina)[Opc.2]
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)
 http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe SD (Argentina)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.2]
 http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe SD (Argentina)[Opc.3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.3]
 http://181.119.108.43:9001/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD(Buenos Aires)
@@ -1289,9 +1295,6 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina", Canal 7 Santiago del Estero (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa) [No 24/7]
-https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Argentina", Canal 2 Misiones (Misiones)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
@@ -1301,17 +1304,8 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Argentina", 5TV Corrientes (Corrientes)
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina", Telenord Corrientes [No 24/7](Corrientes)
-https://signal.teleon.live/stream/telenordcorrientesar.m3u8?token=free
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina", Telenord Corrientes [No 24/7](Corrientes)[Opc.2]
-https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Argentina", Canal 12 Puerto Madryn (Chubut)
 https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa [No 24/7](Mar de Ajó - Buenos Aires) 
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Argentina", Uniteve Villa Maria (Córdoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
@@ -1319,20 +1313,32 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV (Santa Fe)
 https://edge.enhdtv.com/litustv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Argentina", Canal 3 Las Heras [No 24/7](Santa Cruz)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Argentina", Canal 5 Pico Truncado (Santa Cruz)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="Argentina",Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza [Geo-Blocked]
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal
-https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal [No 24/7]
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa) [No 24/7]
+https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina", Telenord Corrientes [No 24/7](Corrientes)
+https://signal.teleon.live/stream/telenordcorrientesar.m3u8?token=free
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina", Telenord Corrientes [No 24/7](Corrientes)[Opc.2]
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa [No 24/7](Mar de Ajó - Buenos Aires) 
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Argentina", Canal 3 Las Heras [No 24/7](Santa Cruz)
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Argentina", Canal 5 Pico Truncado [No 24/7](Santa Cruz)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas [No 24/7]
 https://183.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
@@ -2529,7 +2535,7 @@ http://181.78.192.238:8000/play/a265/index.m3u8
 http://181.224.255.210:8001/play/a0f161/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.2]
-http://186.33.1.71:8000/play/a0l2/index.m3u8
+http://181.79.87.131:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.3]
 http://186.148.196.100:8000/play/a002
@@ -2559,7 +2565,7 @@ http://38.52.208.106:8000/play/a00l/index.m3u8
 http://181.119.177.253:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.3]
-http://186.33.1.71:8000/play/a00c/index.m3u8
+http://181.78.50.91:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
 http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
