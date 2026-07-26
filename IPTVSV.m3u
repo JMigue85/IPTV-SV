@@ -137,15 +137,21 @@ https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)
-http://200.35.176.154:8000/play/a02u/index.m3u8
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)[Opc.2]
+http://200.35.176.154:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)[Opc.3]
 http://181.78.50.91:8000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)
-http://200.35.176.154:8000/play/a02t/index.m3u8
+https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)[Opc.2]
+http://200.35.176.154:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)[Opc.3]
 http://181.78.50.91:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 SD (MPV) (Nacional)
@@ -3029,6 +3035,7 @@ http://179.60.224.196:8000/play/a0ge/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine / Series", TeleOnce (Puerto Rico)
 https://livecdn.use1-0007.jwplive.com/live/sites/5yzZ4fDK/media/DccQWXXz/live.isml/.m3u8
 
@@ -3046,6 +3053,9 @@ https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento / Cine / Series", VE Plus (Venezuela)
 https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvgelive.gq/images/logo-dark.png" group-title="Entretenimiento / Cine / Series", TVGE Internacional (Guinea Ecuatorial)
+https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Entretenimiento / Cine / Series", AMC en Español
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
