@@ -421,7 +421,7 @@ http://190.61.101.11:7050/play/a07t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica",Canal 8 Multimedios HD (Nacional)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 HD [No 24/7](Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 HD (Nacional)
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel HD (Nacional)
@@ -454,14 +454,8 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica",TV Sur Canal 14 HD (Pérez Zeledón)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Costa Rica",Cartago Medios TV HD [No 24/7] (Cartago)
-https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica",Nicoya TV HD (Guanacaste)
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (Zona de los Santos)[No 24/7]
-https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica",Garabito TV HD (Puntarenas)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
@@ -478,9 +472,6 @@ https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="Costa Rica",TicaVisión HD (Alajuela)[Inestable]
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica",Zurquí TV HD (Pococí - Limón)
-https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica",Costa Rica Channel HD (Internacional)
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
@@ -491,11 +482,22 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTVLCOPT:http-referrer=https://teleredtelevision.com/
 https://k20.usastreams.com:8081/telered/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png" group-title="Costa Rica", Super Canal 
+https://video20.klm99.com:3107/live/supercanallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Costa Rica",Cartago Medios TV HD [No 24/7] (Cartago)
+https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (Zona de los Santos)[No 24/7]
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="Costa Rica",CEDROS TV HD [No 24/7]
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png" group-title="Costa Rica", Super Canal 
-https://video20.klm99.com:3107/live/supercanallive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica",Zurquí TV HD [No 24/7](Pococí - Limón)
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+
 
 
 
@@ -746,7 +748,7 @@ http://americatvbc.hopto.org:8080/hls/television/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia", TeveColombia HD [No 24/7] (Nacional)
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia", Telesangil HD (San Gil - Santander)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia", Telesangil HD [No 24/7](San Gil - Santander)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia", Canal Más Televisión [No 24/7] (La Dorada - Caldas)
@@ -905,6 +907,9 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador", RTRTV HD (Guayas)
+https://tv3ecuador.site/hls/stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV HD [No 24/7] (El Oro)
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
@@ -917,14 +922,23 @@ https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Ecuador", El Sol Network TV HD [No 24/7] (Machala)
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador", RTRTV HD (Guayas)
-https://tv3ecuador.site/hls/stream/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV HD [No 24/7](Guayas)
 https://eu1.servers10.com:8081/8108/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Ecuador",Canal Contivision HD [No 24/7]
 https://rudo.video/rudo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Ecuador", Vos y TV (Ecuador) [Not 24/7]
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador" Multicanal [No 24/7](Ecuador - Loja)
+https://streaming.zonaradio.net/live/multicec.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV Riobamba [No 24/7] (Ecuador - Chimborazo)
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+
+
 
 
 
@@ -1377,9 +1391,6 @@ https://no.gendigi.net/origin-proxy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD [Opc.2]
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD
-https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 
@@ -1441,6 +1452,12 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="Paraguay" ,AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD [No 24/7]
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Paraguay", MiTV [No 24/7]
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Co3YrU0.png" group-title="Paraguay" ,UniRadio TV HD [No 24/7]
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
@@ -2238,6 +2255,9 @@ https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPmG00DN/Miami-TV-Fashion.png" group-title="Fashion",MiamiTV Fashion
 https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/X9JsfOvXbgBGiVjXkUPDp35mW42qSRYmjjr6LsQS.png" group-title="Fashion",Plous TV 
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://a.jsrdn.com/hls/22882/chicas-guapas-tv/logo_20250513_211005_70.png", Chicas Guapas TV
 https://chg-chgtv.otteravision.com/chg/chgtv/chgtv.m3u8
@@ -3114,9 +3134,6 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Entretenimiento / Cine / Series",MiTVpy (Paraguay)
 https://edge.enhdtv.com/8070/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Entretenimiento / Cine / Series", MiTV 
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Entretenimiento / Cine / Series", Tele Uno (Costa Rica)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
@@ -3421,16 +3438,6 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Bolivia)
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Entretenimiento / Cine / Series", Vos y TV (Ecuador) [Not 24/7]
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Entretenimiento / Cine / Series", Multicanal [No 24/7](Ecuador - Loja)
-https://streaming.zonaradio.net/live/multicec.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Entretenimiento / Cine / Series", RTV Riobamba [No 24/7] (Ecuador - Chimborazo)
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento / Cine / Series", Visión Dorada TV [No 24/7] (Colombia - La Dorada - Caldas )
 https://movil.ejeserver.com/live/visiondorada.m3u8
@@ -3873,7 +3880,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Informativos", Canal 79 Santa Clara del Mar (Buenos Aires)
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Informativos", Celta TV (Tres Arroyos - Buenos Aires)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Informativos", Celta TV [No 24/7](Tres Arroyos - Buenos Aires)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Informativos", Canal 79 Puan (Buenos Aires)
@@ -4209,7 +4216,7 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Música", Vintage Music (Costa Rica)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Música", VM Latino (Costa Rica)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Música", VM Latino [No 24/7](Costa Rica)
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bdCkrp/voiceover-radio-costa-rica-0-png.png" group-title="Música",Voice Over Television (Costa Rica)
