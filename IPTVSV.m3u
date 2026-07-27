@@ -4199,6 +4199,15 @@ https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="Música", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1635_Salsa_TV.png" group-title="Música", Salsa TV
+https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png" group-title="Música", Latinos TV
+https://v4.tustreaming.cl/latinostv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Música", Mundo de la Música TV
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png" group-title="Música", Vision Musica TV
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
