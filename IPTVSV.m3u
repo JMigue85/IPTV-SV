@@ -4188,7 +4188,7 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/Vorterix.jpg" group-title="Música", Vorterix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.vorterix.com/
-https://g4.mc-slo.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true
+ https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_all.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1632_Urban_TV.png" group-title="Música", Urban TV
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/4.m3u8
