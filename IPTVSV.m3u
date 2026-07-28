@@ -3212,6 +3212,9 @@ https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalLatino.jpg" group-title="Entretenimiento / Cine / Series",Energy TV Latino
 https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/AN24.png" group-title="Música", AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento / Cine / Series", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
@@ -4176,9 +4179,6 @@ https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="Música", Oldies Hits SD (ES) [No 24/7]
 https://video03.logicahost.com.br/oldieshits_esp/oldieshits_esp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/AN24.png" group-title="Música", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/MusicTop.jpg" group-title="Música", MusicTop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
@@ -4209,13 +4209,7 @@ https://streamyes.alsolnet.com/vorterixvillademerlo/live/playlist.m3u8
 https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1632_Urban_TV.png" group-title="Música", Urban TV
-https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1234_Urbano_TV.png" group-title="Música", Urbano TV [No 24/7]
-https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/23.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="Música", Video Tour Channel
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1635_Salsa_TV.png" group-title="Música", Salsa TV
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8
@@ -4234,7 +4228,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999207
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LDtKp86t/951029551eab1d4e6331addcb41c5ba0.png" group-title="Música",Hits Mexicanos (México)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música", Conecta TV Regional (México)
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
@@ -4260,10 +4253,10 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Música", SOY Plancha TV (Costa Rica)
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Música", Urbano TV [No 24/7] (Costa Rica)
+#EXTINF:-1 tvg-logo="https://urbanotvcr.com/new/wp-content/uploads/2025/07/Urbano-TV-calca-negro.png" group-title="Música", Urbano TV [No 24/7] (Costa Rica)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="Música", Video Tour Channel (Costa Rica)
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="Música", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Música", Vintage Music (Costa Rica)
