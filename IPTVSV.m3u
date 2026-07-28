@@ -4191,7 +4191,7 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTVLCOPT:http-referrer=https://www.vorterix.com/
 https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/Vorterix.jpg" group-title="Música", Vorterix SD
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/Vorterix.jpg" group-title="Música", Vorterix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vorterix.com/
