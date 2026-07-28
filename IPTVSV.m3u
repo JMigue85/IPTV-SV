@@ -3212,7 +3212,7 @@ https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalLatino.jpg" group-title="Entretenimiento / Cine / Series",Energy TV Latino
 https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/AN24.png" group-title="Música", AN24
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/AN24.png" group-title="Entretenimiento / Cine / Series", AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento / Cine / Series", Todo Novelas
