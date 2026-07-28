@@ -931,7 +931,7 @@ https://rudo.video/rudo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Ecuador", Vos y TV (Ecuador) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador" Multicanal [No 24/7](Ecuador - Loja)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador", Multicanal [No 24/7](Ecuador - Loja)
 https://streaming.zonaradio.net/live/multicec.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV Riobamba [No 24/7] (Ecuador - Chimborazo)
