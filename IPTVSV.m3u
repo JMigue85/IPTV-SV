@@ -804,6 +804,10 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa/.m3u8
 
@@ -867,9 +871,6 @@ http://205.235.6.29:8000/play/a0zy/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador", Manavisión SD (MPV) (Manabí)
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV HD [No 24/7] (Santo Domingo)
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO HD (Guayas)
 http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 
@@ -891,15 +892,6 @@ https://tvdatta.com:3578/live/antenaunolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Ecuador", Latacunga TV HD (Cotopaxi)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacán Te Veo HD [No 24/7] (Loja)
-https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="Ecuador", Loreto TV HD (Orellana)
-https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador", UNIANDES TV HD [No 24/7] (Tungurahua)
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Ecuador", Sono Onda TV HD (Manabí)
 https://live.obslivestream.com/sonoondatv/index.m3u8
 
@@ -907,8 +899,20 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV HD [No 24/7] (Santo Domingo)
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador", RTRTV HD (Guayas)
 https://tv3ecuador.site/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacán Te Veo HD [No 24/7] (Loja)
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="Ecuador", Loreto TV HD [No 24/7](Orellana)
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador", UNIANDES TV HD [No 24/7] (Tungurahua)
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV HD [No 24/7] (El Oro)
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
@@ -1289,9 +1293,6 @@ https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD (Argentina)[Opc.1]
 http://190.7.19.197:232/play/a059/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD (Argentina)[Opc.2]
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior HD (Argentina)[Opc.2]
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
@@ -1338,11 +1339,11 @@ https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Argentina", Uniteve Villa Maria (Córdoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV (Santa Fe)
-https://edge.enhdtv.com/litustv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza [Geo-Blocked]
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV [No 24/7](Santa Fe)
+https://edge.enhdtv.com/litustv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="Argentina",Telecreativa Lanus [No 24/7]
 https://panel.host-live.com:19360/8012/8012.m3u8
@@ -2143,7 +2144,7 @@ http://181.78.67.171:8000/play/a0z7/index.m3u8
 http://157.100.9.51:8000/play/a24f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Anime",ETC TV (Chile)[Opc.3]
-http://45.186.254.75:8000/play/a0gp/index.m3u8
+http://190.60.59.67:8000/play/a0k5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.1]
 http://181.78.0.156:8000/play/a03j/index.m3u8
@@ -2375,9 +2376,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Cine / Películas", Cine de Terror Español
 https://live20.bozztv.com/giatvplayout7/giatv-211420/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8TkPVFG/west.png" group-title="Cine / Películas",WEST TV
-http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-México-mx.png" group-title="Cine / Películas", MyTime Movie Network (México)(ES)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2749,7 +2747,7 @@ http://38.65.175.87:8000/play/a0cp/index.m3u8u?hls
 http://186.33.61.182:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas Premium",Space HD (Opc.1)
-http://45.5.57.132:8000/play/a04f/index.m3u8
+http://45.228.234.62:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.2)
 http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
@@ -4697,7 +4695,7 @@ http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 http://205.235.6.29:8000/play/a104/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/7a980844-7f0b-48ac-8b4c-101d6382b6ec:CHS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes", Teletrak TV (Chile)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -4783,14 +4781,8 @@ http://38.224.231.47:8000/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 7]
 http://181.78.192.238:8000/play/a2hy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 8]
-http://200.59.191.177:8000/play/a00h/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports 2 (MPV) 
 http://152.231.29.139:8000/play/a0jk/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports+ (MPV) 
-http://190.108.83.69:8000/play/a05w/index.m3u8
 
 
 
