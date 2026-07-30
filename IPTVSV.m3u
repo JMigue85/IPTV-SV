@@ -1159,13 +1159,16 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 http://200.59.191.177:8000/play/a0pv/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega HD (Nacional)[Opc.3]
-http://8.243.126.131:8000/play/a051/index.m3u8?hls
+http://181.78.192.238:8000/play/a10v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red HD (Nacional)[Geo-Blocked]
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red SD (Nacional)[Opc.2]
 http://200.59.191.177:8000/play/a0o4/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red SD (Nacional)[Opc.3]
+http://181.79.86.130:8000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVisión HD (Geo-Blocked)
 http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
@@ -1297,7 +1300,7 @@ http://190.7.19.197:232/play/a059/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)
-http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
+http://181.78.192.238:8000/play/a2az/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.2]
 http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
@@ -4701,7 +4704,7 @@ http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 http://205.235.6.29:8000/play/a104/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
-https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/7a980844-7f0b-48ac-8b4c-101d6382b6ec:CHS/master.m3u8
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes", Teletrak TV (Chile)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -4773,18 +4776,12 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 3]
-http://8.243.126.131:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 4]
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 5]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 4]
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 6]
-http://38.224.231.47:8000/play/a07q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 5]
 http://181.78.192.238:8000/play/a2hy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports 2 (MPV) 
