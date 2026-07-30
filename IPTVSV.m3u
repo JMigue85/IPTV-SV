@@ -4222,6 +4222,12 @@ https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png" group-title="Música", Vision Musica TV
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/458-4585853_htv-logo-hd-png-download.png" group-title="Música", HTV SD
+http://200.59.191.177:8000/play/a00n/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/458-4585853_htv-logo-hd-png-download.png" group-title="Música", EXATV SD
+http://181.119.177.253:8000/play/a0ef/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel (Internacional)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
 
