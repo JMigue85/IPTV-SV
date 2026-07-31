@@ -2283,6 +2283,18 @@ https://lbgo.bozztv.com/ssh101/ssh101/xiomoz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas", Sistema 1 TV
 https://lbgo.bozztv.com/ssh101/ssh101/sistema1tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177" group-title="Cine / Películas", MAXC TV
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209163.png?1785464337" group-title="Cine / Películas", MAX2 TV
+https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208817.png?1785464695" group-title="Cine / Películas", MAXC Family TV
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177" group-title="Cine / Películas", MAXC Comedy TV
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas", Tele Clásicos
 https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8
 
@@ -2424,7 +2436,10 @@ https://edge.essastream.com/telemax/index.m3u8
 https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg" group-title="Cine / Películas", MAXTV Movies [No 24/7]
-https://tvstreaming.albpo.com/memfs/8c402b3e-ebdf-48f0-bcf7-a1da46a828b6.m3u8
+https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg" group-title="Cine / Películas", MAXTV Retro [No 24/7]
+https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8
 
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas", Canal 69 TV [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
@@ -4101,6 +4116,9 @@ https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Infantiles",Monte Grande TV Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209909.png?1785464841" group-title="Cine / Películas", MAXC KIDS TV
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Moni TV HD
