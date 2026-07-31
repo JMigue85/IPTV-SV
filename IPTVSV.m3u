@@ -3212,6 +3212,9 @@ https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latinostvny.com/templates/yootheme/cache/87/Logo%20Latinos%20TV-8742edc6.webp" group-title="Entretenimiento / Cine / Series",Latino TV NY
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Entretenimiento / Cine / Series",Latinos TV (España)
+https://limited43.todostreaming.es/live/simbana-livestream10791.m3u8
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/AN24.png" group-title="Entretenimiento / Cine / Series", AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
