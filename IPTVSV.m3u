@@ -2298,6 +2298,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas", Tele Clásicos
 https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", TeleCine
+https://live20.bozztv.com/akamaissh101/ssh101/cinetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine / Películas", MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
@@ -2479,9 +2482,6 @@ https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Cine / Películas", NEO TV Digital [No 24/7]
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Cine / Películas", TV Sur Canal 9 [No 24/7](Pérez Zeledón)
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Cine / Películas", Marca TV [No 24/7] (Cotopaxi)
 http://200.7.219.221:8088/live/livetv/index.m3u8
@@ -3819,9 +3819,6 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Informativos", Cinevisión Canal 19 (República Dominicana)
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Informativos", TV Sur Pérez Zeledón (San José - Costa Rica)
-https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Informativos", Telesur (Latinoamérica)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
