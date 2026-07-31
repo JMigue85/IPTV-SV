@@ -263,7 +263,7 @@ http://200.35.176.154:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvq.tv/assets/img/logo.png" group-title="Guatemala",Canal TVQ LIVE HD 
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mHBTOx8YSGwDYUNAbTBKUAHaCv?r=0&pid=Api" group-title="Guatemala",Teleflix HD 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mHBTOx8YSGwDYUNAbTBKUAHaCv?r=0&pid=Api" group-title="Guatemala",Teleflix HD [No 24/7]
 http://200.35.176.154:8000/play/a04r/index.m3u8
 
 
@@ -1381,9 +1381,11 @@ https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admi
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD (MPV)[Geo-Blocked]
+#EXTVLCOPT:http-referrer=https://www.gen.com.py/
 https://no.gendigi.net/origin-proxy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD [Opc.2]
+#EXTVLCOPT:http-referrer=https://www.gen.com.py/
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
@@ -4098,9 +4100,6 @@ http://45.167.1.139:8000/play/a03a
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/3yXRbQy.png",Tooncast (Opc.3)
 http://45.167.1.137:8000/play/a03a
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Infantiles",Dreiko TV (Chile)
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Infantiles", Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
