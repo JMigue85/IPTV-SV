@@ -3328,15 +3328,15 @@ https://us.streaminghd.cl/torococotelevision/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento / Cine / Series", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine / Series",Canal 12 Misiones (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine / Series",Canal 12 Misiones HD (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.canal12misiones.com/en-vivo/ver-en-vivo/
-https://g4.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
+https://g2.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine / Series",Canal 12 Misiones (Argentina)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Entretenimiento / Cine / Series",Canal 12 Misiones SD (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.canal12misiones.com/en-vivo/ver-en-vivo/
-https://g2.proy-slo.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
+https://g2.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CjY6k8p/Diseno-sin-titulo(10).png" group-title="Entretenimiento / Cine / Series", MaxiVision TV (Argentina)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
@@ -3674,8 +3674,8 @@ http://181.78.50.91:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Documentales y Cultura",E! Entertainment SD [Opc.2]
 http://181.78.67.171:8000/play/a0y0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Documentales y Cultura",E! Entertainment SD [Opc.3]
-http://181.78.0.156:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Documentales y Cultura",E! Entertainment HD [Opc.3]
+http://38.52.208.106:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentales y Cultura",Animal Planet HD [Opc.1]
 http://181.78.50.91:8000/play/a01v/index.m3u8
