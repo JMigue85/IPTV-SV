@@ -4,6 +4,7 @@
 ![Last Updated](https://img.shields.io/github/last-commit/JMigue85/IPTV-SV)
 ![License](https://img.shields.io/github/license/JMigue85/IPTV-SV)
 ![Total Canales](https://img.shields.io/badge/Canales-1700+-brightgreen)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donar-FF5E5B?logo=ko-fi)](https://ko-fi.com/jmigue85)
 
 Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adicional de toda América Latina y España.
 
@@ -43,7 +44,7 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 | 📰 Informativos | 70+ canales |
 | ⛩️ Anime & Doramas | 35+ canales |
 | 🙏 Religiosos | 60+ canales |
-| 📺 Otros | 250+ canales |
+| 🌐 Otros | 250+ canales |
 
 > **Total: ~1700 canales** 🚀
 
@@ -73,6 +74,21 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 
 ### ⚙️ Ajustes recomendados:
 *   Activa la **Decodificación por Software** en los ajustes de MPV y VLC para una mayor compatibilidad de video.
+
+---
+
+## ☕ Apoya el Proyecto
+Si esta lista te es útil, considera invitarme un café. Tu apoyo ayuda a mantener la lista actualizada.
+
+[![Apóyame en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jmigue85)
+
+## 🙌 Agradecimientos
+
+**Donaciones:**
+- Un agradecimiento especial a [**FREDalz**](https://ko-fi.com/X8J823P1GF), por su apoyo con un par de cafés ☕☕. ¡Gracias por creer en este proyecto!
+
+**Colaboradores:**
+- Gracias a [**TheWAVs**](https://github.com/TheWAVs) y [**Rayder378**](https://github.com/Rayder378) por enviar enlaces nuevos y ayudar a revisar/reportar enlaces caídos. Su ayuda mantiene la lista funcionando mejor para todos. 🙏
 
 ---
 
@@ -107,21 +123,4 @@ Este proyecto (`IPTV-SV`) es un repositorio de código abierto desarrollado excl
 
 ---
 
-## ☕ Apoya el Proyecto
-Si esta lista te es útil, considera invitarme un café. Tu apoyo ayuda a mantener la lista actualizada.
-
-[![Apóyame en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jmigue85)
-
-## 🙌 Agradecimientos
-
-**Donaciones:**
-- Un agradecimiento especial a [**FREDalz**](https://ko-fi.com/X8J823P1GF), por su apoyo con un par de cafés ☕☕. ¡Gracias por creer en este proyecto!
-
-**Colaboradores:**
-- Gracias a [**TheWAVs**](https://github.com/TheWAVs) y [**Rayder378**](https://github.com/Rayder378) por enviar enlaces nuevos y ayudar a revisar/reportar enlaces caídos. Su ayuda mantiene la lista funcionando mejor para todos. 🙏
-
----
-
 **Licencia:** GNU GPL v3.0
-
-
