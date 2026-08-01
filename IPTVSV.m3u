@@ -1517,6 +1517,9 @@ https://cdnfox.hostlagarto.com/bocachicatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",RTVD 4 HD
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telemicro 5 SD
+https://envivo.tvabierta.net/hls/5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://elseis.do/img/logo-header.png" group-title="República Dominicana",Canal 6 El Seis HD
 https://stream.elseis.do/canal6/live_1080.m3u8 
 
@@ -1524,7 +1527,13 @@ https://stream.elseis.do/canal6/live_1080.m3u8
 https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="República Dominicana",Color Vision 9 HD
-https://hls.tvabierta.net/hls/9.m3u8
+https://envivo.tvabierta.net/hls/9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistemas 11 SD
+https://envivo.tvabierta.net/hls/11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistema 11 SD [Opc.2]
+http://186.33.26.18:8000/play/a0t1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",Telecentro 13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1572,11 +1581,8 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/telemicro-en-vivo/
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas HD
-https://ds.tvabierta.net/memfs/fde81577-b1ae-48ab-bac4-4ae5908af483.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistema 11 SD
-http://186.33.26.18:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas SD
+https://envivo.tvabierta.net/hls/10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="República Dominicana",Canal del Sol HD
 https://stream.canaldelsol.com/sol26/master.m3u8
@@ -1589,6 +1595,9 @@ https://cnn.hostlagarto.com/orbittv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9g2kyN0/HM33TVHD.png" group-title="República Dominicana",Canal 33 HD [No 24/7]
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Telemedios 8 [No 24/7]
+https://envivo.tvabierta.net/hls/8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Canal 8 Telenord HD [No 24/7]
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
@@ -2144,7 +2153,7 @@ http://157.100.9.51:8000/play/a24f
 http://190.60.59.67:8000/play/a0k5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.1]
-http://181.78.0.156:8000/play/a03j/index.m3u8
+http://190.61.101.11:7050/play/a091/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.2]
 http://190.61.114.186:8000/play/a01h/index.m3u8
@@ -2301,9 +2310,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas", Tele Clásicos
 https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", TeleCine
-https://live20.bozztv.com/akamaissh101/ssh101/cinetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine / Películas", MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
@@ -2315,9 +2321,6 @@ https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Cine / Películas", GAMTV.cr (Costa Rica)
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine / Películas", TeleCinco Trelew (Chubut / Argentina)
-https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Cine / Películas", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
@@ -2414,6 +2417,9 @@ https://jmp2.uk/stvp-ESBC2700002LO
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="Cine / Películas", Cine Western
 https://jmp2.uk/stvp-ES2300005G7
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", TeleCine [No 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/cinetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png" group-title="Cine / Películas", MCU TV [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 
@@ -2507,6 +2513,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV [No 24/7]
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine / Películas", TeleCinco Trelew [No 24/7](Chubut / Argentina)
+https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine / Películas", MultiVox La India (SUB/IA DUB)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
@@ -4079,7 +4088,7 @@ http://190.238.43.117:9000/play/a0iq/index.m3u8
 http://190.61.114.186:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD (Opc.3)
-http://181.78.0.156:8000/play/a011/index.m3u8
+http://186.148.175.138:8000/play/a08e
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png" group-title="Infantiles", Caillou (ES)
 https://jmp2.uk/stvp-ES4800002OZ
@@ -4861,7 +4870,7 @@ http://138.117.110.151:8000/play/a0fu/index.m3u8
 http://186.148.184.22:8000/play/a0ih/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Win Sports",Win+ HD [Opc.2]
-http://181.225.73.159:8000/play/a0ae/index.m3u8
+http://190.217.66.92:8000/play/a0qs/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Win Sports",Win+ HD [Opc.3]
 http://181.78.21.38:8000/play/a07r/index.m3u8
@@ -5366,9 +5375,6 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony HD
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony HD [Opc.2]
-http://181.78.0.156:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 group-title="Sony Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",Sony HD (Opc.1)
 http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
