@@ -112,6 +112,16 @@ Si esta lista te es útil, considera invitarme un café. Tu apoyo ayuda a manten
 
 [![Apóyame en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jmigue85)
 
+## 🙌 Agradecimientos
+
+**Donaciones:**
+
+- Un agradecimiento especial a **FREDalz**, por su apoyo con un par de cafés ☕☕. ¡Gracias por creer en este proyecto!
+
+**Colaboradores:**
+
+- Gracias a [**TheWAVs**](https://github.com/TheWAVs) y [**Rayder378**](https://github.com/Rayder378) por enviar enlaces nuevos y ayudar a revisar/reportar enlaces caídos. Su ayuda mantiene la lista funcionando mejor para todos. 🙏
+
 ---
 
 **Licencia:** GNU GPL v3.0
