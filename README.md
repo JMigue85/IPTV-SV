@@ -116,7 +116,7 @@ Si esta lista te es útil, considera invitarme un café. Tu apoyo ayuda a manten
 
 **Donaciones:**
 
-- Un agradecimiento especial a **FREDalz**, por su apoyo con un par de cafés ☕☕. ¡Gracias por creer en este proyecto!
+- Un agradecimiento especial a [**FREDalz**](https://ko-fi.com/X8J823P1GF), por su apoyo con un par de cafés ☕☕. ¡Gracias por creer en este proyecto!
 
 **Colaboradores:**
 
