@@ -926,17 +926,12 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva TV HD [No 24/7](Guayas)
 https://eu1.servers10.com:8081/8108/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Ecuador",Canal Contivision HD [No 24/7]
-https://rudo.video/rudo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Ecuador", Vos y TV (Ecuador) [Not 24/7]
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador", Multicanal [No 24/7](Ecuador - Loja)
-https://streaming.zonaradio.net/live/multicec.m3u8
+https://stmv1.novacasthd.in/multicanalec/multicanalec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV Riobamba [No 24/7] (Ecuador - Chimborazo)
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
 
 
 
@@ -1339,6 +1334,9 @@ https://unlimited1-saopaulo.dps.live/televidaar/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7]
 http://190.7.19.197:232/play/a04l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine HD (WEB) [No 24/7]
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV [No 24/7](Santa Fe)
 https://edge.enhdtv.com/litustv/index.m3u8
 
@@ -1527,7 +1525,7 @@ https://envivo.tvabierta.net/hls/005/index.m3u8
 https://stream.elseis.do/canal6/live_1080.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7 SD 
-https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037.m3u8
+https://hls.tvabierta.net/hls/007.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Telemedios 8 SD
 https://envivo.tvabierta.net/hls/008/index.m3u8
@@ -2141,12 +2139,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV [No 24/7](América Latina)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://animezonetv.net/
-http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
