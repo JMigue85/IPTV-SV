@@ -52,17 +52,14 @@ http://186.33.26.18:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante SD
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="El Salvador",Canal 9 [No 24/7]
-http://186.33.26.18:8000/play/a0r5/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7]
-http://186.33.26.18:8000/play/a0r8/index.m3u8
+http://181.78.192.238:8000/play/a2dt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7] (MPV) [Opc.2]
 http://45.167.2.101:8000/play/a0r8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7] (MPV) [Opc.3]
-http://186.33.26.18:8000/play/a0r8/index.m3u8
+http://170.244.209.30:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV HD
 https://stream.giostreaming.app/canal11/canal11.m3u8
@@ -87,26 +84,14 @@ https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD [Opc.2]
-http://186.33.26.18:8000/play/a0rq/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 HD
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 HD [Opc.2]
-http://186.33.26.18:8000/play/a0m4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 SD [No 24/7](MPV)
 http://45.167.2.101:8000/play/a0qo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 SD [No 24/7](MPV)[Opc.2]
-http://186.33.26.18:8000/play/a0qo/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="El Salvador",TVM 25 SD [24/7](MPV)
 http://45.167.2.101:8000/play/a0nx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="El Salvador",TVM 25 SD [24/7](MPV)[Opc.2]
-http://186.33.26.18:8000/play/a0nx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="El Salvador",Canal 26 TV IAP HD
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
@@ -118,7 +103,7 @@ https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yh1lFZH.jpeg" group-title="El Salvador",Morazan TV HD [No 24/7]
-http://186.33.26.18:8000/play/a0o4/index.m3u8
+http://45.167.2.138:8000/play/a0o4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ HD Santa Ana [No 24/7]
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
@@ -252,7 +237,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/61
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/27063/logo_256_1720730035.png" group-title="Guatemala",TV5 HD [No 24/7] (Solola)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
+http://45.5.118.152:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="Guatemala",Canal 10 SD [No 24/7] (Sololá)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
@@ -874,8 +859,11 @@ http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Ecuador", Educa TV HD [No 24/7] (Nacional)
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV HD (Guayas)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV HD (Guayas) [Geo-Blocked]
 http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV HD (Guayas) [Opc.2]
+http://205.235.6.29:8000/play/a0yz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus HD (Guayas)
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
@@ -2155,8 +2143,11 @@ http://181.225.190.242:8000/play/a00d
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.1)
 http://181.224.255.210:8001/play/a0q8/index.m3u8?hls
 
+#EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
+http://181.119.177.253:8000/play/a01i/index.m3u8
+
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim HD (Opc.2)
-http://186.33.26.18:8000/play/a0st/index.m3u8
+http://190.238.43.117:9000/play/a0il/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
@@ -3614,7 +3605,7 @@ http://181.78.21.38:8000/play/a094/index.m3u8
 http://45.186.106.207:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales y Cultura",Discovery Channel HD
-http://186.33.26.18:8000/play/a0ok/index.m3u8
+http://181.119.177.253:8000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales y Cultura",Discovery Channel SD [Opc.2]
 http://45.5.117.99:8000/play/a049/index.m3u8
@@ -3647,7 +3638,7 @@ http://186.33.0.57:8000/play/a05t/index.m3u8
 http://186.33.0.57:8000/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales y Cultura",Discovery World HD [Opc.3]
-http://186.33.26.18:8000/play/a0m3/index.m3u8
+http://181.119.177.253:8000/play/a0cs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales y Cultura",Discovery Theater HD
 http://181.78.67.171:8000/play/a0xy/index.m3u8
@@ -3704,7 +3695,7 @@ http://181.78.67.171:8000/play/a10a/index.m3u8
 http://181.78.50.91:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales y Cultura",History Channel HD
-http://186.33.26.18:8000/play/a0ny/index.m3u8
+http://181.119.177.253:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales y Cultura",History Channel SD [Opc.2]
 http://186.33.47.113:8000/play/a08d/index.m3u8
@@ -3716,7 +3707,7 @@ http://186.33.47.113:8000/play/a08d/index.m3u8
 http://181.225.190.242:8000/play/a023
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales y Cultura",H2 HD [Opc.2]
-http://186.33.26.18:8000/play/a0qf/index.m3u8
+http://45.167.2.101:8000/play/a0qf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales y Cultura",H2 HD [Opc.3]
 http://181.225.190.242:8000/play/a023
@@ -4925,13 +4916,13 @@ http://205.235.6.29:8000/play/a0zv/index.m3u8?hls
 http://181.78.192.238:8000/play/a28q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 (Opc.2)
-http://186.33.26.18:8000/play/a0r3/index.m3u8
+http://181.119.177.253:8000/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD (Opc.2)
-http://186.33.26.18:8000/play/a0q0/index.m3u8
+http://45.167.2.101:8000/play/a0q0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD (Opc.2)
-http://186.148.182.83:8000/play/a08w/index.m3u8
+http://200.59.191.177:8000/play/a0pz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 SD (Opc.2)
 http://181.78.192.238:8000/play/a2b2/index.m3u8
