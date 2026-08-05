@@ -382,6 +382,9 @@ https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica",Canal 1 HD (Nacional)
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica",Canal 2 Repretel HD  (Nacional)[Geo-Blocked]
+https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel HD  (Nacional)[Opc.1]
 https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 
@@ -416,7 +419,7 @@ https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
 http://45.5.117.188:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD (Nacional)[Opc.3]
-http://45.186.105.214:8000/play/a11b/index.m3u8
+http://181.119.177.253:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", TD+ HD (Nacional)
 http://45.186.106.207:8000/play/a06r/index.m3u8
@@ -1290,7 +1293,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)
 #EXTVLCOPT:http-referrer=https://www.c7neuquen.com.ar/
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/c7nq_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina", Canal 7 Santiago del Estero (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
@@ -1309,9 +1312,6 @@ https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Argentina", Uniteve Villa Maria (Córdoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza [Geo-Blocked]
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza HD [Geo-Blocked]
 https://unlimited1-saopaulo.dps.live/televidaar/livestream1/chunks.m3u8
@@ -3173,9 +3173,6 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento / Cine / Series", Like TV Folklore (Perú - Nacional)
 https://play.folkloretv.pe/StreamSD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine / Series",Apanines TV
-https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine / Series", Mi Televisión
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
@@ -3599,7 +3596,7 @@ https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
 http://45.228.234.62:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Documentales y Cultura",A&E HD [Opc.2]
-http://181.78.21.38:8000/play/a094/index.m3u8
+http://186.33.0.57:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Documentales y Cultura",A&E SD [Opc.3]
 http://45.186.106.207:8000/play/a01n/index.m3u8
@@ -4803,13 +4800,11 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 4]
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 5]
-http://181.78.192.238:8000/play/a2hy/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports 2 (MPV) 
 http://152.231.29.139:8000/play/a0jk/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports + (MPV) 
+http://190.238.43.117:9000/play/a09d/index.m3u8
 
 
 
