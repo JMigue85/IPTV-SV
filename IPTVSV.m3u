@@ -282,7 +282,7 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 http://190.61.101.11:7050/play/a06t/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras",Deportes TVC SD (MPV)[Opc.2]
-http://45.186.105.214:8000/play/a16b/index.m3u8
+http://181.78.192.238:8000/play/a2ba/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 HD
 http://186.33.26.18:8000/play/a07n/index.m3u8
@@ -1498,7 +1498,7 @@ https://cdnfox.hostlagarto.com/bocachicatv/index.m3u8
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telemicro 5 SD
-https://envivo.tvabierta.net/hls/005/index.m3u8
+https://ds.tvabierta.net/memfs/efab0d97-68d8-414e-8cdc-23d539b09944.m3u8
 
 #EXTINF:-1 tvg-logo="https://elseis.do/img/logo-header.png" group-title="República Dominicana",Canal 6 El Seis HD
 https://stream.elseis.do/canal6/live_1080.m3u8 
@@ -1507,13 +1507,13 @@ https://stream.elseis.do/canal6/live_1080.m3u8
 https://hls.tvabierta.net/hls/007.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Telemedios 8 SD
-https://envivo.tvabierta.net/hls/008/index.m3u8
+https://ds.tvabierta.net/memfs/c64099fa-9b8a-4544-b0b1-40c7c0af49d2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="República Dominicana",Color Vision 9 HD
-https://envivo.tvabierta.net/hls/009/index.m3u8
+https://ds.tvabierta.net/memfs/2493e646-b24d-489b-8603-0879abb93123.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistemas 11 SD
-https://envivo.tvabierta.net/hls/011/index.m3u8
+https://hls.tvabierta.net/hls/011.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistema 11 SD [Opc.2]
 http://186.33.26.18:8000/play/a0t1/index.m3u8
@@ -1565,7 +1565,7 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas SD
-https://envivo.tvabierta.net/hls/010/index.m3u8
+https://hls.tvabierta.net/hls/010.m3u8
 
 #EXTINF:-1 tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="República Dominicana",Canal del Sol HD
 https://stream.canaldelsol.com/sol26/master.m3u8
@@ -3032,10 +3032,10 @@ http://45.5.117.187:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
 http://138.117.110.151:8000/play/a0e6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
-http://45.186.105.214:8000/play/a0zy/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime [Opc.2]
+http://186.33.26.18:8000/play/a0q4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime [Opc.3]
 http://45.167.1.139:8000/play/a01a
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Citytv_2009.svg/revision/latest?cb=20250922183431" group-title="Entretenimiento Premium", CityTV SD
@@ -3192,7 +3192,7 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PzznMmW1/Miami-TV-Music.png" group-title="Entretenimiento / Cine / Series",Miami TV Music
-https://be7e362af1604c4ba89a6d84cdd90b85.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Music/playlist.m3u8
+https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://energy-tv.com/assets/img/canales/CanalDJ.jpg" group-title="Entretenimiento / Cine / Series",Energy TV DJ
 https://59ec5453559f0.streamlock.net/energytvDJ/smil:WEB/playlist.m3u8
