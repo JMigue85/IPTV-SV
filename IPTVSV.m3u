@@ -3460,6 +3460,9 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Bolivia)
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Bolivia)[Opc.2]
+http://190.60.39.195:8000/play/a01r/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento / Cine / Series", Visión Dorada TV [No 24/7] (Colombia - La Dorada - Caldas )
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
