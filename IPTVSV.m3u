@@ -3402,6 +3402,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/makins/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine / Series", InterConnect 
 https://lbgo.bozztv.com/ssh101/ssh101/conecttv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine / Series", Quielpue OnLine 
+https://183.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entretenimiento / Cine / Series", Nitida TV [No 24/7]
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 
