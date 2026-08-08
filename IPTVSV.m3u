@@ -124,7 +124,7 @@ https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)[Geo-blocked]
 https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)[Opc.2]
@@ -133,7 +133,7 @@ http://200.35.176.154:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD (MPV)[Opc.3]
 http://181.78.50.91:8000/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)[Geo-blocked]
 https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD (MPV)[Opc.2]
@@ -1371,7 +1371,7 @@ https://183.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD [Geo-blocked]
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Geo-Blocked]
