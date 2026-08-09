@@ -1701,9 +1701,6 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="España",Canal Sur Andalucía [Opc.2]
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="España",Canal Sur Más Noticias
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="España",Conciertos Radio 3 (RTVE)[Geo-Blocked]
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 
@@ -2075,9 +2072,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="España",ATV Andorra [No 24/7] (Int. Europa)
 https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="España",DW Alemania (Int. Europa)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TG7tv/picture?width=200&height=200" group-title="España",TG7 [No 24/7](Andalucía)
 https://flu-01.hucame.es/TG7/index.fmp4.m3u8
 
@@ -2363,18 +2357,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine / Películas", Todo Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472b186783f359e.m3u8?X-Plex-Token=ZM-hxdz1yNmR9tokPfyJ
-
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Movies
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Acción
-https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Family
-https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Cine / Películas", Monte Grande TV Comedy
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine / Películas", Cine de Horror
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=b1EtektCx21hyn2XexED
@@ -3217,9 +3199,6 @@ https://tef.servertv.online:3268/live/teflive.m3u8
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png"group-title="Entretenimiento / Cine / Series", Super Canal
 https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miamitv.com/images/webp/68178e23c9d90_Miami%20TV%20Spain.webp" group-title="Entretenimiento / Cine / Series",Miami TV Spain
-https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfyvCH5b/Miami-TV-Latino.png" group-title="Entretenimiento / Cine / Series",Miami TV Latino
 https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
 
@@ -3357,9 +3336,6 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Entretenimiento / Cine / Series", Bravo TV (Buenos Aires / Argentina)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine / Series", Canal 21 HD (Buenos Aires / Argentina)
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDT6CmRVDK9W2rZUHWkHu9wlVZTT61VIlrx0s04qGiKfM=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Unika TV [No 24/7]
 https://183.bozztv.com/giatv/giatv-unykatv/unykatv/playlist.m3u8
 
@@ -3489,9 +3465,6 @@ https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Entretenimiento / Cine / Series",Canal 13 MAX [No 24/7] (Argentina)
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Entretenimiento / Cine / Series", Canal 21 HD [No 24/7] (Buenos Aires / Argentina)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Entretenimiento / Cine / Series", Planeta Radio TV [No 24/7](Ecuador - Guayas)
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 
@@ -3510,14 +3483,8 @@ https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Entretenimiento / Cine / Series", AsiriTV [No 24/7] (Perú - Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Entretenimiento / Cine / Series", CR Televisión Moyobamba [No 24/7] (Perú - San Martín)
-https://live.obslivestream.com/crtvmux/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Entretenimiento / Cine / Series", Canal 8 Catacaos [No 24/7] (Perú - Piura)
 https://live.obslivestream.com/canal8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Entretenimiento / Cine / Series", Nativa [No 24/7] (Perú - Nacional)
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Entretenimiento / Cine / Series", Vía Altomayo [No 24/7] (Perú - Moyobamba - San Martín)
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
@@ -4118,9 +4085,6 @@ https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Infantiles", Tiguerito TV (Rep. Dominicana)
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Infantiles",Monte Grande TV Kids
-https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209909.png?1785464841" group-title="Infantiles", MAXC KIDS TV
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
