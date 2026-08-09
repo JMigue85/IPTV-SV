@@ -692,9 +692,9 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Colombia", Red+ HD (Nacional)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Colombia", Teleantioquia HD (Antioquia / Regional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Colombia", Teleantioquia HD (Antioquia / Regional) [Geo-Blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+https://liveingesta361.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Colombia", Telecaribe HD (Región Caribe / Regional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -1237,14 +1237,11 @@ https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="Chile", Vision Plus TV Melipilla HD (Metropolitana)
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="Chile", Canal 1 Ñuble HD (Chillán - Ñuble)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="Chile", Canal 1 Ñuble HD (Chillán - Ñuble) [No 24/7]
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV [No24/7](Coronel - Biobío)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV [No24/7](Coronel - Biobío)[Opc.2]
-https://andromeda3.trapemn.tv:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile", Pucón TV HD [No 24/7](Pucón - Araucanía)
 https://redirector.dps.live/hls/pucontv/playlist.m3u8
@@ -2315,14 +2312,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Cine / Películas", Imagen Universal (Rep. Dominicana)
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", Crom TV (Rep. Dominicana)
-https://fox.hostlagarto.com:8081/cromtv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Cine / Películas", GAMTV.cr (Costa Rica)
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Cine / Películas", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine / Películas", Cosmos TV (Formosa / Argentina)
 https://canaletaplus.com:3922/hybrid/play.m3u8
@@ -2463,9 +2454,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Cine / Películas", Codigo TV [No 24/7](Rep. Dominicana)
 https://edge.essastream.com/codigotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdGZ8hkg/xtra-tv.png" group-title="Cine / Películas", Xtra TV [No 24/7](Rep. Dominicana)
-https://edge.essastream.com/xtratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas", Cine53 [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
@@ -3094,6 +3082,12 @@ https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvgelive.gq/images/logo-dark.png" group-title="Entretenimiento / Cine / Series", TVGE Internacional (Guinea Ecuatorial)
 https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Crom TV (Rep. Dominicana)
+https://fox.hostlagarto.com:8081/cromtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdGZ8hkg/xtra-tv.png" group-title="Entretenimiento / Cine / Series", Xtra TV [No 24/7](Rep. Dominicana)
+https://edge.essastream.com/xtratv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Entretenimiento / Cine / Series", AMC en Español
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
 
@@ -3142,6 +3136,9 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Entretenimiento / Cine / Series", Canal 34 San Juan (San Juan / Argentina)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Entretenimiento / Cine / Series", Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina)
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine / Series", Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
@@ -3154,7 +3151,7 @@ https://edge.enhdtv.com/8070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Entretenimiento / Cine / Series", Tele Uno (Costa Rica)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Cine / Películas", Sarapiquí TV (Costa Rica - Heredia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Entretenimiento / Cine / Series", Sarapiquí TV (Costa Rica - Heredia)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entretenimiento / Cine / Series", Super Cable (Costa Rica - Grecia)
@@ -4125,7 +4122,7 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="Infantiles",Monte Grande TV Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209909.png?1785464841" group-title="Cine / Películas", MAXC KIDS TV
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209909.png?1785464841" group-title="Infantiles", MAXC KIDS TV
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Moni TV HD
