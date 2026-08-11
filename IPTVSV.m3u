@@ -294,7 +294,7 @@ http://186.33.26.18:8000/play/a07n/index.m3u8
 http://186.33.0.57:8000/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 SD [Opc.3]
-http://186.33.26.18:8000/play/a07n/index.m3u8
+http://181.78.50.91:8000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2320,7 +2320,7 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G6SnV75.png" group-title="Cine / Películas", Canal Teleclasica (México)
-https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ps0Z6mkD/Exito-Multimedia.png" group-title="Cine / Películas", Exito Multimedia (Paraguay)
 https://edge.enhdtv.com/exitotv/index.m3u8
@@ -2433,7 +2433,7 @@ https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkDnDWgM/Soy-TVPlus.png" group-title="Cine / Películas", Canal ZoyTV Plus [No 24/7]
-https://tv.zoymilton.com/ZoyPlus/index.m3u8
+https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas", Pantalla Clásica [No 24/7] (Ecuador)
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
@@ -2500,8 +2500,8 @@ https://jmp2.uk/stvp-ESBC40000248
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal HD (Opc.1)
-http://186.33.26.18:8000/play/a0ln/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal SD (Opc.1)
+http://181.119.177.253:8000/play/a0ej/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal HD (Opc.2)
 http://186.148.196.100:8000/play/a01t
@@ -2513,7 +2513,7 @@ http://186.148.182.83:8000/play/a0br/index.m3u8
 http://186.148.163.17:8000/play/a08j/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV HD[Opc.2]
-http://45.167.2.101:8000/play/a0o3/index.m3u8
+http://141.136.61.2:8000/play/a0c9/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV SD[Opc.3]
 http://186.148.163.17:8000/play/a03b/index.m3u
@@ -2768,7 +2768,7 @@ http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
 http://190.60.39.195:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network SD [Opc.3]
-http://138.117.110.151:8000/play/a09w/index.m3u8
+http://190.238.43.117:9000/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Cine / Películas Premium",Azteca Cinema HD
 http://181.225.190.242:8000/play/a006
@@ -3015,7 +3015,7 @@ http://45.5.117.188:8000/play/a032/index.m3u8
 http://45.5.117.187:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
-http://138.117.110.151:8000/play/a0e6/index.m3u8
+http://45.167.2.101:8000/play/a0q4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime [Opc.2]
 http://186.33.26.18:8000/play/a0q4/index.m3u8
@@ -3362,14 +3362,14 @@ https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine / Series", Bolivisión LPZ (La Paz / Bolivia)
-https://d135ohnuotzzyo.cloudfront.net/index.m3u8
+http://15.204.246.24:8080/BolivisionHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento / Cine / Series", RTP (La Paz / Bolivia)
 https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Entretenimiento / Cine / Series", UMSA TVU Internacional (La Paz)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
-https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+https://live.enhdtv.com:8081/8026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/44.jpg" group-title="Entretenimiento / Cine / Series", Telemix
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
@@ -3638,7 +3638,7 @@ http://179.60.224.196:8000/play/a0ey/index.m3u8
 http://205.235.6.29:8000/play/a0y6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentales y Cultura",Discovery Science SD
-http://138.117.110.151:8000/play/a0dz/index.m3u8
+http://200.59.191.177:8000/play/a0qk/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentales y Cultura",Discovery Science SD [Opc.2]
 http://157.100.9.51:8000/play/a1r0
@@ -4025,7 +4025,7 @@ http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
 http://186.33.26.18:8000/play/a0qv/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.1)
-http://186.148.184.22:8000/play/a0me/index.m3u8
+http://186.33.26.18:8000/play/a0qw/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR HD (Opc.2)
 http://181.78.67.171:8000/play/a0kc/index.m3u8
@@ -4359,7 +4359,7 @@ https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zappit.gr/wp-content/uploads/2024/07/cool98.png" group-title="Música", Cool Summer Channel (España)
-https://d3shyymv55gv9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ztctwwz7lr9nt/csts.m3u8
+https://jmp2.uk/stvp-ES2500001F9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYcLtqT.png" group-title="Música", Molahits TV (España)
 https://ventdelnord.tv:8080/mola/directe.m3u8
@@ -4517,7 +4517,7 @@ http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX ESA HD (Opc.2)
 http://186.33.0.57:8000/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX HN
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX HN [Inestable]
 http://45.186.105.214:8000/play/a10f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX CR
@@ -4821,9 +4821,8 @@ http://181.225.190.242:8000/play/a03r
 #EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports SD [Opc.2]
 http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
 
-#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports SD [Opc.3]
-http://138.117.110.151:8000/play/a0fu/index.m3u8
-
+#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports HD [Opc.3]
+http://181.79.87.130:8000/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Win Sports",Win+ HD
 http://186.148.184.22:8000/play/a0ih/index.m3u8
@@ -5339,7 +5338,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
 
 #EXTINF:-1 group-title="Sony Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",Sony HD (Opc.2)
-http://186.33.26.18:8000/play/a0qc/index.m3u8
+http://181.119.177.253:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 group-title="Sony Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",Sony HD (Opc.3)
 http://181.225.190.242:8000/play/a02u
