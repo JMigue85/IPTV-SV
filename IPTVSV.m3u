@@ -734,8 +734,8 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD  (Cundinamarca)
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD [No 24/7] (Cali / Valle del Cauca)
-https://movil.ejeserver.com/live/calimatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca)
+https://movil.ejeserver.com/live/urestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia", CNC Bugavisión HD (Buga - Valle del Cauca)
 https://movil.ejeserver.com/live/cncbuga.m3u8
@@ -1349,12 +1349,6 @@ https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa) [No 24/7]
 https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina", Telenord Corrientes [No 24/7](Corrientes)
-https://signal.teleon.live/play/e4dSHXCp-brkzy_wSbeDup7RTQkpn6LNMLTBT7KbBKa4GKwYekecvmcq-akLpMtRQnCmHVo6UCMlwU0-I8gVFPhJ8iXpdQ1Bay2A21S7rOnRE5QzxDs.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina", Telenord Corrientes [No 24/7](Corrientes)[Opc.2]
-https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa [No 24/7](Mar de Ajó - Buenos Aires) 
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
@@ -2176,9 +2170,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png" group-title="Anime",Naruto (Peliculas) (América Latina)
 https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.oficinadanet.com.br/media/post/47765/660/pluto-tv-ganha-canal-dedicado-do-anime-captain-tsubasa.jpg" group-title="Anime",Captain Tsubasa (América Latina)
-https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channela-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión (España)[Opc.1]
 https://jmp2.uk/stvp-ES300029LP
 
@@ -2335,7 +2326,7 @@ https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnCr3L6G/25faaf3db0e171a0cee03bbc6d9981b0.png" group-title="Cine / Películas", Cindie Lite
-https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/387.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZ174Wt.png" group-title="Cine / Películas", Zee Mundo
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8
@@ -2395,6 +2386,9 @@ https://jmp2.uk/stvp-ES2300005G7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8TkPVFG/west.png" group-title="Cine / Películas",WEST TV
 http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision [No 24/7]
+https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas", TeleCine TV [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/cinetv/playlist.m3u8
@@ -2525,10 +2519,10 @@ http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 http://186.148.163.17:8000/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD [Opc.3]
-http://186.33.0.57:8000/play/a04h/index.m3u8
+http://181.119.177.253:8000/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD
-http://181.78.50.91:8000/play/a05y/index.m3u8
+http://181.119.177.253:8000/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.2]
 http://45.228.234.62:8000/play/a07c/index.m3u8
@@ -2540,7 +2534,7 @@ http://186.33.0.57:8000/play/a05x/index.m3u8
 http://45.228.234.62:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.2]
-http://181.78.50.91:8000/play/a04j/index.m3u8
+http://200.35.176.154:8000/play/a0rj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.3]
 http://45.5.118.188:8000/play/a04u/index.m3u8
@@ -2567,10 +2561,10 @@ http://186.148.196.100:8000/play/a002
 http://209.87.175.160:5001/play/a0cv/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus HD (Opc.2)
-http://186.33.0.57:8000/play/a00o/index.m3u8
+http://201.174.175.3:8000/play/a0y2/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD (Opc.3)
-http://181.78.50.91:8000/play/a00o/index.m3u8
+http://181.119.177.253:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine / Películas Premium",HBO POP HD
 http://181.78.67.171:8000/play/a111/index.m3u8
@@ -2588,7 +2582,7 @@ http://38.52.208.106:8000/play/a00l/index.m3u8
 http://181.119.177.253:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.3]
-http://181.78.50.91:8000/play/a00n/index.m3u8
+http://186.33.26.18:8000/play/a0lp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
 http://201.174.175.3:8000/play/a0y3/index.m3u8?hls
@@ -2666,7 +2660,7 @@ http://190.60.39.195:8000/play/a00k/index.m3u8
 http://181.225.190.242:8000/play/a00y
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
-http://181.78.50.91:8000/play/a05r/index.m3u8
+http://181.119.177.253:8000/play/a0cp/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.3)
 http://45.167.1.138:8000/play/a06s
@@ -2711,13 +2705,13 @@ http://181.78.8.199:8000/play/a0ab/index.m3u8
 http://45.186.106.207:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.2]
-http://45.5.118.188:8000/play/a00p/index.m3u8
+http://170.244.209.30:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.3]
 http://45.186.106.207:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.1]
-http://45.5.118.188:8000/play/a00q/index.m3u8
+http://170.244.209.30:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.2]
 http://181.78.192.238:8000/play/a2dy/index.m3u8
@@ -2888,6 +2882,12 @@ http://45.228.234.62:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/nsttoEa.png",DHE HD (Opc.3)
 http://179.60.191.102:8000/play/a0jb
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento Premium",Unicable HD
+http://190.61.101.11:7050/play/a04j/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento Premium",Unicable HD [Opc.2]
+http://190.61.101.11:7050/play/a0a6/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro HD
 http://190.61.101.11:7050/play/a04w/index.m3u8?hls
 
@@ -2974,6 +2974,9 @@ http://45.5.118.152:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD[Opc.3]
 http://45.5.116.228:8000/play/a0kq/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas SD
+http://190.61.101.11:7050/play/a07q/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas HD [Opc.1]
 http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
@@ -3088,6 +3091,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento / Cine / Series",Chespirito TV
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine / Series",Apanines TV
+https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx70Dk3Z/ptv.jpg" group-title="Entretenimiento / Cine / Series",PTV OnLine
 https://183.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
@@ -3327,6 +3333,9 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Entretenimiento / Cine / Series", Canal 3 La Pampa (La Pampa / Argentina)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento / Cine / Series", Canal 4 Jujuy [Not 24/7] (Jujuy)
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Entretenimiento / Cine / Series", Canal 7 Jujuy (Jujuy / Argentina)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -3951,6 +3960,9 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Infantiles",Moonbug Kids (Latam) [EN]
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u3yujUd.png" group-title="Infantiles",Semillitas TV
+http://190.61.101.11:7050/play/a08f/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA887/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Infantiles",Canela Kids (Latam)
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8
@@ -5247,34 +5259,31 @@ http://45.5.118.152:8000/play/a0cl/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
-https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV 2
 https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA874/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cinema LT
-https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA880/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Picante
-https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA938/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Romántico
-https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA881/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Acción Mexicana
-https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA948/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Peli Mex
-https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA962/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Seasonal
-https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonal-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Narco Drama
-https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whRrKDwH/0-16x9.png" group-title="Canela TV",Canela Clásicos
-https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist.m3u8
 
 
 
