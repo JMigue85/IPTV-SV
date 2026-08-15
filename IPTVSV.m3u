@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://signal.teleon.live/play/3n5EP3DTIhFPTXfg2-5e8K5ZE4_Myo3yKGbVLCDhkjVclVapaudBTPcZdjf_-_TJssBfiRpV8yAr8fgeH8SYy59hkEXwaMSDxA.m3u8?token=test
+https://signal.teleon.live/play/0ovixKuZzOTGRRxCwa_ABQhsugeFdXFpCvtA19dpt-tZ8gPAxrJ15aqAsAon_EoLkncMzLuBVGLc1uKPcd2BzLq5ophNY_jwgwJvAWal.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccx6tKDg/Canal-2-El-Salvador-2005.png" group-title="El Salvador - TCS",Canal 2 TCS HD [Opc.2]
 http://45.167.2.101:8000/play/a0qp/index.m3u8
@@ -14,7 +14,7 @@ http://186.33.26.18:8000/play/a0qp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleon.tv/
-https://signal.teleon.live/play/W78Qn6iUraWKL6IlN5oZ69c2Xpr8GFdk-lKmXhhfw2Loi5gvlPn-wY43Pn42Z8rejmFSVtCKazIZHC1KJ80WJqhS_k7qYTitQA.m3u8?token=test
+https://signal.teleon.live/play/rP9_TAOqGedqe0XHS4ZRgYZBI9V78fDojJfie5Ph5WuMlJ_XA_TDw0mimsmUS9v6VgHDGGg6UyM5QuQOztz59w6e_WwQI3YXBVVIPh7zAQ.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS HD [Opc.2]
 http://45.5.118.188:8000/play/a00j/index.m3u8
@@ -56,7 +56,7 @@ https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 http://186.33.26.18:8000/play/a0r5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7]
-http://181.78.192.238:8000/play/a2dt/index.m3u8
+https://streamingcws30.com/tves/videotves/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7] (MPV) [Opc.2]
 http://45.167.2.101:8000/play/a0r8/index.m3u8
@@ -759,7 +759,7 @@ http://131.221.41.94/hls/canal2.m3u8
 https://movil.ejeserver.com/live/cncsantander.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia", Telebolívar HD [No 24/7] (Bolívar)
-https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
+https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia", Canal Mundo Visión HD [No 24/7] (Pereira - Risaralda)
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
@@ -1233,7 +1233,7 @@ https://pantera1-100gb-cl-movistar.dps.live/thema/thema.smil/playlist.m3u8
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Chile", Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7]
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+https://panel.tvstream.cl:1936/puekxmssxt/puekxmssxt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Chile", TVO San Vicente HD [No 24/7](San Vicente de Tagua Tagua - O'Higgins)
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
@@ -2144,7 +2144,7 @@ http://190.61.114.186:8000/play/a01h/index.m3u8
 http://181.225.190.242:8000/play/a00d
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.1)
-http://200.35.176.154:8000/play/a04n/index.m3u8
+http://186.33.26.18:8000/play/a0st/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
 http://181.119.177.253:8000/play/a01i/index.m3u8
@@ -3608,13 +3608,13 @@ http://186.148.196.100:8000/play/a00n
 http://186.148.175.138:8000/play/a05m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales y Cultura",Discovery ID HD [Opc.3]
-http://181.78.50.91:8000/play/a05x/index.m3u8
+http://181.119.177.253:8000/play/a0cv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales y Cultura",Discovery Turbo SD
 http://186.148.196.100:8000/play/a00r
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales y Cultura",Discovery Turbo SD [Opc.2]
-http://181.78.50.91:8000/play/a051/index.m3u8
+http://181.119.177.253:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales y Cultura",Discovery Turbo HD [Opc.3]
 http://186.148.175.138:8000/play/a05l
@@ -3656,7 +3656,7 @@ http://157.100.9.51:8000/play/a1r0
 http://186.148.182.83:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Documentales y Cultura",E! Entertainment HD
-http://181.78.50.91:8000/play/a01w/index.m3u8
+http://186.33.0.57:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Documentales y Cultura",E! Entertainment SD [Opc.2]
 http://181.78.67.171:8000/play/a0y0/index.m3u8
@@ -3665,7 +3665,7 @@ http://181.78.67.171:8000/play/a0y0/index.m3u8
 http://38.52.208.106:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentales y Cultura",Animal Planet HD [Opc.1]
-http://181.78.50.91:8000/play/a01v/index.m3u8
+http://45.5.118.152:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentales y Cultura",Animal Planet HD [Opc.2]
 http://45.167.2.101:8000/play/a0nt/index.m3u8
@@ -3674,13 +3674,13 @@ http://45.167.2.101:8000/play/a0nt/index.m3u8
 http://190.61.101.11:7050/play/a07v/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Documentales y Cultura",Film & Arts HD
-http://181.78.50.91:8000/play/a01x/index.m3u8
+http://181.119.177.253:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Documentales y Cultura",Film & Arts SD [Opc.2]
 http://181.78.67.171:8000/play/a10a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Documentales y Cultura",Film & Arts HD [Opc.3]
-http://181.78.50.91:8000/play/a01x/index.m3u8
+http://45.167.2.101:8000/play/a0q9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales y Cultura",History Channel HD
 http://181.119.177.253:8000/play/a020/index.m3u8
@@ -4454,6 +4454,32 @@ https://af7e4455.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaX
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports LaLiga
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports LaLiga [Opc.2]
+http://45.5.118.152:8000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports LaLiga [Opc.3]
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports LaLiga [Opc.4]
+http://186.33.61.182:8000/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports LaLiga [Opc.5]
+http://45.5.118.188:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports LaLiga [Opc.6]
+http://186.33.1.71:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports LaLiga [Opc.7]
+http://186.148.184.22:8000/play/a0i6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sky Sports",Sky Sports F1
+http://157.100.9.51:8000/play/a25q
+
+
+
 
 
 
@@ -4572,7 +4598,7 @@ http://181.78.192.238:8000/play/a2hp/index.m3u8
 #EXTINF:-1 tvg-logo="https://inscripcion.online/eventospro/UserFiles/admin/images/og_logo.jpg" group-title="Deportes",Eventos PRO HD 3  [No 24/7]
 http://181.78.192.238:8000/play/a2hq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7CqliIdMX5KGre69Aa8OYiMd2ujzMGQsRLvwzQnJoWDsK0FnheVAt22rB5go21uMiQ" group-title="Deportes",Mundo Deportivo
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7CqliIdMX5KGre69Aa8OYiMd2ujzMGQsRLvwzQnJoWDsK0FnheVAt22rB5go21uMiQ" group-title="Deportes",Mundo Deportivo [No 24/7]
 http://181.78.50.91:8000/play/a069/index.m3u8
 
 #EXTINF:-1 group-title="Deportes",CazéTV (BR)
@@ -4586,21 +4612,6 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV (Costa Rica)
 http://190.61.101.11:7050/play/a05o/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga
-http://190.61.101.11:7050/play/a04g/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga [Opc.2]
-http://181.78.50.91:8000/play/a06b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga [Opc.3]
-http://181.119.177.253:8000/play/a0dz/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga [Opc.4]
-http://186.33.61.182:8000/play/a05q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports F1
-http://157.100.9.51:8000/play/a25q
 
 #EXTINF:-1 tvg-logo="https://viaxesports.com/wp-content/themes/ViaxExports/img/viaxesports.png" group-title="Deportes",Via X Esports
 http://181.224.255.210:8001/play/a0qs/index.m3u8?hls
@@ -4654,14 +4665,14 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJXyWhyH/bein-logo-af017869.png" group-title="Deportes", beIN Sports (Internacional)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (Internacional)
-https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.1]
+http://186.33.26.18:8000/play/a0r4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)[Opc.1]
-http://190.61.101.11:7050/play/a04m/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.2]
+http://179.60.224.196:8000/play/a0f4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)[Opc.2]
-http://186.33.61.182:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.3]
+http://45.167.2.138:8000/play/a0r4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça [ES]
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
@@ -4698,8 +4709,6 @@ http://205.235.6.29:8000/play/a104/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Premium[Opc.2]
 http://186.148.163.17:8000/play/a0az/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Deportes",Deportes13 (Chile)
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
@@ -5271,11 +5280,10 @@ https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/p
 https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA938/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Cine Romántico
-https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist.m3u8
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA881/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Acción Mexicana
-https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist.m3u8
-
+r
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA948/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela Peli Mex
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist.m3u8
 
