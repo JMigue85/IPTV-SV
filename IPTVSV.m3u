@@ -2803,6 +2803,12 @@ http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM HD (Opc.3)
 http://45.167.1.136:8000/play/a02s
 
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas Premium",FMH Movies
+http://45.186.254.75:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_FAMILY.png" group-title="Cine / Películas Premium",FMH Family
+http://181.78.67.171:8000/play/a11s/index.m3u8
+
 
 
 
@@ -4110,6 +4116,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantiles", Chinola TV (Rep. Dominicana)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_KIDS.png" group-title="Infantiles",FMH Kids
+http://45.186.254.75:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Infantiles", Clan Internacional Americas (ES)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
