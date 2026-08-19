@@ -291,7 +291,10 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 http://190.61.101.11:7050/play/a06t/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras",Deportes TVC SD (MPV)[Opc.2]
-http://181.78.192.238:8000/play/a2ba/index.m3u8
+http://181.119.177.253:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras",Deportes TVC HD (MPV)[Opc.3]
+http://141.136.61.2:8000/play/a119/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 HD
 http://186.33.26.18:8000/play/a07n/index.m3u8
@@ -2873,7 +2876,7 @@ https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/p
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png" group-title="Entretenimiento Premium",Azteca Internacional HD [Opc.3]
-http://209.87.175.160:5001/play/a0mv/index.m3u8?hls
+http://190.61.101.11:7050/play/a076/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca UNO SD (MPV)
 http://209.87.175.160:5001/play/a0cc/index.m3u8?hls
@@ -2897,7 +2900,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 http://190.61.101.11:7050/play/a060/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="Entretenimiento Premium",Caracol Internacional SD (MPV) [Opc.2]
-http://181.78.192.238:8000/play/a2ax/index.m3u8
+http://170.244.209.30:8000/play/a13z/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/nsttoEa.png",DHE HD (Opc.1)
 http://181.224.255.210:8001/play/a0nt/index.m3u8?hls
@@ -2945,7 +2948,7 @@ http://186.148.182.83:8000/play/a0bn/index.m3u8
 http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN HD (Opc.2)
-http://181.78.67.171:8000/play/a0ch/index.m3u8
+http://141.136.61.2:8000/play/a0c7/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN HD (Opc.3)
 http://45.5.116.228:8000/play/a0iy/index.m3u8
@@ -3032,7 +3035,7 @@ http://186.148.182.83:8000/play/a0bo/index.m3u8
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa SD
-http://181.78.67.171:8000/play/a10e/index.m3u8
+http://186.33.0.57:8000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Entretenimiento Premium",Europa Europa HD [Opc.2]
 http://181.119.177.253:8000/play/a0dj/index.m3u8
@@ -4042,7 +4045,7 @@ http://186.33.26.18:8000/play/a0oi/index.m3u8
 http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles",Discovery Kids SD (Opc.3)
-http://181.78.67.171:8000/play/a0ze/index.m3u8
+http://186.148.196.100:8000/play/a00s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network SD
 http://181.224.255.210:8001/play/a0py/index.m3u8?hls
@@ -4065,8 +4068,8 @@ http://186.33.26.18:8000/play/a0qv/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.1)
 http://186.33.26.18:8000/play/a0qw/index.m3u8
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR HD (Opc.2)
-http://181.78.67.171:8000/play/a0kc/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.2)
+http://181.79.87.130:8000/play/a032/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.3)
 http://181.78.73.153:8000/play/a032/index.m3u8
@@ -4887,7 +4890,7 @@ http://181.78.21.38:8000/play/a07r/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Deportes",Movistar Deportes
-http://181.78.192.238:8000/play/a2fy/index.m3u8
+http://170.244.209.30:8000/play/a1i8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Deportes",Movistar Deportes[Opc.2]
 http://190.238.43.117:9000/play/a0e5/index.m3u8
