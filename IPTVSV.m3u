@@ -1387,6 +1387,10 @@ https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD]
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD][Opc.2]
+#EXTVLCOPT:http-referrer=https://www.gen.com.py/
+https://no.gendigi.net/origin-proxy/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 
@@ -1397,13 +1401,13 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvonline.com.py/
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele HD [Geo-Blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele HD
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele HD [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele SD [Opc.2]
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
-https://rds3tf.desdeparaguay.net/latele/latele_int_alta/playlist.m3u8?admin=tvaccion
+https://rds3tf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="Paraguay" ,Monumental TV HD
 #EXTVLCOPT:http-referrer=https://www.monumental.com.py//tv
