@@ -786,7 +786,7 @@ https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 https://live.arnoproducciones.com/hls/norte.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Colombia", Ondambiental TV SD (Bogotá)
-https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+https://stmv3.voxtvhd.com.br/ondastereotv/ondastereotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="Colombia", Suram TV HD (Antioquia)
 https://us.streaminghd.cl/suramtv/index.m3u8
@@ -2166,7 +2166,7 @@ http://181.225.190.242:8000/play/a00d
 http://186.33.26.18:8000/play/a0st/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
-http://181.119.177.253:8000/play/a01i/index.m3u8
+http://45.5.118.188:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.3)
 http://45.228.234.62:8000/play/a02i/index.m3u8
