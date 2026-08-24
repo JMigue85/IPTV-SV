@@ -93,6 +93,9 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 SD [No 24/7](MPV)
 http://45.167.2.101:8000/play/a0qo/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 SD [No 24/7](MPV)[Opc.2]
+https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="El Salvador",TVM 25 SD [24/7](MPV)
 http://45.167.2.101:8000/play/a0nx/index.m3u8
 
@@ -2246,11 +2249,11 @@ https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Doramas / Asia", Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
-#EXTINF:-1 tvg-logo="",CCTV-Storm Music
+#EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",CCTV-Storm Music
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
-#EXTINF:-1 tvg-logo="",B4U Music APAC 
-https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",B4U Music APAC 
+https://cdn-2.pishow.tv/live/415/master.m3u8
 
 
 
@@ -3416,7 +3419,7 @@ https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine / Series", Bolivisión LPZ (La Paz / Bolivia)[Opc.2]
-https://d135ohnuotzzyo.cloudfront.net/_token/v1.1787190153.1eApJ-ZDdcV5m5_ai2kCtFbW476g0TigZaG6HubtFkQ/index.m3u8
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento / Cine / Series", RTP (La Paz / Bolivia)
 https://rtp.noxun.net/hls/stream.m3u8
@@ -3494,7 +3497,7 @@ https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine / Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
-https://d1mws3umreue1g.cloudfront.net/_token/v1.1787190294.5NBNe6E7ov4YP0pXMd84Tqwkclbg5213yJ67yiSubk4/index.m3u8
+https://d1mws3umreue1g.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine / Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -3563,7 +3566,7 @@ https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/
 https://jmp2.uk/stvp-ESBA1400006NP
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Entretenimiento / Cine / Series", CGTN Español (China / Internacional)
-https://espanol-livetx-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mVWydMw.png" group-title="Entretenimiento / Cine / Series",Canal TV Carioca Internacional (Brasil)[SUB]
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
