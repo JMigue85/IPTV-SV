@@ -22,8 +22,17 @@ from verificar_m3u import parsear_m3u, verificar_canal
 # realmente caído. Los marcamos aparte para no generar alarma falsa.
 CODIGOS_POSIBLE_FALSO_POSITIVO = ("HTTP 403", "HTTP 451", "HTTP 401")
 
+# Etiquetas que el propio dueño de la lista ya usa en el nombre del canal
+# para marcar restricción geográfica. Si el canal trae esta etiqueta, se
+# marca como posible falso positivo sin importar qué error haya dado
+# (timeout, conexión rechazada, etc.) -- porque el canal casi seguro sí
+# funciona para usuarios en la región correcta.
+ETIQUETAS_GEO_EN_NOMBRE = ("geo-blocked", "geo blocked", "geobloqueado", "geo-bloqueado", "geo bloqueado")
 
-def es_posible_falso_positivo(error):
+
+def es_posible_falso_positivo(error, nombre=""):
+    if nombre and any(etiqueta in nombre.lower() for etiqueta in ETIQUETAS_GEO_EN_NOMBRE):
+        return True
     if not error:
         return False
     return any(codigo in error for codigo in CODIGOS_POSIBLE_FALSO_POSITIVO)
@@ -80,8 +89,9 @@ def escribir_reporte(resultados_por_archivo, ruta_salida):
         "> - **Restricción de Referer** (el servidor exige que la petición venga de cierto sitio)\n"
         ">\n"
         "> Los errores marcados con 🟡 **posible falso positivo** son los más propensos "
-        "a este tipo de bloqueo (HTTP 401/403/451) y no implican necesariamente que el "
-        "canal esté realmente caído.\n"
+        "a este tipo de bloqueo -- ya sea por el código de respuesta (HTTP 401/403/451) "
+        "o porque el propio canal ya trae la etiqueta **[Geo-Blocked]** en su nombre -- "
+        "y no implican necesariamente que el canal esté realmente caído.\n"
     )
     lineas.append("## Resumen general\n")
     lineas.append("| Total canales | ✅ OK | ❌ Caídos/Error |")
@@ -110,7 +120,7 @@ def escribir_reporte(resultados_por_archivo, ruta_salida):
             lineas.append("| Canal | Motivo |")
             lineas.append("|---|---|")
             for c in lista:
-                marca = "🟡 *(posible falso positivo)*" if es_posible_falso_positivo(c["error"]) else "🔴"
+                marca = "🟡 *(posible falso positivo)*" if es_posible_falso_positivo(c["error"], c["nombre"]) else "🔴"
                 lineas.append(f"| {c['nombre']} | {marca} {c['error']} |")
             lineas.append("\n</details>\n")
 
