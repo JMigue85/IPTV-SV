@@ -15,6 +15,12 @@ Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adic
 *   **Descarga directa:** 
     [Descargar IPTVSV.m3u](https://github.com/JMigue85/IPTV-SV/raw/main/IPTVSV.m3u)
 
+## 📡 Estado de Canales
+
+¿Quieres saber si un canal está caído antes de reportarlo? Consulta el reporte automático (se actualiza 2 veces al día):
+
+👉 **[Ver REPORTE.md](https://github.com/JMigue85/IPTV-SV/blob/main/REPORTE.md)**
+
 ---
 
 ## 📋 Categorías Disponibles
@@ -88,7 +94,7 @@ Si esta lista te es útil, considera invitarme un café. Tu apoyo ayuda a manten
 - Un agradecimiento especial a [**FREDalz**](https://ko-fi.com/X8J823P1GF), por su apoyo con un par de cafés ☕☕. ¡Gracias por creer en este proyecto!
 
 **Colaboradores:**
-- Gracias a [**TheWAVs**](https://github.com/TheWAVs) y [**Rayder378**](https://github.com/Rayder378) por enviar enlaces nuevos y ayudar a revisar/reportar enlaces caídos. Su ayuda mantiene la lista funcionando mejor para todos. 🙏
+- Gracias a [**TheWAVs**](https://github.com/TheWAVs), [**Rayder378**](https://github.com/Rayder378) y [**andresfjz**](https://github.com/andresfjz) por enviar enlaces nuevos y ayudar a revisar/reportar enlaces caídos. Su ayuda mantiene la lista funcionando mejor para todos. 🙏
 
 ---
 
