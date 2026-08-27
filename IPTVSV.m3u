@@ -495,6 +495,8 @@ https://video20.klm99.com:3107/live/supercanallive.m3u8
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png" group-title="Costa Rica", Super Canal [Opc.2]
 https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HSSyRDs/conexion-positiva.png" group-title="Costa Rica", Conexion Positiva Television 
+https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Costa Rica",Cartago Medios TV HD [No 24/7] (Cartago)
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
@@ -896,6 +898,9 @@ http://205.235.6.29:8000/play/a0yz/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus HD (Guayas)
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus HD (Guayas) [Opc.2]
+http://205.235.6.29:8000/play/a0z1/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador", TV Color Canal 36 HD (El Oro)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
@@ -912,11 +917,17 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV HD [No 24/7] (Santo Domingo)
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador", RTRTV HD (Guayas)
 https://tv3ecuador.site/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV HD [No 24/7] (Santo Domingo)
+http://181.119.97.124:8000/play/zaracaytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador", Zaracay TV HD [No 24/7] (Santo Domingo) [Opc.2]
+http://170.244.209.30:8000/play/a1j3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Ecuador", Ondas Quevedeñas TV [No 24/7] (Los Ríos)
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacán Te Veo HD [No 24/7] (Loja)
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
@@ -3461,9 +3472,6 @@ https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Multicanal TV [No 24/7] (Protelco y Telecable)
 https://lbgo.bozztv.com/ssh101/ssh101/multicanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Entretenimiento / Cine / Series", Ondas Quevedeñas TV [No 24/7] (Ecuador - Los Ríos)
-https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Entretenimiento / Cine / Series", Mix Bolivia TV [No 24.7]
 https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
@@ -4699,6 +4707,9 @@ https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC (EE.UU.) [EN]
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC (EE.UU.) [EN]
+http://157.100.9.51:8000/play/a26f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EE.UU.) [EN]
 https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
