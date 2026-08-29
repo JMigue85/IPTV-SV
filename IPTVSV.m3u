@@ -105,6 +105,9 @@ https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 HD [No 24/7]
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",RTV Canal 58 HD [No 24/7]
+https://183.bozztv.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="El Salvador",Sol TV [No 24/7]
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 
@@ -204,6 +207,9 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxcmv9Ds/vision-tv-solola.png" group-title="Guatemala",Visión TV HD (Solola)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Guatemala",TPS (Solola)
+https://live20.bozztv.com/akamaissh101/ssh101/tvpubsolola/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvP9r4WP/totovision.png" group-title="Guatemala",Toto Visión SD [No 24/7]
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
@@ -377,6 +383,12 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="Honduras",Alsacias Televisión HD (Ahuas / Gracias a Dios)
 https://s.emisoras.tv:8081/atv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Television creativa 
+https://live20.bozztv.com/akamaissh101/ssh101/tctvhn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Television creativa 
+https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqwLPag.jpg" group-title="Honduras",La Top 102.9 HD (Tegucigalpa)
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
@@ -1386,7 +1398,7 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas [No 24/7]
-https://183.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+https://183.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
 
 
 
@@ -1469,6 +1481,12 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="Paraguay" ,AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Paraguay" ,Red Informativa
+https://live20.bozztv.com/akamaissh101/ssh101/redinformativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Paraguay" ,RIO TV 
+https://183.bozztv.com/giatv/giatv-fmriotv/fmriotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD [No 24/7]
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
@@ -2266,7 +2284,8 @@ http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",B4U Music APAC 
 https://cdn-2.pishow.tv/live/415/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",Navez Mix TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 
 
 
@@ -3205,6 +3224,9 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine / Series", Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine / Series", RA TV (Bolivia)
+https://live20.bozztv.com/akamaissh101/ssh101/ratvbol/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Entretenimiento / Cine / Series",Coral TV (Bolivia)
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
@@ -3463,6 +3485,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/conecttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine / Series", Quielpue OnLine 
 https://183.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", TAK TV 
+https://live20.bozztv.com/akamaissh101/ssh101/taktvonline/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entretenimiento / Cine / Series", Nitida TV [No 24/7]
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 
@@ -3471,6 +3496,9 @@ https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Entretenimiento / Cine / Series", Canal 9 Resistencia [No 24/7](Chaco / Argentina)
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Buenos Aires TV
+https://live20.bozztv.com/akamaissh101/ssh101/buenostv25/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Max Channel [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/max1channel/playlist.m3u8
@@ -3518,6 +3546,9 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine / Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", SPC Canal 15
+https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine / Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -4034,10 +4065,10 @@ http://190.61.101.11:7050/play/a08f/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="Infantiles", duckTV (ES)
 https://jmp2.uk/stvp-ESBC4700001GR
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80445724b0084751d2edc41bb8eb6a9f.webp" group-title="Infantiles", BABY SHARK TV (EN)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80445724b0084751d2edc41bb8eb6a9f.webp" group-title="Infantiles", BABY SHARK TV (ES)
 https://jmp2.uk/stvp-ES17000065P
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantiles", BABY SHARK TV (ES)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantiles", BABY SHARK TV (EN)
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png" group-title="Infantiles", LooLoo Kids (ES)
