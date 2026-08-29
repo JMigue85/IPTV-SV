@@ -3266,6 +3266,9 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento / Cine / Series", Like TV Folklore (Perú - Nacional)
 https://play.folkloretv.pe/StreamSD/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", TVPE Internacional (Peru)
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine / Series", Mi Televisión
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
@@ -3924,6 +3927,9 @@ https://cdn-ssai.smartbit.co/rpp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos",RPP TV HD (Perú - Nacional)[Opc.2]
 http://181.224.255.210:8001/play/a0r8/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos",TVPE Noticias (Perú)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Informativos", FTV (La Paz - Bolivia)
 https://master.tucableip.com/ftvhd/index.m3u8
 
@@ -4061,6 +4067,9 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u3yujUd.png" group-title="Infantiles",Semillitas TV
 http://190.61.101.11:7050/play/a08f/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Canal IPE (Peru)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="Infantiles", duckTV (ES)
 https://jmp2.uk/stvp-ESBC4700001GR
