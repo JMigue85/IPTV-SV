@@ -4890,9 +4890,6 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 5]
-http://200.59.191.177:8000/play/a00h/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (MPV) [Opc. 6]
 http://157.100.9.51:8000/play/a26e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports 2 (MPV) 
@@ -5437,17 +5434,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
 #EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f7d6948-9545-49e6-b6bd-9da68c67705e/FreeTVBanda_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Banda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
 
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="FreeTV",Mi Raza Canal
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
 
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-300x300-square.png" group-title="FreeTV",Mi Raza Canal Plus
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751333788lNZ0MTgbtO-300x300-square.png" group-title="FreeTV", Mi Miedo Canal
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
-
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/175133329604Wbbc77Ol-300x300-square.png" group-title="FreeTV", Gritos TV
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633b4d4ce63892fb061068&AV_CHANNELID=68633b1e76e6443e4209778e&AV_IS_LIVE=1
 
 
 
