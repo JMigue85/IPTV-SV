@@ -387,7 +387,7 @@ https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Television creativa 
 https://live20.bozztv.com/akamaissh101/ssh101/tctvhn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras",Television creativa 
+#EXTINF:-1 tvg-logo="" group-title="Honduras",Television Comayagua Canal 40
 https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqwLPag.jpg" group-title="Honduras",La Top 102.9 HD (Tegucigalpa)
@@ -1041,7 +1041,7 @@ http://205.235.6.29:8000/play/a10h/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7]
 https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7][Opc.2]
 http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="Perú",Antena 1 HD 
@@ -2760,7 +2760,7 @@ http://45.186.106.207:8000/play/a06v/index.m3u8
 http://170.244.209.30:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.3]
-http://45.186.106.207:8000/play/a06v/index.m3u8
+http://170.244.209.30:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.1]
 http://170.244.209.30:8000/play/a00n/index.m3u8
@@ -3788,7 +3788,7 @@ http://181.119.177.253:8000/play/a020/index.m3u8
 http://186.33.47.113:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales y Cultura",History Channel SD [Opc.3]
-http://186.33.47.113:8000/play/a08d/index.m3u8
+http://201.174.175.3:8000/play/a0ra/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales y Cultura",H2 SD
 http://181.225.190.242:8000/play/a023
@@ -3797,7 +3797,7 @@ http://181.225.190.242:8000/play/a023
 http://45.167.2.101:8000/play/a0qf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales y Cultura",H2 HD [Opc.3]
-http://181.225.190.242:8000/play/a023
+http://186.148.196.100:8000/play/a00x
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales y Cultura",Nat Geo SD
 http://45.5.118.152:8000/play/a01w/index.m3u8
@@ -3806,7 +3806,7 @@ http://45.5.118.152:8000/play/a01w/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales y Cultura",Nat Geo SD [Opc.3]
-http://45.5.118.152:8000/play/a01w/index.m3u8
+http://181.224.200.5:2277/play/5684/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Documentales y Cultura",TLC SD
 http://186.148.196.100:8000/play/a00p
@@ -4642,12 +4642,9 @@ http://45.167.1.136:8000/play/a05u
 http://45.167.1.137:8000/play/a05u
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.10]
-http://186.33.0.57:8000/play/a048/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.11]
 http://181.119.177.253:8000/play/a0cy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.12]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.11]
 http://181.78.192.238:8000/play/a2a5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX ESA HD
@@ -4754,10 +4751,13 @@ https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTBsnpVv/SFT-Combat.png" group-title="Deportes", SFT Combat (BR)
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTBsnpVv/SFT-Combat.png" group-title="Deportes", CombaTV (ES)
+http://181.119.83.235:8000/play/C027/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC (EE.UU.) [EN]
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC (EE.UU.) [EN]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC (EE.UU.) [EN][Opc.2]
 http://157.100.9.51:8000/play/a26f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5ZksTZ/glory-kickboxing-es.png" group-title="Deportes",Glory Kickboxing (EE.UU.) [EN]
