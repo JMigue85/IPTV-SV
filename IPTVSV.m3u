@@ -761,7 +761,7 @@ https://movil.ejeserver.com/live/urestv.m3u8
 https://movil.ejeserver.com/live/cncbuga.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge HD [No 24/7] (Ocaña - Norte de Santander)
-http://americatvbc.hopto.org:8080/hls/television/index.m3u8
+https://americatvbc.hopto.org:8080/hls/television/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia", TeveColombia HD [No 24/7] (Nacional)
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
@@ -1008,23 +1008,23 @@ http://181.224.255.210:8001/play/a0r9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú", Global TV SD (MPV)(Nacional) [Opc.3]
 http://181.224.200.5:2277/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú" ,América Televisión HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú", América Televisión HD
 http://205.235.6.29:8000/play/a0ut/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú" ,América Televisión HD [Opc.2]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú", América Televisión HD [Opc.2]
 http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú" ,América Televisión HD [Opc.3]
-http://190.238.43.117:9000/play/a0dg/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú" ,América Televisión HD [Opc.4]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú", América Televisión HD [Opc.3]
 http://200.59.191.177:8000/play/a0q0/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV HD (Nacional)
 http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV SD(Nacional)[Opc.2]
-http://181.78.192.238:8000/play/a1r5/index.m3u8
+http://45.186.254.75:8000/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV SD(Nacional)[Opc.3]
+http://38.224.231.47:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión HD
 http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
@@ -1103,7 +1103,7 @@ https://stream.ecoperu.tv/ECOTV/index.m3u8
 https://live.obslivestream.com/tvoriente/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5IwS0sJ.png" group-title="Perú", Like TV HD (Nacional)
-https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/playlist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="Perú", BHTV HD (Lima)
 https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -1278,6 +1278,9 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV [No24/7](Coronel - Biobío)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV [No24/7](Coronel - Biobío) [Opc.2]
+https://andromeda3.trapemn.tv:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile", Pucón TV HD [No 24/7](Pucón - Araucanía)
 https://redirector.dps.live/hls/pucontv/playlist.m3u8
@@ -1473,8 +1476,11 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="Paraguay" ,Union TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD
-https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD [Geo-blocked]
+https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD [Opc.2]
+http://181.79.87.130:8000/play/a0c1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="Paraguay" ,AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
@@ -1583,6 +1589,9 @@ http://186.33.26.18:8000/play/a0t1/index.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/telecentro-en-vivo/
 https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvabierta.net/014.png" group-title="República Dominicana", Catorce  TV
+https://stream.haislin.com/14tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Canal Digital 15 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/digital-15-en-vivo/
@@ -1591,8 +1600,8 @@ https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.zHvhObceZlour4e8an2Z2gHaFj?r=0&pid=Api" group-title="República Dominicana",Canal Digital 18 SD
 https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="República Dominicana",Antena 21 HD
-https://d2b5h5wyivfnfl.cloudfront.net/live/5365fbe2-4961-4e49-91bb-167328524f39/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="República Dominicana",Antena 21 SD
+https://hls.tvabierta.net/hls/021.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/94f0e5b759ff96455c37eea1f4c736fd95ea131982c7a772e2ee02b73083ed52.png" group-title="República Dominicana",RNN 27 HD
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
@@ -4025,10 +4034,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
-https://signal.teleon.live/play/bC2WgQVzHlF-JVEm_8KOFWfQmrCFjGo8M_iTYywTkfpaEJ0xdI2l5kN0C4ctxBFBsnmabeLPHCgkbcq0PxbdOYlsbrcITMMQMqm42rrbnnQ09WMAOw9EnOLPGqkKjKwVRg.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Informativos", Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)[Opc.2]
-http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+https://signal.teleon.live/play/8GxSpgH4ZmGhHm5KtRaCT5xGUuc3leeyAAQN2LY945nSSRSGbXfHrxylkbU97jCTUHhtQTPevPXvM-xREasgYRvuBPHRhCvIyYlHb1Ykk0z3-K1oXlir4mE97qcweVEAHg.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Informativos", TV BRICS (Rusia / Internacional)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
@@ -4162,7 +4168,7 @@ http://181.225.190.242:8000/play/a01e
 http://45.186.254.75:8000/play/a0ck/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD
-http://190.238.43.117:9000/play/a0iq/index.m3u8
+http://181.225.190.242:8000/play/a01h
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD (Opc.2)
 http://190.61.114.186:8000/play/a03u/index.m3u8
@@ -4608,10 +4614,10 @@ https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee9
 #EXTINF:-1 group-title="Tigo Sports / Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports HD BO [Opc.1]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports HD BO [Inestable]
 http://181.78.192.238:8000/play/a2ht/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports + HD PY [Opc.1]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports + HD PY [Inestable]
 http://45.170.130.224:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX 
@@ -4644,9 +4650,6 @@ http://45.167.1.137:8000/play/a05u
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.10]
 http://181.119.177.253:8000/play/a0cy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.11]
-http://181.78.192.238:8000/play/a2a5/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX ESA HD
 http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
 
@@ -4656,7 +4659,7 @@ http://186.33.0.57:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX HN [Inestable]
 http://45.186.105.214:8000/play/a10f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX CR 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX CR [Inestable]
 http://181.78.192.238:8000/play/a2hg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX  GUA
@@ -4668,7 +4671,7 @@ http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX NIC 
 http://190.61.101.11:7050/play/a0af/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX NIC [Opc.2]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX NIC [Inestable]
 http://181.78.192.238:8000/play/a2hu/index.m3u8
 
 
@@ -4974,7 +4977,7 @@ http://181.78.21.38:8000/play/a07r/index.m3u8
 http://170.244.209.30:8000/play/a1i8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Deportes",Movistar Deportes[Opc.2]
-http://190.238.43.117:9000/play/a0e5/index.m3u8
+http://157.100.9.51:8000/play/a22s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Deportes",Movistar Deportes[Opc.3]
 http://205.235.6.29:8000/play/a0zd/index.m3u8?hls
