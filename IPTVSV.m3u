@@ -458,8 +458,11 @@ http://45.186.106.207:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", TD+ 2 HD (Nacional)
 http://45.186.106.207:8000/play/a06s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCanal
 http://190.61.101.11:7050/play/a09p/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCanal[Opc.2]
+http://38.65.175.87:8000/play/a0lo/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! HD (Nacional)
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
@@ -750,6 +753,9 @@ https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional)
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.2]
+http://190.217.66.92:8000/play/a0el/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD  (Cundinamarca)
 https://movil.ejeserver.com/live/canal8tv.m3u8
@@ -1059,6 +1065,9 @@ http://181.224.255.210:8001/play/a0sn/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Perú", ATV + HD (Arequipa / Nacional) [Opc.1]
 http://186.148.196.100:8000/play/a028
 
+#EXTINF:-1 tvg-logo="https://telelima.pe/img/logo.png" group-title="Perú",Tele Lima
+http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Perú",Mega TV HD (Arequipa)
 https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
 
@@ -1322,7 +1331,7 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)
-http://45.170.130.224:8000/play/a03n/index.m3u8
+http://186.148.163.17:8000/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.2]
 http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
@@ -1339,9 +1348,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina", Argentinisima Satelital SD (Nacional)
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)[Geo-Blocked]
 #EXTVLCOPT:http-referrer=https://www.c7neuquen.com.ar/
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/c7nq_720p.m3u8
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina", Canal 7 Santiago del Estero (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
@@ -1369,6 +1378,9 @@ https://unlimited1-saopaulo.dps.live/televidaar/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza SD [Geo-Blocked]
 https://unlimited1-saopaulo.dps.live/televidaar/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LAMIL35
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7]
 http://190.7.19.197:232/play/a04l/index.m3u8
@@ -2154,8 +2166,11 @@ https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
 https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV (Honduras)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209474.png?1788226208" group-title="Anime",Delmi TV [V2]
+https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
@@ -2169,6 +2184,9 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired Anime (América Latina)
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://neotch.com/wp-content/uploads/2019/11/animash-instagram-e1756949508579-720x720.png" group-title="Anime",Animash
+http://181.78.121.15:8000/play/a00h/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime (América Latina)
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
@@ -2176,11 +2194,18 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal
+http://146.19.49.197:81/live/loco_hi/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
+https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Anime",ETC TV (Chile)
 http://200.59.191.177:8000/play/a00w/index.m3u8?hls
@@ -2574,7 +2599,7 @@ http://200.35.176.154:8000/play/a040/index.m3u8
 http://186.148.163.17:8000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
-http://190.61.101.11:7050/play/a06o/index.m3u8?hls
+http://181.119.177.253:8000/play/a0d5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere SD [Opc.2]
 http://186.148.163.17:8000/play/a048/index.m3u8
@@ -2642,8 +2667,8 @@ http://38.52.208.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
 http://181.119.177.253:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.3]
-http://186.33.26.18:8000/play/a0lp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 SD [Opc.3]
+http://38.65.175.87:8000/play/a0ct/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
 http://201.174.175.3:8000/play/a0y3/index.m3u8?hls
@@ -2715,7 +2740,7 @@ http://181.225.190.242:8000/play/a00w
 http://181.78.8.199:8000/play/a09p/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.3)
-http://190.60.39.195:8000/play/a00k/index.m3u8
+http://190.238.43.117:9000/play/a0he/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.1)
 http://181.225.190.242:8000/play/a00y
@@ -2736,7 +2761,7 @@ http://190.60.39.195:8000/play/a00l/index.m3u8
 http://181.78.8.199:8000/play/a09n/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.1)
-http://45.167.2.138:8000/play/a0rp/index.m3u8
+http://186.33.26.18:8000/play/a0rp/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.2)
 http://45.5.118.188:8000/play/a05k/index.m3u8
@@ -2820,7 +2845,7 @@ http://45.5.117.188:8000/play/a06d/index.m3u8
 http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network HD [Opc.2]
-http://190.60.39.195:8000/play/a00w/index.m3u8
+http://190.108.83.69:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network SD [Opc.3]
 http://170.244.209.30:8000/play/a15y/index.m3u8
@@ -2841,7 +2866,7 @@ http://45.167.2.101:8000/play/a0ru/index.m3u8
 http://205.235.6.29:8000/play/a0z7/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película HD (Opc.3)
-http://190.60.39.195:8000/play/a0ue/index.m3u8
+http://45.5.118.152:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO
 http://190.61.101.11:7050/play/a08x/index.m3u8?hls
@@ -2869,6 +2894,9 @@ http://186.148.196.100:8000/play/a01z
 
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_FAMILY.png" group-title="Cine / Películas Premium",FMH Family [Opc.2]
 http://45.186.254.75:8000/play/a07l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="Cine / Películas Premium",Panico TV 
+http://181.78.8.199:8000/play/a0bt/index.m3u8
 
 
 
@@ -3278,6 +3306,12 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine / Series", Mi Televisión
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", LA TELE HD
+http://190.108.83.69:8000/play/a0cr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", LA TELE HD [Opc.2]
+http://186.148.196.100:8000/play/a022
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Entretenimiento / Cine / Series", Telemar (Ecuador - Esmeraldas)
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 
@@ -3331,6 +3365,9 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Entretenimiento / Cine / Series",Planet 100.9 FM (Panamá)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/647WCF8.png" group-title="Entretenimiento / Cine / Series",Hispania TV  (Panamá)
+http://181.78.121.15:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Entretenimiento / Cine / Series", Canal Trece (Andina y Amazonía / Colombia )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -5442,6 +5479,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
 
 #EXTINF:-1 group-title="FreeTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f7d6948-9545-49e6-b6bd-9da68c67705e/FreeTVBanda_cover_1920x1080_-_Ralph_Campillo.jpg", FreeTV Banda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="FreeTV",Mi Raza Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-300x300-square.png" group-title="FreeTV",Mi Raza Canal Plus
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751333788lNZ0MTgbtO-300x300-square.png" group-title="FreeTV", Mi Miedo Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
+
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/175133329604Wbbc77Ol-300x300-square.png" group-title="FreeTV", Gritos TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633b4d4ce63892fb061068&AV_CHANNELID=68633b1e76e6443e4209778e&AV_IS_LIVE=1
+
 
 
 
