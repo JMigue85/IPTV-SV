@@ -2237,6 +2237,9 @@ http://45.228.234.62:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
 
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210686.jpg?1788308619" group-title="Anime",Macross TV 
+https://live20.bozztv.com/giatvplayout7/giatv-210686/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
@@ -4239,6 +4242,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico [Opc.2]
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",Magic Kids [No 24/7]
 https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
