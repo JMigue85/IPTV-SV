@@ -2169,9 +2169,6 @@ https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209474.png?1788226208" group-title="Anime",Delmi TV [V2]
-https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 
