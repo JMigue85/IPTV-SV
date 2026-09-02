@@ -2506,6 +2506,9 @@ https://edge.essastream.com/telemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies [No 24/7]
 https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies SD [No 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg" group-title="Cine / Películas", MAXTV Movies [No 24/7]
 https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
 
