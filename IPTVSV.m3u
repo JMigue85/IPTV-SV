@@ -269,6 +269,9 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mHBTOx8YSGwDYUNAbTBKUAHaCv?r=0&pid=Api" group-title="Guatemala",Teleflix HD [No 24/7]
 http://200.35.176.154:8000/play/a04r/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212071.jpg?1788401700" group-title="Guatemala",World TV [No 24/7]
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+
 
 
 
@@ -3445,6 +3448,9 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento / Cine / Series",WTV Canal 20 (Nicaragua)[Opc.2]
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212021.jpg?1788401363" group-title="Entretenimiento / Cine / Series", Pixel Channel (Nicaragua)
+https://183.bozztv.com/giatv/giatv-pixelchanneltv/pixelchanneltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento / Cine / Series", Telemax (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
