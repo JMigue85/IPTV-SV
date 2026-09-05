@@ -2202,8 +2202,11 @@ http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV (Chile)
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV SD (Chile)
+https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
@@ -2317,7 +2320,7 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",B4U Music APAC 
-https://cdn-2.pishow.tv/live/415/master.m3u8
+http://66.102.126.10:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",Navez Mix TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
@@ -2621,7 +2624,7 @@ http://170.244.209.30:8000/play/a04c/index.m3u8
 http://45.228.234.62:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.3]
-http://186.33.0.57:8000/play/a05x/index.m3u8
+http://186.33.61.182:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD
 http://45.228.234.62:8000/play/a05v/index.m3u8
@@ -2660,7 +2663,7 @@ http://201.174.175.3:8000/play/a0y2/index.m3u8?hls
 http://181.119.177.253:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine / Películas Premium",HBO POP HD
-http://190.217.66.92:8000/play/a0pz/index.m3u8?hls
+http://190.108.83.69:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO POP HD (Opc.2)
 http://200.59.191.177:8000/play/a0qv/index.m3u8?hls
@@ -2747,7 +2750,7 @@ http://181.225.190.242:8000/play/a00w
 http://181.78.8.199:8000/play/a09p/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.3)
-http://190.238.43.117:9000/play/a0he/index.m3u8
+http://181.79.90.38:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.1)
 http://181.225.190.242:8000/play/a00y
@@ -2762,7 +2765,7 @@ http://45.167.1.138:8000/play/a06s
 http://181.225.190.242:8000/play/a00x
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.2)
-http://190.60.39.195:8000/play/a00l/index.m3u8
+http://190.60.47.182:8000/play/a0bv/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.3)
 http://181.78.8.199:8000/play/a09n/index.m3u8
@@ -4843,8 +4846,14 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes", Real Madrid TV (España)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 
+http://38.224.175.2:8000/play/a07s/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX
-http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+http://186.148.196.100:8000/play/a030
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXtjFtd.png" group-title="Deportes",BUNDES LIGA
+http://186.33.1.71:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)[Opc.1]
 http://181.119.185.32:8000/play/a002/index.m3u8?hls
