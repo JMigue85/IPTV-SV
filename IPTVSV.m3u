@@ -1724,7 +1724,7 @@ http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bemad.es/endirecto/
-https://livek.mediaset.es/orilinear02/live/linear02/main/main.isml/web.m3u8?acl=/*~hmac=a241c046c1755f6c086516debbefac8214a0dd9701d672e4cecf77fbaf57414c
+https://livek.mediaset.es/orilinear02/live/linear02/main/main.isml/web.m3u8?
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="España",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
