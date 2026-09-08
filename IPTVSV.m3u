@@ -2202,10 +2202,10 @@ http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV HD (Chile)
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zioon TV SD (Chile)
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV SD (Chile)
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
@@ -2320,7 +2320,7 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",B4U Music APAC 
-http://66.102.126.10:8000/play/a01e/index.m3u8
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",Navez Mix TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
