@@ -2214,6 +2214,12 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV SD (Chile)
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208388.png?1788920338" group-title="Anime",Fun TV 
+https://183.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208867.png?1788920500" group-title="Anime",Fun TV Este
+https://183.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
 
@@ -2246,6 +2252,9 @@ http://45.228.234.62:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209148.png?1788920583" group-title="Anime",Cartoon Clasico 
+https://183.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210686.jpg?1788308619" group-title="Anime",Macross TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210686/playlist.m3u8
@@ -3488,6 +3497,9 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Entretenimiento / Cine / Series", Canal 3 La Pampa (La Pampa / Argentina)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208214.png?1788919862" group-title="Entretenimiento / Cine / Series", Casa Grande TV
+https://183.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento / Cine / Series", Canal 4 Jujuy [Not 24/7] (Jujuy)
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
