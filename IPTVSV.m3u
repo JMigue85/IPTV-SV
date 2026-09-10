@@ -517,9 +517,6 @@ https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HSSyRDs/conexion-positiva.png" group-title="Costa Rica", Conexion Positiva Television 
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Costa Rica",Cartago Medios TV HD [No 24/7] (Cartago)
-https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (Zona de los Santos)[No 24/7]
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
@@ -838,9 +835,6 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa (Nacional)[Opc.2]
-http://205.235.6.29:8000/play/a0zw/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa Guayaquil [No 24/7] (Guayas)
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
@@ -1353,7 +1347,7 @@ http://186.148.163.17:8000/play/a09f/index.m3u8
 http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.3]
-http://181.119.108.43:9001/play/a040/index.m3u8
+http://157.100.9.51:8000/play/a1r5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV HD (Buenos Aires) No 24/7]
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
@@ -2549,9 +2543,6 @@ https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas", Canal 69 TV [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MkDnDWgM/Soy-TVPlus.png" group-title="Cine / Películas", Canal ZoyTV Plus [No 24/7]
-https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas", Pantalla Clásica [No 24/7] (Ecuador)
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
@@ -2590,10 +2581,10 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+https://stream-retroxtv.site/live/ofertasplustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2N0Gn7b/retroxplus.png" group-title="Cine / Películas", RETROX PLUS [No 24/7]
-https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/liveretroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV [No 24/7]
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
@@ -2777,7 +2768,7 @@ http://181.225.190.242:8000/play/a00w
 http://181.78.8.199:8000/play/a09p/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.3)
-http://181.79.90.38:8000/play/a05k/index.m3u8
+http://190.60.47.182:8000/play/a0bw/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.1)
 http://181.225.190.242:8000/play/a00y
@@ -3328,6 +3319,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/americantv006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento / Cine / Series", F10 HD (El Alto / La Paz / Bolivia)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Cine / Películas", GigaVision (La Paz) [No 24/7]
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento / Cine / Series", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 
@@ -3635,6 +3629,9 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine / Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Cine / Películas", GigaVision (Santa Cruz) [No 24/7]
+https://tv.bitstreaming.net:3348/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", SPC Canal 15
 https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
