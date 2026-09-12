@@ -1337,7 +1337,7 @@ https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD (Argentina)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior HD (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior HD [No 24/7] (Argentina)
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)
@@ -1347,7 +1347,7 @@ http://186.148.163.17:8000/play/a09f/index.m3u8
 http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.3]
-http://157.100.9.51:8000/play/a1r5
+http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV HD (Buenos Aires) No 24/7]
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
@@ -2248,7 +2248,7 @@ http://190.61.114.186:8000/play/a01h/index.m3u8
 http://181.225.190.242:8000/play/a00d
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.1)
-http://186.33.26.18:8000/play/a0st/index.m3u8
+http://186.33.1.71:8000/play/a0g4/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
 http://45.5.118.188:8000/play/a01e/index.m3u8
@@ -2276,6 +2276,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png" group-title="Anime",Naruto (Peliculas) (América Latina)
 https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/212089.jpg?1789175719" group-title="Anime",Death Note - Elfen Lied
+https://live20.bozztv.com/giatvplayout7/giatv-212089/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión (España)[Opc.1]
 https://jmp2.uk/stvp-ES300029LP
