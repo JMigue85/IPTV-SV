@@ -207,13 +207,13 @@ https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxcmv9Ds/vision-tv-solola.png" group-title="Guatemala",Visión TV HD (Solola)
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Guatemala",TPS (Solola)
 https://live20.bozztv.com/akamaissh101/ssh101/tvpubsolola/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvP9r4WP/totovision.png" group-title="Guatemala",Toto Visión SD [No 24/7]
-https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/totovisiongt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHpRt6z8/Diseno-sin-titulo.png" group-title="Guatemala",TV Florencia HD (Chimaltenango)
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
@@ -228,7 +228,7 @@ https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g23Ls8v2/Diseno-sin-titulo(3).png" group-title="Guatemala", GTV HD [No 24/7] (Guatemala)
-https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+https://srt.servilive.com/live/gtv-63wlp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala", Canal 13 HD [No 24/7](Esquipulas)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
@@ -245,11 +245,11 @@ https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBgjytr2/Canal-Verapaz-TV-en-vivo.png" group-title="Guatemala", Verapaz TV HD [No 24/7] (Inestable)
 https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS HD [No 24/7] (Solola)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Guatemala",TVS Retro TV (Solola)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png" group-title="Guatemala",Canal 26 Cono Sur TV HD [No 24/](Jut)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/61
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JsnWj8k/Diseno-sin-titulo(5).png" group-title="Guatemala",Canal 6 SD [No 24/7](Panajachel)
 #EXTVLCOPT:http-referrer=https://www.panadish.com/canal6.html
@@ -873,7 +873,7 @@ http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
 http://181.119.185.32:8000/play/a005/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV HD (Manabí)
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+http://45.224.97.181:9999/Oromar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador", Oromar TV SD  (Manabí)[Opc.2]
 http://205.235.6.29:8000/play/a0z6/index.m3u8?hls
@@ -899,13 +899,25 @@ http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO HD (Guayas) [Opc.2]
 http://181.119.97.124:8000/play/vitotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO HD (Guayas) [Opc.2]
+http://205.235.6.29:8000/play/a0z2/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Ecuador", Majestad Televisión (Santo Domingo)
+https://revo2.discovr.now/majestadtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Ecuador", Educa TV HD [No 24/7] (Nacional)
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV HD (Guayas) [Geo-Blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kchtv.com/
 http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV HD (Guayas) [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV SD (Guayas) [Opc.2]
+http://170.244.209.30:8000/play/a1j4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="Ecuador", KCHTV HD (Guayas) [Opc.3]
 http://205.235.6.29:8000/play/a0yz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus HD (Guayas)
@@ -913,6 +925,8 @@ http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador", Telepremier Plus HD (Guayas) [Opc.2]
 http://205.235.6.29:8000/play/a0z1/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador", TV Color Canal 36 HD (El Oro)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
@@ -3029,7 +3043,10 @@ http://179.60.191.102:8000/play/a0jb
 http://190.61.101.11:7050/play/a04j/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento Premium",Unicable HD [Opc.2]
-http://190.61.101.11:7050/play/a0a6/index.m3u8?hls
+http://186.33.61.182:8000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento Premium",Unicable HD [Opc.3]
+http://186.33.1.71:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Entretenimiento Premium",Canal Claro HD
 http://190.61.101.11:7050/play/a04w/index.m3u8?hls
@@ -3223,6 +3240,9 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento / Cine / Series", VE Plus (Venezuela)
 https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpgg" group-title="Entretenimiento / Cine / Series", Mas Talk (Venezuela)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvgelive.gq/images/logo-dark.png" group-title="Entretenimiento / Cine / Series", TVGE Internacional (Guinea Ecuatorial)
 https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
 
@@ -3261,9 +3281,6 @@ https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento / Cine / Series", Boreal (Internacional)
 https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Entretenimiento / Cine / Series", Majestad Televisión (Ecuador - Santo Domingo)
-https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Entretenimiento / Cine / Series", Red TVE Ventanas (Ecuador - Los Ríos)
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
@@ -3333,9 +3350,6 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="Entretenimiento / Cine / Series", Like TV Folklore (Perú - Nacional)
 https://play.folkloretv.pe/StreamSD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", TVPE Internacional (Peru)
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logo_100_2024.png" group-title="Entretenimiento / Cine / Series", Mi Televisión
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
@@ -3989,7 +4003,10 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://streamwipr.pr/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="Informativos", CERTV Canal 4 [No 24/7] (República Dominicana)
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="Informativos", CERTV Canal 4 [No 24/7] (República Dominicana) [Opc.2]
+http://170.244.209.30:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Informativos", Cinevisión Canal 19 (República Dominicana)
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
@@ -4152,7 +4169,10 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 http://190.61.101.11:7050/play/a08f/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Canal IPE (Peru)
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.irtpplay.gob.pe/canalipe/envivo
+https://cdnhd.iblups.net/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="Infantiles", duckTV (ES)
 https://jmp2.uk/stvp-ESBC4700001GR
@@ -4877,10 +4897,22 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 
-http://38.224.175.2:8000/play/a07s/index.m3u8
+http://38.224.48.4:8000/play/a0y4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 [Opc.2]
+http://181.224.255.210:8001/play/a0sb/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 [Opc.3]
+http://45.5.57.132:8000/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX
 http://186.148.196.100:8000/play/a030
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX [Opc.2]
+http://190.60.59.60:8000/play/a0sv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX [Opc.2]
+http://38.224.48.4:8000/play/a0x2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXtjFtd.png" group-title="Deportes",BUNDES LIGA
 http://186.33.1.71:8000/play/a045/index.m3u8
