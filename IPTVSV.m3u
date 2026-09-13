@@ -457,7 +457,7 @@ https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
 http://45.5.117.188:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD (Nacional)[Opc.3]
-http://181.119.177.253:8000/play/a035/index.m3u8
+http://190.61.101.11:7050/play/a07n/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", TD+ HD (Nacional)
 http://45.186.106.207:8000/play/a06r/index.m3u8
@@ -699,8 +699,8 @@ http://152.231.29.139:8000/play/a0jw/index.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD [Opc.1]
 http://181.225.190.242:8000/play/a00p
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD [Opc.2]
-http://200.59.191.177:8000/play/a001/index.m3u8?hls
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD [Opc.2]
+http://181.79.87.130:8000/play/a0es/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD [Opc.3]
 http://181.79.87.130:8000/play/a07t/index.m3u8
@@ -711,7 +711,7 @@ http://152.231.29.139:8000/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Caracol2 HD [Opc.2]
 http://181.78.8.199:8000/play/a0hw/index.m3u8
 
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Caracol2 SD [Opc.2]
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Caracol2 SD [Opc.3]
 http://190.60.48.149:8000/play/CARACOL_HD_2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia", Señal Colombia [No 24/7] (Nacional) [Geo-Blocked]
@@ -3806,8 +3806,8 @@ http://186.33.26.18:8000/play/a0nz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Documentales y Cultura",A&E SD [Opc.3]
 http://45.186.106.207:8000/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales y Cultura",Discovery Channel HD
-http://181.119.177.253:8000/play/a0cr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales y Cultura",Discovery Channel SD
+http://181.78.211.244:8000/play/a08i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales y Cultura",Discovery Channel SD [Opc.2]
 http://45.5.117.99:8000/play/a049/index.m3u8
@@ -3822,13 +3822,13 @@ http://186.148.196.100:8000/play/a00n
 http://186.148.175.138:8000/play/a05m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales y Cultura",Discovery ID HD [Opc.3]
-http://181.119.177.253:8000/play/a0cv/index.m3u8
+http://181.78.197.59:8000/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales y Cultura",Discovery Turbo SD
 http://186.148.196.100:8000/play/a00r
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales y Cultura",Discovery Turbo SD [Opc.2]
-http://181.119.177.253:8000/play/a04k/index.m3u8
+http://181.79.86.130:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales y Cultura",Discovery Turbo HD [Opc.3]
 http://186.148.175.138:8000/play/a05l
@@ -3840,10 +3840,10 @@ http://45.167.2.101:8000/play/a0m3/index.m3u8
 http://186.33.26.18:8000/play/a0m3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales y Cultura",Discovery World HD [Opc.3]
-http://181.119.177.253:8000/play/a0cs/index.m3u8
+http://181.79.87.132:8000/play/a0ej/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales y Cultura",Discovery Theater HD
-http://181.119.177.253:8000/play/a0d0/index.m3u8
+http://181.119.86.1:8000/play/a01d
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales y Cultura",Discovery Theater HD [Opc.2]
 http://186.148.163.17:8000/play/a0an/index.m3u8
