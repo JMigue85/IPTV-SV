@@ -3263,9 +3263,6 @@ https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdGZ8hkg/xtra-tv.png" group-title="Entretenimiento / Cine / Series", Xtra TV [No 24/7](Rep. Dominicana)
 https://edge.essastream.com/xtratv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Entretenimiento / Cine / Series", AMC en Español
-https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine / Series",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 
