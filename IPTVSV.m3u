@@ -2333,8 +2333,7 @@ https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01
 
 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png" group-title="Doramas / Asia",NEW KPOP
-https://jmp2.uk/stvp-ES1700005ME
+
 
 #EXTINF:-1 group-title="Doramas / Asia" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/18918110-1ab1-4aa8-9879-24473b095497.jpeg", K-Drama+ (Rakuten)
 https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
@@ -2342,8 +2341,8 @@ https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png" group-title="Doramas / Asia",Series K-Drama
 https://jmp2.uk/stvp-ES200040YF
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Doramas / Asia", K-POP SD
-https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png" group-title="Doramas / Asia",NEW KPOP
+https://jmp2.uk/stvp-ES1700005ME
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png" group-title="Doramas / Asia",K-Drama+
 https://jmp2.uk/stvp-ESBD4100001DU
