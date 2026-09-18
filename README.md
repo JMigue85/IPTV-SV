@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/github/license/JMigue85/IPTV-SV)
 ![Total Canales](https://img.shields.io/badge/Canales-1700+-brightgreen)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Donar-FF5E5B?logo=ko-fi)](https://ko-fi.com/jmigue85)
+[![Telegram](https://img.shields.io/badge/Telegram-Únete-26A5E4?logo=telegram&logoColor=white)](https://t.me/IPTVSVLatamES)
 
 Lista IPTV enfocada principalmente en canales de El Salvador, con contenido adicional de toda América Latina y España.
 
