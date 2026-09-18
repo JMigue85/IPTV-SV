@@ -56,6 +56,12 @@ https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="El Salvador",Canal 9 [No 24/7]
 http://186.33.26.18:8000/play/a0r5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="El Salvador",Canal 9 [No 24/7][Opc.2]
+http://45.167.2.101:8000/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="El Salvador",Canal 9 [No 24/7][Opc.3]
+http://190.61.114.186:8000/play/a00n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7]
 https://streamingcws30.com/tves/videotves/playlist.m3u8
 
@@ -100,20 +106,23 @@ https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="El Salvador",TVM 25 SD [24/7]
 http://45.167.2.101:8000/play/a0nx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="El Salvador",Canal 26 TV IAP HD
-https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 HD [No 24/7]
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="El Salvador",RTV Canal 58 HD [No 24/7]
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 58 HD [No 24/7]
 https://183.bozztv.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="El Salvador",Sol TV [No 24/7]
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yh1lFZH.jpeg" group-title="El Salvador",Morazan TV HD [No 24/7]
-http://45.167.2.138:8000/play/a0o4/index.m3u8
+http://45.167.2.101:8000/play/a0o4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yh1lFZH.jpeg" group-title="El Salvador",Morazan TV HD [No 24/7][Opc.2]
+http://190.61.114.186:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yh1lFZH.jpeg" group-title="El Salvador",Morazan TV HD [No 24/7][Opc.3]
+http://186.33.26.18:8000/play/a0o4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="El Salvador",TL+ HD Santa Ana [No 24/7]
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
@@ -435,7 +444,7 @@ http://45.228.234.62:8000/play/a04w/index.m3u8
 https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD (Nacional)[Opc.2]
-http://45.5.118.188:8000/play/a02x/index.m3u8
+http://186.33.0.57:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD (Nacional)[Opc.3]
 http://45.5.117.187:8000/play/a02v/index.m3u8
@@ -2234,8 +2243,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal
-http://146.19.49.197:81/live/loco_hi/index.m3u8
+http://146.19.49.197:81/live/loco.m3u8
 
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal [Opc.2]
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
@@ -2246,17 +2257,18 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV 
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV [Opc.2]
+http://146.19.49.197:81/live/animextv_hi/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV SD (Chile)
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208388.png?1788920338" group-title="Anime",Fun TV 
-https://183.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208867.png?1788920500" group-title="Anime",Fun TV Este
-https://183.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
@@ -2283,7 +2295,7 @@ http://181.225.190.242:8000/play/a00d
 http://186.33.1.71:8000/play/a0g4/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
-http://45.5.118.188:8000/play/a01e/index.m3u8
+http://152.231.29.139:8000/play/a0ho/index.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.3)
 http://45.228.234.62:8000/play/a02i/index.m3u8
@@ -2679,7 +2691,7 @@ http://45.228.234.62:8000/play/a05v/index.m3u8
 http://200.35.176.154:8000/play/a0rj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.3]
-http://45.5.118.188:8000/play/a04u/index.m3u8
+http://45.167.1.138:8000/play/a066
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas Premium",TNT HD
 http://186.33.26.18:8000/play/a0rn/index.m3u8
@@ -2820,7 +2832,7 @@ http://181.78.8.199:8000/play/a09n/index.m3u8
 http://186.33.26.18:8000/play/a0rp/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.2)
-http://45.5.118.188:8000/play/a05k/index.m3u8
+http://45.228.234.62:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.3)
 http://190.61.101.11:7050/play/a06a/index.m3u8?hls
