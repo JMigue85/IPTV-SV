@@ -17,7 +17,7 @@ http://186.33.26.18:8000/play/a0qp/index.m3u8
 https://signal.teleon.live/play/rP9_TAOqGedqe0XHS4ZRgYZBI9V78fDojJfie5Ph5WuMlJ_XA_TDw0mimsmUS9v6VgHDGGg6UyM5QuQOztz59w6e_WwQI3YXBVVIPh7zAQ.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS HD [Opc.2]
-http://45.5.118.188:8000/play/a00j/index.m3u8
+http://45.167.2.101:8000/play/a0qq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS HD [Opc.3]
 http://186.33.26.18:8000/play/a0qq/index.m3u8
@@ -1081,7 +1081,7 @@ http://181.224.200.5:2277/play/kkio/index.m3u8
 http://205.235.6.29:8000/play/a10h/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7]
-https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
+https://vivatv.juanjuiserver.com:3251/live/a1televisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7][Opc.2]
 http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
@@ -1108,7 +1108,7 @@ http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
 https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Perú",Lo Nuestro TV
-https://vivatv.juanjuiserver.com:3669/live/lonuestrolive.m3u8
+https://vivatv.juanjuiserver.com:3251/live/lonuestrolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú", Latina Clasicos HD (Nacional)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
@@ -1169,7 +1169,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7]
-https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
+https://vivatv.juanjuiserver.com:3282/live/canal39live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Perú", Vía Televisión HD [No 24/7] (Tarapoto - San Martín)
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
