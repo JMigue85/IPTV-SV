@@ -1108,7 +1108,7 @@ http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
 https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Perú",Lo Nuestro TV
-https://vivatv.juanjuiserver.com:3251/live/lonuestrolive.m3u8
+https://vivatv.juanjuiserver.com:3733/live/lonuestrotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú", Latina Clasicos HD (Nacional)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
