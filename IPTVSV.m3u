@@ -4286,6 +4286,9 @@ http://181.225.190.242:8000/play/a01e
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Channel HD (Opc.4)
 http://45.186.254.75:8000/play/a0ck/index.m3u8
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png",Disney Channel HD (Opc.5)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD
 http://181.225.190.242:8000/play/a01h
 
