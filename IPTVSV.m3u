@@ -3793,6 +3793,10 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/5.jpg" group-title="Documentales y Cultura",Xphere One
 https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Documentales y Cultura" tvg-logo="https://carjocosa.space/studio/logo.png" ,Estudio + TV HD
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/7.jpg" group-title="Documentales y Cultura",Xphere Cosmos
 https://stmv2.voxtvhd.com.br/xpherecosmos/xpherecosmos/playlist.m3u8
 
@@ -4238,6 +4242,9 @@ http://205.235.6.29:8000/play/a0zj/index.m3u8?hls
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Jr HD (Opc.3)
 http://181.225.190.242:8000/play/a01f
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest/scale-to-width-down/284?cb=20240601030018" ,Disney Jr . Latin America South [opc.2]
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles",Discovery Kids HD
 http://186.33.26.18:8000/play/a0oi/index.m3u8
 
@@ -4274,6 +4281,9 @@ http://181.79.87.130:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR SD (Opc.3)
 http://181.78.73.153:8000/play/a032/index.m3u8
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" ,Disney Channel SD
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Channel HD (Opc.1)
 http://205.235.6.29:8000/play/a0zp/index.m3u8?hls
 
@@ -4288,6 +4298,9 @@ http://45.186.254.75:8000/play/a0ck/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png",Disney Channel HD (Opc.5)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" ,Disney Channel SD (opc.6)
+http://181.143.237.211:85/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork HD
 http://181.225.190.242:8000/play/a01h
