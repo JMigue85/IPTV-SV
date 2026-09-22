@@ -693,9 +693,6 @@ https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN HD 
 http://181.78.8.199:8000/play/a09l/index.m3u8
 
-#EXTINF:-1 group-title="colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico
-http://181.143.237.211:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN SD [Opc.2]
 http://181.78.8.199:8000/play/a0az/index.m3u8
 
@@ -726,6 +723,12 @@ http://181.78.8.199:8000/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Caracol2 SD [Opc.3]
 http://190.60.48.149:8000/play/CARACOL_HD_2
 
+#EXTINF:-1 group-title="colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico
+http://181.143.237.211:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico [Opc2]
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia", Señal Colombia [No 24/7] (Nacional) [Geo-Blocked]
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
@@ -734,6 +737,15 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Colombia", Red+ HD (Nacional)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/colombia-extremo-television-6397-th.jpg" group-title="Colombia", Colombia Extremo Televisión
+https://players.intermediahost.co/api/hls-proxy/?channel=colombia-extremo
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/eduvision-2592-th.jpg" group-title="Colombia", Eduvisión
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-capital-3233-th.jpg" group-title="Colombia",Canal Capital [Geo-Blocked]
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Colombia", Teleantioquia HD (Antioquia / Regional) [Geo-Blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
