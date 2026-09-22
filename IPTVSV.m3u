@@ -723,10 +723,10 @@ http://181.78.8.199:8000/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Caracol2 SD [Opc.3]
 http://190.60.48.149:8000/play/CARACOL_HD_2
 
-#EXTINF:-1 group-title="colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico
 http://181.143.237.211:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 group-title="colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico [Opc2]
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico [Opc2]
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia", Señal Colombia [No 24/7] (Nacional) [Geo-Blocked]
@@ -3821,17 +3821,24 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ax6P1Ri.png" group-title="Tecnología",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/5.jpg" group-title="Documentales y Cultura",Xphere One
-https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="Documentales y Cultura" tvg-logo="https://carjocosa.space/studio/logo.png" ,Estudio + TV HD
 https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/5.jpg" group-title="Documentales y Cultura",Xphere One
+https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/7.jpg" group-title="Documentales y Cultura",Xphere Cosmos
 https://stmv2.voxtvhd.com.br/xpherecosmos/xpherecosmos/playlist.m3u8
@@ -4228,6 +4235,9 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://tr.live.clarovtrcdn.vtrplay.com/
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest/scale-to-width-down/284?cb=20240601030018" ,Disney Jr . Latin America South [opc.2]
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Infantiles",Moonbug Kids (Latam) [EN]
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -4286,9 +4296,6 @@ http://205.235.6.29:8000/play/a0zj/index.m3u8?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Jr HD (Opc.3)
 http://181.225.190.242:8000/play/a01f
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest/scale-to-width-down/284?cb=20240601030018" ,Disney Jr . Latin America South [opc.2]
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles",Discovery Kids HD
 http://186.33.26.18:8000/play/a0oi/index.m3u8
