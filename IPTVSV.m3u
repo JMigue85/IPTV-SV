@@ -481,7 +481,9 @@ http://190.61.101.11:7050/play/a09p/index.m3u8?hls
 http://38.65.175.87:8000/play/a0lo/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! HD (Nacional)
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://genteopa.com/envivo/
+https://5fe2654d6127d.streamlock.net/genteopabackup/videogenteopabackup/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="Costa Rica",TDtv TD+ HD (Nacional)
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
@@ -2707,8 +2709,8 @@ http://181.224.200.5:2277/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
 http://200.35.176.154:8000/play/a0rg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere SD [Opc.2]
-http://186.148.163.17:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD [Opc.2]
+http://45.167.1.139:8000/play/a064
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere SD [Opc.3]
 http://181.79.87.130:8000/play/a0db/index.m3u8
@@ -2804,7 +2806,7 @@ http://38.224.231.47:8000/play/a01h/index.m3u8
 http://190.60.59.60:8000/play/a0pe/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD
-http://38.65.175.87:8000/play/a0ji/index.m3u8?hls
+http://181.224.255.210:8001/play/a0re/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.2]
 http://190.60.59.60:8000/play/a0pd/index.m3u8
@@ -2921,7 +2923,7 @@ http://45.186.106.207:8000/play/a06w/index.m3u8
 http://186.148.182.83:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.2]
-http://38.65.175.87:8000/play/a0cp/index.m3u8u?hls
+http://45.228.234.62:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.3]
 http://186.33.61.182:8000/play/a04q/index.m3u8
@@ -3010,6 +3012,11 @@ http://45.186.254.75:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="Cine / Películas Premium",Panico TV 
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.IvBDaTiT5MpxjSBgz46PoQAAAA?r=0&pid=Api" group-title="Cine / Películas Premium",ComedyMax
+http://190.61.114.186:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/The-Comedy-Channel-Logotipo-1989-1991.jpg" group-title="Cine / Películas Premium",Comedy Channel
+http://45.70.201.81:8000/play/a011/index.m3u8
 
 
 
@@ -3293,7 +3300,7 @@ http://179.60.224.196:8000/play/a0ge/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine / Series", TeleOnce (Puerto Rico)
-https://livecdn.use1-0007.jwplive.com/live/sites/5yzZ4fDK/media/DccQWXXz/live.isml/.m3u8
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine / Series", Cali TV (Cali - Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
@@ -3571,7 +3578,7 @@ https://183.bozztv.com/giatv/giatv-pixelchanneltv/pixelchanneltv/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="Entretenimiento / Cine / Series", Torococo TV (Venezuela)
-https://us.streaminghd.cl/torococotelevision/video.m3u8
+https://scl.edge.grupoz.cl/torococotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento / Cine / Series", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
