@@ -1346,7 +1346,7 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Chile", ClickTV [No24/7](Coronel - Biobío) [Opc.2]
-https://andromeda3.trapemn.tv:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
+https://andromeda2.cd-latam.com:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile", Pucón TV HD [No 24/7](Pucón - Araucanía)
 https://redirector.dps.live/hls/pucontv/playlist.m3u8
@@ -1388,6 +1388,7 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Rosario HD [No 24/7] (Argentina)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Salta HD [No 24/7] (Argentina)
@@ -1417,6 +1418,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)[Geo-Blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.c7neuquen.com.ar/
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
@@ -1453,6 +1455,9 @@ https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7]
 http://190.7.19.197:232/play/a04l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7][Geo-Blocked]
+http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine HD (WEB) [No 24/7]
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
@@ -1480,6 +1485,8 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas [No 24/7]
 https://183.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",CineAR [Geo-Blocked]
+http://181.209.105.115:2525/play/cinear/index.m3u8
 
 
 
@@ -2685,19 +2692,16 @@ http://186.148.196.100:8000/play/a01t
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal SD (Opc.3)
 http://186.148.182.83:8000/play/a0br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine / Películas Premium",Universal TV HD[Opc.1]
-http://186.148.163.17:8000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine / Películas Premium",Universal TV SD [Opc.1]
+http://186.33.1.71:8000/play/a0ih/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV SD[Opc.2]
 http://200.35.176.154:8000/play/a040/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV SD[Opc.3]
-http://186.148.163.17:8000/play/a03b/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV SD[Opc.4]
 http://181.143.237.211:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV HD[Opc.5]
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV HD[Opc.4]
 http://181.224.200.5:2277/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
@@ -2745,6 +2749,15 @@ http://181.79.87.131:8000/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.3]
 http://186.148.196.100:8000/play/a002
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.1]
+http://38.52.208.106:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
+http://181.78.197.59:8000/play/a07e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.3]
+http://186.33.1.71:8000/play/a00c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD (Opc.1)
 http://200.59.191.177:8000/play/a00m/index.m3u8?hls
 
@@ -2762,15 +2775,6 @@ http://200.59.191.177:8000/play/a0qv/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO POP HD (Opc.3)
 http://179.60.191.102:8000/play/a0i8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.1]
-http://38.52.208.106:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
-http://181.78.197.59:8000/play/a07e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 SD [Opc.3]
-http://38.65.175.87:8000/play/a0ct/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
 http://186.33.61.182:8000/play/a010/index.m3u8
@@ -2854,7 +2858,7 @@ http://190.60.47.182:8000/play/a0bw/index.m3u8
 http://181.225.190.242:8000/play/a00y
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
-http://181.79.87.131:8000/play/a0ey/index.m3u8
+http://181.119.177.253:8000/play/a0cp/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.3)
 http://45.167.1.138:8000/play/a06s
@@ -2940,9 +2944,6 @@ http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD (Opc.3)
 http://205.235.6.29:8000/play/a108/index.m3u8?hls
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Star_Channel_2023.svg/revision/latest/scale-to-width-down/250?cb=20231209070650",STAR Channel SD (Opc.4)
-http://181.143.237.211:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX SD (Opc.1)
 http://45.186.106.207:8000/play/a00y/index.m3u8
 
@@ -2994,8 +2995,8 @@ http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM HD (Opc.2)
 http://45.167.1.136:8000/play/a02s
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM HD (Opc.3)
-http://181.143.237.211:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM SD (Opc.3)
+http://186.148.182.83:8000/play/a09e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas Premium",FMH Movies
 http://45.186.254.75:8000/play/a07j/index.m3u8
