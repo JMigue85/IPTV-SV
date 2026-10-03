@@ -2233,6 +2233,9 @@ https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-150x100.png" group-title="Anime",Teleanimemania
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 
@@ -2293,9 +2296,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-150x100.png" group-title="Anime",Teleanimemania
-https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Anime",ETC TV (Chile)
 http://200.59.191.177:8000/play/a00w/index.m3u8?hls
