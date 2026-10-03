@@ -1744,6 +1744,98 @@ https://edge.livestreaminggroup.info/vtv32live/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión
+http://181.78.8.199:8000/play/a091/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión[Opc.2]
+http://177.234.249.178:8888/VENEVISION/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión [V2]
+http://181.78.8.199:8000/play/a0if/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión [V3]
+https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Venezuela", VE Plus
+https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpgg" group-title="Venezuela", Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="Venezuela", Torococo TV
+https://scl.edge.grupoz.cl/torococotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Venezuela", TVES [No 24/7]
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Venezuela",Canal Grande Television [No 24/7]
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Venezuela",Canal Grande Television [No 24/7][Opc.2]
+https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Venezuela",Telecolor [No 24/7]
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+
+#EXTINF:-1 tvg-logo="telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Venezuela",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Venezuela",TV Oasis
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Audas TV
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="http://canal21tachira.com/wp-content/uploads/2024/04/Canal-tachira.png" group-title="Venezuela",Canal 21 Tachira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Televisora de Oriente TVO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image36039197864.jpg" group-title="Venezuela",Catatumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image24630260840.webp" group-title="Venezuela",Vepaco Television
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Venezuela", Canal I
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image41617944976.jpg" group-title="Venezuela", Globo Vision
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Venezuela", TeleVen TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://app.televen.com/player/live?channelId=20000841&categoryId=0&channelNumber=1&featured=true
+https://televen.streampool.net/10255/dvr/hls/televentrx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png" group-title="Venezuela",Canal Once Del Zulia
+https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png" group-title="Venezuela",Promar
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/148_Telearagua.png" group-title="Venezuela",Telearagua
+http://45.173.198.59:8080/hls/nginx3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/518_TVS_Maracay.png" group-title="Venezuela",TVS Maracay
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -2589,8 +2681,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine / Películas", TV Retro Palmares [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV [No 24/7](Venezuela)
-https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV [No 24/7]
+https://streaming.hostpannel.lat/hls/video_156/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD [No 24/7]
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
@@ -3309,27 +3401,6 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine / Series", Cali TV (Cali - Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Entretenimiento / Cine / Series", Venevisión (Venezuela)
-http://181.78.8.199:8000/play/a091/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Entretenimiento / Cine / Series", Venevisión (Venezuela)[Opc.2]
-http://177.234.249.178:8888/VENEVISION/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Entretenimiento / Cine / Series", Venevisión [V2](Venezuela)
-http://181.78.8.199:8000/play/a0if/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Entretenimiento / Cine / Series", Venevisión [V3](Venezuela)
-https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Entretenimiento / Cine / Series", Venevisión Internacional (Venezuela)
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entretenimiento / Cine / Series", VE Plus (Venezuela)
-https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpgg" group-title="Entretenimiento / Cine / Series", Mas Talk (Venezuela)
-https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvgelive.gq/images/logo-dark.png" group-title="Entretenimiento / Cine / Series", TVGE Internacional (Guinea Ecuatorial)
 https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
 
@@ -3578,9 +3649,6 @@ https://183.bozztv.com/giatv/giatv-pixelchanneltv/pixelchanneltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Entretenimiento / Cine / Series", Telemax (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="Entretenimiento / Cine / Series", Torococo TV (Venezuela)
-https://scl.edge.grupoz.cl/torococotv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Entretenimiento / Cine / Series", UCL (Uruguay)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
@@ -3719,9 +3787,6 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento / Cine / Series", La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura)
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Entretenimiento / Cine / Series", TVES [No 24/7] (Venezuela)
-https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine / Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 
@@ -3779,17 +3844,8 @@ https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Entretenimiento / Cine / Series", Vía Altomayo [No 24/7] (Perú - Moyobamba - San Martín)
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Entretenimiento / Cine / Series",Canal Grande Television [No 24/7] (Venezuela)
-https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Entretenimiento / Cine / Series",Canal Grande Television [No 24/7] (Venezuela)[Opc.2]
-https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine / Series", Red TV Shop [No 24/7] (Bolivia)
 https://master.tucableip.com/redtvshop/index.m3u8
-
-#EXTINF:-1 telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Entretenimiento / Cine / Series",Telecolor [No 24/7] (Venezuela)
-https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento / Cine / Series", People Are Awesome (EE.UU.) [EN]
 https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
@@ -4105,6 +4161,9 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Informativos", Ecotel TV (Loja - Ecuador)
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://venevision.vod.immergo.tv/venevision/uploaded/6b2f0053-d5f4-43ac-bd88-542b79fbfba6.png" group-title="Informativos", Venevision Noticias (Venezuela)
+https://dai.google.com/linear/hls/pa/event/q2LqrJ2ZRP6UuyzA6X0VsA/stream/9518e74a-82f5-47d9-87d0-be6185259a7d:ATL/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú - Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
@@ -4580,6 +4639,12 @@ http://190.108.83.69:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg" group-title="Música", EXATV SD
 http://181.119.177.253:8000/play/a0ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima99692250742.jpg" group-title="Música", Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" group-title="Música",RewindTV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel (Internacional)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
