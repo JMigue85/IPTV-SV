@@ -1745,13 +1745,13 @@ https://edge.livestreaminggroup.info/vtv32live/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión
-http://181.78.8.199:8000/play/a091/index.m3u8
+http://181.78.8.199:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión[Opc.2]
-http://177.234.249.178:8888/VENEVISION/index.m3u8
+http://181.78.8.199:8000/play/a0cp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión [V2]
-http://181.78.8.199:8000/play/a0if/index.m3u8
+http://200.59.191.177:8000/play/a0li/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Venezuela", Venevisión [V3]
 https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8
@@ -1761,6 +1761,9 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Venezuela", VE Plus
 https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Venezuela", VE Plus [Opc.2]
+http://181.78.211.244:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpgg" group-title="Venezuela", Mas Talk
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
