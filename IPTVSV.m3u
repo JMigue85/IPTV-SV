@@ -1856,7 +1856,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Bolivia", CTV (La Paz)
-https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
@@ -1879,8 +1879,8 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel [No 24/7]
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel [No 24/7][Opc.2]
-http://190.60.39.195:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel SD [No 24/7][Opc.2]
+http://200.59.191.177:8000/play/a0md/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Bolivia", Canal 24 Multivision [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
