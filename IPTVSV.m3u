@@ -1840,6 +1840,66 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia", Delta TV SD
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Bolivia", RA TV
+https://live20.bozztv.com/akamaissh101/ssh101/ratvbol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Bolivia",Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia", F10 HD (El Alto / La Paz)
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (La Paz) [No 24/7]
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Bolivia", CTV (La Paz)
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)
+http://15.204.246.24:8080/BolivisionHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)[Opc.2]
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia", RTP (La Paz)
+https://rtp.noxun.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia", Mix Bolivia TV [No 24.7]
+https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Bolivia",GoGoPlay TV [no 24/7]
+https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Bolivia", Univalle Televisión [No 24/7](Cochabamba)
+https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel [No 24/7]
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel [No 24/7][Opc.2]
+http://190.60.39.195:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bolivia", Canal 24 Multivision [No 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Bolivia", Red TV Shop [No 24/7]
+https://master.tucableip.com/redtvshop/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Bolivia", FTV (La Paz)
+https://master.tucableip.com/ftvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Bolivia", Unifranz [No 24/7]
+https://live.enhdtv.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Bolivia",Red ADvenir TV
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="Bolivia",XTOTV
+#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
+http://190.104.15.135/0.ts
 
 
 
@@ -3437,9 +3497,6 @@ https://183.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/46/1/vivo-tv-logo-png_seeklogo-463353.png" group-title="Entretenimiento / Cine / Series",Del Este TV HD
 https://183.bozztv.com/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Entretenimiento / Cine / Series", Delta TV SD (Bolivia)
-https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Entretenimiento / Cine / Series", Boreal (Internacional)
 https://edge.essastream.com/borealtelevision/tracks-v1a1/index.m3u8
 
@@ -3467,12 +3524,6 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine / Series", Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Entretenimiento / Cine / Series", RA TV (Bolivia)
-https://live20.bozztv.com/akamaissh101/ssh101/ratvbol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Entretenimiento / Cine / Series",Coral TV (Bolivia)
-https://tv.mediacp.eu:8081/coraltv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://mitvpy.com/wp-content/uploads/2025/07/cropped-C015-LOGO-02.png" group-title="Entretenimiento / Cine / Series",MiTVpy (Paraguay)
 https://edge.enhdtv.com/8070/index.m3u8
 
@@ -3496,12 +3547,6 @@ https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JmXBvzn.png" group-title="Entretenimiento / Cine / Series",American TV
 https://lbgo.bozztv.com/ssh101/ssh101/americantv006/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento / Cine / Series", F10 HD (El Alto / La Paz / Bolivia)
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Cine / Películas", GigaVision (La Paz) [No 24/7]
-https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento / Cine / Series", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
@@ -3709,18 +3754,6 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Entretenimiento / Cine / Series", Tiva TV (Puerto Rico)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Entretenimiento / Cine / Series", CTV (La Paz / Bolivia)
-https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine / Series", Bolivisión LPZ (La Paz / Bolivia)
-http://15.204.246.24:8080/BolivisionHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Entretenimiento / Cine / Series", Bolivisión LPZ (La Paz / Bolivia)[Opc.2]
-https://d135ohnuotzzyo.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Entretenimiento / Cine / Series", RTP (La Paz / Bolivia)
-https://rtp.noxun.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Entretenimiento / Cine / Series", UMSA TVU Internacional (La Paz)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/index.m3u8
@@ -3764,19 +3797,9 @@ https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Multicanal TV [No 24/7] (Protelco y Telecable)
 https://lbgo.bozztv.com/ssh101/ssh101/multicanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Entretenimiento / Cine / Series", Mix Bolivia TV [No 24.7]
-https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Entretenimiento / Cine / Series",GoGoPlay TV [no 24/7]
-https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Entretenimiento / Cine / Series", UPEA TV [No 24/7](El Alto)
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Entretenimiento / Cine / Series", Univalle Televisión [No 24/7](Cochabamba / Bolivia)
-https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Entretenimiento / Cine / Series", RN Televisión [No 24/7] (Perú - Yurimaguas - Loreto)
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
@@ -3805,17 +3828,8 @@ https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine / Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Bolivia)
-https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Bolivia)[Opc.2]
-http://190.60.39.195:8000/play/a01r/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCht70h/2695-294x165-FFFFFF.png" group-title="Entretenimiento / Cine / Series", Visión Dorada TV [No 24/7] (Colombia - La Dorada - Caldas )
 https://movil.ejeserver.com/live/visiondorada.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Canal 24 Multivision [No 24/7](Bolivia)
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entretenimiento / Cine / Series", Canal Pulpo TV [No  24/7]
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
@@ -3849,9 +3863,6 @@ https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Entretenimiento / Cine / Series", Vía Altomayo [No 24/7] (Perú - Moyobamba - San Martín)
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Entretenimiento / Cine / Series", Red TV Shop [No 24/7] (Bolivia)
-https://master.tucableip.com/redtvshop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entretenimiento / Cine / Series", People Are Awesome (EE.UU.) [EN]
 https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8
@@ -4188,9 +4199,6 @@ http://190.108.83.69:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos",TVPE Noticias (Perú)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Informativos", FTV (La Paz - Bolivia)
-https://master.tucableip.com/ftvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Informativos", TV Senado (Nacional)
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
@@ -5597,16 +5605,6 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vMdyLVv.png" group-title="Religiosos",Zoe Visión [No 24/7](Puerto Rico)
 https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Religiosos", Unifranz [No 24/7](Bolivia)
-https://live.enhdtv.com:8081/8192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Religiosos",Red ADvenir TV (Bolivia)
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="Religiosos",XTOTV (Bolivia)
-#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
-http://190.104.15.135/0.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="Religiosos",Canal+ Uruguay (Uruguay)
 #EXTVLCOPT:http-referrer=https://tv.canalmasuruguay.com/
