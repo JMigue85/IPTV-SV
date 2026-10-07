@@ -1439,7 +1439,7 @@ https://unlimited1-saopaulo.dps.live/televidaar/livestream1/chunks.m3u8
 https://unlimited1-saopaulo.dps.live/televidaar/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Argentina", LAMIL35
-https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7]
 http://190.7.19.197:232/play/a04l/index.m3u8
@@ -1864,20 +1864,35 @@ http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)[Opc.2]
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia", SPC Canal 15
+https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
+https://d1mws3umreue1g.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
+https://tv.bitstreaming.net:3348/multi_live/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia", RTP (La Paz)
 https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia", Mix Bolivia TV [No 24.7]
 https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia", Mix Bolivia TV [No 24.7][Opc.2]
+https://lbgo.bozztv.com/ssh101/ssh101/mixboliviatvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Bolivia",GoGoPlay TV [no 24/7]
 https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Bolivia",GoGoPlay TV [no 24/7][Opc.2]
+https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Bolivia", Univalle Televisión [No 24/7](Cochabamba)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel [No 24/7]
-https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel SD [No 24/7][Opc.2]
 http://200.59.191.177:8000/play/a0md/index.m3u8?hls
@@ -1901,6 +1916,11 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
 http://190.104.15.135/0.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Bolivia",Red Chuquisaqueña
+https://live20.bozztv.com/akamaissh101/ssh101/bolivianews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bolivia",Bolivia TV
+http://200.59.191.177:8000/play/a0m4/index.m3u8?hls
 
 
 
@@ -2465,7 +2485,7 @@ http://157.100.9.51:8000/play/a24f
 http://190.60.59.67:8000/play/a0k5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.1]
-http://190.61.101.11:7050/play/a091/index.m3u8?hls
+http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.2]
 http://190.61.114.186:8000/play/a01h/index.m3u8
@@ -2690,16 +2710,13 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine / Películas", Cine en Español
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=s-LCv6BwD-9AmtyXYc67
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas", Claro Cinema
-http://45.182.22.53:8000/play/a0b1/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=aodMBFfiWQ9a_wrQtBsJ
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine / Películas", Todo Cine
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472b186783f359e.m3u8?X-Plex-Token=ZM-hxdz1yNmR9tokPfyJ
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine / Películas", Cine de Horror
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=b1EtektCx21hyn2XexED
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Cine / Películas", Cine de Terror Español
 https://live20.bozztv.com/giatvplayout7/giatv-211420/playlist.m3u8
@@ -3142,6 +3159,15 @@ http://138.94.3.106:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO [Opc.3]
 http://181.79.86.130:8000/play/a00p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema
+http://45.182.22.53:8000/play/a0b1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema [Opc.2]
+http://181.79.87.130:8000/play/a0bh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema [Opc.3]
+http://200.35.176.154:8000/play/a03d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine / Películas Premium",TCM SD (Opc.1)
 http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
 
@@ -3169,6 +3195,8 @@ http://190.61.114.186:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/The-Comedy-Channel-Logotipo-1989-1991.jpg" group-title="Cine / Películas Premium",Comedy Channel
 http://45.70.201.81:8000/play/a011/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",Bolliwood TV
+http://190.61.114.186:8000/play/a055/index.m3u8
 
 
 
@@ -3815,15 +3843,6 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entretenimiento / Cine / Series", La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura)
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine / Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
-https://d1mws3umreue1g.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Cine / Películas", GigaVision (Santa Cruz) [No 24/7]
-https://tv.bitstreaming.net:3348/multi_live/play.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", SPC Canal 15
-https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine / Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
