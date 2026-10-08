@@ -1867,7 +1867,7 @@ https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia", SPC Canal 15
 https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia" UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
@@ -3828,9 +3828,6 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Entretenimiento / Cine / Series", RN Televisión [No 24/7] (Perú - Yurimaguas - Loreto)
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Perú - Ica)
-https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento / Cine / Series", Visión NDV [No 24/7](Perú - Pucallpa)
 https://soportedvb.click:3891/live/visionndvlive.m3u8
