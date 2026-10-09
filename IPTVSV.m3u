@@ -1368,14 +1368,17 @@ https://tv.ulagos.cl/web/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD 
 #EXTVLCOPT:http-referrer=https://www.mitelefe.com/
 https://telefe.argtelemax.workers.dev/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe SD
+http://45.173.231.22:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD 
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior HD [No 24/7] (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior HD [No 24/7] ç
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Rosario HD [No 24/7] (Argentina)
@@ -1869,7 +1872,7 @@ https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia", SPC Canal 15
 https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia" UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
