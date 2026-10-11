@@ -340,7 +340,13 @@ http://45.167.2.101:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Geo-Blocked]
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
-                                               
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Opc.2]
+http://186.33.0.57:8000/play/a04v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Opc.3]
+http://45.228.234.62:8000/play/a069/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Honduras",Teleceiba HD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleceiba.com/en-vivo/
@@ -502,9 +508,6 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica",Nicoya TV HD (Guanacaste)
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica",Garabito TV HD (Puntarenas)
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="Costa Rica",TeleBrunca HD (Zona Sur)
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
@@ -824,7 +827,13 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 http://131.221.41.94/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC Santander de Quilichao SD (Cauca)
-https://movil.ejeserver.com/live/cncsantander.m3u8
+http://181.79.86.130:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC Santander de Quilichao SD (Cauca)[Opc.2]
+http://181.225.190.242:8000/play/a010
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia", CNC Santander de Quilichao SD (Cauca)[Opc.3]
+http://138.94.3.106:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia", El Mundo del Campo HD (Nacional)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
@@ -2928,7 +2937,7 @@ http://181.79.87.131:8000/play/a0ei/index.m3u8
 http://186.148.196.100:8000/play/a002
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.1]
-http://38.52.208.106:8000/play/a00l/index.m3u8
+http://186.33.26.18:8000/play/a0lp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
 http://181.78.197.59:8000/play/a07e/index.m3u8
@@ -5230,7 +5239,7 @@ https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGp2ynmR/0-16x9-4.png" group-title="Deportes", PowerNation (Internacional)
-https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-69814bbff871095eafc65925.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PNnH6pjK/Diseno-sin-titulo(13).png" group-title="Deportes", Motorvision TV (Internacional)
 https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
@@ -5283,7 +5292,7 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports  [Opc. 4]
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports  [Opc. 5]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (ECU) [Opc. 5]
 http://157.100.9.51:8000/play/a26e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports 2  
