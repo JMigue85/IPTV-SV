@@ -4759,10 +4759,10 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", Retro Plus TV (Inglés) (Chile)
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+https://srt01.logicahost.com.br/senal1/index.m3u8?ChileTv
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música", Retro Plus TV (Español) (Chile)
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+https://srt01.logicahost.com.br/senal2/index.m3u8?ChileTv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Música",VClassic TV (Chile)
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
