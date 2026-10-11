@@ -338,11 +338,9 @@ http://186.33.26.18:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 SD [Opc.3]
 http://45.167.2.101:8000/play/a07n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://teleon.tv/
-https://signal.teleon.live/play/UUguwuV2YiKT_iBJHNnwTh_0HQVT1HGyjsn87czQOrOb9RTTm91ijLQ3W3W1phwGtSqoJExZFPBgX6BBxAN7kwg78TSQkV8vzzQy.m3u8?token=test
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Geo-Blocked]
+https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+                                               
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Honduras",Teleceiba HD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://teleceiba.com/en-vivo/
@@ -1407,7 +1405,7 @@ https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlis
 http://186.148.163.17:8000/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.2]
-http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
+http://138.117.110.151:8000/play/a0fw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.3]
 http://190.108.83.69:8000/play/a08l/index.m3u8
