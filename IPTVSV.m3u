@@ -789,16 +789,16 @@ https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.2]
-http://190.217.66.92:8000/play/a0el/index.m3u8?hls
+http://190.61.47.54:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.3]
+http://181.79.87.130:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD  (Cundinamarca)
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca)
 https://movil.ejeserver.com/live/urestv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia", CNC Bugavisión HD (Buga - Valle del Cauca)
-https://movil.ejeserver.com/live/cncbuga.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge HD [No 24/7] (Ocaña - Norte de Santander)
 http://179.1.5.146:8080/asucap_srt.html
@@ -1848,9 +1848,6 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia", Delta TV SD
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Bolivia", RA TV
-https://live20.bozztv.com/akamaissh101/ssh101/ratvbol/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Bolivia",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
@@ -1867,12 +1864,16 @@ https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)[Opc.2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://redbolivision.tv.bo/envivo-canal-5
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia", SPC Canal 15
 https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://redbolivision.tv.bo/santa-cruz
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
@@ -2416,9 +2417,6 @@ https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-150x100.png" group-title="Anime",Delmi TV(Opc.2)
-https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 
@@ -2440,17 +2438,16 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina) [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal [No 24/7]
 http://146.19.49.197:81/live/loco.m3u8
 
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal [Opc.2]
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal [Opc.2][No 24/7] 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2]
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV [No 24/7](América Latina)
@@ -2459,17 +2456,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV 
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV [No 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
-#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV [Opc.2]
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV [Opc.2][No 24/7]
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/anime-presente-150x150.jpg" group-title="Anime",Anime presente
-https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/anime-presente-150x150.jpg" group-title="Anime",Anime Presente
+https://live20.bozztv.com/giatvplayout7/giatv-209624/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
@@ -2781,9 +2778,6 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas", Opinión Sur Cine [No 24/7]
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="Cine / Películas", Canal Telemax RD [No 24/7] (Rep. Dominicana)
-https://edge.essastream.com/telemax/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies [No 24/7]
 https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
@@ -2839,11 +2833,11 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/sternblink/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV [No 24/7]
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV 3 [No 24/7]
+https://srt01.logicahost.com.br/senal3/index.m3u8?ChileTv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine / Películas", TeleCinco Trelew [No 24/7](Chubut / Argentina)
-https://videohd.live:19360/8016/8016.m3u8
+https://stmvideo1.livecastv.com/tele5trelew/tele5trelew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png" group-title="Cine / Películas", MultiVox La India (SUB/IA DUB)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
