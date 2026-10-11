@@ -981,7 +981,7 @@ https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador", UNIANDES TV HD [No 24/7] (Tungurahua)
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+https://video.compuwebecuador.com:3323/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV HD [No 24/7] (El Oro)
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
@@ -2414,7 +2414,7 @@ https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
 https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV 
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-150x100.png" group-title="Anime",Delmi TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV
