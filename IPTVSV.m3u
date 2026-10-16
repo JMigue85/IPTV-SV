@@ -1901,14 +1901,8 @@ https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)[Opc.2]
-https://d135ohnuotzzyo.cloudfront.net/_token/v1.1791948159.elAEEvFecvncc_5oAxeqiaWzjbqzbC2Tm9U0_JtDMHw/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia", SPC Canal 15
 https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
-https://d1mws3umreue1g.cloudfront.net/_token/v1.1791948414.DgMJp5Ks40ileeE0UOtGqHHIlqoAXsz-ukD4XddEsK0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
 https://tv.bitstreaming.net:3348/multi_live/play.m3u8
@@ -2863,7 +2857,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Cine / Películas", Marca TV [No 24/7] (Cotopaxi)
 http://200.7.219.221:8088/live/livetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="Cine / Películas", Nativa TV Satipo [No 24/7] (Junín)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title=. "Cine / Películas", Nativa TV Satipo [No 24/7] (Junín)
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama)
@@ -2871,7 +2865,18 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine / Películas", Metro TV [No 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=	https://www.dens.tv/
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine / Películas", Metro TV [No 24/7][Opc.2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=	https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine / Películas", Metro TV [No 24/7][Opc.3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=	https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
 https://lbgo.bozztv.com/ssh101/ssh101/sternblink/playlist.m3u8
