@@ -2917,13 +2917,13 @@ http://186.148.182.83:8000/play/a0br/index.m3u8
 http://186.33.1.71:8000/play/a0ih/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV SD[Opc.2]
-http://200.35.176.154:8000/play/a040/index.m3u8
+http://190.61.101.11:7050/play/a068/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV SD[Opc.3]
 http://181.143.237.211:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
-http://200.35.176.154:8000/play/a0rg/index.m3u8
+http://45.5.117.99:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD [Opc.2]
 http://45.167.1.139:8000/play/a064
@@ -2932,19 +2932,19 @@ http://45.167.1.139:8000/play/a064
 http://181.79.87.130:8000/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD
-http://170.244.209.30:8000/play/a04c/index.m3u8
+http://186.33.0.57:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.2]
 http://45.228.234.62:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.3]
-http://186.33.61.182:8000/play/a05c/index.m3u8
+http://181.119.177.253:8000/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD
 http://45.228.234.62:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.2]
-http://200.35.176.154:8000/play/a0rj/index.m3u8
+http://45.5.118.152:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.3]
 http://45.167.1.138:8000/play/a066
@@ -2956,10 +2956,10 @@ http://186.33.26.18:8000/play/a0rn/index.m3u8
 http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
-http://45.167.2.101:8000/play/a0rn/index.m3u8
+http://45.5.118.152:8000/play/a0di/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD
-http://186.33.61.182:8000/play/a00x/index.m3u8
+http://181.119.177.253:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.2]
 http://181.79.87.131:8000/play/a0ei/index.m3u8
@@ -2995,7 +2995,7 @@ http://200.59.191.177:8000/play/a0qv/index.m3u8?hls
 http://179.60.191.102:8000/play/a0i8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
-http://186.33.61.182:8000/play/a010/index.m3u8
+http://190.108.83.69:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.2)
 http://157.100.9.51:8000/play/a1tc
@@ -3004,10 +3004,10 @@ http://157.100.9.51:8000/play/a1tc
 http://190.60.59.60:8000/play/a0tn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD
-http://186.33.61.182:8000/play/a011/index.m3u8
+http://190.108.83.69:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD (Opc.2)
-http://200.35.176.154:8000/play/a00p/index.m3u8
+http://200.59.191.177:8000/play/a0pr/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO XTREME HD (Opc.3)
 http://157.100.9.51:8000/play/a1td
@@ -3039,16 +3039,13 @@ http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel SD (Opc.3)
 http://45.5.116.228:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine / Películas Premium",Cinecanal HD
-http://200.35.176.154:8000/play/a046/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.2)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.1)
 http://186.148.196.100:8000/play/a02o
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.3)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.2)
 http://186.33.26.18:8000/play/a0o2/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.4)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.3)
 http://190.108.83.69:8000/play/a048/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.1)
@@ -3106,7 +3103,7 @@ http://186.33.26.18:8000/play/a0rz/index.m3u8
 http://186.33.1.71:8000/play/a0jv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE HD
-http://45.167.2.101:8000/play/a0sc/index.m3u8
+http://186.33.26.18:8000/play/a0sc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE HD (Opc.2)
 http://186.33.26.18:8000/play/a0sc/index.m3u8
@@ -3118,19 +3115,19 @@ http://181.78.8.199:8000/play/a0ab/index.m3u8
 http://45.186.106.207:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.2]
-http://170.244.209.30:8000/play/a00m/index.m3u8
+http://45.5.117.188:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.3]
-http://170.244.209.30:8000/play/a00m/index.m3u8
+http://181.78.197.59:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.1]
-http://170.244.209.30:8000/play/a00n/index.m3u8
+http://45.186.106.207:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.2]
-http://170.244.209.30:8000/play/a0jn/index.m3u8
+http://45.5.117.188:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.3]
-http://45.186.106.207:8000/play/a06w/index.m3u8
+http://181.78.197.59:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier HD
 http://186.148.182.83:8000/play/a01h/index.m3u8
@@ -3139,7 +3136,7 @@ http://186.148.182.83:8000/play/a01h/index.m3u8
 http://45.228.234.62:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.3]
-http://186.33.61.182:8000/play/a04q/index.m3u8
+http://186.33.26.18:8000/play/a0lq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas Premium",Space HD (Opc.1)
 http://45.228.234.62:8000/play/a06x/index.m3u8
@@ -3175,7 +3172,7 @@ http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
 http://190.108.83.69:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network SD [Opc.3]
-http://170.244.209.30:8000/play/a15y/index.m3u8
+http://200.59.191.177:8000/play/a0qd/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Cine / Películas Premium",Azteca Cinema HD
 http://181.225.190.242:8000/play/a006
@@ -3187,7 +3184,7 @@ http://186.148.175.138:8000/play/a055
 http://186.148.196.100:8000/play/a013
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película HD [Opc.1]
-http://45.167.2.101:8000/play/a0ru/index.m3u8
+http://181.119.177.253:8000/play/a0dr/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película SD (Opc.2)
 http://205.235.6.29:8000/play/a0z7/index.m3u8?hls
@@ -3211,7 +3208,7 @@ http://45.182.22.53:8000/play/a0b1/index.m3u8
 http://181.79.87.130:8000/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema [Opc.3]
-http://200.35.176.154:8000/play/a03d/index.m3u8
+http://186.33.0.57:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine / Películas Premium",TCM SD (Opc.1)
 http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
