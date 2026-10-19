@@ -2673,7 +2673,7 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/mast
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" group-title="Cine / Películas",ENT Móvies
-https://cdn../live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Cine / Películas",ENT Drama
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
