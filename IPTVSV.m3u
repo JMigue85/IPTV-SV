@@ -2666,7 +2666,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Cine / Películas",ent extreme
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Cine / Películas",ENT Extreme
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine / Películas",ENT Comedy
