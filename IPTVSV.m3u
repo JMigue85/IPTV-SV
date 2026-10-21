@@ -2681,7 +2681,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" group-title="Cine / Películas",ENT Classic
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png",ENT Life
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="Cine / Películas",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
