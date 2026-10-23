@@ -875,11 +875,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTi0kkVY2z9ttrNQRyDmm7KqI3WiP8ABhpZMXfKrLV0yFwCrTd1GL-A&s=10" group-title="Colombia",HOGAR TV
-http://191.97.55.72:8000/play/a0023/index.m3u8
+http://190.61.47.54:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTi0kkVY2z9ttrNQRyDmm7KqI3WiP8ABhpZMXfKrLV0yFwCrTd1GL-A&s=10" group-title="Colombia",HOGAR TV[Opc.2]
-http://181.78.211.244:8005/play/a06w/index.m3u8
+http://181.225.190.242:8000/play/a024
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTi0kkVY2z9ttrNQRyDmm7KqI3WiP8ABhpZMXfKrLV0yFwCrTd1GL-A&s=10" group-title="Colombia",HOGAR TV[Opc.2]
+http://138.117.110.151:8000/play/a0dt/index.m3u8
 
 
 
@@ -1614,6 +1616,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/redinformativa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Paraguay" ,RIO TV 
 https://183.bozztv.com/giatv/giatv-fmriotv/fmriotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Paraguay", Next HD [No 24/7]
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD [No 24/7]
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
@@ -2829,9 +2834,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV [No 24/7]
 https://streaming.hostpannel.lat/hls/video_156/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD [No 24/7]
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV [No 24/7]
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
@@ -3711,6 +3713,9 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/647WCF8.png" group-title="Entretenimiento / Cine / Series",Hispania TV  (Panamá)
 http://181.78.121.15:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="Entretenimiento / Cine / Series",NexPanama  (Panamá)
+https://movil.ejeserver.com/live/nextv.m3u8?r=936
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Entretenimiento / Cine / Series", Canal Trece (Andina y Amazonía / Colombia )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -5181,7 +5186,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.1]
-http://186.33.26.18:8000/play/a0r4/index.m3u8
+http://181.119.177.253:8000/play/a0ds/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.2]
 http://179.60.224.196:8000/play/a0f4/index.m3u8
