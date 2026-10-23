@@ -186,7 +186,7 @@ http://181.119.177.253:8000/play/a05d/index.m3u8
 http://45.5.118.152:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",TV Azteca Guate SD [Opc.2]
-http://45.5.118.152:8000/play/a03v/index.m3u8
+http://190.61.101.11:7050/play/a06v/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",TV Azteca Guate SD [Opc.3]
 http://181.119.177.253:8000/play/a03m/index.m3u8
@@ -332,7 +332,7 @@ http://190.61.101.11:7050/play/a06t/index.m3u8?hls
 http://181.119.177.253:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras",Deportes TVC HD [Opc.3]
-http://181.119.177.253:8000/play/a06d/index.m3u8
+http://45.167.1.137:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 HD
 http://45.167.2.138:8000/play/a07n/index.m3u8
@@ -1912,9 +1912,6 @@ https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
 https://tv.bitstreaming.net:3348/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (La Paz) [No 24/7]
-https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia", RTP (La Paz)
 https://rtp.noxun.net/hls/stream.m3u8
 
@@ -3469,7 +3466,7 @@ http://190.61.101.11:7050/play/a07q/index.m3u8?hls
 http://181.119.177.253:8000/play/a037/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas SD [Opc.3]
-http://181.119.177.253:8000/play/a037/index.m3u8
+http://45.5.118.152:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas HD [Opc.1]
 http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
