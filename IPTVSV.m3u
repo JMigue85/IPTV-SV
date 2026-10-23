@@ -152,7 +152,7 @@ http://181.119.177.253:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD [Opc.3]
 http://45.5.118.152:8000/play/a03w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.coatevision.com/LogoCoatevisionChico.png" group-title="Guatemala",Canal 9 Coatevision
+#EXTINF:-1 tvg-logo="https://www.coatevision.com/LogoCoatevisionChico.png" group-title="Guatemala",Canal 9 Coatevision [Twitch]
 https://www.twitch.tv/canal__9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="Guatemala",Canal 11 SD  (Nacional)
@@ -949,7 +949,7 @@ http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO HD (Guayas) [Opc.2]
 http://181.119.97.124:8000/play/vitotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO HD (Guayas) [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador", VitoTVO HD (Guayas) [Opc.3]
 http://205.235.6.29:8000/play/a0z2/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Ecuador", Majestad Televisión (Santo Domingo)
@@ -3747,7 +3747,7 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/pl
 http://45.167.2.138:8000/play/a0oa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Thema Vive Kanal Drama[Opc.3]
-http://186.33.26.18:8000/play/a0oa/index.m3u8
+http://181.119.177.253:8000/play/a0d3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260505T035729SQUARE.png" group-title="Entretenimiento / Cine / Series",Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
@@ -5109,6 +5109,9 @@ http://181.78.50.91:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/11/18/1001268243-logo-caze-tv-610x400.jpg" group-title="Deportes",CazéTV (BR) [Geo-Blocked]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/11/18/1001268243-logo-caze-tv-610x400.jpg" group-title="Deportes",CazéTV (BR) [Twitch]
+https://www.twitch.tv/cazetv_
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Deportes",SBT (BR)
 https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
 
@@ -5230,17 +5233,11 @@ http://181.119.185.32:8000/play/a002/index.m3u8?hls
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports (Internacional)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports SD (Internacional)
-http://181.79.87.130:8000/play/a0ck/index.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports AR
-http://38.44.109.41:8003/play/a02l/index.m3u8
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports
 http://45.186.254.75:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports [Opc.2]
-http://45.5.57.132:8000/play/a09b/index.m3u8
+http://181.79.87.130:8000/play/a0ck/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports [Opc.3]
 http://38.65.175.87:8000/play/a0kw/index.m3u8?hls
