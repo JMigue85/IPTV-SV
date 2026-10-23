@@ -1,0 +1,882 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Distrito Comedia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/293.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",El Chavo del 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://m3u.tvcluboficial.com/free/ReachBot/Kip/344.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",El Chavo del 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1173.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Los Simpson
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1068.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Nueve (9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/353.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/362.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/874.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1172.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1166.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/DBHmCasm/1171.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chile",Chilevisión (CHV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/155.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chile",El Trece (13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="México",Las Estrellas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/118.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1163.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1162.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Todo Noticias (TN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1164.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",A3 Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/17.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",Antena 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/45.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",La 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/588.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",La 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/589.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",Mega ES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/653.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",StarTVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/838.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/j_ZNdRlO/968.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España",TVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/_c_KJLm8/969.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN (Ahorro de Datos)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/QT_RsUTe/1113.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 1 (Argentina)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 1 (Chile)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 1 (Colombia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 1 (México)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/401.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 1 (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/368.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/375.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 2 (México)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/378.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 2 (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/372.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/386.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 3 (México)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1110.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 3 (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1127.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 4 (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1069.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1104.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1105.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1106.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/400.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN HD (Colombia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1161.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/404.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/405.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DSports",DSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/312.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DSports",DSports +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/314.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DSports",DSports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/315.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DSports",DSports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/317.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DSports",DSports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/324.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DSports",DSports HD [Opc.2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1144.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 1 HD (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/452.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 1 (México)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/456.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 1 (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/435.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 2 (Chile)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1123.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/439.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 2 HD (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/cH9iugEk/438.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 2 (México)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/441.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 2 (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/436.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/446.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 3 (México)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/448.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports 3 (Sur)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/468.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/454.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/461.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/463.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports Premium HD [Opc.2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/KtMxQzuk/464.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FOX Sports",FOX Sports Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/465.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TNT Sports HD (Argentina)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/usuUo-wA/1128.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TNT Sports (Argentina)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TNT Sports (Chile)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/938.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/974.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TyC Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1143.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Eventos Deportivos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1131.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine 2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1099.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1159.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1180.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Acción
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/157.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Acción HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/158.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Acción Sagas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/160.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Comedia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/161.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Comedia 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/162.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Comedia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/163.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Comedia 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/164.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Terror HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/181.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Terror Sagas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/0uTjbnJb/182.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Zombis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/183.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Zombis HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Ficción/Fantasía 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/166.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Ficción/Fantasía 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/167.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Ficción/Fantasía HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/168.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/178.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Romance HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/179.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Marvel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/176.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Marvel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/177.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Infantil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/169.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Infantil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/170.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas",Cine Infantil Sagas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/171.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/79.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/134.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",CBeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/vsLJmFR2/139.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/264.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/280.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Disney XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/5761zf05/289.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/729.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/735.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/736.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Pakapaka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/748.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",TeenNick
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/Ur34DxGJ/865.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Tiin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/R-1TwjEF/907.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/941.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Alf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/28.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Animaniacs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/43.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Bob Esponja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/96.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Calabozos y Dragones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/103.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Coraje el Perro Cobarde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/223.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Dinosaurios
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/244.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Doug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/298.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Ed, Edd y Eddy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/339.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",El Conde Pátula
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/Z4RsAsrk/345.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",El Coyote y el Correcaminos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/346.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",El Gallo Claudio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/347.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",El Pájaro Loco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/355.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",El Pato Darkwing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/356.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Garfield
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/486.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Hércules
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/550.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Hey Arnold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/551.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Iron Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/dqVgtmfJ/582.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Johnny Bravo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/584.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",La Casa de los Dibujos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/590.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",La Familia Monster
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/BcqxbI5Q/591.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",La Hora Pico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/mbtfMF0Q/593.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",La Pantera Rosa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",La Vaca y el Pollito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/lu6tq9pa/606.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Las Aventuras de Tom Sawyer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/607.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Las Chicas Superpoderosas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/608.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Looney Tunes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/618.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Los Picapiedras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/625.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Los Pingüinos de Madagascar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/626.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Los Pitufos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/627.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Los Vengadores Unidos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/irw64QcQ/638.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Max Steel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/-kV88JGK/647.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Patoaventuras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/758.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Patrulla Canina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/cspl5s6m/759.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Peppa Pig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/760.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Pinky y Cerebro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/771.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Rugrats
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/797.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Rugrats Crecidos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/798.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Scooby-Doo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/804.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Spider-Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/D4BzuFwk/827.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Tom y Jerry
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Trollhunters
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/945.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",Yogui
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1051.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Beyblade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/85.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Caballeros del Zodiaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/100.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Doraemon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/297.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Dragon Ball
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/301.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Dragon Ball GT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/303.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Dragon Ball Super
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/305.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Dragon Ball Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/307.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Dragon Ball Z [Opc.2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/RApyYcsZ/308.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Duelo Xiaolin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/330.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",El Príncipe del Rap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/357.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Mazinger Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/kIh4di3I/649.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Naruto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/702.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Neon Genesis Evangelion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/-hHFFv16/716.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",One Punch Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/744.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Pokémon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/773.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Ranma 1/2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/782.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Sailor Moon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/tcNOIqBa/799.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Sakura Card Captor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/800.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Samurai X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/802.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Super Campeones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/850.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",Yu-Gi-Oh!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1052.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Friends
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/470.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Happy Tree Friends
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/88M9fQjs/511.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Los 3 Chiflados
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/619.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Los Años Maravillosos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/h1Nu5phr/621.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Malcolm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/640.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Malcolm HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/641.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Mr. Bean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/670.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Nosotros Los Guapos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/739.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Series Comedia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/LDtGK8dg/807.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",The Big Bang Theory
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/899.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Two and a Half Men
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/973.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Breaking Bad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/R7AqYREI/98.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Caso Cerrado
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/138.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Dr. House
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/tPr3lrSj/299.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Elementary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/363.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Fear The Walking Dead
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/UjDl4JP2/415.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Game of Thrones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/484.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Grey's Anatomy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/P9WCAnem/505.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",¿Le temes a la oscuridad?
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/f7acnVDt/611.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Los Expedientes Secretos X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/623.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Smallville
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/812.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Supernatural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/NLQIpBWv/851.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Cantinflas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/123.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Chapulín Colorado
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Chespirito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/153.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Los Chicos del Barrio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/622.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Celebrity Deathmatch (EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/EdZFqnrT/150.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Family Guy (Padre de Familia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/747.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",Futurama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/2PRvFeQs/473.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series",South Park
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/yT4IbHqY/820.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/41.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/247.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Discovery Civilization
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/252.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Discovery H&H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/254.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Discovery SCI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/267.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Discovery Theater HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/271.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/274.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Discovery World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/276.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/509.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",History Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/558.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/579.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Nat Geo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/703.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentales y Cultura",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/709.m3u8
+
