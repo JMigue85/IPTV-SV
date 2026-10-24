@@ -182,10 +182,13 @@ http://190.61.101.11:7050/play/a06v/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",TV Azteca Guate SD [Opc.3]
 http://181.119.177.253:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión HD 
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión SD [Opc.2]
 http://190.61.101.11:7050/play/a088/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión SD  [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="Guatemala",Guatevisión SD [Opc.3]
 http://45.5.118.152:8000/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="Guatemala",TeveGlobo Xela HD [No 24/7] (Quetzaltenango)
@@ -240,8 +243,7 @@ https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
 https://cdn.streamhispanatv.net:3833/live/canal3regionallive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g23Ls8v2/Diseno-sin-titulo(3).png" group-title="Guatemala", GTV HD [No 24/7] (Guatemala)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+https://live.teve.pro/live/propetario-josue-montoya/index.m3u8?cookieCheck=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala", Canal 13 HD [No 24/7](Esquipulas)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
