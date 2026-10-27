@@ -5316,7 +5316,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbil
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 1]
-http://38.187.7.252:8000/play/a03d/index.m3u8
+http://181.209.80.115:8000/play/dsports_hd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports  [Opc. 2]
 http://190.117.20.37:8000/play/a08d/index.m3u
