@@ -26,7 +26,7 @@ jobs:
       - name: Generar reporte
         working-directory: scripts
         run: |
-          python generar_reporte.py ../IPTVSV.m3u ../PlutoTV.ES.m3u ../PlutoTV.MX.m3u --salida ../REPORTE.md
+          python generar_reporte.py ../IPTVSV.m3u ../PlutoTV.ES.m3u ../PlutoTV.MX.m3u ../Magma TV -Titan2022_XD.m3u --salida ../REPORTE.md
 
       - name: Commitear reporte actualizado
         run: |
