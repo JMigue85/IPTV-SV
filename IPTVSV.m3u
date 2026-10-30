@@ -484,11 +484,14 @@ http://45.186.106.207:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", TD+ 2 HD (Nacional)
 http://45.186.106.207:8000/play/a06s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCanal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema
 http://190.61.101.11:7050/play/a09p/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCanal[Opc.2]
-http://38.65.175.87:8000/play/a0lo/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema[Opc.2]
+http://45.130.161.15:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema[Opc.2]
+http://190.61.90.17:40000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! HD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -540,9 +543,6 @@ https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (Zona de los Santos)[No 24/7]
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="Costa Rica",CEDROS TV HD [No 24/7]
-https://eu1.servers10.com:8081/cedrostv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica",Zurquí TV HD [No 24/7](Pococí - Limón)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
@@ -706,7 +706,7 @@ http://181.78.8.199:8000/play/a09l/index.m3u8
 http://181.78.8.199:8000/play/a0az/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN SD [Opc.3]
-http://186.148.184.22:8000/play/a0kr/index.m3u8
+http://200.24.150.133:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/SrMPTfc.png",RCN2 HD
 http://181.225.190.242:8000/play/a02o
@@ -718,7 +718,7 @@ http://152.231.29.139:8000/play/a0jw/index.m3u8
 http://181.225.190.242:8000/play/a00p
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD [Opc.2]
-http://186.148.184.22:8000/play/a0iz/index.m3u8
+http://181.78.21.171:8000/play/a07x/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol SD [Opc.3]
 http://181.79.87.130:8000/play/a07t/index.m3u8
@@ -803,9 +803,6 @@ http://190.61.47.54:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.3]
 http://181.79.87.130:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+ HD  (Cundinamarca)
-https://movil.ejeserver.com/live/canal8tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca)
 https://movil.ejeserver.com/live/urestv.m3u8
 
@@ -844,9 +841,6 @@ https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Colombia", Canica TV SD [No 24.7](Cundinamarca)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV HD [No 24/7] (Norte de Santander)
-https://live.arnoproducciones.com/hls/norte.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Colombia", Ondambiental TV SD (Bogotá)
 https://stmv3.voxtvhd.com.br/ondastereotv/ondastereotv/playlist.m3u8
@@ -3229,6 +3223,15 @@ http://45.167.1.136:8000/play/a02s
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM SD (Opc.3)
 http://186.148.182.83:8000/play/a09e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50qCnM5N/Atrescine-logo-svg.webp" group-title="Cine / Películas Premium",A3Cine HD
+http://69.30.249.42:8002/play/a001
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50qCnM5N/Atrescine-logo-svg.webp" group-title="Cine / Películas Premium",A3Cine SD [Opc.2]
+http://45.5.117.57:8200/play/a0hq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50qCnM5N/Atrescine-logo-svg.webp" group-title="Cine / Películas Premium",A3Cine SD [Opc.3]
+http://45.166.93.156:9999/play/a0ju/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas Premium",FMH Movies
 http://45.186.254.75:8000/play/a07j/index.m3u8
