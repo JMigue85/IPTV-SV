@@ -2768,6 +2768,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-211420/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/212244.png?1790729831" group-title="Cine / Películas", TerrorTV
 https://live20.bozztv.com/giatvplayout7/giatv-212244/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qb2bOE5I_bFHqByYCVwSNVbQOqeDZvlUyj1vsPQbsudfQvX_7J9oYq4KruJcv1cMq6-3wXO3dQ=s48-c-k-c0x00ffffff-no-rj" group-title="Cine / Películas", Suspenso (YouTube)
+https://www.youtube.com/watch?v=oxX_new26jw
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/P8cyFHqycwASTh4ByvxO3Bn4oEC6ZsDiooBkjTY_rj_sVLIABGTrgaB3wdqqfdGH0doUnzq1rw=s48-c-k-c0x00ffffff-no-rj" group-title="Cine / Películas", ACCIÓN SIN PARAR (YouTube)
+https://www.youtube.com/watch?v=oR3zVZsUR5g
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx0fLNBc/mytime-movie-network-México-mx.png" group-title="Cine / Películas", MyTime Movie Network (México)(ES)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -3578,11 +3584,23 @@ https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine / Series",Los Simpson Latino Opc. 2
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine / Series",¡Scooby-Doo! Misterios, S.A. (YouTube)
+https://www.youtube.com/watch?v=1e5d4mBbBxU
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aAEs1Mp.png" group-title="Entretenimiento / Cine / Series",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento / Cine / Series",Chespirito TV
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ShL7scnGnSjjH31BDwawE3ZqhUYWlIpfOoPaOp3aGIEbkLnuW1IH6wrW461MOf90wnbnJzBffA=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",S.W.A.T. en Español (Youtube)
+https://www.youtube.com/watch?v=qTqJCHP7sZ4
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/sfbEpnwLN9LSi6mWM2BzYv0o_mqleBXJuqInnedZL_MpL9g3sRETgulMpaiD-IDt8tHRF_8kTA=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Narcos, Sicarios y Acción (YouTube)
+https://www.youtube.com/watch?v=fTi3aTD7JxM
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/wwNGTaCQM4RhNWZqssQqJWvlULsgbvaHkmP3y_2zr_YR8aRYWWlhtJeM2PNMQQg9gWiTzxc1=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Rastros TV (Youtube)
+https://www.youtube.com/watch?v=YGKZhWwFKaM
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine / Series",Apanines TV
 https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
