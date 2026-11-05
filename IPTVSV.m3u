@@ -466,7 +466,7 @@ http://190.61.101.11:7050/play/a07t/index.m3u8?hls
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 HD (Nacional)
-https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+https://acceso.mediosdecostarica.com:3417/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel HD (Nacional)[Geo-Blocked][Opc.1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -826,6 +826,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia", Canal Más Televisión [No 24/7] (La Dorada - Caldas)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV HD [No 24/7] (Norte de Santander)
+https://live.arnoproducciones.com/hls/norte.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia", Telebolívar HD [No 24/7] (Bolívar)
+https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia", Canal Dos Yopal HD (Casanare)
 http://131.221.41.94/hls/canal2.m3u8
@@ -1379,7 +1385,8 @@ https://tv.ulagos.cl/web/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD [Geo-Blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mitelefe.com/
@@ -1408,7 +1415,7 @@ https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.elocho.tv/el-ocho-en-vivo.html
-https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
+https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)
 http://186.148.163.17:8000/play/a09f/index.m3u8
@@ -1515,7 +1522,7 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas [No 24/7]
-https://183.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
+https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",CineAR [Geo-Blocked]
 http://181.209.105.115:2525/play/cinear/index.m3u8
