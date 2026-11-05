@@ -276,6 +276,9 @@ https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/27063/logo_256_1720730035.png" group-title="Guatemala",TV5 HD [No 24/7] (Solola)
 http://45.5.118.152:8000/play/a09y/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 5 HD [No 24/7]
+http://190.83.9.222:8000/play/ca016/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="Guatemala",Canal Antigua SD 
 http://181.119.177.253:8000/play/a03l/index.m3u8
 
@@ -326,15 +329,6 @@ http://181.119.177.253:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras",Deportes TVC HD [Opc.3]
 http://45.167.1.137:8000/play/a02x
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 HD
-http://45.167.2.138:8000/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 SD [Opc.2]
-http://186.33.26.18:8000/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras",Telecadena 7/4 SD [Opc.3]
-http://45.167.2.101:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Geo-Blocked]
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
@@ -582,16 +576,16 @@ http://186.148.196.100:8000/play/a01g
 http://45.167.2.101:8000/play/a0pk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 1]
-http://38.65.175.87:8000/play/a0ll/index.m3u8u?hls
+http://45.172.92.111:8000/play/a0n6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 2]
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 HD (Nacional)[Opc. 3]
-http://200.35.176.154:8000/play/a067/index.m3u8
+http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (Nacional)[Opc. 4]
-http://38.65.175.87:8000/play/a0o1/index.m3u8u?hls
+http://45.172.92.111:8000/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 SD (Nacional)[Opc.5]
 http://38.65.175.87:8000/play/a0fl/index.m3u8u?hls
@@ -600,10 +594,16 @@ http://38.65.175.87:8000/play/a0fl/index.m3u8u?hls
 http://201.174.175.3:8000/play/a0kl/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD  (México)[Opc. 2]
-http://38.65.175.87:8000/play/a0la/index.m3u8u?hls
+http://190.61.101.11:7050/play/a09b/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD  (México)[Opc. 3]
-http://38.65.175.87:8000/play/a0fm/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 HD  (México)[Opc. 3]
+http://45.5.117.57:8200/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD  (México)[Opc. 4]
+http://45.171.64.30:2000/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 SD  (México)[Opc. 5]
+http://45.172.92.111:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="México", Imagen TV Plus HD (Nacional)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
