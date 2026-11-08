@@ -491,8 +491,8 @@ http://190.61.101.11:7050/play/a09p/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema[Opc.2]
 http://45.5.117.57:8200/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema[Opc.2]
-http://190.61.90.17:40000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCinema[Opc.3]
+http://181.78.61.202:8000/play/a03o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! HD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1545,7 +1545,7 @@ http://181.209.105.115:2525/play/cinear/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD 
-https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD [Opc.2]
 http://45.170.130.224:8000/play/a013/index.m3u8
@@ -1556,12 +1556,11 @@ https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD 
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD][Opc.2]
-#EXTVLCOPT:http-referrer=https://www.gen.com.py/
-https://no.gendigi.net/origin-proxy/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay SD [Opc.2]
+https://tv.mitvparaguay.com/hls?id=gen&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
@@ -4692,13 +4691,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Música",Totalmusic 2000s (Internacional)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vCvqMrB1/79161d88661c0c2386c2366ddd2f8e13.png" group-title="Música",Box Playlist (Internacional)
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Música", Trace Latina (Internacional)
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 
@@ -4779,8 +4771,20 @@ http://181.78.21.171:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima99692250742.jpg" group-title="Música", Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" group-title="Música",RewindTV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Música",That's 80s
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música",Retro Musica TV 
+https://vdochile.com:3864/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música",Rock TV 
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música",XITE ROCK TV HD
+https://d198ro05q94rc4.cloudfront.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Música",XITE ROCK TV SD
+https://d198ro05q94rc4.cloudfront.net/480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/RumbaTV.jpg/revision/latest?cb=20210517025153&path-prefix=es" group-title="Música",RumbaTV HD
 http://191.97.55.72:8000/play/a0035/index.m3u8
@@ -4794,8 +4798,6 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/featuredImage_1751652185795.jpg" group-title="Música",Concert Channel (Internacional)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LDtKp86t/951029551eab1d4e6331addcb41c5ba0.png" group-title="Música",Hits Mexicanos (México)
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música", Conecta TV Regional (México)
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
@@ -4838,9 +4840,6 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Música", FM Mundo (Ecuador) 
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8wDMgmB.jpg" group-title="Música", La Perla Radio TV (Ecuador) [Not 24/7]
-https://eu1.servers10.com:8081/8068/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Música", Metropoli Medios TV (Ecuador)
 https://eu1.servers10.com:8081/8214/index.m3u8
@@ -4908,9 +4907,6 @@ https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Música", Cadena 103 Olavarría (Argentina)
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="Música", La Hermandad Salsera (Argentina) [Not 24/7]
-https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YLzKw2B/4-2.png" group-title="Música",Mass Musica (Argentina)
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
 
@@ -4938,9 +4934,6 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Música", POP World TV (España)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
-#EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Música", Verbena TV [No 24/7] (España)
-https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://dancefm.es/wp-content/uploads/2020/04/logo-web-png-1024x169.png" group-title="Música", Dance FM (España)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
@@ -4955,9 +4948,6 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a97MaV2.png" group-title="Música", Radio Monumental TV (Ecuador) [Not 24/7]
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png" group-title="Música", Latinos TV [No 24/7]
-https://v4.tustreaming.cl/latinostv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="Música",MegaBox (Nicaragua) [No 24/7]
 https://hdbox.chunklistv.com/live?stream=megabox
