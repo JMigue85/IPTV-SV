@@ -544,6 +544,10 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="Costa Rica",CEDROS TV HD [No 24/7]
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica",Garabito TV HD (Puntarenas)
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+
+
 
 
 
