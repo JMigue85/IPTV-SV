@@ -2918,7 +2918,7 @@ https://v4.tustreaming.cl/atacamatv/index.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
-https://183.giatvcdn.com/ssh101/ssh101/sternblink/playlist.m3u8
+https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV 3 [No 24/7]
 https://srt01.logicahost.com.br/senal3/index.m3u8?ChileTv
@@ -5125,15 +5125,23 @@ http://181.78.192.238:8000/play/a2hu/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports HD (México)
+http://181.119.177.253:8000/play/a00t/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports HD (México) [Opc.2]
+http://187.245.231.227:8000/play/a0qe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="Deportes" ,Claro Sports SD
-http://45.182.22.53:8000/play/a0c2/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports HD (México) [Opc.3]
+http://201.207.54.159:8000/play/a06l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="Deportes", Claro Sports SD (opc.2)
-http://45.182.22.53:8000/play/a09x/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 HD (México)
+http://181.119.177.253:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 HD (México) [Opc.2]
+http://190.61.101.11:7050/play/a04v/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 HD (México) [Opc.3]
+http://201.207.54.159:8000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7CqliIdMX5KGre69Aa8OYiMd2ujzMGQsRLvwzQnJoWDsK0FnheVAt22rB5go21uMiQ" group-title="Deportes",Mundo Deportivo [No 24/7]
 http://181.78.50.91:8000/play/a069/index.m3u8
@@ -5251,12 +5259,12 @@ http://181.224.255.210:8001/play/a0sb/index.m3u8?hls
 http://45.5.57.132:8000/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX
-http://186.148.196.100:8000/play/a030
+http://190.119.143.218:8000/play/a0ge/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX [Opc.2]
 http://190.60.59.60:8000/play/a0sv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX [Opc.3]
 http://38.224.48.4:8000/play/a0x2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXtjFtd.png" group-title="Deportes",BUNDES LIGA
