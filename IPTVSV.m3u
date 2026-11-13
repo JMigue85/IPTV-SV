@@ -1415,12 +1415,10 @@ https://m3u.tvcluboficial.com/free/ReachBot/Kip/874.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD 
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior HD [No 24/7]
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Rosario HD [No 24/7] (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Rosario HD [Dailymotion] (Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://rosario.mitelefe.com/telefe-rosario-en-vivo
+https://www.dailymotion.com/video/xaekt76
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Salta HD [No 24/7] (Argentina)
 https://canal11saltatv.unpocodeawita.workers.dev/
@@ -1507,9 +1505,6 @@ https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Argentina", Canal 9 Chabas
 https://kick.com/canal9chabas
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7]
-http://181.209.80.115:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7][Geo-Blocked]
 http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
@@ -1706,7 +1701,7 @@ https://fox.hostlagarto.com:8081/bocachicatv/index.m3u8
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",RTVD 4 HD [Opc.2]
-http://170.244.209.30:8000/play/a04e/index.m3u8
+http://45.5.117.57:8200/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telemicro 5 SD
 https://ds.tvabierta.net/memfs/efab0d97-68d8-414e-8cdc-23d539b09944.m3u8
@@ -1724,13 +1719,16 @@ https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 https://hls.tvabierta.net/hls/008.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="República Dominicana",Color Vision 9 HD
-https://ds.tvabierta.net/memfs/2493e646-b24d-489b-8603-0879abb93123.m3u8
+https://hls.tvabierta.net/hls/009.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistemas 11 SD
 https://hls.tvabierta.net/hls/011.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistema 11 SD [Opc.2]
-http://186.33.26.18:8000/play/a0t1/index.m3u8
+http://181.78.61.202:8000/play/a03n
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistema 11 SD [Opc.3]
+http://187.245.231.227:8000/play/a0ro/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",Telecentro 13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1888,13 +1886,16 @@ https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image41617944976.jpg" group-title="Venezuela", Globo Vision
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Venezuela", TeleVen TV
+#EXTINF:-1 tvg-logo="" group-title="Venezuela", TeleVen TV [Geo-Blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://app.televen.com/player/live?channelId=20000841&categoryId=0&channelNumber=1&featured=true
 https://televen.streampool.net/10255/dvr/hls/televentrx/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png" group-title="Venezuela",Canal Once Del Zulia
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png" group-title="Venezuela",Canal Once Del Zulia [Opc.2]
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png" group-title="Venezuela",Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
@@ -5055,9 +5056,6 @@ http://157.100.9.51:8000/play/a25q
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/0Wqdtb7VjWAc4Q==/c01bd1fb-966f-47e7-b382-fbbf9889e620/CHgQeDoFMS4xLjlAAQ==" group-title="Tigo Sports / Fox",FOX (TUBI CEAM)
 https://b.tubi1.apollo.adrise.io/live/fox-2-j8fvmx.m3u8
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/aHl8rpkmcY7D4g==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjlAAQ==" group-title="Tigo Sports / Fox",Fox en tubi Xtra (Internacional) [No 24/7]
-https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
-
 #EXTINF:-1 group-title="Tigo Sports / Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
@@ -6013,7 +6011,7 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten TV",Pelis Top
-https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+https://srv3.pxfy.dev/?u=YeT-WkV7ZKL-cbjESYqcW50lDB5F7Jw3qVe6OU4bytzwb8vKE5LiwCSqmmaMcd9GMqc8vlStJ_KjT4lb&exp=1794628245&sig=bd46266465d7be03788a66ef9075a0b3ea0cd254a13e217d4e5289bc4db09bfb
 
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Rakuten TV",Acción
 https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
