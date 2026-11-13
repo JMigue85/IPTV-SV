@@ -1487,6 +1487,9 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Argentina", 5TV Corrientes (Corrientes)
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="Argentina", T5 Satelital (Corrientes)
+https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Argentina", Canal 12 Puerto Madryn (Chubut)
 https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 
