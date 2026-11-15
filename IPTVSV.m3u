@@ -1352,6 +1352,9 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Chile", Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7]
 https://panel.tvstream.cl:1936/puekxmssxt/puekxmssxt/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Chile", Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7] [Opc.2]
+https://live-evg8.tv360.bitel.com.pe/bitel/girovisualSRT-TRA/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Chile", TVO San Vicente HD [No 24/7](San Vicente de Tagua Tagua - O'Higgins)
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
 
@@ -2493,6 +2496,9 @@ http://181.78.121.15:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime (América Latina)
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981903574/a81c20e9ef21_480_270.jpeg" group-title="Anime",Anime TV (América Latina)
+https://live-evg13.tv360.bitel.com.pe/bitel/animetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209474.png?1794536202" group-title="Anime",Delmi
 https://183.giatvcdn.com/giatvplayout7/giatv-209474/playlist.m3u8
 
@@ -2726,6 +2732,12 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="Cine / Películas",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981672636/d7b724f5088f_480_270.jpeg" group-title="Cine / Películas",+ Movie Accion
+https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png" group-title="Cine / Películas",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
@@ -2798,6 +2810,9 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine / Películas", Bjgtjme Películas Gratis
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644988528/aceceab14c39_480_270.png" group-title="Cine / Películas", Creo Latino
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="Cine / Películas", Cine Estrella
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 
@@ -2818,6 +2833,9 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211420/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/212244.png?1790729831" group-title="Cine / Películas", TerrorTV
 https://183.giatvcdn.com/giatvplayout7/giatv-212244/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981478762/e86edd653d89_480_270.jpeg" group-title="Cine / Películas",Movie Terror
+https://live-evg13.tv360.bitel.com.pe/bitel/movieterror/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qb2bOE5I_bFHqByYCVwSNVbQOqeDZvlUyj1vsPQbsudfQvX_7J9oYq4KruJcv1cMq6-3wXO3dQ=s48-c-k-c0x00ffffff-no-rj" group-title="Cine / Películas", Suspenso (YouTube)
 https://www.youtube.com/watch?v=oxX_new26jw
@@ -3649,6 +3667,9 @@ https://www.youtube.com/watch?v=fTi3aTD7JxM
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/wwNGTaCQM4RhNWZqssQqJWvlULsgbvaHkmP3y_2zr_YR8aRYWWlhtJeM2PNMQQg9gWiTzxc1=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Rastros TV (Youtube)
 https://www.youtube.com/watch?v=YGKZhWwFKaM
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/10/06/1770678354917/163a846ac13f_480_270.png" group-title="Entretenimiento / Cine / Series",EPA TV
+https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine / Series",Apanines TV
 https://183.giatvcdn.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
@@ -5349,6 +5370,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-69814bbff871
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PNnH6pjK/Diseno-sin-titulo(13).png" group-title="Deportes", Motorvision TV (Internacional)
 https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645593708/be4c102c0389_480_270.jpg" group-title="Deportes", Fierro a Fondo (Internacional)
+https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (Internacional)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
 
@@ -5621,6 +5645,9 @@ https://183.giatvcdn.com/giatv/giatv-vivemusica/vivemusica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Religiosos", TVO Jesus (Argentina)
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="Religiosos", ADA TV (Chile)
+https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
