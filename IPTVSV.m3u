@@ -1144,6 +1144,9 @@ https://183.giatvcdn.com/giatv/giatv-megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Perú",Lo Nuestro TV
 https://vivatv.juanjuiserver.com:3733/live/lonuestrotvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="Perú",Delta TV PE
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú", Latina Clasicos HD (Nacional)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
@@ -1418,7 +1421,7 @@ https://m3u.tvcluboficial.com/free/ReachBot/Kip/874.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires HD 
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Rosario HD [Dailymotion] (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Rosario HD [Dailymotion] (Argentina) [Geo-Blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://rosario.mitelefe.com/telefe-rosario-en-vivo
 https://www.dailymotion.com/video/xaekt76
@@ -1761,9 +1764,13 @@ https://edge.essastream.com/telecanal28/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Canal 36 Cotubanama TV HD
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Delta TV 50 HD
+https://cdnfox.hostlagarto.com/deltatv50/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",Digital Vision 63 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="República Dominicana",Valle Nuevo TV HD
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
@@ -1913,8 +1920,7 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia", Delta TV SD
-https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Bolivia",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
@@ -1991,6 +1997,9 @@ https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bolivia",Bolivia TV
 http://200.59.191.177:8000/play/a0m4/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia", Delta TV SD [No 24/7]
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 
 
@@ -3269,10 +3278,10 @@ http://45.5.118.152:8000/play/a089/index.m3u8
 http://190.61.101.11:7050/play/a08x/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO [Opc.2]
-http://138.94.3.106:8000/play/a00p/index.m3u8
+http://45.5.117.57:8200/play/a0i3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO [Opc.3]
-http://181.79.86.130:8000/play/a00p/index.m3u8
+http://168.228.44.241:9997/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema
 http://45.182.22.53:8000/play/a0b1/index.m3u8
@@ -4344,7 +4353,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://venevision.vod.immergo.tv/venevision/uploaded/6b2f0053-d5f4-43ac-bd88-542b79fbfba6.png" group-title="Informativos", Venevision Noticias (Venezuela)
-https://dai.google.com/linear/hls/pa/event/q2LqrJ2ZRP6UuyzA6X0VsA/stream/ed51ab5e-9432-4fb3-92d5-6603d4671e51:CHS/master.m3u8
+https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú - Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
@@ -6049,8 +6058,8 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten TV",Pelis Top
-https://srv3.pxfy.dev/?u=YeT-WkV7ZKL-cbjESYqcW50lDB5F7Jw3qVe6OU4bytzwb8vKE5LiwCSqmmaMcd9GMqc8vlStJ_KjT4lb&exp=1794628245&sig=bd46266465d7be03788a66ef9075a0b3ea0cd254a13e217d4e5289bc4db09bfb
+
+
 
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Rakuten TV",Acción
 https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
