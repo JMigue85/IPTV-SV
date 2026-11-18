@@ -1993,9 +1993,12 @@ http://190.104.15.135/0.ts
 https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV
-http://158.172.155.130:8000/play/a0e4/index.m3u8
+https://hls.tvabierta.net/hls/boliviatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV [Opc.2]
+http://158.172.155.130:8000/play/a0e4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV [Opc.3]
 http://190.181.61.93:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia", Delta TV SD [No 24/7]
