@@ -1928,9 +1928,6 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia", F10 HD (El Alto / La Paz)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (La Paz) [No 24/7]
-https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Bolivia", CTV (La Paz)
 https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 
@@ -1939,9 +1936,6 @@ http://158.172.155.130:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia", SPC Canal 15
 https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
-https://tv.bitstreaming.net:3348/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia", RTP (La Paz)
 https://rtp.noxun.net/hls/stream.m3u8
@@ -1970,8 +1964,11 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel [No 24/7]
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel SD [No 24/7][Opc.2]
-http://200.59.191.177:8000/play/a0md/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel LPZ SD [No 24/7]
+http://190.181.61.93:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel SCZ SD [No 24/7]
+http://190.181.61.93:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bolivia", Canal 24 Multivision [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8
@@ -1995,8 +1992,11 @@ http://190.104.15.135/0.ts
 #EXTINF:-1 tvg-logo="" group-title="Bolivia",Red Chuquisaqueña
 https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bolivia",Bolivia TV
-http://200.59.191.177:8000/play/a0m4/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV
+http://158.172.155.130:8000/play/a0e4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV [Opc.2]
+http://190.181.61.93:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia", Delta TV SD [No 24/7]
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
@@ -2517,9 +2517,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/210596.png?1794536467" group-title="Anime",Delmi Galicia
 https://183.giatvcdn.com/giatvplayout7/giatv-210596/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina) [No 24/7]
-https://183.giatvcdn.com/giatv/giatv-livestreamingtv/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://janimotion.com/brand/janimotion-mark.svg" group-title="Anime",Janimotion (América Latina)
 https://janimotion.com/hls/janimotion/index.m3u8
 
@@ -2530,7 +2527,7 @@ http://146.19.49.197:81/live/loco.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/myevent2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
 https://183.giatvcdn.com/giatvplayout7/giatv-210075/playlist.m3u8
@@ -2614,6 +2611,8 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211970/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212089/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/71-713310_yugioh-logo-yu-gi-oh-png.png" group-title="Anime",Yu-Gi-Oh! (Latino)[Twitch]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://www.twitch.tv/yugioh_espanol
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Anime",Anime Visión (España)[Opc.1]
@@ -2629,9 +2628,13 @@ https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg0
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngarts.com/files/12/Beyblade-Logo-PNG-Image.png" group-title="Anime",Shinchan (España)[Twitch]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://www.twitch.tv/shinchan_oficial
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/71-713310_yugioh-logo-yu-gi-oh-png.png" group-title="Anime",Yu-Gi-Oh! (España)[Twitch]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://www.twitch.tv/yugioh_castellano
 
 
@@ -4362,7 +4365,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos", RPP TV (Perú - Nacional)
-http:\\190.108.83.69:8000\play\a01a\index.m3u8
+http://190.108.83.69:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos",RPP TV HD (Perú - Nacional)[Opc.2]
 http://181.224.255.210:8001/play/a0r8/index.m3u8?hls
