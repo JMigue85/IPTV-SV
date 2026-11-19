@@ -1993,6 +1993,9 @@ http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia", Delta TV SD [No 24/7]
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (La Paz) [No 24/7]
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
+
 
 
 
@@ -2786,6 +2789,9 @@ https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Cine / Películas", VB Media TV (México)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/212242.png?1790729489" group-title="Cine / Películas", TV Clasicos
+https://183.giatvcdn.com/giatvplayout7/giatv-212242/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G6SnV75.png" group-title="Cine / Películas", Canal Teleclasica (México)
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
@@ -3677,6 +3683,9 @@ https://183.giatvcdn.com/ssh101/ssh101/elmagotv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Entretenimiento / Cine / Series", Retro TV
 https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jTwh5Mn/El-Pituco-TV.png" group-title="Entretenimiento / Cine / Series", Pituco TV [No 24/7]
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png" group-title="Entretenimiento / Cine / Series", ITV Patagonia (Punta Arenas - Magallanes)
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
@@ -5989,6 +5998,9 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony HD
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony Channels", Cine Sony HD (Opc.2)
+http://200.60.124.25:8000/play/a0no/index.m3u8
 
 #EXTINF:-1 group-title="Sony Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",Sony HD (Opc.1)
 http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
