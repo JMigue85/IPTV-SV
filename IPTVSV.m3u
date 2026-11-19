@@ -823,9 +823,6 @@ http://190.61.47.54:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.3]
 http://181.79.87.130:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia", Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca)
-https://movil.ejeserver.com/live/calimatv.m3u8?r=748
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge HD [No 24/7] (Ocaña - Norte de Santander)
 http://179.1.5.146:8080/asucap_srt.html
 
@@ -840,12 +837,6 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia", Mas Norte TV HD [No 24/7] (Norte de Santander)
 https://live.arnoproducciones.com/hls/norte.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia", Telebolívar HD [No 24/7] (Bolívar)
-https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia", Telebolívar HD [No 24/7] (Bolívar) [Twitch]
-https://www.twitch.tv/telebolivarsas
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia", Canal Dos Yopal HD (Casanare)
 http://131.221.41.94/hls/canal2.m3u8
@@ -865,8 +856,6 @@ http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia", El Mundo del Campo HD (Nacional)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia", Ultra Casanare TV HD [No 24/7] (Casanare)
-https://eu1.servers10.com:8081/8072/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia", Canal TV3 HD  [No 24/7] (Valle del Cauca)
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
@@ -882,9 +871,6 @@ https://us.streaminghd.cl/suramtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Colombia", Vive TV Colombia HD [No 24/7](Nacional)
 https://stream.vivetvcolombia.com/vivetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Colombia", Canal PyC HD (Ibagué)
-https://183.giatvcdn.com/ssh101/ssh101/pyctelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Colombia", Blu Radio HD [No 24/7] (Nacional) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -1387,6 +1373,9 @@ https://v1.tustreaming.cl/aysentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile", UTalca TV HD (Campus TV - Talca / Maule)
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile", La Mix TV HD (Maule)
+https://183.giatvcdn.com/ssh101/ssh101/lamixtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile", UTV Universidad Autónoma HD (Temuco / Santiago / Talca)
 https://v2.tustreaming.cl/utv/index.m3u8
@@ -2786,9 +2775,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas", Tele Clásicos
 https://183.giatvcdn.com/giatvplayout7/giatv-211454/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/212242.png?1790729489" group-title="Cine / Películas", TV Clasicos
-https://183.giatvcdn.com/giatvplayout7/giatv-212242/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCwRZms0/14.png" group-title="Cine / Películas", MultiVox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
@@ -2892,9 +2878,6 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas", TeleCine TV [No 24/7]
-https://183.giatvcdn.com/ssh101/ssh101/cinetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png" group-title="Cine / Películas", MCU TV [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/imcu/playlist.m3u8
 
@@ -2906,9 +2889,6 @@ https://streaming.hostpannel.lat/hls/video_156/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV [No 24/7]
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas", Opinión Sur Cine [No 24/7]
-https://183.giatvcdn.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies [No 24/7]
 https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
@@ -2931,20 +2911,8 @@ https://183.giatvcdn.com/ssh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Cine / Películas", Codigo TV [No 24/7](Rep. Dominicana)
 https://edge.essastream.com/codigotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas", Cine53 [No 24/7]
-https://183.giatvcdn.com/ssh101/ssh101/codificador8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5Fzf0gk/Mittos-TV.png" group-title="Cine / Películas", Mittos TV [No 24/7]
-https://183.giatvcdn.com/ssh101/ssh101/tv777lv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Cine / Películas", Alternativa TV [No 24/7]
-https://183.giatvcdn.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q30mq4cv/PRITV.png" group-title="Cine / Películas", PRITV [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/tv1251master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/el-70-tv.png" group-title="Cine / Películas", El 70 TV [No 24/7](Rep. Dominicana)
-https://183.giatvcdn.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Cine / Películas", NEO TV Digital [No 24/7]
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -2967,7 +2935,7 @@ https://v4.tustreaming.cl/atacamatv/index.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
-https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
+https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV 3 [No 24/7]
 https://srt01.logicahost.com.br/senal3/index.m3u8?ChileTv
@@ -3438,6 +3406,9 @@ http://181.225.190.242:8000/play/a008
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento Premium", RCN Mas + HD (Colombia)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento Premium", RCN Nuestra Tele HD (Colombia)
+https://stream1.bitred.cl/nuestra-tele/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="Entretenimiento Premium",Caracol Internacional SD  [Opc.1]
 http://190.61.101.11:7050/play/a060/index.m3u8?hls
