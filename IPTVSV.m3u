@@ -1483,8 +1483,7 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina", Canal 21 Posadas (Misiones)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Argentina", 5TV Corrientes (Corrientes)
-https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="Argentina", T5 Satelital (Corrientes)
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
@@ -1935,15 +1934,6 @@ https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia", RTP (La Paz)
 https://rtp.noxun.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia", Mix Bolivia TVE [No 24.7]
-https://183.giatvcdn.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia", Mix Bolivia SD [No 24.7][Opc.2]
-https://183.giatvcdn.com/ssh101/ssh101/mixboliviatvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia", Mix Bolivia HD [No 24.7][Opc.3]
-https://183.giatvcdn.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Bolivia",GoGoPlay Max [No 24/7]
 https://183.giatvcdn.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
@@ -1956,14 +1946,20 @@ https://183.giatvcdn.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Bolivia", Univalle Televisión [No 24/7](Cochabamba)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel SCZ [Geo-Blocked]
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel LPZ [Geo-Blocked]
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel CBBA [Geo-Blocked]
+https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel TV HD [No 24/7]
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel LPZ SD [No 24/7]
-http://190.181.61.93:8000/play/a00t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel SCZ SD [No 24/7]
-http://190.181.61.93:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia", Unitel TV SD [No 24/7]
+http://200.59.191.177:8000/play/a0md/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Bolivia", Canal 24 Multivision [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8
@@ -3003,19 +2999,28 @@ http://45.167.1.139:8000/play/a064
 http://181.79.87.130:8000/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD
-http://186.33.0.57:8000/play/a05x/index.m3u8
+http://38.210.105.10:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.2]
 http://45.228.234.62:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.3]
-http://181.119.177.253:8000/play/a0cw/index.m3u8
+http://45.5.118.152:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Cine / Películas Premium",Universal Comedy HD [Opc.1]
+http://45.130.161.15:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Cine / Películas Premium",Universal Comedy SD [Opc.2]
+http://192.141.98.91:8000/play/a209/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Cine / Películas Premium",Universal Comedy HD [Opc.3]
+http://187.245.231.227:8000/play/a0ou/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD
 http://45.228.234.62:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.2]
-http://45.5.118.152:8000/play/a0dp/index.m3u8
+http://186.5.77.99:8000/play/a0s8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.3]
 http://45.167.1.138:8000/play/a066
@@ -3027,10 +3032,10 @@ http://181.78.73.153:8000/play/a0at/index.m3u8
 http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
-http://45.5.118.152:8000/play/a0di/index.m3u8
+http://190.60.60.114:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD
-http://181.119.177.253:8000/play/a00x/index.m3u8
+http://38.7.195.44:8000/play/a0g4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.2]
 http://181.79.87.131:8000/play/a0ei/index.m3u8
@@ -3039,7 +3044,7 @@ http://181.79.87.131:8000/play/a0ei/index.m3u8
 http://186.148.196.100:8000/play/a002
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.1]
-http://181.119.177.253:8000/play/a00y/index.m3u8
+http://181.78.88.113:9800/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
 http://181.78.197.59:8000/play/a07e/index.m3u8
@@ -3102,7 +3107,7 @@ http://190.60.59.60:8000/play/a0pd/index.m3u8
 http://181.224.255.210:8001/play/a0re/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas Premium",Warner Channel HD (Opc.1)
-http://181.79.86.130:8000/play/a041/index.m3u8
+http://181.78.4.253:11003/play/a0cq/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.2)
 http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
@@ -3141,7 +3146,7 @@ http://190.60.47.182:8000/play/a0bw/index.m3u8
 http://181.225.190.242:8000/play/a00y
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
-http://181.119.177.253:8000/play/a0cp/index.m3u8
+http://181.78.61.202:8000/play/a03t
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.3)
 http://45.167.1.138:8000/play/a06s
@@ -3254,8 +3259,8 @@ http://186.148.175.138:8000/play/a055
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Cine / Películas Premium",Azteca Cinema HD [Opc.3]
 http://186.148.196.100:8000/play/a013
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película HD [Opc.1]
-http://181.119.177.253:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película SD [Opc.1]
+http://190.119.168.226:4000/play/a0dg/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película SD (Opc.2)
 http://205.235.6.29:8000/play/a0z7/index.m3u8?hls
@@ -3279,7 +3284,7 @@ http://45.182.22.53:8000/play/a0b1/index.m3u8
 http://181.79.87.130:8000/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema [Opc.3]
-http://186.33.0.57:8000/play/a043/index.m3u8
+http://181.66.249.246:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine / Películas Premium",TCM SD (Opc.1)
 http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
@@ -3314,8 +3319,8 @@ http://45.186.254.75:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas Premium",FMH Movies [Opc.2]
 http://45.172.92.111:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas Premium",FMH Movies SD [Opc.3]
-http://45.172.92.111:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas Premium",FMH Movies [Opc.3]
+http://38.210.105.10:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_FAMILY.png" group-title="Cine / Películas Premium",FMH Family
 http://186.148.196.100:8000/play/a01z
@@ -3340,6 +3345,7 @@ http://185.228.163.146:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/The-Comedy-Channel-Logotipo-1989-1991.jpg" group-title="Cine / Películas Premium",Comedy Channel
 http://45.70.201.81:8000/play/a011/index.m3u8
+
 
 
 
@@ -3618,7 +3624,7 @@ http://152.231.29.139:8000/play/a0fr/index.m3u8
 http://179.60.224.196:8000/play/a0ge/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi-NGZhblCE0Ll0cwiUyR6XY5SadlILuEEOtxG3EVdg&s=10" group-title="Entretenimiento Premium",MTV HD
-http://191.97.55.72:8000/play/a0027/index.m3u8?fbclid=Iwb21leAUjB1pjbGNrBSMHTmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEevq11NHFG8cYgMb3kQDPg0lyKXBvYEfo0FpTZ1bFGrHSyx5Vg6Vwo3A4_W7E_aem_H3jQTGjdo4T7MS10ehEGfg
+http://201.240.104.137:8000/play/mtvm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi-NGZhblCE0Ll0cwiUyR6XY5SadlILuEEOtxG3EVdg&s=10" group-title="Entretenimiento Premium",MTV HD (Opc.2)
 http://181.79.87.130:8000/play/a0en/index.m3u8
@@ -4811,6 +4817,12 @@ http://181.119.177.253:8000/play/a0ef/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_kizzi.png" group-title="Música", FMH KIZZY
 http://181.78.21.171:8000/play/a09d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV 80s
+http://190.83.9.222:8000/play/ca057/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV 00s
+http://181.78.88.113:9800/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima99692250742.jpg" group-title="Música", Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
