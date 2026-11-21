@@ -548,6 +548,9 @@ https://eu1.servers10.com:8081/cedrostv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica",Garabito TV HD (Puntarenas)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="Costa Rica",TeleBrunca HD (Zona Sur)
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+
 
 
 
