@@ -322,7 +322,10 @@ http://190.61.101.11:7050/play/a070/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 HD (Nacional)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 SD (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 HD (Nacional) [Opc.2]
+http://190.97.183.101:8000/play/a09l
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 SD (Nacional) [Opc.3]
 http://45.5.117.187:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras",TSi HD(Nacional)
@@ -337,13 +340,13 @@ http://181.119.177.253:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras",Deportes TVC HD [Opc.3]
 http://45.167.1.137:8000/play/a02x
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Geo-Blocked]
-https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional)
+https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Telecadena 7y4 SD (Nacional) [Opc.1]
 http://186.33.0.57:8000/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional) [Opc.3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",Telecadena 7y4 SD (Nacional) [Opc.2]
 http://45.228.234.62:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Honduras",Teleceiba HD (Nacional)
@@ -1295,7 +1298,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWbkFrrC/Canal-13-2018.png" group-title="Chile",Canal 13 HD (Nacional)(Opc.2)
-http://181.79.87.131:8000/play/a0ef/index.m3u8
+http://201.240.104.137:8000/play/trece/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IQV0g8fKimSFNmcRBOrvnOUKGt8LN27CxAekNEOpLUw2SOyoQ22ucYKkx7lCfCJRS-Y" group-title="Chile",13 GO HD (Nacional)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -3015,7 +3018,7 @@ http://45.5.117.99:8000/play/a0i1/index.m3u8
 http://45.167.1.139:8000/play/a064
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere SD [Opc.3]
-http://181.79.87.130:8000/play/a0db/index.m3u8
+http://45.130.161.15:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD
 http://38.210.105.10:8000/play/a0hv/index.m3u8
