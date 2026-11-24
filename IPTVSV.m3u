@@ -720,7 +720,7 @@ http://181.78.8.199:8000/play/a09l/index.m3u8
 http://181.78.8.199:8000/play/a0az/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN HD [Opc.3]
-http://138.94.3.106:8000/play/a05h/index.m3u8
+http://181.78.21.171:8000/play/a043/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/SrMPTfc.png",RCN2 HD
 http://181.225.190.242:8000/play/a02o
@@ -885,7 +885,7 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 http://190.61.47.54:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTi0kkVY2z9ttrNQRyDmm7KqI3WiP8ABhpZMXfKrLV0yFwCrTd1GL-A&s=10" group-title="Colombia",HOGAR TV[Opc.2]
-http://181.225.190.242:8000/play/a024
+http://190.83.9.222:8000/play/ca096/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTi0kkVY2z9ttrNQRyDmm7KqI3WiP8ABhpZMXfKrLV0yFwCrTd1GL-A&s=10" group-title="Colombia",HOGAR TV[Opc.2]
 http://138.117.110.151:8000/play/a0dt/index.m3u8
@@ -1441,10 +1441,10 @@ https://canal11saltatv.unpocodeawita.workers.dev/
 https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)
-http://186.148.163.17:8000/play/a09f/index.m3u8
+http://190.60.60.114:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.2]
-http://138.117.110.151:8000/play/a0fw/index.m3u8
+http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.3]
 http://190.108.83.69:8000/play/a08l/index.m3u8
@@ -1512,6 +1512,9 @@ https://unlimited1-saopaulo.dps.live/televidaar/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Argentina", LAMIL35
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Canal 3 Rio Turbio [Kick]
+https://kick.com/canaltres
 
 #EXTINF:-1 tvg-logo="" group-title="Argentina", Canal 9 Chabas [Kick]
 https://kick.com/canal9chabas
@@ -1936,7 +1939,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", Bolivisión LPZ (La Paz)
-http://158.172.155.130:8000/play/a0e8/index.m3u8
+http://190.181.61.93:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia", SPC Canal 15
 https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
@@ -2011,8 +2014,8 @@ https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV [Opc.2]
-http://158.172.155.130:8000/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV SD [Opc.2]
+http://200.59.191.177:8000/play/a0m4/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Bolivia",Bolivia TV [Opc.3]
 http://190.181.61.93:8000/play/a001/index.m3u8
@@ -2566,9 +2569,6 @@ http://146.19.49.197:81/live/animextv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/anime-presente-150x150.jpg" group-title="Anime",Anime Presente
 https://183.giatvcdn.com/giatvplayout7/giatv-209624/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV HD (Chile)
-https://183.giatvcdn.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://183.giatvcdn.com/giatvplayout7/giatv-211565/playlist.m3u8
 
@@ -2968,7 +2968,7 @@ https://v4.tustreaming.cl/atacamatv/index.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
-https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8
+https://stream-retroxtv.site/w/fn6vEch01tmViLRA26XCWWRY.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV 3 [No 24/7]
 https://srt01.logicahost.com.br/senal3/index.m3u8?ChileTv
