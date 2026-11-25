@@ -1434,12 +1434,6 @@ https://www.dailymotion.com/video/xaekt76
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Salta HD [No 24/7] (Argentina)
 https://canal11saltatv.unpocodeawita.workers.dev/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Tucuman HD [No 24/7] (Argentina)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.elocho.tv/el-ocho-en-vivo.html
-https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)
 http://190.60.60.114:8000/play/a00r/index.m3u8
 
@@ -1449,20 +1443,67 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional SD (Argentina)[Opc.3]
 http://190.108.83.69:8000/play/a08l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV HD (Buenos Aires) No 24/7]
-http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Argentina", Canal 2 Misiones (Misiones)
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV HD (Buenos Aires) No 24/7][Opc.2]
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Argentina", Canal 3 Las Heras [No 24/7](Santa Cruz)
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina", TN HD (Buenos Aires) No 24/7][Opc.2]
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Canal 3 Rio Turbio [Kick]
+https://kick.com/canaltres
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina", Misiones Cuatro (Misiones)
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Argentina", Canal 4 Jujuy [Not 24/7] (Jujuy)
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Argentina", Canal 5 Pico Truncado [No 24/7](Santa Cruz)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)[Geo-Blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://www.c7neuquen.com.ar/
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina", Canal 7 Santiago del Estero (Santiago del Estero)
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina", Canal 7 Jujuy (Jujuy)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Argentina",El Ocho Tucuman HD [No 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.elocho.tv/el-ocho-en-vivo
+https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina", El Nueve HD [Geo-Blocked]
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina", El Nueve SD [Opc.2]
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/353.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza HD [Geo-Blocked]
+https://unlimited1-saopaulo.dps.live/televidaar/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza SD [Geo-Blocked]
+https://unlimited1-saopaulo.dps.live/televidaar/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal [No 24/7]
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Canal 9 Chabas [Kick]
+https://kick.com/canal9chabas
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa) [No 24/7]
+https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa [No 24/7](Mar de Ajó - Buenos Aires) 
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Argentina", Canal 12 Puerto Madryn (Chubut)
+https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s1sdjuh.png" group-title="Argentina", El Trece SD
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/362.m3u8
@@ -1473,61 +1514,38 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s1sdjuh.png" group-title="Argentina", El Trece SD [Opc.3]
 http://200.7.99.59:8000/play/a0gm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina", Argentinisima Satelital SD (Nacional)
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquén (Neuquén)[Geo-Blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.c7neuquen.com.ar/
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina", Canal 7 Santiago del Estero (Santiago del Estero)
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Argentina", Canal 2 Misiones (Misiones)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina", Misiones Cuatro (Misiones)
-https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina", Canal 21 Posadas (Misiones)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV HD (Buenos Aires) No 24/7]
+http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina", Net TV HD (Buenos Aires) No 24/7][Opc.2]
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina", TN HD (Buenos Aires) No 24/7][Opc.2]
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina", Argentinisima Satelital SD (Nacional)
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="Argentina", T5 Satelital (Corrientes)
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Argentina", Canal 12 Puerto Madryn (Chubut)
-https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Argentina", Uniteve Villa Maria (Córdoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza HD [Geo-Blocked]
-https://unlimited1-saopaulo.dps.live/televidaar/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Argentina",Canal 9 Tele Vida Mendoza SD [Geo-Blocked]
-https://unlimited1-saopaulo.dps.live/televidaar/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Argentina", Canal 4 Jujuy [Not 24/7] (Jujuy)
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Argentina", Canal 7 Jujuy (Jujuy)
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Argentina", LAMIL35
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina", Canal 3 Rio Turbio [Kick]
-https://kick.com/canaltres
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine HD (Buenos Aires) [No 24/7]
+http://200.50.155.180:8010/play/a0h26/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina", Canal 9 Chabas [Kick]
-https://kick.com/canal9chabas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine HD (Buenos Aires) [No 24/7] [Opc.2]
+http://190.7.19.206:8098/play/a0mc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine SD (Buenos Aires) [No 24/7][Geo-Blocked]
-http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine HD (WEB) [No 24/7]
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine HD (Buenos Aires) [No 24/7] [Opc.3]
+http://200.219.40.1:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV [No 24/7](Santa Fe)
 https://edge.enhdtv.com/litustv/index.m3u8
@@ -1535,26 +1553,14 @@ https://edge.enhdtv.com/litustv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="Argentina",Telecreativa Lanus [No 24/7]
 https://panel.host-live.com:19360/8012/8012.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Argentina",Canal 9 Multivision Federal [No 24/7]
-https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina", Lapacho Canal 11 Formosa (Formosa) [No 24/7]
-https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa [No 24/7](Mar de Ajó - Buenos Aires) 
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Argentina", Canal 3 Las Heras [No 24/7](Santa Cruz)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Argentina", Canal 5 Pico Truncado [No 24/7](Santa Cruz)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas [No 24/7]
 https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",CineAR [Geo-Blocked]
 http://181.209.105.115:2525/play/cinear/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",CineAR [Opc.2]
+http://200.50.155.180:8010/play/a0h12/index.m3u8
 
 
 
@@ -2789,6 +2795,9 @@ https://edge.essastream.com/telemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro Latino HD
+http://38.210.105.10:8000/play/a09k/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/QgwDHIf31p28XVtZmO8w7PnHWkbuQ5rWyg8Cmv0Q.png" group-title="Cine / Películas",MegaHits HD
 https://183.giatvcdn.com/giatv/giatv-megahits/megahits/playlist.m3u8
 
@@ -3064,10 +3073,10 @@ http://45.167.1.138:8000/play/a066
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas Premium",TNT HD
 http://181.78.73.153:8000/play/a0at/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.2)
-http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD [Opc.2]
+http://201.240.104.137:8000/play/a088/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD [Opc.3]
 http://190.60.60.114:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD
@@ -3142,22 +3151,22 @@ http://190.60.59.60:8000/play/a0pd/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.3]
 http://181.224.255.210:8001/play/a0re/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas Premium",Warner Channel HD (Opc.1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas Premium",Warner Channel HD 
 http://181.78.4.253:11003/play/a0cq/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.2)
-http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD [Opc.2]
+http://201.240.104.137:8000/play/wch/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel SD (Opc.3)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel SD [Opc.3]
 http://45.5.116.228:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.1)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD 
 http://186.148.196.100:8000/play/a02o
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.2)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD [Opc.2]
 http://181.78.21.38:8000/play/a09o/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.3)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD [Opc.3]
 http://190.108.83.69:8000/play/a048/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.1)
@@ -3250,23 +3259,23 @@ http://45.228.234.62:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.3]
 http://186.33.1.71:8000/play/a0ij/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas Premium",Space HD (Opc.1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas Premium",Space HD 
 http://45.228.234.62:8000/play/a06x/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.2)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD [Opc.2]
 http://190.108.83.69:8000/play/a04e/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.3)
-http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD [Opc.3]
+http://45.130.161.15:8000/play/a04l/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD (Opc.1)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD 
 http://205.235.6.29:8000/play/a0x7/index.m3u8?hls
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD (Opc.2)
-http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD [EN/LAT] [Opc.2]
+http://186.33.24.156:8000/play/a0gh/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD (Opc.3)
-http://205.235.6.29:8000/play/a108/index.m3u8?hls
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD [Opc.3]
+http://186.148.196.250:81/play/a0ep/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX SD (Opc.1)
 http://45.186.106.207:8000/play/a00y/index.m3u8
@@ -3295,13 +3304,13 @@ http://186.148.175.138:8000/play/a055
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Cine / Películas Premium",Azteca Cinema HD [Opc.3]
 http://186.148.196.100:8000/play/a013
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película SD [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película SD 
 http://190.119.168.226:4000/play/a0dg/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película SD (Opc.2)
-http://205.235.6.29:8000/play/a0z7/index.m3u8?hls
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película HD [Opc.2]
+http://190.83.9.222:8000/play/ca049/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película HD (Opc.3)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película HD [Opc.3]
 http://45.5.118.152:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO
@@ -3344,7 +3353,13 @@ http://45.166.93.156:9999/play/a0ju/index.m3u8
 http://201.186.41.99:8001/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_rewind.png" group-title="Cine / Películas Premium",FMH reWIND
-http://45.181.120.147:9800/play/087/index.m3u8
+http://181.79.92.47:18000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_rewind.png" group-title="Cine / Películas Premium",FMH reWIND [Opc.2]
+http://190.60.39.218:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_rewind.png" group-title="Cine / Películas Premium",FMH reWIND [Opc.3]
+http://181.225.96.99:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_flashback.png" group-title="Cine / Películas Premium",FMH FlashBack
 http://201.186.41.99:8001/play/a06m/index.m3u8
@@ -3370,17 +3385,26 @@ http://201.186.41.99:8001/play/a06h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="Cine / Películas Premium",Panico TV 
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.IvBDaTiT5MpxjSBgz46PoQAAAA?r=0&pid=Api" group-title="Cine / Películas Premium",ComedyMax
-http://190.61.114.186:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="Cine / Películas Premium",Panico TV [Opc.2]
+http://181.78.78.66:8000/play/a0g1
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",Bolliwood TV
-http://190.61.114.186:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="Cine / Películas Premium",Panico TV [Opc.3]
+http://186.33.40.97:8789/play/39
 
-#EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",Holliwood TV
-http://185.228.163.146:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.IvBDaTiT5MpxjSBgz46PoQAAAA?r=0&pid=Api" group-title="Cine / Películas Premium",Max Comedy
+http://179.63.6.216:8000/play/a00p
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/The-Comedy-Channel-Logotipo-1989-1991.jpg" group-title="Cine / Películas Premium",Comedy Channel
 http://45.70.201.81:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://hypetv.live/assets/avi.png" group-title="Cine / Películas Premium",AVI Channel
+http://181.79.92.47:18000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",Canal Holliwood BR SD
+http://5.134.87.3:8001/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",Canal Holliwood BR HD
+http://144.64.90.239:8003/play/a00q/index.m3u8
 
 
 
