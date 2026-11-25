@@ -2002,6 +2002,9 @@ https://www.dailymotion.com/video/xbpxgda
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Bolivia", FTV (La Paz)
 https://master.tucableip.com/ftvhd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx70Dk3Z/ptv.jpg" group-title="Bolivia",PTV OnLine
+https://183.giatvcdn.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Bolivia", Unifranz [No 24/7]
 https://live.enhdtv.com:8081/8192/index.m3u8
 
@@ -2734,6 +2737,10 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://a.jsrdn.com/hls/22882/chicas-guapas-tv/logo_20250513_211005_70.png", Chicas Guapas TV
 https://chg-chgtv.otteravision.com/chg/chgtv/chgtv.m3u8
+
+
+
+
 
 
 
@@ -3851,7 +3858,6 @@ https://movil.ejeserver.com/live/nextv.m3u8?r=936
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento / Cine / Series", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
@@ -3984,6 +3990,9 @@ https://183.giatvcdn.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", TAK TV 
 https://183.giatvcdn.com/ssh101/ssh101/taktvonline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Entretenimiento / Cine / Series", Alternativa TV [No 24/7]
+https://183.giatvcdn.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entretenimiento / Cine / Series", Nitida TV [No 24/7]
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
