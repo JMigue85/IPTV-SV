@@ -1036,9 +1036,6 @@ http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)[Opc.3]
 http://200.59.191.177:8000/play/a0q2/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú", Latina HD (Nacional)[Opc.4]
-http://205.235.6.29:8000/play/a0uw/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg" group-title="Perú", TV Perú HD (Nacional)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://irtp-player.iblups.net/
@@ -1098,9 +1095,6 @@ http://181.224.255.210:8001/play/a0r6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión SD [Opc.3]
 http://181.224.200.5:2277/play/kkio/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión SD [Opc.4]
-http://205.235.6.29:8000/play/a10h/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="Perú",Cosmos
 https://videoserver.tmcreativos.com:2020/hls/tvcosmos/tvcosmos.m3u8
@@ -1476,7 +1470,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.elocho.tv/el-ocho-en-vivo
-https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8
+https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina", El Nueve HD [Geo-Blocked]
 http://15.204.246.24:8080/elnueveHD/index.m3u8
@@ -1889,11 +1883,8 @@ https://servilive.com:3562/live/vav4c8z38live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Venezuela",Audas TV
-https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",Aguacate TV
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+https://streaming5.globalhostla.com/rtplive/aguacate/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://canal21tachira.com/wp-content/uploads/2024/04/Canal-tachira.png" group-title="Venezuela",Canal 21 Tachira
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
@@ -1917,12 +1908,6 @@ https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://app.televen.com/player/live?channelId=20000841&categoryId=0&channelNumber=1&featured=true
 https://televen.streampool.net/10255/dvr/hls/televentrx/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png" group-title="Venezuela",Canal Once Del Zulia
-https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png" group-title="Venezuela",Canal Once Del Zulia [Opc.2]
-https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png" group-title="Venezuela",Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
@@ -2717,7 +2702,7 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",B4U Music APAC 
-https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Doramas / Asia",Navez Mix TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
@@ -2927,6 +2912,12 @@ https://jmp2.uk/stvp-ES2300005G7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8TkPVFG/west.png" group-title="Cine / Películas",WEST TV
 http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Cine / Películas",Grjngo Western
+https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Cine / Películas",Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxHc5MZ/Diseno-sin-titulo(9).png" group-title="Cine / Películas", Cosmos TV (Formosa / Argentina)[No 24/7]
 https://canaletaplus.com:3922/hybrid/play.m3u8
@@ -3268,22 +3259,22 @@ http://190.108.83.69:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD [Opc.3]
 http://45.130.161.15:8000/play/a04l/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD 
-http://205.235.6.29:8000/play/a0x7/index.m3u8?hls
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD 
+http://186.148.196.67:8800/play/a0gx
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD [EN/LAT] [Opc.2]
 http://186.33.24.156:8000/play/a0gh/index.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD [Opc.3]
-http://186.148.196.250:81/play/a0ep/index.m3u8
+http://186.148.196.51:8000/play/a01x
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX SD (Opc.1)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX SD 
 http://45.186.106.207:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD (Opc.2)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD [Opc.2]
 http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD (Opc.3)
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD [Opc.3]
 http://45.5.117.188:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network SD
@@ -4128,9 +4119,6 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Ahora
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Noticias Al dia
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Live Stream Schedule
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -6106,33 +6094,6 @@ https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="Rakuten TV",Cine Español
-https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="Rakuten TV",Sci-Fi
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg" group-title="Rakuten TV",Thrillers
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="Rakuten TV",Crimen
-https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Rakuten TV",Grjngo Western
-https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Rakuten TV",Cine Friki
-https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851
 
 
 
