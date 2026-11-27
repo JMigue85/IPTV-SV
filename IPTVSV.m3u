@@ -293,7 +293,7 @@ http://181.119.177.253:8000/play/a03l/index.m3u8
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mHBTOx8YSGwDYUNAbTBKUAHaCv?r=0&pid=Api" group-title="Guatemala",Teleflix HD [No 24/7]
-http://200.35.176.154:8000/play/a04r/index.m3u8
+http://167.250.223.26:9998/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.TwgOEKeqbEeHsqxxxxrBYAHaHa?r=0&pid=Api" group-title="Guatemala",Telecable Salcaja
 http://186.33.61.182:8000/play/a05p/index.m3u8
@@ -312,6 +312,9 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH SD (Nacional) [Opc.2]
 http://200.59.191.177:8000/play/a0m6/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH HD (Nacional) [Dailymotion]
+https://www.dailymotion.com/video/x81za5c
 
 #EXTINF:-1 tvg-id="Canal5.hn" tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder HD (Nacional)
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
@@ -1090,11 +1093,11 @@ http://200.59.191.177:8000/play/a0q0/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV HD (Nacional)
 http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV SD(Nacional)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV SD (Nacional) [Opc.2]
 http://45.186.254.75:8000/play/a0ex/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV SD(Nacional)[Opc.3]
-http://38.224.231.47:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú", Willax TV HD (Nacional) [Opc.3]
+http://45.173.201.19:5000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana Televisión HD
 http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
@@ -1110,9 +1113,6 @@ https://videoserver.tmcreativos.com:2020/hls/tvcosmos/tvcosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7]
 https://vivatv.juanjuiserver.com:3251/live/a1televisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="Perú",A1 TV HD [No 24/7][Opc.2]
-http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="Perú",Antena 1 HD 
 https://tv.canala1.com:8081/web/video.m3u8
@@ -1192,12 +1192,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Perú", Nativa TV HD (Santiago) [Opc.2]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú", Once TV Digital
-https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú", Once TV Digital [Opc.2]
-https://183.giatvcdn.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7]
 https://vivatv.juanjuiserver.com:3282/live/canal39live.m3u8
@@ -1566,9 +1560,12 @@ http://200.50.155.180:8010/play/a0h12/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD 
-https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
+https://tv.mitvparaguay.com/hls?id=snt
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD [Opc.2]
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD [Opc.3]
 http://45.170.130.224:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Geo-Blocked]
@@ -1581,7 +1578,7 @@ https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay SD [Opc.2]
-https://tv.mitvparaguay.com/hls?id=gen&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
+https://tv.mitvparaguay.com/hls?id=gen
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
@@ -1600,6 +1597,9 @@ https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tva
 #EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele SD [Opc.2]
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 https://rds3tf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="AmericaParaguay.py" https://i.imgur.com/0COKxet.png" group-title="Paraguay" ,America TV
+https://tv.mitvparaguay.com/hls?id=americatv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="Paraguay" ,Monumental TV HD
 #EXTVLCOPT:http-referrer=https://www.monumental.com.py//tv
@@ -1642,6 +1642,9 @@ https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD [Opc.2]
 http://181.79.87.130:8000/play/a0c1/index.m3u8
 
+#EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD [Opc.3]
+https://tv.mitvparaguay.com/hls?id=c9n
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="Paraguay" ,AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 
@@ -1666,6 +1669,9 @@ https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="Paraguay"´,Canal Pro HD [No 24/7]
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="Paraguay" ,ABC TV HD [No 24/7]
+https://tv.mitvparaguay.com/hls?id=abctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxPEZas.png" group-title="Paraguay" ,En Lengua de Senas TV HD [No 24/7]
 https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
@@ -1977,9 +1983,6 @@ http://200.59.191.177:8000/play/a0md/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="" group-title="Bolivia", Canal 24 Multivision [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Bolivia", Red TV Shop [No 24/7]
-https://master.tucableip.com/redtvshop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-uno-de-bolivia-logo-1E61FF5AC3-seeklogo.com.png" group-title="Bolivia", Red Uno HD SCZ
 http://190.181.61.93:8000/play/a002/index.m3u8
@@ -2774,9 +2777,6 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981672636/d7b724f5088f_480_270.jpeg" group-title="Cine / Películas",+ Movie Accion
 https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png" group-title="Cine / Películas",Fillka TV
-https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
@@ -3400,11 +3400,15 @@ http://45.70.201.81:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://hypetv.live/assets/avi.png" group-title="Cine / Películas Premium",AVI Channel
 http://181.79.92.47:18000/play/a00g/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",CA1
+http://200.60.124.25:8000/play/a0kp/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",Canal Holliwood BR SD
 http://5.134.87.3:8001/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas Premium",Canal Holliwood BR HD
 http://144.64.90.239:8003/play/a00q/index.m3u8
+
 
 
 
