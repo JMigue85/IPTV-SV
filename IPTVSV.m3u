@@ -4641,6 +4641,9 @@ http://181.78.79.131:8000/play/a0tj
 #EXTINF:-1 tvg-id="CartoonNetwork.sv" group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD (Opc.4)
 http://190.108.83.69:8000/play/a08g/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Infantiles" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Jetix-Logo.jpg",JETIX HD
+https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.ni" group-title="Infantiles" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon HD (Opc.1)
 http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
 
