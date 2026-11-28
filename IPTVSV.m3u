@@ -836,7 +836,7 @@ https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.2]
-http://190.61.47.54:8000/play/a015/index.m3u8
+http://38.19.41.143:8000/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.3]
 http://181.79.87.130:8000/play/a02n/index.m3u8
@@ -894,7 +894,7 @@ https://stream.vivetvcolombia.com/vivetv/index.m3u8
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTi0kkVY2z9ttrNQRyDmm7KqI3WiP8ABhpZMXfKrLV0yFwCrTd1GL-A&s=10" group-title="Colombia",HOGAR TV
-http://190.61.47.54:8000/play/a01n/index.m3u8
+http://200.60.124.25:8000/play/a0j1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTi0kkVY2z9ttrNQRyDmm7KqI3WiP8ABhpZMXfKrLV0yFwCrTd1GL-A&s=10" group-title="Colombia",HOGAR TV[Opc.2]
 http://190.83.9.222:8000/play/ca096/index.m3u8
@@ -1319,10 +1319,10 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN HD (Nacional)[Opc.2]
-http://45.173.231.22:8000/play/a06l/index.m3u8
+http://190.119.168.226:4000/play/a0e4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN HD (Nacional)[Opc.3]
-http://190.108.83.69:8000/play/a03f/index.m3u8
+http://190.119.112.28:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile", TVN HD (LOCAL)
 http://181.78.121.15:8000/play/a00k/index.m3u8
@@ -1930,6 +1930,9 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/518_TVS_Maracay.png" group-title="Venezuela",TVS Maracay
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Audas TV
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+
 
 
 
@@ -2035,6 +2038,9 @@ https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia", GigaVision (Santa Cruz) [No 24/7]
 https://tv.bitstreaming.net:3348/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Bolivia", Red TV Shop [No 24/7]
+https://master.tucableip.com/redtvshop/index.m3u8
 
 
 
@@ -2816,6 +2822,9 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/el-70-tv.png" group-title="Cine / Películas", El 70 TV [No 24/7](Rep. Dominicana)
 https://183.giatvcdn.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png" group-title="Cine / Películas",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3rdme1.png" group-title="Cine / Películas", Tele Clásicos
 https://183.giatvcdn.com/giatvplayout7/giatv-211454/playlist.m3u8
 
@@ -2980,9 +2989,6 @@ http://200.7.219.221:8088/live/livetv/index.m3u8
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama)
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama) [Opc.2]
 https://v4.tustreaming.cl/atacamatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine / Películas", Metro TV [No 24/7]
@@ -3313,13 +3319,13 @@ http://190.83.9.222:8000/play/ca049/index.m3u8
 #EXTINF:-1 tvg-id="DePelicula.sv" group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De Película HD [Opc.3]
 http://45.5.118.152:8000/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="CineMexicano.gt" tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO
-http://190.61.101.11:7050/play/a08x/index.m3u8?hls
+#EXTINF:-1 tvg-id="CineMexicano.gt" tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO SD
+http://200.115.120.1:8000/play/ca083/index.m3u8
 
-#EXTINF:-1 tvg-id="CineMexicano.gt" tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO [Opc.2]
+#EXTINF:-1 tvg-id="CineMexicano.gt" tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO HD [Opc.2]
 http://45.5.117.57:8200/play/a0i3/index.m3u8
 
-#EXTINF:-1 tvg-id="CineMexicano.gt" tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO [Opc.3]
+#EXTINF:-1 tvg-id="CineMexicano.gt" tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO SD [Opc.3]
 http://168.228.44.241:9997/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema
@@ -3475,10 +3481,13 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 http://190.61.101.11:7050/play/a076/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca UNO SD 
-http://38.65.175.25:8000/play/a0cc/index.m3u8
+http://38.59.135.250:8001/play/a0cc/index.m3u8
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca UNO SD  [Opc.2]
-http://38.65.175.87:8000/play/a0cc/index.m3u8u?hls
+http://38.65.174.245:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento Premium",Azteca UNO HD  [Opc.2]
+http://187.245.231.227:8000/play/a0ux/index.m3u8
 
 #EXTINF:-1 tvg-id="AzCorazon.sv" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento Premium",Azcorazon HD
 http://186.148.175.138:8000/play/a056
@@ -4067,9 +4076,6 @@ https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa-1536x538.png" group-title="Entretenimiento / Cine / Series", Alternativa TV [No 24/7](Colombia - Huasco - Atacama)
 https://183.giatvcdn.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Entretenimiento / Cine / Series",Canal 13 MAX [No 24/7] (Argentina)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="Entretenimiento / Cine / Series", Planeta Radio TV [No 24/7](Ecuador - Guayas)
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
@@ -5149,72 +5155,71 @@ http://157.100.9.51:8000/play/a25q
 
 
 
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/0Wqdtb7VjWAc4Q==/c01bd1fb-966f-47e7-b382-fbbf9889e620/CHgQeDoFMS4xLjlAAQ==" group-title="Tigo Sports / Fox",FOX (TUBI CEAM)
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/0Wqdtb7VjWAc4Q==/c01bd1fb-966f-47e7-b382-fbbf9889e620/CHgQeDoFMS4xLjlAAQ==" group-title="FOX",FOX (TUBI CEAM)
 https://b.tubi1.apollo.adrise.io/live/fox-2-j8fvmx.m3u8
 
-#EXTINF:-1 group-title="Tigo Sports / Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
+#EXTINF:-1 group-title="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports HD BO [Inestable]
-http://181.78.192.238:8000/play/a2ht/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports + HD PY [Inestable]
-http://45.170.130.224:8000/play/a04i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX 
 http://186.33.0.57:8000/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.2]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.2]
 http://45.228.234.62:8000/play/a05i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.3]
-http://45.5.118.188:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.3]
+http://168.228.44.241:9997/play/a054/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.4]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.4]
 http://45.5.116.228:8000/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.5]
-http://38.52.208.106:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.5]
+http://186.33.57.100:8000/play/a2oo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.6]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.6]
 http://45.167.1.138:8000/play/a05u
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.7]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.7]
 http://45.167.1.139:8000/play/a05u
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.8]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.8]
 http://45.167.1.136:8000/play/a05u
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.9]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.9]
 http://45.167.1.137:8000/play/a05u
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX [Opc.10]
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX [Opc.10]
 http://181.119.177.253:8000/play/a0cy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX ESA HD
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX ESA HD
 http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX ESA HD (Opc.2)
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX ESA HD (Opc.2)
 http://186.33.0.57:8000/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX HN [Inestable]
-http://45.186.105.214:8000/play/a10f/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX HN
+http://45.166.93.156:9999/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX CR [Inestable]
-http://181.78.192.238:8000/play/a2hg/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX HN [Opc.2]
+http://38.225.117.1:9005/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX  GUA
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX CR 
+http://45.130.161.15:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX CR [Opc.2]
+http://186.33.57.100:8000/play/a2om/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX  GUA
 http://190.61.101.11:7050/play/a0a4/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX  GUA [Opc.2]
-http://45.5.118.152:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX  GUA [Opc.2]
+http://187.245.231.227:8000/play/a0ve/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX NIC 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX NIC 
 http://190.61.101.11:7050/play/a0af/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Tigo Sports / Fox",FOX NIC [Inestable]
-http://181.78.192.238:8000/play/a2hu/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="FOX",FOX NIC [Opc.2]
+http://45.185.163.75:8000/play/a0ik/index.m3u8
 
 
 
